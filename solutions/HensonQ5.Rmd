@@ -8,6 +8,13 @@ library(reticulate)
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+```{r}
+#put your file in folder solutions, use this to access data
+#this needs to de done in any chunk that access the folder
+setwd('../data')
+getwd()
+```
+
 ```{python}
 import os
 os.chdir('../data')
