@@ -1,0 +1,53 @@
+---
+title: "Untitled"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(reticulate)
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{python}
+import os
+os.chdir('../data')
+print(os.getcwd())
+```
+
+```{python}
+import os
+
+os.chdir('../data')
+#trainfolder = "C:\\Users\\cgn31\\OneDrive\\Documents\\GitHub\\STA380\\data\\ReutersC50\\C50train"  
+#testfolder = "C:\\Users\\cgn31\\OneDrive\\Documents\\GitHub\\STA380\\data\\ReutersC50\\C50test"
+trainfolder = "ReutersC50\\C50train"  
+testfolder = "ReutersC50\\C50test"
+Names = [name for name in os.listdir(trainfolder)]
+trainAuthorFolder = [trainfolder + '\\' + name + "\\" for name in Names]
+```
+
+This works for entries without quotation marks:
+
+```{python}
+import pandas as pd
+import glob
+
+trainList = []
+
+for author in trainAuthorFolder:
+  try:
+    files = glob.glob(author + '*.txt')
+    df = pd.concat([pd.read_csv(fp, sep ='\t', header = None) for fp in files], ignore_index=True, axis = 1)
+    trainList.append(df)
+  except:
+    trainList.append("has quotation mark")
+```
+
+```{python}
+for potentialFrame in trainList:
+  print type(potentialFrame)
+```
+
+```{r}
+frame <- py$df
+```
