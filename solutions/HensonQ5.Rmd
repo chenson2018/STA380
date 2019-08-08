@@ -24,13 +24,17 @@ trainfolder = "ReutersC50\\C50train"
 testfolder = "ReutersC50\\C50test"
 Names = [name for name in os.listdir(trainfolder)]
 trainAuthorFolder = [trainfolder + '\\' + name + "\\" for name in Names]
+
+print trainAuthorFolder
 ```
 
-This works for entries without quotation marks:
+This works for entries without quotation marks, need to strip before read_csv:
 
 ```{python}
 import pandas as pd
 import glob
+
+os.chdir('../data')
 
 trainList = []
 
@@ -47,6 +51,8 @@ for author in trainAuthorFolder:
 for potentialFrame in trainList:
   print type(potentialFrame)
 ```
+
+Example, read last df of loop into R
 
 ```{r}
 frame <- py$df
