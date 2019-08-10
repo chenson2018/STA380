@@ -1,0 +1,232 @@
+---
+title: "ETF Portfolio"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(mosaic)
+library(quantmod)
+library(foreach)
+```
+
+```{r}
+#get data to sample from
+mystocks = c("WMT", "TGT", "XOM", "MRK", "JNJ", "VIX")
+myprices = getSymbols(mystocks, from = "2007-01-01 00:00:00")
+
+#create adjusted values
+for(ticker in mystocks) {
+	expr = paste0(ticker, "a = adjustOHLC(", ticker, ")")
+	eval(parse(text=expr))
+}
+
+
+#create one matrix of return values
+all_returns = cbind(	ClCl(WMTa),
+								ClCl(TGTa),
+								ClCl(XOMa),
+								ClCl(MRKa),
+								ClCl(JNJa),
+								ClCl(VIXa))
+
+all_returns = as.matrix(na.omit(all_returns))
+```
+
+```{r}
+# Now simulate many different possible scenarios  
+initial_wealth = 10000
+sim1 = foreach(i=1:5000, .combine='rbind') %do% {
+	total_wealth = initial_wealth
+	weights = c(0.2, 0.2, 0.2, 0.2, 0.2, 0.0)
+	holdings = weights * total_wealth
+	n_days = 10
+	wealthtracker = rep(0, n_days)
+	for(today in 1:n_days) {
+		return.today = resample(all_returns, 1, orig.ids=FALSE)
+		holdings = holdings + holdings*return.today
+		total_wealth = sum(holdings)
+		wealthtracker[today] = total_wealth
+	}
+	wealthtracker
+}
+
+hist(sim1[,n_days], 25)
+
+# Profit/loss
+mean(sim1[,n_days])
+hist(sim1[,n_days]- initial_wealth, breaks=30)
+
+library(Jmisc)
+sim1 <- addCol(sim1, 10000)
+sim1 <- cbind(sim1[,11], sim1[,-11])
+
+matplot(t(sim1), type = 'l')
+```
+
+```{r}
+volQ1 <- unname(quantile(all_returns[,'ClCl.VIXa'], .25))
+volQ3 <- unname(quantile(all_returns[,'ClCl.VIXa'], .75))
+```
+
+```{r}
+lowVol  <- all_returns[all_returns[,'ClCl.VIXa'] < volQ1,]
+midVol  <- all_returns[all_returns[,'ClCl.VIXa'] > volQ1 & all_returns[,'ClCl.VIXa'] < volQ3,]
+highVol <- all_returns[all_returns[,'ClCl.VIXa'] > volQ3,]
+```
+
+High Volatility:
+
+```{r}
+# Now simulate many different possible scenarios  
+initial_wealth = 10000
+highVolSim = foreach(i=1:5000, .combine='rbind') %do% {
+	total_wealth = initial_wealth
+	weights = c(0.2, 0.2, 0.2, 0.2, 0.2, 0.0)
+	holdings = weights * total_wealth
+	n_days = 10
+	wealthtracker = rep(0, n_days)
+	for(today in 1:n_days) {
+		return.today = resample(highVol, 1, orig.ids=FALSE)
+		holdings = holdings + holdings*return.today
+		total_wealth = sum(holdings)
+		wealthtracker[today] = total_wealth
+	}
+	wealthtracker
+}
+
+hist(highVolSim[,n_days], 25)
+
+# Profit/loss
+mean(highVolSim[,n_days])
+hist(highVolSim[,n_days]- initial_wealth, breaks=30)
+
+library(Jmisc)
+highVolSim <- addCol(highVolSim, 10000)
+highVolSim <- cbind(highVolSim[,11], highVolSim[,-11])
+
+matplot(t(highVolSim), type = 'l')
+```
+
+Mid Volatility:
+
+```{r}
+# Now simulate many different possible scenarios  
+initial_wealth = 10000
+midVolSim = foreach(i=1:5000, .combine='rbind') %do% {
+	total_wealth = initial_wealth
+	weights = c(0.2, 0.2, 0.2, 0.2, 0.2, 0.0)
+	holdings = weights * total_wealth
+	n_days = 10
+	wealthtracker = rep(0, n_days)
+	for(today in 1:n_days) {
+		return.today = resample(midVol, 1, orig.ids=FALSE)
+		holdings = holdings + holdings*return.today
+		total_wealth = sum(holdings)
+		wealthtracker[today] = total_wealth
+	}
+	wealthtracker
+}
+
+hist(midVolSim[,n_days], 25)
+
+# Profit/loss
+mean(midVolSim[,n_days])
+hist(midVolSim[,n_days]- initial_wealth, breaks=30)
+
+library(Jmisc)
+midVolSim <- addCol(midVolSim, 10000)
+midVolSim <- cbind(midVolSim[,11], midVolSim[,-11])
+
+matplot(t(midVolSim), type = 'l')
+```
+
+Low Volatility:
+
+```{r}
+# Now simulate many different possible scenarios  
+initial_wealth = 10000
+lowVolSim = foreach(i=1:5000, .combine='rbind') %do% {
+	total_wealth = initial_wealth
+	weights = c(0.2, 0.2, 0.2, 0.2, 0.2, 0.0)
+	holdings = weights * total_wealth
+	n_days = 10
+	wealthtracker = rep(0, n_days)
+	for(today in 1:n_days) {
+		return.today = resample(lowVol, 1, orig.ids=FALSE)
+		holdings = holdings + holdings*return.today
+		total_wealth = sum(holdings)
+		wealthtracker[today] = total_wealth
+	}
+	wealthtracker
+}
+
+hist(lowVolSim[,n_days], 25)
+
+# Profit/loss
+mean(lowVolSim[,n_days])
+hist(lowVolSim[,n_days]- initial_wealth, breaks=30)
+
+library(Jmisc)
+lowVolSim <- addCol(lowVolSim, 10000)
+lowVolSim <- cbind(lowVolSim[,11], lowVolSim[,-11])
+
+matplot(t(lowVolSim), type = 'l')
+```
+
+
+
+
+```{r}
+lowVolSim  = apply(lowVolSim,  1, as.numeric)
+midVolSim =  apply(midVolSim,  1, as.numeric)
+highVolSim = apply(highVolSim, 1, as.numeric)
+```
+
+
+
+```{r}
+colMeans(t(lowVolSim))
+```
+
+```{r}
+colMeans(t(midVolSim))
+```
+
+```{r}
+colMeans(t(midVolSim))
+```
+
+```{r}
+MeanBind = do.call("rbind", list(colMeans(t(lowVolSim)), 
+                                 colMeans(t(midVolSim)),
+                                 colMeans(t(highVolSim)) ))
+```
+
+```{r}
+plot(colMeans(t(lowVolSim)), type = 'l', ylim=c(9900,10150))
+lines(colMeans(t(midVolSim)), type = 'l')
+lines(colMeans(t(highVolSim)), type = 'l')
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
