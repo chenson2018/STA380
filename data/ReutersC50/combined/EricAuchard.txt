@@ -1,0 +1,923 @@
+Computer Associates International Inc., a leading maker of software for businesses, said Monday it agreed to pay about $1.2 billion for Cheyenne Software Inc.
+Computer Associates, the largest independent maker of business software for mainframe computers, said it will offer $30.50 in cash for each share of Cheyenne. Cheyenne's stock jumped $7.625 to $30 in afternoon trading on the American Stock Exchange.
+Computer Associates' stock gained 62.5 cents to $63.375 on the New York Stock Exchange.
+While investors applauded the announcement, industry analysts said they were puzzled by what they viewed as the expensive price Computer Associates agreed to pay.
+"This is departure from their standard practice," said UBS Securities analyst Joseph Farley. "They are paying more than they ever have. There's clearly some synergies," he added. "The question is whether those synergies are worth seven times sales."
+Cheyenne reported revenues of $174.1 million in its fiscal year ending June 1996.
+The deal, which has been rumoured for several months, has been unanimously approved by the boards of directors of both Cheyenne and Computer Associates, the companies said.
+Roslyn, N.Y.-based Cheyenne makes storage management, anti-virus and communications software products designed to run on client/server networks in which personal computers are tied together in a network run by a larger computer, or server.
+Computer Associates said Cheyenne's products will bolster its own systems management software offerings, which run on both client/server and mainframe computer networks. CA derives a majority of its revenues from mainframe software.
+"We are extremely excited by the synergistic nature of this acquisition," said CA Chairman Charles Wang.
+Computer Associates said it will fund the acquisition through cash balances and existing credit facilities.
+"Cheyenne is the recognised leader in storage management solutions for the Windows NT and NetWare environments," Wang said in a statement. "The addition of its product suite will strengthen our efforts in the desktop and LAN environments."
+Computer Associates said it intended to retain all of Cheyenne's employees. It is expected that Cheyenne will operate as a division of Computer Associates and will continue to support its current distribution channel strategy.
+Both companies are based on New York's Long Island.
+Earlier this year, Cheyenne successively waged an aggressive fight to fend off a $1 billion unwelcome takeover bid by McAffee Associates Inc, a rival maker of systems management and anti-virus software.
+Since 1976, Computer Associates has grown through a campaign of approximately 60 acquisitions to become of the world's leading independent supplier of software.
+Paul Mason, a software analyst with technology research firm International Data Corp. in Framingham, Mass., said the latest acquisition does not fit what he called "the CA model, both in terms of acqusisitions and product strategy.
+"It's hard to see where this fits in. If they were getting this at a great price, I could understand the deal," he said.
+The companies scheduled a teleconference with Wall Street analysts Monday afternoon.
+Semiconductor stocks, Wall Street's whipping boys for the past year, are headed toward becoming prized performers amid signs that double-digit growth is returning to the once hot sector, analysts said.
+North American sales and bookings data for September due out on Tuesday afternoon are expected to confirm that the industry has reached a cyclical bottom and is poised to see a rebound in profits -- perhaps as early as the fourth quarter.
+"They should definitely reaccelerate from here," said Montgomery analyst John Joseph of chip sales.
+Cascade Communications Corp's earnings for the third quarter ended September blew past the published analysts' consensus estimate by a solid $0.02 a share, but fell shy of Wall Street expectations nonetheless.
+Despite year-on-year quarterly earnings growth of roughly 200 percent, investors dumped the stock in after-hours trading on Thursday evening, sending the stock down 6-1/2 to 80, traders said. Cascade reported $0.21 versus $0.07 a year ago.
+Securities analysts said the disappointment lay in comparing Casade's sequential quarterly earnings growth.
+"The issue was that it was trading at 60 times over the 1997 earnings forecast," said Hambrecht network equipment analyst Joe Noel, who holds a strong buy on the stock.
+"They really needed $0.04 per share on the upside to maintain that price on the upside in my opinion," he said.
+Investors were betting Cascade could once again blow past analysts earnings estimates on the same scale it had done in the second quarter ended in June, the analyst said.
+In the June quarter, Cascade reported earnings that were 43.5 percent greater than seen in the first quarter of 1996.
+"The second quarter had a big revenues spike and the third quarter was expected to be up on a similar basis sequentially," Noel said.
+By contrast, the most recent third quarter showed sequential growth of only 17 percent versus the strong second quarter. Cascade had reported above 20 percent sequential growth in quarterly earnings for every period since June 1995.
+There was nothing in the report or the conference call that followed which suggested problems in the company's business fundamentals, several analysts stressed.
+Noel said he expected the sell-off to continue to play out on Friday morning, but for bargain-hunters to then snatch up the stock, as it remains one of the strongest plays in its sector.
+In a phone interview after a conference call with analysts, Cascade chief executive Daniel Smith said he could point to nothing in the company's third quarter experience that would explain the sell-off in the company's stock.
+To demonstrate it health, Smith pointed to how the company had derived between 10 and 15 percent of its overall revenues from Asynchronous Transfer Mode (ATM) products, an entirely new line of business introduced only early this year.
+In addition, Smith said Cascade's strategic alliance with International Business Machines Corp was performing according to plan.
+"We are pleased with the progress we are making and our plans are on track with IBM," he said.
+Noel said the principal hazard for an investor in a telecommunmications equipment supplier like Cascade was the lumpiness of earnings from quarter to quarter.
+He noted that Cascade's small number of telephone company customers thought in terms of year-long buying cycles, causing Cascade shipment volumes to fluctuate from quarter to quarter, and leaving it exposed if even one customer delays a purchase.
+In its earnings report, Cascade said its revenues for the third quarter increased 162 percent to $94.2 million from $36.0 million recorded for the same period in 1995.
+Net income for the quarter increased to $20.3 million, or $0.21 per share, compared with net income of $6.8 million, or $0.07 per share, for the same period in 1995. Analysts had expected $0.19 per share in the most recent quarter.
+-- New York Newsdesk, 212-859-1736
+Coupon clipping is coming to cyberspace.
+SaveSmart Inc., a start-up company based in Mountain View, Calif., plans to unveil on Monday a credit card-based scheme to allow computer users to browse for and take advantage of bargains offered by a wide range of local, regional and national merchants.
+Consumers will be able to qualify for automated discounts on groceries, dining out, movies, clothing, furniture and auto repairs, among other items.
+The company said that using its special credit card eliminates the inconvenience and inefficency of paper-based promotional coupons delivered in newspapers or by direct mail. Industry figures show that only about 2 percent of paper coupons are actually redeemed.
+SaveSmart said the service dramatically enhances sales promotions by making it easier for consumers to find and use them, while making them cost-effective for merchants to offer.
+"We are driving physical traffic into the merchants' stores," said Bernard David, SaveSmart's executive vice president of business development.
+Advertising analysts said the new interactive promotion service could play a key role in transforming the industry, which generates about $120 billion a year, according to the media research firm of Veronis, Suhler and Associates.
+"All Web promotions need to be attractive in the real world, not just the virtual world of cyberspace," said Mary Doyle, a Web marketing analyst for IDC/Link Resources.
+What differentiates SaveSmart from thousands of other Internet-based commerce efforts is the linkage the service makes between computer users and actual businesses, she said.
+The company's Web site -- www.savesmart.com -- offers an online database of merchant promotions personalized to fit the individual's interests.
+Consumers can browse through promotional offerings and when they find a promotion they want, "select" it and reserve it. They can then redeem the promotion by presenting the SaveSmart card at a merchant's store at the time of purchase.
+SaveSmart targets what it describes as "neighborhood trading areas" of roughly 100,000 people.
+The service will be launched Monday in the area around Palo Alto, Calif., with service expanding to include the entire San Francisco Bay Area by the end of the year.
+In 1997, the company plans to roll the system out in 10 additional U.S. cities where Internet use is most heavily concentrated, including Boston, New York, Washington D.C./Baltimore and Orange County, just south of Los Angeles.
+The company said it plans a coordinated direct marketing campaign in each city where the service is introduced to sign up individual card members using mail and newspaper ads.
+In addition, SaveSmart said it has been successful in promoting the card as an employee benefit offered by large computer companies.
+"Our target is to have tens of thousands of SaveSmart members within each neighbourhood trading area," David said, adding that he expected to meet that goal in SaveSmart's first service areas "within a couple of months, to be quite frank."
+To date, SaveSmart said it has signed up 400 merchants, representing a cross-section of locally available goods and services. McDonald's, Domino's Pizza and Subway Sandwiches are participating. In addition, it has agreed to a deal with at least one major movie studio, which it declined to name.
+While the system would appear to be a threat to traditional promotional outlets like direct mail marketers and newspaper publishers, SaveSmart said it is working with one leading U.S. household direct marketer and that there is nothing to preclude it from linking up with news publishers.
+David said SaveSmart would also make a logical fit with local telephone companies, but declined to say whether the company had reached any such agreements.
+The company, which has about 30 employees,. was founded by executives from VeriFone Inc. and other Silicon Valley computer firms. VeriFone is a leading global supplier of merchant credit card transaction terminals.
+SaveSmart provides special VeriFone-built terminals to merchants using its credit-card system.
+Company officials said SaveSmart is designed to leave open the possibility that the system could be adopted by a major credit card company, so that consumers could use their normal credit card to conduct SaveSmart transactions.
+The company has held talks with major credit card companies, but there are no deals to announce, officials said.
+SaveSmart has not disclosed its financial backers. Industry consultants familiar with the company said they include Bill Melton, founder of VeriFone, and also CyberCash Inc., an Internet commerce company.
+Other backers include members of Germany's Quandt family, who are ranked among the world's richest families, they said.
+Intel Corp stock surged ahead in heavy trading on the strength of its third quarter earnings report, but while its success fueled gains in the stocks of PC makers, the Intel report did little to buoy other chipmakers.
+Still, analysts said Intel's share gains Tuesday remained restrained by uncertainties over whether the third quarter ramp-up might lead to a reduction in fourth quarter orders, a concern magnified by Intel's unwillingness to make forecasts.
+At midday Tuesday, Intel stock was up 3-3/8 at 111, after trading as high as 114-1/4 near the opening of trading.  
+Stocks of personal computer manufacturers who rely on Intel micrprocessors also showed significant gains, as investors saw Intel's order surge as confirmation of strong demand for the machines themselves.
+Compaq Computer Corp was up 1-1/2 to 73-3/8. Dell Computer Corp gained 1-1/4 to 86-1/8. Gateway 2000 Inc swelled two to 55-3/8.
+"The Intel report was clearly a positive for the whole PC industry," said veteran chip analyst Dan Klesken of Robertson Stephens. "It is an endorsement of our view that we are in for a strong upgrade cycle for the second half of year," he said.  
+Chips, a PC graphics chip maker, released its own strong earnings report Monday, with income of $0.42 per share in its first quarter ended September 30 versus $0.20 per share in the year ago fiscal first quarter.
+Other gainers in the segment included Trident Microsystems Inc, which was up 7/8 to 20-1/8, after rising nearly two points earlier Tuesday.
+Despite these gains, the Philadelphia Semiconductor Index of 16 leading chipmakers was down 1.69 points on the day to 197.97. There were only three advancers, including Intel, compared with 12 losers. One was unchanged.  
+Securities analysts said Intel's latest results demonstrate how fundamentally different it is from other semiconductor makers, operating as it does with a virtual monopoly over microprocessors, the core chips of PCs.
+Indeed, Intel has benefited from the pain endured by other segments of the seminconductor industry throughout the past year, especially suppliers of memory chips used in PCs.
+Memory chip prices have fallen by 80 percent in the last year.  A 32-megabit memory now sells for one-third less than an eight-megabit memory did a year ago but has four times the processing power, noted Robertson's Klesken.  
+Earlier Tuesday, for instance, Texas Instruments Inc, a leading U.S. memory chip maker, reported sharply lower operating income for its third quarter of $44 million versus $289 million a year ago.
+Correspondingly, the percentage of revenues Texas Instrument derived from Dynamic Random Access Memory (DRAM) computer memory chips in its recent quarter fell to about 25 percent of company revenues from almost 40 percent last year.
+Intel has cut its own prices by up to 50 or 60 percent on processors since last year.  The combined price cuts have spurred order growth Intel is now seeing, Klesken said.  
+Robertson's Klesken noted that while the industry revenues are expected to down 10 percent in terms of dollar growth, "Intel will grow 25 percent in terms of top line, full-year revenues."
+Excluding the wounded memory chip makers, which account for roughly 30 percent of the semiconductor industry, the chip industry is due to grow only five percent worldwide this year.
+"That says it all," Klesken said adding that, "Intel is so clearly head and shoulders above the rest of the industry."  
+Intel, which Monday had reported earnings of $1.48 per share in its September quarter, swept past Wall Street's consensus expectations of $1.25 per share for the quarter.
+Securities analysts responded Tuesday with a wave of higher earnings estimates for Intel's 1996 and 1997 years.
+While trading volume in Intel had reached more than 17 million shares by mid-afternoon, gains in the share price were tempered by lingering questions about whether Intel would see its surge in sales carry through the fourth quarter of 1996.
+Intel did not respond directly to such concerns in a conference call with analysts Monday, citing a proposed law on the California ballot in November that would make executives and directors liable for financial forecasts they made.
+In addition, some investors appeared to be capturing the recent gains in Intel stock, said Lehman analyst Michael Andrew Gumport, who nontheless reaffirmed his buy rating and set a new 12-month target price of $150 on the stock.
+"The stock has done so well that clearly some people are going to take some profits," Gumport said.  Intel traded at around 100 only last Thursday.  The stock hovered around 72 in late July.
+-- Eric Auchard, New York Newsdesk, 212-859-1736
+Intel Corp. stock surged Tuesday, lifted by a quarterly earnings report that substantially outpaced Wall Street expectations and confirmed its status among analysts as the shooting star of technology stocks.
+The earnings report released Monday spurred gains in the stocks of personal computer makers who build machines based on Intel microprocessors but it did little to buoy other chip makers.
+"The Intel report was clearly a positive for the whole PC industry," said veteran semiconductor analyst Dan Klesken of Robertson Stephens &amp; Co.
+"It is an endorsement of our view that we are in for a strong upgrade cycle for the second half of the year," said Klesken.
+Still, analysts said Intel stock gains were restrained by uncertainties over whether the third quarter's sharp rise in orders may have come at the expense of the fourth quarter.
+The concern was magnified by Intel's decision to at least temporarily halt the practice of forecasting its business prospects.
+Intel stock rose $3.50 to $111.125 Tuesday on Nasdaq in a volatile day of trading in which just under 20 million Intel shares changed hands. Intel's gains sparked the technology-heavy Nasdaq index to 1,258.10, up 1.74, its second consecutive record closing high.
+On Monday Intel reported third-quarter profits of $1.3 billion, up from $931 million in 1995's third quarter. Wall Street had predicted profits of $1.1 billion.
+Brokers responded to the results with a wave of higher earnings projections for Intel for 1996 and 1997.
+Personal computer makers who rely on Intel micrprocessors also saw significant gains, as investors viewed Intel's order surge as confirmation of strong demand for the machines themselves.
+Compaq Computer Corp. gained $2 to close at $74.75 in consolidated trading on the New York Stock Exchange, a day ahead of its own earnings report, due Wednesday.
+Dell Computer Corp. rose $3.50 to $88.375 and Gateway 2000 Inc. climbed $3.375 to $56.75, both on Nasdaq.
+But Intel's swelling fortunes were seen as having only limited effect on other semiconductor suppliers.
+Montgomery Securities analyst Clark Westmont said the main beneficiaries were a handful of custom PC chip makers who sell graphics controllers and other PC-related devices.
+Every Intel processor that goes into a PC is accompanied by serveral such ancillary chips.
+"Intel is the locomotive who drags along all the other guys in this food chain," Westmont said. "As a result, these other guys are enjoying higher recognition today."
+He pointed in particular to PC graphics component supplier Chips and Technologies Inc. stock, which jumped $4.875 to $19.75, or roughly 25 percent, after it released its own strong quarterly earnings report.
+Computer Associates International Inc said Wednesday it would focus an increasing share of its resources on its midrange software business and reduce its reliance on mainframe software sales.
+In addition, CA President Sanjay Kurmar said in a phone interview he expected a charge "in the $500 million range" related to the planned acquisition of Cheyenne Software Inc. It would be taken its quarter ending in December.
+Kumar also said the company's international sales growth had "slowed some" in the quarter ended in September.  
+He said the acquisition was likely to be accounted for as an asset purchase with a one-time writedown for research and development costs instead of a "pooling of interests."
+Kumar was confirming comments he and other Computer Associates executives had made in a meeting with Wall Street analysts Wednesday morning.
+Analysts who attended the meeting said news of the planned revenue transition and slowing in international sales led to a sharp drop in the company's stock. The decline came in spite of the announcement of fiscal second-quarter results that beat Wall Street expectations.
+Computer Associates International Inc. issued its quarterly financial results, soundly beating Wall Street's consensus forecast.
+But the stock fell sharply Wednesday morning after company executives told securities analysts they planned to acclerate investments in its personal computer-based corporate software products and de-emphasise mainframe software sales.
+Analysts also said some investors were spooked by a slowdown in the company's international sales, which fell about 5 percent in the latest quarter ended in September compared to a year ago.
+Computer Associates shares lost more than than $4 in early trading but regained some ground later in the day after several analysts reaffirmed "buy" ratings on the stock and raised their future earnings projections on the company.
+The stock closed at $62.875, down $2.75 on the day, in composite trading on the New York Stock Exchange.
+In a phone interview, Computer Associates President Sanjay Kumar confirmed the company planned to increase its investments in its PC-related mid-range software business.
+"In reality, (mid-range software) is the right place to be," Kumar said of the company's planned shift in emphasis. "It is the high-growth business."
+The executive said mid-range software amounted to about 31 percent of overall revenue in the latest quarter and was the fastest-growing portion of its business, with sales rising 56 percent above last year's September quarter, he said.
+"What we neeed to do is engineer the business to move in that direction," Kumar said.
+But mainframe software continues to account for more than twice the revenues of mid-range products, or 63 percent of the latest quarter's total reveneues of $990 million.
+Mainframe sales rose 10 percent compared to the year-ago quarter, a rate Kumar said he expected would continue.
+The remaining 6 percent of revenues derived from its small consumer accounting software and systems integration business.
+Computer Associates has long been the world's leading supplier of mainframe software, but in recent years has sought to extend this dominance throughout corporate organisations by developing software used to manage personal computers.
+This shift in focus to the smaller, albeit faster-growing part of its business prompted fears among some investors that Computer Assocites was entering a complicated transition.
+"In general, you have to be concerned when a company says that it is going to be de-emphasising a part of its business that amounts to 60 percent of (its) revenues," said UBS Securities analyst Joe Farley.
+But Farley discounted such concerns, saying the company's move came as no surprise to long-time observers of the business software maker. He embraced the choice to accelerate the company's commitment to the newer, higher-growth business.
+"Their actions have already indicated that they are moving that way," Farley said of Computer Associates' increasing shift to PC-based mid-range products. "Their words are following their actions," he said.
+Kumar said the company contemplated a "smooth transition" over the next two years.
+Mid-range sales will "cross the threshold in fiscal 1998 probably" and become the dominant source of revenue, he said.
+In the interview, Kumar also said he expected the company to take a charge "in the $500 million range" related to a writedown of assets in its planned acquisition of Cheyenne Software Inc. during the current quarter ending in December.
+The company began a $30.50 per share cash tender offer last Friday for Cheyenne.
+The company expects the total cost of the Cheyenne acquisition to come to $1.2 billion, which it plans to fund through a combination of cash reserves and existing credit.
+Intel Corp stock surged on Tuesday, lifted by a quarterly earnings report that substantially outpaced Wall Street expectations and confirmed its status among analysts as the shooting star of technology stocks.
+The earnings report released Monday spurred gains in the stocks of personal computer makers who build machines based on Intel microprocessors but it did little to buoy other chip makers.
+"The Intel report was clearly a positive for the whole PC industry," said veteran semiconductor analyst Dan Klesken of Robertson Stephens &amp; Co.
+"It is an endorsement of our view that we are in for a strong upgrade cycle for the second half of the year," said Klesken.
+Still, analysts said Intel stock gains were restrained by uncertainties over whether the third quarter's sharp rise in orders may have come at the expense of the fourth quarter.
+The concern was magnified by Intel's decision to at least temporarily halt the practice of forecasting its business prospects.
+Intel stock rose $3.50 to $111.125 Tuesday on Nasdaq in a volatile day of trading in which just under 20 million Intel shares changed hands. Intel's gains sparked the technology-heavy Nasdaq index to 1,258.10, up 1.74, its second consecutive record closing high.
+On Monday Intel reported third-quarter profits of $1.3 billion, up from $931 million in 1995's third quarter. Wall Street had predicted profits of $1.1 billion.
+Brokers responded to the results with a wave of higher earnings projections for Intel for 1996 and 1997.
+Personal computer makers who rely on Intel micrprocessors also saw significant gains, as investors viewed Intel's order surge as confirmation of strong demand for the machines themselves.
+Compaq Computer Corp. gained $2 to close at $74.75 in consolidated trading on the New York Stock Exchange, a day ahead of its own earnings report, due Wednesday.
+Dell Computer Corp. rose $3.50 to $88.375 and Gateway 2000 Inc. climbed $3.375 to $56.75, both on Nasdaq.
+But Intel's swelling fortunes were seen as having only limited effect on other semiconductor suppliers.
+Montgomery Securities analyst Clark Westmont said the main beneficiaries were a handful of custom PC chip makers who sell graphics controllers and other PC-related devices.
+Every Intel processor that goes into a PC is accompanied by serveral such ancillary chips.
+"Intel is the locomotive who drags along all the other guys in this food chain," Westmont said. "As a result, these other guys are enjoying higher recognition today."
+He pointed in particular to PC graphics component supplier Chips and Technologies Inc. stock, which jumped $4.875 to $19.75, or roughly 25 percent, after it released its own strong quarterly earnings report.
+Computer Associates International Inc. is expected to unveil Monday a new Internet division that promises to save businesses from the headaches of seeking numerous vendors now needed to set up and manage a Web site.
+The company, which manages Web sites for large corporate customers, also plans to sign up hundreds of thousands of small businesses to use the service whether they own computers or not, sources close to the company said.
+In this "community" Internet service, neighbourhood businesses such as pizza parlours would contract with Computer Associates to establish an Internet presence, allowing customers to call up a shop's Web site to place an order.
+Currently, a company wishing to establish itself on the the Internet is confronted with a maze of separate vendors from which they must buy the necessary hardware, software and consultanting services to put together the disparate elements.
+The aim of Computer Associates' one-stop Internet service would be to shoulder all the messy technical responsibilities for customers, allowing them to focus on their own business.
+"Computer Associates wants to ride the electronic commerce wave that is coming down the pike," said one source familiar with the CA Internet unit strategy. "CA will provide a company the capacity for electronic commerce (on Web) sites in return for a revenue-sharing arrangement."
+Although not nearly so well known as Microsoft Corp. and other brand name PC software makers, Computer Associates is the world's top mainframe software supplier and the second largest independent software firm overall after Microsoft.
+Launching the new business unit is one of several major announcements the company is expected to make at its three-day CA World conference that started Sunday in New Orleans.
+In addition, Islandia, N.Y.-based Computer Associates has slated separate press conferences with Microsoft, Intel Corp. and Tandem Computers Inc. Monday and Tuesday.
+Microsoft Chairman Bill Gates is scheduled to deliver a keynote speech Tuesday evening that is likely to centre on the further integration of Consumer Associates and Microsoft software strategies.
+Computer Associates declined to comment on announcements that may be in the works. Specifically, officials would not discuss plans to launch a separate Internet business unit.
+But sources familiar with Consumer Associates' plans confirmed that the new Internet unit has been formed to help customers create dynamic Web sites tied to internal corporate database systems.
+A special focus would be to make customer information stored on legacy mainframe systems available via the Web.
+Web-based electronic commerce tools would tie the system directly to a company's back-office accounting department.
+The division will account for only a few hundred out of Computer Associates' 9,000 total employees, the sources said.
+The planned business, which has been in the works since April, would be a natural extension of CA's systems management and database products target its existing customer base of the world's largest corporations, as well as smaller firms.
+In the pizza parlour example, a customer order would be routed over Computer Associates computers to the local pizza parlour, which would bake the pizza, bill the customer's credit card account and then deliver the order.
+Customer data storage would be hosted on Consumer Associates mainframes, an unusual feature compared to the hundreds of other Web service providers, who tend to leave information management in the hands of customers once Web site development work is complete.
+In effect, Computer Associates' plans would resurrect mainframe time-sharing, where in companies rent time on remote computers and pay service providers to assume responsibility for the headaches of managing the systems.
+Computer Associates stock, which has been trading at historic highs recently, rose $1 to close at $58.25 on the New York Stock Exchange Friday.
+Computer Associates International Inc will unveil on Monday a new Internet business unit that provides one-stop hosting and managing of corporate Web sites, sources close to the company told Reuters.
+Launching the new business unit is one of several major announcements the company is expected to make at its three-day CA World conference that starts Sunday in New Orleans.
+In addition, the business software firm has slated separate press events with Microsoft Corp, Intel Corp and Tandem Computers Inc Monday and Tuesday.  
+Microsoft chairman Bill Gates is scheduled to deliver a keynote speech Tuesday evening that is likely to center on the further integration of CA and Microsoft software strategies.
+Computer Associates declined to comment on announcements that may be in the works. Specifically, CA officials would not discuss plans to launch a separate Internet business unit.
+But sources familiar with CA's plans confirmed that a new Internet unit has been formed to help customers create dynamic Web sites tied to internal corporate database systems.  
+"Computer Associates wants to ride the electronic commerce wave that is coming down the pike," said one source familiar with the CA Internet unit strategy.
+"CA will provide a company the capacity for electronic commerce sites in return for a revenue-sharing arrangement," he said.
+Customers would be offered turn-key systems that would allow them to erect a sophisticated business presence on the Web. A special CA focus would be to make customer information stored on legacy mainframe systems available via the Web.  
+Web-based electronic commerce tools would tie the system directly to a company's back-office accounting department.
+A set of basic pricing plans for the services will be disclosed Monday, starting at a minimum of $5,000 to $20,000. Pricing will be kept low by revenue sharing deals in which CA takes a cut of transactions done on the customer's Web site.
+Morgan Stanley analyst Chuck Philips, who is attending the show, said he expected that the unit's main focus would be to provide Internet infrastructure equipment rather than making an extensive push into the computer consulting business.  
+Company information would be delivered to a Web browser using CA-OpenIngres database software and CA-Unicenter TNG systems management tools and other Web management software.
+CA's Internet system also will take advantage of its Jasmine multimedia object-oriented database for combining not just text but voice, graphics and video into an information management system that can be used for electronic commerce.
+For example, a shoe company's catalog could be published over the Internet with detailed product descriptions and pricing which could be instantly updated as changes occurred.  
+The division will account for only a few hundred out of CA's 9,000 total employees, the sources said.
+The planned business, which has been in the works since April, would be a natural extension of CA's systems management and database products target its existing customer base of the world's largest corporations, as well as smaller firms.
+The new unit would involve CA providing customers various levels of operations managment support, the sources said.
+Customer data storage would be hosted on CA mainframes, an unusual feature compared to the hundreds of other Web service providers, who tend to leave information management in the hands of customers once Web site development work is complete.
+In effect, Computer Associates' plans would resurrect the mainframe time-sharing business, where companies rent time and space on remote computers and pay service providers to assume responsibility for the headaches of managing the systems.
+Computer Associates stock, which has been trading at historic highs recently, closed at 58-1/4, up 1 point Friday.
+Computer Associates International Inc is set to announce a series of deals designed to extend the reach of its systems managment software onto new computer platforms and to strengthen its existing ties to Microsoft Corp's Windows NT, analysts said.
+They said CA is likely to announce deals that allow its software to run on Novell and Tandem computer systems as well.
+Computer Associates has scheduled separate press conferences Monday and Tuesday with Microsoft, Intel Corp and Tandem Computers Inc.  
+CA officals declined to comment on what may be announced.
+But analysts say the announcements will be made at the company's three-day CA World conference that starts Sunday in New Orleans.
+Chet Geschickter, an industry analyst Hurwitz Consulting Group based in Newton, Mass., said he expected CA and Microsoft to announce a tighter integration of CA's Unicenter systems management product with Microsoft's BackOffice suite.
+The two software giants already have a co-marketing pact for CA/Unicenter for Windows NT which was announced in 1995.  
+"Where the rubber hits the road with Microsoft is bundling and co-marketing," Geschickter said, noting how this relationship distinguishes CA from all but a handful of the thousands of firms developing software to run on Windows.
+"This would represent a downward proliferation strategy for CA," resulting in far greater use of Computer Assocates software at the desktop level of corporate offices, he said.
+Morgan Stanley analyst Chuck Philips speculated that CA and Tandem have agreed to a partnership where CA will port its software to Tandem's large-scale transaction computers commonly used in banking and telecommunications.  
+"The agreement is likely to be strategic, with little in the way of actual technology or products to annouce intially," said Philips, who is attending the CA World conference.
+It is less evident what the business software firm might be planning with Intel, but one analyst predicted the two would announce a deal for CA to market Intel's LANdesk Novell network management software.
+Intel, best known as the kingpin of microprocessors, also develops a variety of software, including LANdesk, the second leading set of network managent tools for Novell NetWare systems behind Novell Inc's own ManageWise software.  
+Microsoft chairman Bill Gates is scheduled to deliver a keynote speech Tuesday evening that is likely to center on the further integration of CA and Microsoft software strategies.
+Although not nearly so well known as Microsoft and other brand name PC software makers, Computer Associates is the world's top mainframe software supplier and the second largest independent software firm overall after Microsoft.
+The two have forged a strategic partnership based their respective market strengths.
+CA's expertise in the complicated software used to manage large-scale computer systems complements Microsoft's dominance of the high-volume corporate desktop software market and helps beef up Microsoft's suite of "BackOffice" software products.
+-- Eric Auchard, New York Newsdesk, 212-859-1736
+Shares of leading U.S. technology companies, already trading near all-time highs, languished on Tuesday as quarterly earnings raised concern that growth would be strong enough to push them to new peaks.
+Intead, the sector was raked by profit-taking after a strong run-up in stock prices earlier in the fall season.
+Several analysts and traders expressed concern over the lagging performance of top issues such as Microsoft Corp and International Business Machines Corp, which have taken hits even after healthy earnings reports.  
+Microsoft was down 2-3/8 at 131-1/2 Tuesday, despite third quarter earnings that beat expectations by a nickel a share.
+IBM slid 1-1/2 at 128-1/2, the day after it reported quarterly earnings two cents above the Wall Street consensus.
+Intel Corp was trading 2-5/16 points lower Tuesday at 105-7/16, continuing a retreat from the record level of 114-1/4 it hit after its earnings release last week.
+"Some companies are doing better (earnings-wise) and stocks are trading down," said one trader. "Not that there's anything we have seen in the quality of earnings or the outlooks coming from a lot of major companies," he said.  
+But other analysts argued that the lack of follow-through on recent share gains showed appropriate concern over valuations on the stocks, which had enjoyed a healthy rebound after the beating they took in early summer.
+"They had a big run and they basically delivered what they are supposed to deliver," said James Cramer, president of trading firm Cramer &amp; Co.
+IBM stock, for example, had been trading at record highs for the year recently. It reached above 135 at one point on Monday, a record intraday level for the past several years.  
+"These stocks have come very far in a short amount of time," said Phil Orlando, market strategist for Value Line Asset Management of the sector's lagging share prices.
+"We have just got earnings out of the way and now we are going to take some profits," he said of the market's reaction.
+Other analysts noted how several once high-flying computer stocks have yielded disappointments this earnings season.
+Silicon Graphics Inc shares suffered a pounding last week after it reported a net loss. The stock was down 1/4 of a point on Tuesday afternoon at 19-7/8, a new year-low.  
+Earlier on Tuesday, Digital Equipment Corp reported a loss in its latest quarter of $0.48, well below the estimated loss of $0.14 per share analysts had been expecting. Digital was trading at a new year low of 29-1/8, off 5-1/4.
+Sun Microsystems Inc was down 2-13/16 at 57-1/2 on Tuesday, continuing a decline seen since it disappointed investors last week by failing to deliver the strong upside earnings surprise now demanded of such high-growth companies.
+Prior to Sun's report, the stock had reached above 70, or 30 percent above its level in the first week of September.  
+A few analysts speculated that the lack of follow-through as expressed in share price gains may be tied to a retincence by technology executives to offer guidance on the future and thereby offer fresh reasons to propel these stocks forward.
+Last week, officials at industry bellwether Intel refused to offer their typical outlook on industry trends, citing fears of shareholder lawsuits that might result if a California ballot proposal were to pass in November.
+But others heaped scorn on the idea that possible passage of state initiative Proposition 211 was in any way depressing the stocks.  
+"Proposition 211 is irrelevant to the market activity we are seeing," said John Kinnucan, a technology stock portfolio manage with Strome, Susskind Investment Management LP in Santa Monica, Calif.
+"The reason is that people are looking at the quarterly financial results and the share price valuations and they see a mismatch," he said.
+Kinnucan said it was reasonable to question the valuations of even a premier name like Microsoft, shares of which he noted have appreciated more than 1000 since late 1992.
+"What would be of concern would be if people weren't asking questions about the valuations of these stocks," he said.
+-- Eric Auchard, New York Newsdesk, 212-859-1736
+MCI Communications Corp. said Monday it reached a 10-year deal with NextWave Telecom Inc. that thrusts MCI into the top tier of U.S. wireless communications providers.
+Under terms of the deal, MCI said it will connect its network to a system planned by NextWave to provide wireless personal communications services, giving it the capacity to offer service to more than 110 million individuals in 63 areas, including 29 of the top 50 markets.
+Washington-based MCI said it will buy at least 10 billion minutes of capacity for its personal communications services from NextWave over 10 years.
+Terms of the deal were not disclosed.
+Personal communications services represent the new generation of celluar communications services, allowing customers to send both voice and data transmissions over wireless telephones.
+The deal will help underpin the financial future of debt-laden NextWave, which was the largest bidder in the U.S. Federal Communications Commission's auctions for "C-band" wireless radio spectrum held in early July.
+NextWave, based in San Diego and New York, also plans to sell stock to the public.
+For MCI, the deal enables it to expand quickly into the rapidly growing market for wireless personal communications services.
+Two years ago, MCI dropped out of the auctions for PCS licences after the bidding became too rich for its taste. But with the NextWave pact and previous smaller deals, MCI has moved to become a major reseller of wireless services.
+As part of the deal announced Monday, NextWave selected MCI to provide telecommunications and other services supporting the development and ongoing operations of its personal communications services system, MCI said.
+Among the major markets where Nextwave has licenses are New York, Los Angeles, Washington D.C. and Baltimore, Boston and Denver.
+"This agreement with NextWave establishes an immediate nationwide PCS footprint for MCI and represents an important next step in MCI's wireless strategy," said Whitey Bluestein, vice president for MCI wireless strategy and development.
+"This is the first full interconnection agreement of its kind and brings new competition to the wireless marketplace," he said, noting that with full interconnection, MCI does not need to own its own wireless facilities.
+Industry analysts expect to see some ferocious price-cutting in wireless telephone as competition heats up, and the latest deal will make it even more intense.
+"It is going to be a battle of the Goliaths," said Bill Bane, a consultant at Mercer Management Consulting.
+MCI said the NextWave agreement is a model for additional agreements it expects to sign with other wireless providers as part of its wireless interconnected network strategy.
+The strategy is MCI's blueprint for developing a full range of wireless services and features that will be integrated into its existing communications services.
+"This was MCI's strategy all along," said Jeffrey Kagan, an Atlanta-based telecommunications industry analyst.
+He said MCI has historically preferred to resell communications services initially rather than investing in its own infrastructure. Over time, the company selectively builds its own infrastructure as it proves profitable to do so.
+"Reselling service was how they became a heavy hitter in long distance in the first place," Kagan said. "What their plan is, is to resell service from other providers and build networks where they see the need to do so," he said.
+Kagan said MCI's deal with NextWave marks the rapid realisation of its reseller strategy. "This all of a sudden puts MCI on the wireless communications map in a big way."
+MCI's plunge into the wireless market makes it a viable competitor to the several existing national players in the wireless business and is bound to heat up the competition in the increasingly crowded market for cellular services.
+Other national players include AT&amp;T Corp.'s AT&amp;T Wireless unit, Sprint Corp.'s Sprint Spectrum venture with several cable companies, and PCS PrimeCo L.P., a joint venture of AirTouch Communications, Bell Atlantic Corp., NYNEX Corp. and U.S. West Communications Group.
+Still, Kagan noted that AT&amp;T's wireless unit, the former McCaw Cellular business, remains twice as large as MCI's cellular business, with about 6.5 million subscribers in geographic regions covering 207 million potential customers.
+MCI's deal with NextWave covers about 110 million potential customers living in a mix of metropolitan and less-densely populated areas.
+MCI's stock added 75 cents to trade at $26.25 on Nasdaq in late afternoon trading.
+MCI Communications Corp. said Monday it reached a 10-year deal with NextWave Telecom Inc. that thrusts MCI into the top tier of U.S. wireless communications providers.
+Under terms of the deal, MCI said it will connect its network to a system planned by NextWave to provide personal communications services, giving it the capacity to offer service to more than 110 million individuals in 63 areas, including 29 of the top 50 markets.
+Washington-based MCI said it will buy at least 10 billion minutes of capacity for its personal communications services from NextWave over 10 years. Terms of the deal were not disclosed.
+Personal communications services represent the new generation of celluar communications services, allowing customers to send both voice and data transmissions over wireless telephones.
+The deal will help underpin the financial future of debt-laden NextWave, which was the largest bidder in the U.S. Federal Communications Commission's auctions for "C-band" wireless radio spectrum held in early July.
+NextWave, based in San Diego and New York, also plans to sell stock to the public.
+For MCI, the deal enables it to expand quickly into the rapidly growing market for wireless personal communications services.
+Two years ago, MCI dropped out of the auctions for U.S. PCS licences after the bidding became too rich for its taste.
+But with the NextWave pact and previous smaller deals, MCI has moved to become a major reseller of wireless services.
+As part of the deal, NextWave selected MCI to provide telecommunications and other services supporting the development and ongoing operations of its personal communications services system, MCI said.
+"This agreement with NextWave establishes an immediate nationwide PCS footprint for MCI and represents an important next step in MCI's wireless strategy," said Whitey Bluestein, vice president for MCI wireless strategy and development.
+"This is the first full interconnection agreement of its kind and brings new competition to the wireless marketplace," he said, noting that with full interconnection, MCI does not need to own its own wireless facilities.
+MCI said the NextWave agreement is a model for additional agreements it expects to sign with other wireless providers as part of its wireless interconnected network strategy.
+The strategy is MCI's blueprint for developing a full range of wireless services and features that will be integrated into MCI's existing communications services.
+"This was MCI's strategy all along," said Jeffrey Kagan, an Atlanta-based telecommunications industry analyst.
+Kagan said MCI has historically preferred to resell communications services initially rather than investing in its own infrastructure. Over time, the company selectively builds its own infrastructure as it proves profitable to do so.
+"Reselling service was how they became a heavy hitter in long distance in the first place," Kagan said. "What their plan is, is to resell service from other providers and build networks where they see the need to do so," he said.
+Kagan said MCI's deal with NextWave marks the rapid realisation of its reseller strategy. "This all of a sudden puts MCI on the wireless communications map in a big way."
+Still, he noted that AT&amp;T Corp.'s AT&amp;T Wireless unit, the former McCaw Cellular business, remains twice as large as MCI's cellular business, with about 6.5 million subscribers in geographic regions covering 207 million potential customers.
+MCI's deal with NextWave covers about 110 million potential customers living in a mix of metropolitan and less-densely populated areas.
+MCI's stock traded at $25.25 a share Monday, down 25 cents, on Nasdaq.
+AT&amp;T Corp's decision to name outsider John Walter as heir to Chairman and Chief Executive Robert Allen boils down to a basic gamble the company believes it must take to prepare for the torrent of competition ahead.
+The nation's largest phone company rejected the standard telecoms pedigree shared by most top executives in the industry -- including Allen -- in favor of a more general set of business leadership skills Walter has demonstrated.  
+Wednesday, AT&amp;T said Walter, until recently the chief executive of commercial printer R.R. Donnelley &amp; Sons Co, would replace Allen as CEO and chairman in 18 months.
+"The magnitude of the challenge has got to be at least of the same magnitude as the one that IBM faced," said Robert Miles, a top corporate turnaround consultant and author of a forthcoming book of case studies called, "Corporate Comeback."
+But analysts who followed his tenure at Donnelley credited Walter with being a tough-minded visionary who successfully guided the expansion of his commercial publishing firm into a computer-savvy marketing services firm.  
+"Walter understands how to run a business and make money," said Frank Dzubeck, president of Communcations Network Architects, a Washington, D.C.-based technology consulting firm.
+At Donnelley, he closed businesses which could not carry their own weight. Earlier this year Donnelley spun off direct mailer Metromail Corp and is planning the spinoff of Donnelley Enterprise Solutions Inc, a provider of information management services to large law firms and investment bank.
+This crucible of experience will come in handy for Walter at AT&amp;T as the giant company undergoes a similarly wrenching business and technology transition, but on a massive scale.  
+Walter is certainly not without his critics on Wall Street. Financial analysts must be convinced he can scale his Donnelley lessons upward to address $80 billion-a-year AT&amp;T. Donnelley had 1995 revenues of $6.5 billion.
+Wednesday, SBC Warburg analyst Barry Sine cut his rating on AT&amp;T to hold from buy, citing disappointment about the naming of Walter to lead the company. "In our view what was needed was a fresh face with a high-tech resume," he said.
+Donnelley's growth came at a price, other analysts added, noting how despite Walter's visionary style the publisher struggled with falling earnings and restructuring issues.  
+"A lot of things have been going wrong," said one analyst, citing the lower earnings outlook and falling stock price. The stock price has performed listlessly recently, trading near its 52-week lows. The stock Thursday was at 38-1/8, up 1/4.
+Still, several analysts classified Walter among the new breed of top technology managers who earn their stripes as sophisticated consumers of technology but who know how to delegate decisions about the nuts and bolts of technology.  
+Perhaps the most famous example of this type is an executive like Louis Gerstner, who joined IBM Corp in 1993 from consumer products distributor RJR Nabisco Holdings Corp and was with American Express Co prior to that.
+"Maybe you don't actually have to have a guy who has time to get his hands dirty," Dzubeck said.
+"I think the operating issues, the strategic issues become paramount," he said, while technology strategy can best be left to second and third-tier managers.
+Other outsiders who have become the top-guns at successful technology companies include Jim Barksdale of Netscape Communications Corp, the former chief information officer of air freight forwarder Federal Express Corp.
+Another example would be Alex Mandl, the man Walter has initially been hired to replace as second-in-command at AT&amp;T, following Mandl's departure in August to join a wireless communications venture of Associated Group Inc.
+Before joining AT&amp;T in 1991, Mandl headed SeaLand Services.
+"He's transformed a large, old-line company challenged by new technologies and changing markets into a tough global competitor," said Allen in a statement. "Meeting those challenges is what leading the 'new' AT&amp;T is all about."
+MCI Communications Corp. said Monday it reached a 10-year deal with NextWave Telecom Inc. that thrusts MCI into the top tier of U.S. wireless communications providers.
+However, analysts said that while the NextWave deal should allow MCI to compete with other wireless industry heavyweights like AT&amp;T Corp., and the Sprint Spectrum and PCS PrimeCo joint ventures, MCI's wireless investment remains a cautious one.
+MCI has opted to function as a major reseller of wireless services instead of paying the hefty price required to buy cellular operating licenses and to build the network infrastructure needed to offer the new services.
+Under terms of the NextWave deal, MCI will offer wireless services to more than 110 million potential customers in 63 U.S. cities, including 29 of the top 50 metropolitan markets.
+Washington-based MCI said it will purchase from NextWave over the next 10 years at least 10 billion minutes of capacity to offer wireless personal communications services.
+MCI also said it will plug the MCI network into NextWave's, enabling MCI to offer wireless services as a seamless part of its overall package of long-distance, local access, Internet and data communications services.
+"This agreement with NextWave establishes an immediate nationwide PCS footprint for MCI and represents an important next step in MCI's wireless strategy," said Whitey Bluestein, vice president for MCI wireless strategy and development.
+"This is the first full interconnection agreement of its kind and brings new competition to the wireless marketplace," he said, noting that with full interconnection, MCI does not need to own wireless facilities.
+Personal Communications Services (PCS) represent a new generation of cellular communications services, allowing customers to send both voice and data transmissions over wireless telephones.
+Terms of the deal were not disclosed, but the MCI official said the price per minute would be "competitive" with expected rates for wireless phone services over the coming years.
+As part of the deal announced Monday, NextWave selected MCI to provide telecommunications and other services supporting the development and ongoing operations of its personal communications services system, MCI said.
+NextWave, which is based in San Diego and New York, was founded only a year ago by Allen Salmasi, a former executive at Qualcomm Inc., developers of the wireless communications technology NextWave plans to use on its proposed network.
+NextWave is backed by a host of blue-chip venture capital funds and consumer electronics makers who have chipped in a total of $450 million in private financing. The company also is planning an initial public offering of stock.
+The MCI deal will help underpin the financial future of debt-laden NextWave, which was the largest bidder in the U.S. Federal Communications Commission's auctions for "C-band" wireless radio spectrum held earlier this year.
+NextWave paid $4.7 billion for its 63 city licenses. Among the major markets where Nextwave has won the chance to operate are New York, Los Angeles, Washington D.C., Boston and Denver.
+That bidding process, and additional auctions that coincidentally got under way in Washington Monday, are designed to allow entrepreneurial companies a shot at competing in the emerging markets for wireless communications services.
+For MCI, the deal enables it to expand quickly into the rapidly growing market for wireless personal communications services after having missed several chances to enter the business in prior years.
+In early 1995, MCI dropped out of an earlier round of "big-league" auctions for PCS licences after the bidding became too rich for its taste.
+Previously, MCI had flirted with the acquistion of Nextel Communications Inc. as a route into the wireless arena.
+While impressive sounding, analysts noted that MCI's committment to buy an average of one billion minutes per year over 10 years from NextWave represents a conservative bet on the growth of the wireless phone market.
+One billion minutes of air-time amounts to a fraction of current cellular phone use, which is estimated to be running at about 40 billion minutes this year, based on industry calculations of roughly 36 million subscribers.
+MCI said the NextWave agreement is a model for additional agreements it expects to sign with other wireless providers as part of its wireless interconnected network strategy.
+"This was MCI's strategy all along," said Jeffrey Kagan, an Atlanta-based telecommunications industry analyst.
+"Reselling service was how they became a heavy hitter in long distance in the first place," Kagan said. "What their plan is, is to resell service from other providers and build networks where they see the need to do so," he said.
+Industry analysts expect to see ferocious price-cutting among wireless telephone service providers as competition heats up, and the latest deal will make it even more intense.
+MCI's stock gained $1.25 to close at $26.75 on the Nasdaq.
+The picture for personal computer demand in the third quarter of 1996 was either half-empty or half-full, depending on which of two market research firms' data is used.
+Technology market research firm International Data Corp. said Monday that growth in U.S. PC shipments from a year ago slackened to 12 percent, "the slowest pace in five years," based on its preliminary third-quarter statistics.
+A second firm, Dataquest, said PC makers "prospered" in the third quarter as worldwide shipments rose 16.3 percent from the same period a year ago.
+The conflicting conclusions reflect IDC's focus on the U.S. market, which accounts for a substantial majority of world PC demand, versus Dataquest's emphasis on overall global shipments.
+"We're making mountains out of molehillls," Dataquest PC analyst Kimball Brown said of concerns that PC growth may be slowing. "The point here is that we had a strong PC market all year ... What other market of this size grows at 20 percent?"
+Reflecting a more sombre view of the industry's recent performance, IDC analyst Eric Lewis said "PC vendors are being extra careful this year, after getting burned by excess inventory at the end of 1995."
+However, the researchers agreed on which companies ended up as winners and losers in the third period.
+They said Compaq Computer Corp. once again led in shipments of PCs both worldwide and in the United States. At the same time, Apple Computer Inc. and the combined force of Packard Bell Inc. and NEC Corp. saw declines, compared with very strong year-ago periods.
+Both research firms agreed that fourth quarter PC shipments are likely to pick up the pace over the third quarter, boosting the totals for the full year.
+IDC forecast that worldwide personal computer shipments will grow 18.5 percent for 1996 as a whole, while Dataquest projects the global PC market will grow by 19.7 percent.
+Underlying the dispute over the health of the current market is a comparison with last year's banner year, viewed by analysts as a historic upswing in demand that is unlikely to be repeated anytime soon.
+IDC reckoned that worldwide PC shipments grew 23.8 percent in 1995, while Dataquest put the figure at 24.7 percent.
+Dataquest said U.S. PC shipments rose 12.5 percent during the third quarter, or roughly the same level as reported by International Data.
+IDC said quarterly unit shipments rose 16 percent worldwide, down slightly from what Dataquest reported.
+PC makers showed greater caution in the latest third quarter, compared with the same period a year ago, IDC said.
+In the 1995 third quarter, a number of vendors, especially Apple and Packard Bell, had shipped large quantities of PCs to retailers in anticipation of strong holiday sales.
+That jump led to an over-supply of inventory that hurt the industry late last year and resulted in greater caution this time around. PC vendors now appear to be holding back on shipments while they gauge holiday buyers' demand, IDC said.
+In the upcoming quarter, IDC's Lewis predicted, "Shipments will pick up as we move through the fourth quarter, leading to a happy holiday season for the PC industry."
+Though he too is optimistic about fourth quarter market growth, Dataquest's Brown cautioned that "Every year it gets tougher to maintain 20 percent annual growth."
+America Online Inc unveiled a broad strategy to transform the online service provider into a mass media company in a move that further renders Internet access services a commodity business.
+Earlier Tuesday, the world's leading online service introduced a flat-rate Internet pricing option as a part of a comprehensive restructuring plan, ending years of resistance to competing directly with Internet access providers on price.  
+In addition, AOL said it hired Robert Pittman, a prominent media executive, to head its flagship online service, and put forth measures aimed at shoring up its image with investors.
+AOL had said it planned to take $460 million in charges spread over the recently ended September quarter and the upcoming December period, mainly to cover its switch to a more conservative method of accounting for marketing costs.
+The stock see-sawed as investors digested whether the near-term profits impact was compensated for by the prospect AOL would become a stable, but growing, mass media enterprise.
+AOL shares had risen 1 to 25-5/8 in late trading Tuesday.  
+Gary Arlen, an online industry analyst, said "the market is responding to the financial announcements and not to the promise of all these other plans, including what Pittman brings to the company."
+Arlen added that the restructuring plan demonstrates that AOL "is a dynamic company that can respond to challenges decisively.
+In an interview, AOL chairman Steve Case said Pittman -- the broadcast executive who created MTV and made it the first profitble cable TV company -- was hired to help lead AOL into a new era of growth by addressing the mass media market.  
+While Case expects AOL to pass the 10 million mark in subscriptions late in calender year 1997, "The focus is not on getting to 10 million, but getting out to tens of millions and that's what (Pittman) is focused on," he said of the new divsion head.
+Pittman, who also took part in the phone interview, said that with TV-sized audiences on the horizon, AOL planned to accelerate its emphasis on advertising, online merchandising and sources of revenue other than subscriber fees.
+"The main point is that we are really shifting the business model toward these new sources of revenues," he said.  
+Analysts said AOL's thrust into the Internet access business will have reprucussions for rival online companies, Internet access providers and even the firms that create special entertainment and other programming for the Internet.
+Arlen said the first casualty of AOL's plans to offer seemless access to the Internet will be its own GNN Internet service, which AOL told analysts it plans to discontinue.
+At a new rate of $19.95, AOL puts itself in the same pricing league as "pure" Internet access providers, such as Netcom On-Line Communications Inc and Earthlink Network Inc, which offer little or no proprietary content.  
+"What happens is that access becomes a commodity service," said Arlen, who heads Arlen Communications Inc in Bethesda, Md. "AOL has now defined the $20 a month Internet access rate as a commodity," he said.
+However, in a phone interview, David Garrison, Netcom's chief executive said he expects to feel little direct impact from the AOL move, since Netcom is mainly focused on serving and "adding value" for business customers.
+Netcom, with 562,000 paying subscribers as of September 30, is the largest independent provider of Internet access. More than 98 percent of Netcom's customers already pay $19.95.  
+"The difference is that our product is not aimed at the consumer, the entertainment sector if you will," he said in contrasting AOL's core market with Netcom's business focus.
+Reflecting the differing demand of his base of small and medium-sized business customers, Garrison claimed that Netcom turnover rates have remained relatively low and stable over the last seven quarters -- in striking contrast to AOL.
+Arlen noted that America Online also discussed ambitious plans to develop an increasing amount of programming content for the Internet in its newly created AOL Studio division, led by long-time executive Ted Leonsis.  
+In effect, AOL is commodifying the programming content on the Web, much in the way the big Hollywood movie studios have dominated film and broadcast production, Arlen said.
+"AOL is becoming a one-stop source for Internet access, programming content and other services," Arlen said. "I expect that AOL's offerings will be totally satisfactory to the millions of users who are newbies to the Internet and a large number of heavy users who are fed up with shopping for deals."
+Abhishek Gami, an analyst at Nesbitt Burns Securities, added that, "Now there will be less confusion both for investors and for consumers as well."
+-- New York newsdesk, 212-859-1736
+Microsoft Corp. and Fore Systems Inc. plan to annouce Tuesday a deal in which Microsoft will license Fore's high-speed networking technology for use in future versions of its Windows operating system software, according to sources familiar with the deal.
+Asynchronous Transfer Mode (ATM) is an emerging technology on which a new generation of higher speed networks are being built that are better able to handle voice, video and data simultaneously.
+The sources said the deal will integrate Fore's ATM emulation software directly into the Windows operating system, allowing desktop office computers to use ATM technology without changing other existing computer software.
+As a result, the deal could open up a potential market of millions of PC users to adopt ATM network technology, while ensuring compatability with older network technologies.
+Neither Microsoft nor Fore Systems would confirm the deal.
+But industry analysts said Microsoft's backing of ATM should boost the technology's legitimacy with corporate network administrators, who to date have proved reluctant to install higher-cost ATM networks in place of existing ones.
+"It will make connecting PCs to ATM networks easier because all you will have to do is buy an ATM switch, buy an adapter card and a PC is up and running," said Mary Petrosky, a network analyst with The Burton Group in San Mateo, Calif., referring to the basic equipment necessary to install ATM.
+Petrosky was one of a handful of analysts who were pre-briefed by the companies about outlines of the deal.
+Existing technologies such as Ethernet and Token Ring have been around since the 1970s and remain the dominant standards for networks that connect corporate office computers.
+ATM is considered more expensive because it requires investments in existing network infrastructure like cabling, switches and other equipment to be ripped out and replaced.
+Sources said integration of ATM into Windows software will help standardize ATM networking products, making it easier to develop ATM products, while driving down customer costs.
+Microsoft's own software business is likely to benefit from enabling networks able to transmit multimedia-rich information to become more widely available, Petrosky said.
+To date, ATM backers, including Fore, the recognized industry leader in ATM technology development, have failed to win widespread adoption of it in corporate office networks.
+Instead, Fore has built a fast-growing business selling ATM technology to telephone carriers who use it to transmit large volumes of data at high speeds over the backbone sections of their wide area telecommunciations networks.
+Fore also sells adapter cards that can be installed inside personal computers that allow them to accept information transmitted over these wide area networks.
+Here, it faces growing competition from Cisco Systems Inc, Cascade Communications Corp. and others.
+Jeremy Duke, a network hardware analyst with the market research firm InStat, based in Scottsdale, Ariz., said Microsoft's intergration of ATM would eliminate some of the hurdles of connecting ATM networks to desktop PCs.
+However, he expected the deal's main impact would be to lend visibility to Fore's wide area network ATM business, by providing a broader base of PCs ready to communicate over networks using a mix of ATM and non-ATM technology.
+"The deal puts ATM on a little bit more of an even-footing," Petrosky said, but noted, "There are still cost issues and competing technology issues."
+Petrosky was referring to how ATM has been upstaged in corporate office networks by an intermediate class of technology known as Fast Ethernet, which allows networks using existing hardware to handle some multimedia communications.
+In addition, she said the network industry was beginning to embrace a new method known as Gigabit Ethernet that could rival ATM capabalities in many repects. Gigabit Ethernet allows video transmission at speeds roughly similar to ATM.
+"It's another thing that can help ATM, but I don't think it's going to drastically change the odds for ATM acceptance," Duke agreed. "There are other cost-effective technologies available today," he said, referring to Fast Ethernet systems.
+It was not clear from the sources whether Microsoft's plans extended beyond its Windows NT and Window 95 operating systems to include its older Windows 3.1 system.
+Bay Networks Inc shares bounded higher on Wednesday on news the company had named a senior Intel Corp official as chairman and chief executive, a move analysts said could give Bay the strong hand it has lacked.
+"It's quite a positive," said Bear Stearns networking analyst Eric Blachno of the long-time Intel executive David House's selection. "It's good to know the company is not going to be rudderless."  
+Bay shares gained 1-3/4 to 20-1/8 on Wednesday, rising from their 52-week basement.
+The shares were among the five most active on the NYSE.
+Blachno said he will remain on the sidelines before once again backing the stock until he sees what strategies House may have in store to return Bay to prominence within the networking industry.
+The analyst downgraded the stock to neutral from buy after Bay's last earnings report, which he said included "ominous" signs of trouble in the company switching business, which accounts for about 20 percent revenues.  
+Bay's switch business has shown sequential declines in revenues for the last two quarters, even as rivals Cisco Systems Inc and 3Com Corp have delivered double-digit growth on larger revenue bases, Blachno noted.
+Despite its reputation as a technology leader in the networking industry, Bay's finanical performance has marked it as a laggard within the group over the last several years.
+By contrast, Cisco and 3Com have positioned themselves in front of an avalanche of demand for networking products and their shares have reflected that success.  
+Wall Street analysts have complained that the company has suffered from a crisis of leadership in recent months.
+Leadership has been an issue for Bay ever since it was formed by the merger of Wellfleet and Synoptics and 1994.
+Analysts said difficulties encountered in combining the predecessor companies' product lines became magnified by an attempt to operate the companies out of headquarters on two coasts: in Santa Clara, Calif. and Billerica, Mass.
+The hiring of David House as chairman, president and CEO consolidates in one leader's hands the role of chairman, which had been held by Paul Severino founder of Wellfleet, and former chief executive Andrew Ludwick, a founder of Synoptics.
+Severino remains a director of the company and is expected to play an important role in defining technology strategy.
+Ludwick resigned two weeks ago from the company, following several months of speculation that he planned to leave.
+"We continue to believe Bay is going to be a long-term player and one of the leading companies in its industry," said Blachno, adding that, "Of course, it will take some time before the new leader maps his course."
+-- Eric Auchard, New York newsdesk, 212-859-1736
+Computer distribution powerhouse Ingram Micro Inc. is set to hold its widely anticipated initial public offering on Wall Street Thursday despite some last-minute delays, including management changes.
+"We haven't seen anything comparable in the technology sector with its kind of name this year," said Manish Shah, editor and publisher of the IPO Maven, of the new issue.
+Anticipating heavy demand, the estimated price on Ingram's 20 million share offering was boosted to $17 to $19 a share Wednesday from $14 to $16, said underwriter Morgan Stanley.  
+As the world's leading distributor of computer hardware, software and networking equipment to corporate resellers and computer retailers, Santa Ana, Calif.-based Ingram is a veritable steam-engine of computer industry growth.
+There are really only three world-class distributors of computer products: Ingram, with revenues expected to hit roughly $10 billion this year, Merisel Inc. with $6 billion and Tech Data Corp. at $4 billion.  
+That size advantage is crucial said Seymour Merrin, a leading industry analyst, who heads Merrin Information Services Inc. in Palo Alto, Calif. "Market share isn't just an important factor," Merrin said. "It's the only factor."
+Ingram's suppliers read like a Who's Who of the leading computer brands -- names like IBM, Intel, Microsoft, Cisco, Apple, Novell and U.S. Robotics. And like many of those names, Ingram is seen as the undisputed leader in its own industry.
+Its main customers are not end-users of technology products, but the middlemen of distribution -- corporate resellers, systems intergrators and computer retailers.  
+"Ingram's got it all: distribution power, brand quality and customer or franchise loyalty," Shah said.
+Underlying excitement about the new stock is a belief that Ingram is positioned to benefit directly from a multi-year computer buying boom expected to take hold later this year or early in 1997 and last for anywhere from two to four years.
+Companies are preparing to upgrade to faster Intel Pentium PCs running Microsoft Windows NT and buy a host of related products made passible by the more powerful machines.  
+In one important respect, however, Ingram should not be classified with other top technology names famous for their explosive earnings growth and spiraling stock prices.
+Ingram competes in a brutal low-margin business that has more in common with supermarkets or trucking than computers -- its profit margins have in fact declined to 6.8 percent in the first half of 1996 from 8.1 percent in 1993.
+The company's path to Wall Street has not been without its detours and mishaps.  
+An anticipated public offering was temporarily derailed earlier in the year when Linwood "Chip" Lacy -- the engineer credited with driving Ingram Micro's growth over the years -- resigned as chairman and chief executive.
+Ingram located a prominent replacement in Jerre Stead, the former head of mainframe software maker Legent Corp. until its 1995 acqusition by Computer Associates International Inc. It named Michael Grainger chief finacial officer two weeks ago.
+But any Ingram doubters will remain on the sidelines Thursday.  
+"It is definitely one of the best offerings of the year. There is great demand," said Shah for shares of the stock. "I think it will remain strong and by the end of year, it could be a $30 stock," he added.  
+In an industry known for its love of jargon, computer business insiders speak with a mix of reverential awe about "the Channel" - short for distribution channel and the delivery mechanism that has make-or-break control over the future of any computer product.
+Ingram is to "the Channel" what Microsoft is to software, Intel is to microprocessors and Cisco is to networking.
+Computer distribution powerhouse Ingram Micro Inc. is set to hold its widely anticipated initial public offering on Wall Street Thursday despite some last-minute delays, including management changes.
+"We haven't seen anything comparable in the technology sector with its kind of name this year," said Manish Shah, editor and publisher of the IPO Maven, of the new issue.
+Anticipating heavy demand, the estimated price on Ingram's 20 million share offering was boosted to $17 to $19 a share Wednesday from $14 to $16, said underwriter Morgan Stanley.
+As the world's leading distributor of computer hardware, software and networking equipment to corporate resellers and computer retailers, Santa Ana, Calif.-based Ingram is a veritable steam-engine of computer industry growth.
+There are really only three world-class distributors of computer products: Ingram, with revenues expected to hit roughly $10 billion this year, Merisel Inc. with $6 billion and Tech Data Corp. at $4 billion.
+That size advantage is crucial said Seymour Merrin, a leading industry analyst, who heads Merrin Information Services Inc. in Palo Alto, Calif. "Market share isn't just an important factor," Merrin said. "It's the only factor."
+Ingram's suppliers read like a Who's Who of the leading computer brands -- names like IBM, Intel, Microsoft, Cisco, Apple, Novell and U.S. Robotics. And like many of those names, Ingram is seen as the undisputed leader in its own industry.
+Its main customers are not end-users of technology products, but the middlemen of distribution -- corporate resellers, systems intergrators and computer retailers.
+"Ingram's got it all: distribution power, brand quality and customer or franchise loyalty," Shah said.
+Underlying excitement about the new stock is a belief that Ingram is positioned to benefit directly from a multi-year computer buying boom expected to take hold later this year or early in 1997 and last for anywhere from two to four years.
+Companies are preparing to upgrade to faster Intel Pentium PCs running Microsoft Windows NT and buy a host of related products made passible by the more powerful machines.
+"We are coming close to the proverbial elbow of the hockey stick," said Merrin, referring to the hook upwards on sales charts that signifies explosive growth.
+In one important respect, however, Ingram should not be classified with other top technology names famous for their explosive earnings growth and spiraling stock prices.
+Ingram competes in a brutal low-margin business that has more in common with supermarkets or trucking than computers -- its profit margins have in fact declined to 6.8 percent in the first half of 1996 from 8.1 percent in 1993.
+The company's path to Wall Street has not been without its detours and mishaps.
+An anticipated public offering was temporarily derailed earlier in the year when Linwood "Chip" Lacy -- the engineer credited with driving Ingram Micro's growth over the years -- resigned as chairman and chief executive.
+Ingram located a prominent replacement in Jerre Stead, the former head of mainframe software maker Legent Corp. until its 1995 acqusition by Computer Associates International Inc. It named Michael Grainger chief finacial officer two weeks ago.
+But any Ingram doubters will remain on the sidelines Thursday.
+"It is definitely one of the best offerings of the year. There is great demand," said Shah for shares of the stock. "I think it will remain strong and by the end of year, it could be a $30 stock," he added.
+Battling competition in its core long-distance phone business, a need to enter new markets and a looming management transition, AT&amp;T Corp. faces an even broader challenge in the proposed merger of British Telecommunications Plc and MCI Communications Inc., two of its biggest adversaries.
+British Telecom announced Sunday it planned to acquire the remaining 80 percent of MCI it does not already own in a complicated cash and stock transaction that values MCI at more than $20 billion.
+AT&amp;T responded to news of the huge cross-border deal by calling on U.S. and European regulators to condition approval of it on a further freeing of competition in British Telecom's home market in the United Kingdom, even as British Telecom argued that it was already among the world's most open.
+The merger would bring together the aggressive marketing skills of MCI -- the No. 2 U.S. long distance provider behind AT&amp;T -- with the deep pockets of the former British phone monopoly to form Concert, a combined entity with unprecedented global reach.
+Analysts said the merger increases British Telecom's and MCI's scope for global pooling of resources and strategy coordination and puts pressure on AT&amp;T to beef-up its international strategies even as it must contend with an array of distractions at home.
+"AT&amp;T is the one with the most to lose," said Forrester Research industry analyst David Goodtree. "The company is in danger of becoming just another player," he said, noting how rivals large and small have begun to erode AT&amp;T's long-held dominance of the U.S. long-distance business.
+The former U.S. phone monopoly has seen its share of the country's $75 billion long-distance market slip to under 55 percent from 60 percent two years ago.
+"This deal really forces AT&amp;T to respond and unfold its strategy," said Berge Ayvazian, senior telecoms analyst with Yankee Group in Boston.
+With British Telecom's financial backing, MCI is expected to step up its attack on the $90 billion local U.S. phone market, Ayvazian said. MCI already plows nearly $1 billion a year into the fiber optic networks that will allow its MCI Metro unit to supply local phone service in roughly half the United States.
+AT&amp;T has been groping for a strategy to enter the U.S. market for local telephone services, even as another set of rivals, the regional Bell companies like Bell Atlantic/NYNEX Corp. and SBC/Pacific Telesis Group seek permission to enter the long-distance business.
+"AT&amp;T must now find some counterpoint to the BT-MCI strategy by trying to open up and reveal its local plans," Ayvazian said.
+"The company has become more and more isolated as the Bell companies prepare to enter the long-distance market and as AT&amp;T still relies on a go-it-alone strategy," agreed David Roddy, chief telecommunications economist at the Deloitte &amp; Touche Consulting Group.
+The proposed merger of BT and MCI is just the latest in a succession of threats to AT&amp;T's status as a global telecommunications carrier and its leadership of the U.S. phone business.
+In September, AT&amp;T shocked Wall Street by warning that its second-half earnings would be dampened by continuing pressures in its long-distance business and efforts to gear up to offer local phone service in most of the 50 states. AT&amp;T also said its near-term earnings were being hurt by investments in new online and wireless services.
+The decline in its financial results comes on the heels of AT&amp;T's year-long split-up of the company into three separate pieces, a move widely praised as necessary but one which nonetheless appears to have been a major distraction to its management. AT&amp;T recently completed the spin-off of Lucent Technologies Inc., its former telecom equipment arm, and is planning to spin off its NCR computer operation in coming months.
+The break-up of AT&amp;T  has heightened dependence on its imperiled long-distance phone revenues. Responding to mounting concerns about AT&amp;T Chairman Robert Allen's leadership, the company recently named printing industry executive John Walter as its new president and chief operating officer and Allen's eventual successor after an 18-month transition.
+Wall Street securities analysts have questioned the choice of Walter, an outsider to the telecommunications industry, while simultaneously criticizing the delay in handing over responsibility to him. Even those who praise Walter's track record as chief executive at R.R. Donnelley -- where he successfully engineered a complex transformation of the old line catalog printer into marketer of digital printing services -- said Walter faces a daunting learning curve at AT&amp;T.
+BT still controls the lion's share of the British telephone market, with its grip on local service still amounting to 90 percent. But recent deregulation of the local service market has allowed rivals, including AT&amp;T through its AT&amp;T U.K. operation, to begin competing on BT turf.
+Iomega Corp. said Thursday it plans to apply its computer storage technology to handheld consumer electronics in a way that could lower the cost of saving and transfering data to such devices.
+The reusable data storage system, to be known as "n-hand," could be used in digital cameras, computer game devices, cellular phones and handheld personal computers known as digital assistants.
+In cameras, for example, the technology could function as a removable "digital film" that would replace existing chemical photographic film.
+"Our n-hand technology ... has the potential to change the way consumers use portable electronic devices," said Kim Edwards, president and chief executive of the Roy, Utah-based company, in a statement.
+"We are bringing personal computer-like storage to portable devices," added George Meyer, Iomega's director of marketing for new business, in a telephone interview.
+The n-hand disks are expected to be priced at less than $10 for a 20-megabyte disk, and could be available by the second half of 1997. Iomega said the n-hand disks are about half the size of a business card.
+Several industry analysts said they believe Iomega's technology could help propel digital cameras into the consumer mainstream within a matter of years, by freeing users from the fixed capacity of existing flash memory storage and by substantially reducing the overall cost of such cameras.
+A digital camera could store from 50 to 80 images on a single $10 n-hand disk, Iomega said, depending on image resolution. Consumers now pay hundreds of dollars for a flash memory card capable of holding the same number of images, it noted.
+Jim Porter, a data storage analyst with market research firm Disk/Trend Inc. of Mountain View, Calif., said the Iomega technology could cut the cost of storing photographs by a factor of 20 times.
+A Kodak digital camera costing $499 currently could be priced as low as $300 within a matter of years, he said, reflecting the elimination of more costly digital storage methods.
+Iomega's plans pose a theat to makers of flash memory chips that are used to store digital information in such small electronic devices currently. Leading makers including Sandisk Corp., Intel Corp. and Toshiba Corp.
+In addition, the Iomega system could help accelerate the current digital transformation of the camera industry, leading to a decline in revenues that cameramakers receive from conventional silver halide-based photo film and equipment.
+"With 'n-hand' you have a digital camera that you can treat like a regular camera," Meyer said, referring to the replaceable nature of the Iomega high-density floppy disk system.
+"This technology can make digital cameras much more competitive with regular ones," he said.
+Besides lacking a low-cost removable storage medium, digital cameras offer inferior picture quality but image resolution is improving rapidly, analysts said. This could lead to explosive growth of the new cameras in coming years.
+Shares of the company closed up $1.375 to $25.375 on active trading on Nasdaq. On Friday, Iomega's stock will begin trading on the New York Stock Exchange.
+Iomega Corp's plans to apply its computer storage technology to handheld consumer electronics may fundamentally lower the cost of saving and transfering data to such devices.
+The reusable data storage system, to be known as "n-hand," could be used in digital cameras, computer game devices, cellular phones and handheld personal computers known as digital assistants.  
+In cameras, for example, the technology could function as a removable "digital film" that would replace existing chemical photographic film.
+"Our n-hand technology ... has the potential to change the way consumers use portable electronic devices," said Kim Edwards, president and chief executive of the Roy, Utah-based company, in a statement.
+"We are bringing personal computer-like storage to portable devices," added George Meyer, Iomega's director of marketing for new business, in a phone interview.  
+The n-hand disks are expected to be priced at less than $10 for a 20-megabyte disk, and could be available by the second half of 1997. Iomega said the n-hand disks are about half the size of a business card.
+Several industry analysts said they believe Iomega's technology could help propel digital cameras into the consumer mainstream within a matter of years, by freeing users from the fixed capacity of existing flash memory storage and by substantially reducing the overall cost of such cameras.  
+A digital camera could store from 50 to 80 images on a single $10 n-hand disk, Iomega said, depending on image resolution. Consumers now pay hundreds of dollars for a flash memory card capable of holding the same number of images, it noted.
+Jim Porter, a data storage analyst with market research firm Disk/Trend Inc. of Mountain View, Calif., said the Iomega technology could cut the cost of storing photographs by a factor of 20 times.
+A Kodak digital camera now costing $499 could be priced as low as $300 within a matter of years, he said, reflecting the elimination of more costly digital storage methods.  
+Iomega's plans pose a theat to makers of flash memory chips that are used to store digital information in such small electronic devices currently. Leading makers include Sandisk Corp, Intel Corp and Toshiba Corp.
+In addition, the Iomega system could help accelerate the current digital transformation of the camera industry, leading to a decline in revenues that cameramakers receive from conventional silver-halide-based photo film and equipment.
+"With 'n-hand' you have a digital camera that you can treat like a regular camera," Meyer said, referring to the replaceable nature of the Iomega high-density floppy disk system.
+"This technology can make digital cameras much more competitive with regular ones," he said.
+Besides lacking a low-cost removable storage medium, digital cameras offer inferior picture quality but image resolution is improving rapidly, analysts said. This could lead to explosive growth of the new cameras in coming years.
+Shares of the company closed up $1.375 to $25.375 on Thursday in active trading on the Nasdaq. On Friday, Iomega's stock will begin trading on the New York Stock Exchange.
+-- New York Newsdesk, 212-859-1736
+H&amp;R Block Inc., citing problems facing the online service industry, said Wednesday it has decided not to complete the spin-off of the rest of its CompuServe online unit, at least for now.
+The Kansas City, Mo.-based company, which owns 80 percent of CompuServe after spinning off part of the online service earlier this year, cited CompuServe's recent financial troubles and uncertainties facing the online industry.
+Industry analysts said the problems reflect the changes rippling through the online industry but were also partly unique to Columbus, Ohio-based Compuserve, which has about 5.2 million subscribers, slightly more than half of them outside of the United States.
+America Online Inc., the largest with more than 6 million subscribers, No. 2 Compuserve and Prodigy have all been hurt as users have gone directly to the Internet with lower-cost Internet access providers rather than online services.
+Some analysts have said that the online services, which offer packages of specialised information as well as Internet access, may not survive in the long run, though the eventual shape of the online industry remains far from certain.
+"A lot of the people are going to read this as the online market is at a crossroads and pretty shaky," said one analyst who follows the industry.
+H&amp;R Block spun off 20 percent of CompuServe in April and had planned to distribute the rest to its shareholders.
+But it said Wednesday that it has decided not to present the proposed spin-off of the rest of CompuServe to shareholders at its annual meeting scheduled for Sept. 11.
+"The board continues to believe that a separation of CompuServe is in the best interests of H&amp;R Block shareholders and will continue to consider the matter," H&amp;R Block interim President Frank Salizzoni said.
+CompuServe's stock has dropped from a high of $35.50 on its first day of trading to near $10 recently. The stock rose after Wednesday's announcement because new CompuServe shares still owned by H&amp;R Block will not come onto the market.
+CompuServe added 93.75 cents to $13.25 on Nasdaq, while H&amp;R Block fell $2.125 to $25.75 on the New York Stock Exchange. America Online added 75 cents to $31.625, also on Nasdaq.
+In July, CompuServe shocked Wall Street with a warning that it expected a loss for its first quarter ended July 31, its first as a publicly traded company.
+The company blamed the high costs of introducing its new Wow! consumer online service and investing in an overhaul of its network infrastructure, as well as a decline in overall subscriber growth as cancellations outpaced new customers.
+In response, CompuServe and H&amp;R Block were slapped with a shareholder lawsuit alleging they had misrepresented the online service's prospects in the prospectus for the stock offering.
+When the company last week reported a first-quarter loss of $29.6 million, or 32 cents a share, it also warned investors that losses would continue for the second quarter ending in October.
+H&amp;R Block, which is also the nation's largest consumer tax filing service, is likely to wait for the online industry to settle down before completing the spin-off, analysts said.
+In addition to the losses, H&amp;R Block cited the planned introduction next month of new technology for CompuServe and its new Wow! service.
+Meanwhile, America Online has had problems of its own, including price cuts to stay competitive with Internet access providers and an embarrassing 19-hour service blackout earlier this month. But analysts said that in contrast to CompuServe, America Online has continued to grow, though at a slower pace.
+"The problems CompuServe is having are likely to benefit America Online in the next nine months," one analyst said.
+Leading data networking stocks settled back for a round of profit-taking Tuesday after the strong price gains of recent weeks, securities analysts said.
+After opening at a 52-week high of 67, industry flagship Cisco Systems Inc retreated throughout the day and was trading off 1-3/8 to 65-1/8.
+Similarly, Cabletron Systems Inc and 3Com Corp began to fall immediately after Tuesday's opening. By mid-afternon, Cabletron had lost 1-1/8 to 67-3/4, while 3Com was down 2 to 70-1/8.
+Chips stocks, especially those of PC-related manufacturers, posted across-the-board gains Tuesday after the release of a monthly industry report showing robust demand in the North American semiconductor market.
+Also showing strength in early trading were stocks of companies that make programmable logic devices, including Altera Corp Lattice Semiconductor Corp and Xilinx Inc.  
+"I think most of the upside is still coming from the PC industry," said Nimal Vallipuram, a Bear Stearns chip analyst. "I dont think this is information for an industry turnaround."
+The upswing in the industry ratio of chip bookings to orders rose to 1.10 in October from 0.98 in September, while expected to a degree, surprised analysts by its extent.
+The report was largely a sign of general industry health, as the ratio offers little insight into specific segments.
+Still, it lifted commodity chipmakers, which had stumbled badly recently, including Motorola Inc, up 1-1/8 to 51-1/8 and Texas Instruments Inc, up 1/2 to 56-1/2.  
+Microprocessor giant and industry flagship Intel Corp rose 1-1/4 to 125-1/8, while PC graphics suppliers Chips and Technologies Inc swelled 2 to 26-3/8 and Trident Microsystems Inc gained 1-1/4 to 22-1/8.
+"The magnitude of the improvement was a surprise, but Wall Street has been expecting an improvement," said Mona Eraiba, semiconductor analysts at Gruntal &amp; Co.
+Among Eraiba's favorites are market niche players such as VLSI Technology Inc, up 1-1/16 Tuesday to 21-1/8, National Semiconductor Corp, which nudged up only 1/8 to 22-5/8 and Lattice, up 5/16 to 40-1/4.
+She also cited Motorola and Texas Instruments, which she considers to have relative upside potential based on the shellacking their stocks have taken in recent quarters.
+Vallipuram recommends Intel and Adaptec Inc, which makes PC interconnection devices. He also favors Xilinx and Altera, both up 7/8 to 41-1/4 and 70-3/8, respectively.
+Reflecting broad sector strength, the Philadelphia Semiconductor Index .SOXX of 16 leading chip stocks gained nearly five points in early trading. At 1039 EST/1539 GMT, the index stood at 3.32, up 1.56 percent on the day with 12 stocks posting gains, two losing ground and two unchanged.
+-- Wall Street bureau, 212-859-1736
+Promising the computer industry equivalent of universal harmony, a U.S.-based start-up formed by a brain trust of Israeli computer scientists Monday unveiled a technology that promises to overcome barriers dividing users of rival software programs.
+Anysoft Inc. said its set of software technologies allows computer users to manipulate information from any application while retaining all formatting and other properties.
+The system functions as an underlying layer of operating system software, but independent of any one operating system. An operating system controls the basic functions of a computer. Anysoft officials asserted the system can handle text, numerical data, graphical images, video and other data, including information available only at remote Internet sites.
+"This is the beginning of true software interoperability," Anysoft Chief Executive Illan Poreh said in a statement. "For the first time, all applications, including those that have not incorporated the ANY Technologies, will work together."
+The private Cambridge, Mass.-based firm is backed by Bank Leumi, Israel's largest bank, and 21 private investors, including several senior executives at modem maker U.S. Robotics Corp..
+In an interview, Anysoft founder Poreh said the company's team of software programmers was handpicked from among top professors and graduate students at leading Israeli universities, including Technion, the Israeli Institute of Technology.
+Industry analysts briefed on the technology hailed it as a decisive breakthrough, based on its potential to liberate computer users from dependence on any single operating system, such as Microsoft Corp.'s Windows.
+"This is certainly one of the most significant technologies I've seen in the past five years," said veteran industry analyst Tim Bajarin, who heads Creative Strategies, a San Jose, Calif.-based consulting firm.
+"What Anysoft has done is taken software interoperability beyond a forced Windows-X86 environment," Barjarin said, referring to the ruling combination of Microsoft software and Intel Corp. software and hardware systems.
+Nonetheless, Anysoft's audacious goal is set against a history of failed industry attempts to create a universally accepted format capable of handling all types of computer data.
+In recent years, leading computer makers like International Business Machines Corp., Digital Equipment Corp. and Hewlett-Packard Co. have rallied around a common software compabability standard known as CORBA.
+However, this and similar initiatives have been hamstrung by competitive rivalries among industry players and the belief that programmers must unify around a single standard for creating software.
+Microsoft's own effort at ushering in a "Golden Age" of software compatability has gone by several names, such as Object Linking and Embedding (OLE), and ActiveX, its Internet-based compatability standard.
+But Microsoft's efforts have met with foot-dragging by companies unwilling to cede the software giant any more standard-setting power than it already has.
+By contrast, the ANY concept is based on the seemingly simple idea that the only univeral information from different operating systems is what computer users see displayed on a screen.
+"The screen is the only standard that everyone is using," Poreh maintained.
+Anysoft has created software extensions that give computer users the perception of compatibility without having to address underlying programming differences that have ensnared previous efforts, he said.
+Anysoft's go-it-alone strategy depends on seeding its technology widely among software companies, Internet service providers and large corporations developing their own software applications, all of which might include Anysoft's universal data routing features in their own products.
+Consumers would have to wait until products using the technology become available from these companies.
+Poreh said he plans to charge companies using Anysoft technology in their products a licensing fee starting at around $20,000 and running up to $400,000, depending on the potential number of users of the product.
+In addition, Poreh said Anysoft plans to ask for a royalty of 1 percent to 3 percent, or a flat fee, again depending on the potential number of customers.
+ANY technology is designed to extend software systems such as Windows or Lotus Notes, and existing compatibility programs such as Adobe Systems Inc.'s  Acrobat, Sun Microsystems Inc.'s Java or even the Internet, rather than replace them, Anysoft officials said.
+Anysoft said it has held licensing talks with five of the world's top 10 independent software development companies, including IBM.
+Poreh said IBM's main interest appeared to be in using ANY technology to recover data from so-called "legacy" applications running on older mainframe computers where the underlying software is no longer being actively maintained.
+ANY technology currently works with software running on Microsoft's Windows operating systems. The technology is in the process of being made compatible with Apple Computer Inc.'s Macintosh, IBM's OS/2 and the Unix-based X/Windows operating system, company officials said.
+Shiva Corp stock rose five points Wednesday amid resurgent speculation that it may be an acquisition target of a major network equipment player.
+    "It sure looks like people are speculating that its going to be taking over," said Robertson Stephens analyst Paul Johnson, who maintains a long-term attractive on the stock.
+    Shiva shares have risen nearly 14 percent in the last two days. By early afternoon Wendesday, the stock was trading at 53-3/4, up 5 points on the day.
+    Shiva declined comment on what it called "a market rumor."
+ "We have had rumors like this before," said Cynthia Deysher, Shiva's chief financial officer. "Our firm policy on this is not to comment on market rumors," she said.
+    Several analysts said signs of merger speculation were apparent in the stock's recent gains.
+    Cowen &amp; Co analyst Chris Stix noted that Shiva was mentioned in a trade magazine gossip column published Monday as among potential merger candidates in the network industry.
+    The article, published in the November 11 issue of Communications Week, spoke of a possible tie-up between rival Ascend Communications Inc and Shiva, among others.
+    Stix said another factor behind the rebound in recent weeks of Shiva's share price may be the company's comments in public forums that it has a potential major contract win with a major telecom carrier it has declined to name.
+    The Cowen analyst maintains a strong buy on Shiva.
+    The stock hit a low of 38 in late September, following a steep three-month decline from its historic high of 87 reached in June, when it was a favorite among momentum investors.
+    Although enthusiastic about Shiva's business fundamentals, Johnson discounted any recent product announcements as the cause behind the recent share price moves.
+   "This doesn't appear to me that its product-related. It's too violent," he said. "It's not valuation-related either."
+    Analysts consider Shiva one of two pure plays in the explosively growing market for remote access
+telecommunications equipment. The other is high-flying Ascend, the dominant player in the market.
+    Johnson said Shiva might also prove attractive to any of the large data networking companies seeking to gain quick market share in the remote access business.
+    "With a company in Shiva's position, I can't think of a company that wouldn't be interested," he said.
+ Johnson said that Shiva, which by his estimates has 13 percent of the remote access market, may prove attractive to any of the major network industry leaders -- Cisco Systems Inc, 3Com Corp or Bay Networks Inc.
+    He left off Cabletron Systems Inc from the list of potential buyers, noting that Cabletron had acquired Network Express Inc in May to beef up its remote access line.
+    Shiva has carved out a strategic niche in the market for remote acccess products, which are used by companies, Internet service providers and telecommunications carriers to handle data communications over far-flung wide-area networks.
+    Shiva is the No. 3 supplier in remote acccess, behind Ascend, which  holds 40 percent of the market, and U.S. Robotics, a more diversified company with a 31 percent share, according to Johonson's estimates.
+    Stix said Shiva, in partnership with Northern Telecom Ltd, has the lead in a new type of network switching product that allows telephone carriers to address the growing overload of their voice networks by Internet data traffic.
+    -- Wall Street bureau, 212-859-1736  REUTER
+CompuServe Corp investors' fears were allayed Wednesday by parent company H&amp;R Block Inc's move to postpone plans to spin off the remaining 80 percent interest in the ailing online service.
+Analysts said the looming innundation of the market by the 74.2 million CompuServe shares still held by H&amp;R Block had weighed heavily on prospects for the already troubled issue.
+"I'm glad that H&amp;R Block came to their senses," said analyst Peter Krasilovsky of Arlen Communications.  
+The analyst noted CompuServe has enough worries from sliding online membership counts and the failure of its new WOW! consumer service to attract a following. It didn't need added pressure from the pending share distribuion.
+Other analysts hailed H&amp;R Block's decision to postpone indefintely a shareholder vote on its proposed spin-off, but were concerned about what the move suggests for the future of stocks such as CompuServe and America Online Inc.
+"A lot of the people are going to read that the online market is at a crossroads and pretty shaky," said one analyst of online providers who does not officially follow CompuServe.  
+"A lot of people are going to relate this to the online industy in general," he said of how CompuServe's troubles have acted as a weight on America Online's stock price, as well.
+But analysts said that while competition by Internet access providers may have played a part in slowing the growth of the established online service providers, most of CompuServe's problems remain unique and are not shared by AOL.
+CompuServe stock rose 1-3/16 to 13-1/2 Wedndesday, but H&amp;R Block fell 1-5/8 to 26-1/4 in active trading. America Online stock gained 3/4 to 31-5/8 by mid-afternoon.  
+"The problems are 85 percent CompuServe and 15 percent due to general industry issues," said another Wall Street analyst. "If anything there may be a bit of an industry shake-out here."
+The Columbus, Ohio-based online service has weathered difficult months since its debut as a separately traded stock.
+In April, H&amp;R Block spun off nearly 20 percent to the public, retaining 80 percent or so for eventual distribution to shareholders. Shares of the online service have slid from a first-day high of 35-1/2 to just above 10 recently.  
+In July, CompuServe surprised Wall Street with a warning that it expected a big loss for its first quarter ended July 31, its first as a publicly traded company.
+The company attributed the loss to the high costs of introducing its new WOW! consumer online service and investing in an overhaul of its network infrastructure. It also cited a decline in overall subscriber growth as cancellations outpaced new customers.  
+In response, CompuServe and H&amp;R Block were slapped with a shareholder lawsuit alleging the company had misrepresented the online service company's prospects for subscriber growth and profitability in its initial offering prospectus.
+When the company actually reported first-quarter earnings August 20, it warned that investors to expect a further loss of $0.10 to $0.15 per share for the second quarter ending in October. It cited product-introduction costs.  
+Fearing it might be adding fuel to the fire, H&amp;R Block officials opted to delay the final CompuServe share distribution vote set for September 11 until more favorable market conditions develop, Wall Street analysts said.
+America Online has had to contend with business issues of its own, including a price cut to remain competitive with rival Internet access providers and an embarrassing 19-hour service blackout earlier this month.
+But analysts said that in contrast to CompuServe's falling subcriber rates, America Online has continued to grow, albeit at a slightly slower pace in the summer months.
+In contrast to CompuServe, they said America Online is poised to see strong membership growth in the coming quarters, and may in effect be taking customers away from CompuServe.
+"The problems CompuServe is having are likely to benefit America Online in the next nine months," an analyst said.
+-- Eric Auchard, New York Newsdesk, 212-859-1736
+Intel Corp shares slid another four points on Friday, continuing a three-day retreat triggered by smaller rival Advanced Micro Devices Inc's statement that its turnaround plan is on track.
+But analysts and money managers were unruffled by what they said was profit-taking in Intel and a temporary shift among some momentum investors to AMD and away from Intel.
+Intel stock has lost about six percent of its value since Wednesday, when Advanced Micro said it was sampling its Pentium-like K6 chip, which its expect to ship in early 1997.  
+Intel closed at 115-7/8, down 4, on volume of 15 million shares, marking it as the most active Nasdaq stock. Intel, a key component in the Nasdaq Composite index, has acted as a drag on the market even as the NYSE has hit new record highs.
+The Nasdaq Composite Index closed at 1261.81, off 8.55.
+Edwin Turney, a Silicon Valley-based technology money manager who runs the Panagea fund, agreed, saying: "You have a lot of profit-taking and then you have got the momentum players who have had a hell of a run in the last 6 months.
+"So now they are looking at the secondary players," Turney said, referring specifically to Advanced Micro.  
+"AMD has been a catalyst for other people to take profit," agreed Merrill Lynch semiconductor analyst Thomas Kurlak.
+"There is really nothing specifically to explain (Intel's recent decline). It's just another wiggle in the chart."
+Soundview President James Townsend agreed AMD's announcement may have provided an excuse for some investors to temporarily shift out of Intel.
+"With a stock that has been this incredibly successful, it may be enough to take some profits off the table," Townsend said. He was referring to Intel's impressive 50 point rise to new record levels since mid-summer.  
+AMD stock has languished in recent years after repeated failures to match Intel's Pentium technology. However, since Wednesday, the stock has gained more than 20 percent. It closed at 25-1/8, up 1/2 point on the day on Friday.
+Analysts said AMD's new K6 chips are not compatible with Intel latest Pentium Pro chips, but the chip could do a healthy business as a simple Pentium alternative.
+"There's clearly room enough for both companies to do well," said C.B. Lee, an analyst at Hancock Institutional Partners, who follows both Intel and AMD.  
+"Clearly, AMD has had some impact in the minds of some investors," Lee said of Intel's declines in recent days, but added: "In my mind AMD is not a threat."
+Analysts expect Intel to produce 20 million Pentium microprocessors in the current quarter, while AMD will build only a tiny fraction of that number -- and less powerful processers at that.
+Like most chip sector securities analysts, Kurlak maintains a strong buy on Intel and a neutral rating on AMD.
+Lee said he also remains neutral on AMD, "but its back in my good graces" with its plans to introduce the K6 chip.
+In the last week, Prudential Securities analyst Mark Edelstone was alone among Wall Street analysts in upgrading AMD to a buy from a hold in response to the K6 announcement.
+-- New York newsdesk, 212-859-1736
+Microcom Inc and Rockwell Semiconductor Systems said Wednesday they plan to beef up their technology partnership to speed development of higher speed 56-kilobit modems for central switch equipment.
+The 56 kilobit modems would allow computer users to connect to the Internet at speeds nearly double the rate of current 28.8 kilobit modems now available using standard phone lines.
+The deal builds on a decade-old product development partnership between Microcom and Rockwell. Rockwell Semiconductor is a unit of Rockwell International Corp.  
+New Microcom central site switch equipment would give the receiving end -- phone carriers, Internet Service Providers (ISPs) and corporate central offices -- the capacity to handle incoming calls from computers with 56 kilobit modems.
+"It increases the market scope of Rockwell's 56k offering," said Prudential analyst Jim Thayer of Rockwell's 56 kilobit modem plans. He maintains a buy rating on Microcom.
+However, Hambrecht &amp; Quist analyst Rakesh Sood said the Microcom/Rockwell pact was a defensive response to a U.S. Robotics Inc initiative already well under way by the company to offer its own set of 56 kilobit modem products.  
+In the Rockwell/Microcom pact, Rockwell will contribute its K56Plus modem chipset to the venture, while Microcom will offer its Modemware technology, a software interface that other equipment providers license to build their own modems.
+To speed 56k development, Rockwell said it is opening an East Coast development center with 15 to 20 Rockwell engineers working alongside Microcom staff. The center will initially be at Microcom's headquarters in Norwood, Massachusetts. Rockwell is based in Seal Beach, Calif.  
+As part of the partnership, Rockwell and Microcom are working together to drive standards development of a new high speed modem standard that would incorporate Microcom's MNP (Microcom Networking Protocol) standard.
+Modems based on the Rockwell chip design would not be compatible with those from Robotics until an industry-wide standard for compatability can be hammered out, which no industry player seriously expects before 1998.  
+In the intervening period, modems based on Rockwell's standard will work only with central office switches from partners such as Microcom, while Robotics modems will work only with equipment offered by backers of its standard.
+U.S. Robotics has licensed its X2 56 kilobit technology to chipmakers Texas Instruments Inc and Cirrus Logic Inc and to modem supplier Cardinal Technologies Inc CRTK.O.
+Robotics plans to introduce 56 kilobit modems in January and remote access equipment in February, a spokeswoman said.
+Rockwell's own 56 kilobit plans have been slower getting off the ground, but the company has said it too plans to introduce new 56k modems in the first quarter of 1997.  
+Nonetheless, Rockwell's technology has been embraced by Ascend Communications Inc and consumer modem makers Boca Research Inc, Hayes Microcomputer Inc and Zoom Telephonics Inc, who are unhappy doing business with rival U.S. Robotics Inc, the dominant consumer modem supplier.
+Microcom said it plans to incorporate the Rockwell K56Plus technology into central site modem systems that it sells both directly and indirectly, through partnerships with Cisco Systems Inc, Bay Networks Inc, Digital Equipment Corp and Gandalf Technologies INc.  
+Microcom officials said they expect Rockwell/Microcom modems to be adopted by many network equipment makers who fear relying on Robotics, which is seen as a competitive threat.
+Microcom said products based the Rockwell design will be available for test and evaluation early in 1997 and that finished products will ship in central site and remote modem equipment by late in the first quarter of 1997.
+Thayer argued the schism over standards should buy time for the Rockwell camp and may allow it to gain market share from Robotics due to Rockwell's wider base of support.
+"They should have a fairly high share of 56 kilobit market over time," Thayer said of the Rockwell/Microcom partnership.
+However, Sood argues the market for 56 kilobit modems will come largely from home computer users not office workers, who have access to other high-speed communications alternatives.
+This plays to U.S. Robotics' strength as an equipment supplier to a majority of the top 10 Internet access providers aimed at consumers, like America Online Inc and Netcom On-line Communications Inc, Sood said.
+-- New York Newsdesk, 212-859-1736
+Acknowledging its failure to attract U.S. consumers, CompuServe Corp said it would disband its family-oriented Wow! online service and plans to defend its business and technical customer base.
+The world's second-largest online service also said it would accelerate the way it expenses customer marketing costs and that it was taking a $28.6 million charge in the latest quarter for previously incurred subscriber acquisition costs.
+Instead, it said it would pursue higher margin businesses, including international consumer markets, such as Europe.  
+"For CompuServe, this represents a strategic retreat back to its basics," said Peter Krasilovsky, a veteran analyst of the online industry at Arlen Communications in Bethesda, Md.
+"CompuServe will never contend for the King's mantle among the online service/Internet service providers in North America again," he declared.
+CompuServe stock fell 1-5/8, to 10-1/8, in early trading. H&amp;R Block Inc, which several months ago suspended plans to spin off its remaining 80 percent stake in CompuServe to shareholders, fell 1-1/2, to 26-7/8.  
+Earlier today, H&amp;R had reported a substantial loss for its quarter ended October 31, citing CompuServe's turmoil, and said it planned to go ahead with a cut in its quarterly dividend payment to $0.20 per share from $0.32 previously.
+In its own report, CompuServe said it lost $0.63 per share for the second quarter ended in October, after charges for exiting the Wow! business and other accounting changes. This compared to a $0.19 a share profit in the year-ago quarter.
+Disbanding Wow! resulted in an after-tax charge of $4.9 million, or $0.06 a share, and amortization of prior marketing costs led to the charge of $28.6 million, or $0.31 a share.  
+"CompuServe's core users have always appreciated that service most for its independent forums and bulletin boards. They don't have any other place in cyberspace to get those services," Krasilovsky said.
+CompuServe officials stressed that no new layoffs would result from the latest moves. Wow!'s 35 employees have already been absorbed into CompuServe Interactive, they said. The company's total headcount stands at about 3,200 worldwide.
+In a telephone interview, CompuServe spokesman Steve Conway maintained that while his company was abandoning further mass marketing efforts aimed at U.S. consumers, "If you are currently a subscriber, you will not notice a change."  
+Nontheless, the Columbus, Ohio-based company said it would focus its efforts and investments going forward on business and professional markets, its traditional selling point.
+Besides defending its core online services customer base, they said CompuServe will focus on other profitable operations like its network systems infrastructure unit, which generates 30 percent of total revenues.
+In disbanding its Wow! service, the company blamed new market entrants, or Internet service providers, pricing competition and the high costs of consumer marketing.
+The company announced plans to launch early next year a new "CompuServe for Business" serivce, an enhanced version of its core CompuServe Interactive with a new software interface and added content from "thousands" of information providers.  
+Despite a series of missteps in the United States, growth remains robust overseas, where CompuServe's brand is the best recognized name among online and Internet access providers.
+Conway said CompuServe Interactive's service has nearly doubled in its number of subscribers in Europe during the past 12 months, rising to more than 800,000 from about 450,000. "It's a growing market for these services, and we outpaced the market," he said.
+About 60 percent of CompuServe's European customers are for business, professional and technical users, while 40 percent fall in the consumer category, Conway said.
+That's roughly the inverse of North America, where about 55 percent of CompuServe's main service are consumers.
+The 800,000 customers represent the bulk of CompuServe's international base, which totaled 1.12 million at October 31.
+The Wow! service had been introduced only seven months ago to much fanfare, but failed to get off the ground.
+CompuServe Vice President Scott Kaufman, the man in charge of developing the Wow! service, promised at the time Wow! was lauched to carpet bomb consumers with free software disks promoting the new service.
+"They'll be falling out of cereal boxes," he had vowed at the time.
+-- New York newsdesk, 212-859-1736
+Semiconductor equipment stocks surged Friday on fresh signs the downturn in the chip industry has hit bottom, and the buying spilled over into some computer chip makers as well.
+Investors jumped in after the leading maker of equipment used to produce computer chips, Applied Materials Inc., gave support to the growing consensus in the industry that the market for chip-making machinery would turn up in 1997.
+Applied Materials on Thursday reported lower earnings for the latest quarter but also said that even at the low point in the current technology spending cycle, it expected profit margins to stay higher than in prior downturns.
+That was enough for investors to rush in, even while the industry's profits have yet to start a meaningful rebound. Semiconductor equipment stocks are often seen by investors as bellwethers for the next wave of technology growth.
+"Now we have an indication out of Applied Materials that the bottom is not as deep as some may have worried or suggested," said Deutsche Morgan analyst Elliott Rogers, who was one of several analysts to raise Applied to "buy" from "hold" Friday.
+Applied Materials stock surged $6.625 to $38.625 in afternoon trading on Nasdaq, where it was the most active issue with more than 21 million shares traded.
+In addition to Applied Materials, KLA Instruments Corp. rallied $5 to $38.25, Tencor Instruments rose $5.50 to $26.75, and Lam Research Corp. increased $4.625 to $34.125.
+The four equipment stocks were among Nasdaq's 10 most active, while Intel Corp., the world's biggest chip maker, rose $3.125 to $122.
+Other chip equipment makers also rose, including PRI Automation Inc., up $6.375 to $42.875, and Novellus Systems Inc., up $8 to $57.875.
+After the market closed Thursday, Applied Materials said profits fell 53 percent to $73.1 million, or 40 cents a share, for its fourth fiscal quarter, which was about in line with expectations.
+But Wall Street analysts widely believe a new chapter has begun to unfold for the chip industry, which could lead to a rebound in orders for production equipment.
+The recovery is expected since sales of personal computers appear to be picking up, which means renewed demand for additional chip-making equipment cannot far behind. PCs soak up about half of all semiconductors produced worldwide.
+The chip industry over the years has become notorious for its boom-to-bust cycles. Many now argue that the latest year-long slow-down in semiconductor equipment spending has stabilised, leaving the industry poised to begin another of its cyclical upturns early next year.
+This could come even after chip makers aggressively built plants and added capacity last year, which flooded the market and led to a glut of chip inventory earlier this year.
+Alex. Brown analyst Byron Walker said that during a conference call Thursday, Applied Materials executives said they saw equipment order rates stabilising.
+But while Walker upgraded Applied Materials and other stocks in the group, he cautioned the companies might be hurt next year by a continued glut of computer memory chips, the biggest category of semiconductors.
+Investors snatched up semiconductor equipment stocks Friday amid further signs the cyclical downturn in chips has hit bottom, spurring a round of buy ratings to be issued for leading industry names.
+The buying spree followed comments by sector flagship Applied Materials Inc that even at the low-point in the current cycle, the company expects its profit margins to remain higher than in previous market cycles, analysts said.
+Applied shares gained 4-3/4 points to 36-3/4 in early trading Friday on extremely heavy volume of 11 million shares.  
+"Now we have an indication out of Applied Materials that the bottom is not as deep as some may have worried or suggested," said Deutsche Morgan analyst Elliott Rogers, who was one of several to raise Applied to buy from hold Friday.
+Besides Applied, KLA Instruments Corp rallied 5-7/8 to 39-1/8 while both Tencor Instruments and Lam Research Corp sailed up 4-3/8 points, to 25-5/8 for Tencor and 33-7/8 for Lam, respectively.
+The four equipment stocks were among Nasdaq's six most active, while microprocessor giant Intel Corp, the most likely benificiary of a recovery, was up 2-1/8 to 121.  
+Chip equipments were also marquee names among net percentange gainers on Nasdaq, with Novellus Systems Inc and PRI Automation Inc featured. Novellus rose 6-41/64 points to 56-5/8 and PRI gained 4-1/4 to 40-3/4.
+Alex. Brown analyst Byron Walker said that during a conference call Thursday, Applied Materials executives had spoken of a potential stabilization of equipment order rates.
+But while Walker joined the rush to upgrade Applied and others in the group to buy from neutral, he cautioned that he considered these stocks near-term "trading vehicles" that could be hurt by the continued glut of memory chips in 1997.  
+Several analysts said the rush to buy semiconductor equipment stocks reflected a positive upturn in chip industry book-to-bill figures released earlier this month, which suggested the rebound in the chip market is expanding beyond PC-related chip sets to include other industrial markets.
+"Clearly the IC (integrated circuit) industry, lead by Intel is posting a nice rebound," Rogers said.
+"More importantly at least for (Applied is that) their margins are more sustainable at the trough than was the case in the prior cycle," Rogers said of the 1991-1992 downturn that crunched profits in the typically boom-to-bust industry.
+He said Applied's operating margins were unlikely to dip under "the low to mid-teens" in the current cycle of inventory correction compared with the low-point of the 1991-1992 cycle, when operating margins of eight to nine percent obtained.
+Several analysts, including PaineWebber's Gunnar Miller and DMG's Rogers, argued that valuations of the group did not reflect the sector's rebounding earnings potential.
+Rogers said he had bumped up his earnings estimates on Applied's fiscal 1997 year to $1.90 per share from $1.85. He maintained his estimate of $3.40 per share for fiscal 1998.
+Thursday, after the market close, Applied Materials had released earnings for the fourth quarter ended October 27 of $0.40 per share, excluding a $0.09 per share charge, which analysts described as in line with expectations.
+"More to the point, prior to last night I thought I was going to have to cut the number," Rogers said of his decision to increase his earnings projection for fiscal 1997.
+-- E. Auchard, New York newsdesk, 212-859-1736
+CompuServe Corp., acknowledging its failure to attract U.S. consumers, said Thursday it would disband its family-oriented Wow! online service and focus on its business and technical customers.
+The world's second-largest online service also said it would accelerate the way it expenses customer marketing costs and that it was taking a $28.6 million charge in the latest quarter for previously incurred subscriber acquisition costs.
+The company said it would pursue businesses with higher profit margins, including international consumer markets, espcially those in Europe.
+"For CompuServe, this represents a strategic retreat back to its basics," said Peter Krasilovsky, a veteran analyst of the online industry at Arlen Communications in Bethesda, Md.
+"CompuServe will never contend for the king's mantle among the online service/Internet service providers in North America again," he said.
+CompuServe officials stressed no layoffs would result from the latest moves. Wow!'s 35 employees have already been absorbed into CompuServe Interactive, they said. The company's total head count stands at about 3,200 worldwide.
+The company laid off 150 employees, or 4 percent of its work force, in an earlier cutback announced last summer.
+CompuServe's moves come on the heels of recent aggressive actions by rival America Online Inc. to stay on top by offering a series of new pricing options, including a flat monthly rate of $19.95, and by shutting down its direct Internet access service.
+Since CompuServe's parent, H&amp;R Block Inc., sold 20 percent of the online service to the public in April, CompuServe has struggled to keep up with America Online, the largest online service, and with a host of Internet-based competitors.
+America Online has more than 7 million subscribers. As of Oct. 31, CompuServe said it had 3.3 million direct worldwide subscribers. NiftyServe, its Japanese licensee, had a total of 5.3 million, roughly the same level as in July.
+In reaction to CompuServe's continuing troubles, H&amp;R Block in August shelved plans to spin off the 80 percent of CompuServe it still owns.
+Since CompuServe's initial public stock offering in April, its prospects have dimmed, with its stock tumbling from an initial price of $30 a share. The stock fell 94 cents Thursday to $10.69 on Nasdaq.
+Earlier Thursday, H&amp;R reported a substantial loss for its second quarter ended Oct. 31, citing CompuServe's turmoil.
+Krasilovsky said CompuServe's plan to go back to basics was "very realistic," but added "too bad they didn't do it a year-and-a-half ago."
+The analyst said he expects the company to reposition itself to provide niche services to business customers who don't want to pay for a high-level premium online service.
+In a telephone interview, CompuServe spokesman Steve Conway said that while his company was abandoning further mass-marketing efforts aimed at U.S. consumers, "If you are currently a subscriber, you will not notice a change."
+Nontheless, the Columbus, Ohio-based company said it would target its efforts and investments at business and professional users, its traditional strength.
+Wow! was introduced seven months ago to much fanfare, but failed to get off the ground. Wow! customers numbered 102,000 at latest count, the company said.
+The company blamed the failure of Wow! on new market entrants, or Internet service providers, pricing competition and the high costs of consumer marketing.
+The company also said it plans to launch early next year a new "CompuServe for Business" service, an enhanced version of its core CompuServe Interactive with a new interface and added content from "thousands" of information providers.
+Despite a series of missteps in the United States, growth remains robust overseas where CompuServe's brand is the best recognised name among online and Internet access providers.
+In Europe, for example, CompuServe said subscribers to its main CompuServe Interactive online service had nearly doubled to more than 800,000 in the past year.
+More than $1 billion in royalty payments to Texas Instruments Inc from Samsung Electric Co Ltd will bolster Texas Instruments's net income, and allow it to focus on more profitable lines of business.
+But while the deal reassured some Wall Street analysts who were not already counting on the additional earnings from the settlement, others noted the terms appeared to be far less generous than one with Samsung in 1995.
+The stock, which gained 4-3/8 to 60-7/8 by late Wednesday, was among the most actively traded stock on the NYSE.  
+Earlier, Texas Instruments said it expected Samsung to pay it more than $1 billion as part of a 10-year technology cross-licensing pact. In exchange, each side agreed to drop pending patent infringement lawsuits against each other.
+"Our assessment is that the agreement is at roughly 40 to 50 percent of the rate of the old agreement," Merrill Lynch analyst Tom Kurlak said, referring to the royalty formula for Samsung to pay Texas Instruments.
+"Texas Instruments appears willing to take a lower number to get the suits dropped against them," Kurlak said. The analyst maintained an attractive rating on the stock.
+Texas Instruments Inc. said Tuesday it set a licensing pact with Samsung Electronics Co. Ltd. of Korea that will generate royalty payments of more than $1 billion over 10 years.
+In exchange, each side agreed to drop pending patent infringement lawsuits against each other.
+The agreement replaces a previous five-year deal that expired at the end of 1995, the Dallas-based maker of computer chips, notebook computers and other electronics products said.
+While the deal reassured some Wall Street analysts who were not already counting on additional earnings from the settlement, others noted the terms appeared to be far less generous than one with Samsung in 1995.
+"Texas Instruments appears willing to take a lower number to get the suits dropped against them," Merrill Lynch analyst Thomas Kurlak said.
+"Our assessment is that the agreement is at roughly 40 to 50 percent of the rate of the old agreement," Kurlak said of the royalty formula Samsung will use to pay Texas Instruments.
+The new license, which runs until the end of 2005, covers a broad base of patents from both companies, including those for semiconductors, personal computers, consumer products and telecommunications equipment, Texas Instruments said.
+"We are pleased with this agreement and the value it places on our patented technology," said Richard Agnich, a senior vice president and general counsel at Dallas-based Texas Instruments.
+The company in 1985 started to more aggressively defend alleged unauthorised use of its technology in a bid to improve the value of its intellectual property within the semiconductor industry. In the intervening decade, the company has won billions of dollars in additional royalties, a spokesman said.
+Texas Instruments said it expected Samsung to pay it about $105 million in the fourth quarter for "catch-up royalties" covering the first nine months of 1996 when the companies were battling in court.
+Analysts said the "catch up" payments should substantially boost earnings for the quarter ending in December, but the gain will be offset by a charge for an undisclosed amount the company plans to take for an early retirmement programme.
+Kurlak estimated Texas Instruments will see $35 million in additional quarterly royalties going forward as a result of the Samsung deal, but that is down from the roughly $85 million it received quarterly from Samsung at the end of 1995.
+With this deal, Texas Instruments said it has almost completed its 1995 round of patent cross-license agreements with major semiconductor makers.
+Earlier in the year, Texas Instruments reached 10-year deals with Fujitsu Ltd., Oki Electric Industry Co. Ltd. and Matsushita Electric Industrial Co. Ltd.
+It said talks continue with NEC Corp. and several smaller producers.
+The royalty payments will bolster Texas Instruments's net income, and allow it to focus on more profitable lines of business, analysts said.
+Texas Instrument stock jumped $4.375 to $60.875 on the New York Stock Exchange.
+Small capitalization technology stocks shrugged off a wave of profit-taking that socked blue chip stocks Monday as investors shopped for values among beaten- down or lesser known names, especially in the Internet sector.
+"Some of the second- and third-tier technology names have become the focus," agreed Scott Bleier, chief investment strategist at Prime Charter Ltd.  
+Among the beneficiaries of this broadening interest in technology stocks were America Online Inc, up 4-1/8 to 39-1/2 and Adobe Systems Inc, up 2-1/4 to 41-3/4.
+Informix Corp was the most actively traded issue on the Nasdaq, gaining 1-1/4 to 25 by mid-afternoon Monday, following reports that its next-generation Universal Server database has the edge over rival Oracle Corp.
+Other strong gainers included Netscape Communications Corp, which rose 2-1/8 to 58 and electronic payment company CyberCash Inc, which gained 2-7/8 to 28-1/8.  
+"We are stepping down the liquidity and quality ladder," said Paul Rabbit, Oppenheimer's chief portfolio strategist. "(Investors) are trying to find some of the beat up ones," he said, adding, "There is a search for less exploited areas."
+"Today is the first (trading) day of a new month and there appears to be a little profit taking here, but it doesn't appear to be affecting the technology stocks," Bleier said.
+Analysts said investors were shying from bellwethers Intel Corp and Microsoft Corp following their strong run-up in November, even as International Business Machines Corp hit a new year-high.  
+Intel was down 1-1/8 to 125-3/4 on volume of nearly five million shares, while Microsoft shed 1-1/4 to 155-5/8. Both stocks remain near historic price levels. The Dow Jones composite index was off 41.74 to 6479.96.
+-- Wall Street bureau, 212-859-1736
+America Online Inc's new flat rate pricing plan and moves to meet spiraling subscriber demand suggest AOL is securely on course for becoming a major media player comparable to broadcast or cable TV networks.
+But analysts caution that underlying this success looms a real threat that the online network's capacity to serve its more than seven million subscribers could soon be overwhelmed.
+They warn that the additional demand on AOL's network generated by the company's offer of unlimited usage for $19.95 per month imperil its near-term capacity to handle demand.  
+If only a small fraction of AOL's millions of members were to take up the company's offer of unlimited access and remain connected to the service for long periods of the day, the service would quickly grind to a halt, detractors say.
+Clearly, investors are betting the company can surmount such challenges, as AOL has done repeatedly in mushrooming sevenfold from under one million users three years ago.
+In recent weeks, the stock's momentum has revived, doubling from a year-low of 22 to reach 44 earlier Tuesday. An afternoon sell-off caused the stock to fall back to 37-1/2.  
+"The market appears to have taken a very bullish view of the new pricing scheme," said Arthur Newman, an analyst with brokerage firm Gerard Klauer of the stock's recent run-up.
+"But you have to balance this with the realization that the more time users spend online, the higher the cost of adding capacity" requiring new equipment investments, he said.
+"All of a sudden its free candy at the candy store," Newman said of the paradoxical downside of a sudden explosion in demand. Although a long-time follower of AOL, the analyst currently maintains no stock recommendation on the stock.  
+To be fair, AOL officials have warned repeatedly that they expect the next two quarters to be transitional, both operationally and financially, as the company shifts to a new business model that derives revenues from advertising and commercial transactions instead of mainly subscriber fees.
+But Abishek Gami, an analyst with Nesbitt Burns Securities, believes AOL has proven its capacity to weather the pressures of the explosively growing online medium. In particular, AOL has measures in place to limit excessive connection times by users who now have little incentive to disconnect and free up pressure network time for others.  
+"Will this demand on its network be enough to destroy the company? I think not. What the company will do is build-out to meet demand and stage a comeback," said Gami, who maintains a strong buy rating on AOL stock.
+Gary Arlen, a veteran online industry analyst at Arlen Communications Inc in Bethesda, Md, agreed.
+"Anyone who is writing this company's obituary is going to be disappointed," he said.
+Monday, AOL said it was undertaking a major expansion of its online network and planned to spend $250 million by next June to double its network capacity and improve service.  
+Gami estimated the company has about 200,000 modems now available to handle incoming customer calls for its online service and that this number will rise to about 400,000 by next June, the end of its fiscal year.
+In its Monday announcement, the world's largest online service provider said it was upgrading its network to meet the surge in demand generated by its new pricing and recent marketing initiatives.
+As of Sunday, AOL began offering the new flat-rate pricing plan, one of several pricing options available to customers.  
+An America Online spokesman said that, despite heavy usage over the Thanksgiving holiday weekend, there were no serious problems with its online network.
+The Dulles, Va.-based company said that, since July 1, it has added tens of thousands of new modems to AOLnet, which it said was the world's largest dial-in network. The expansion is to accelerate through the spring with tens of thousands of new modems being installed monthly.
+Analysts said that, with more new users expected, AOL needs to upgrade its network, especially after its nearly 19 hour outage on August 7, which happened during regular maintenance caused by a software glitch and angered many users.
+Already this quarter, AOL's subscriber growth is on the rebound and, in October, the company added 275,000 new members. In the summer, AOL was hurt by a seasonal slowdown in subscriber growth, a phenomenon common to all online services.
+Still, in its latest quarterly SEC filing, AOL said profit margins will be hurt in the near-term and it is only likely to break into profitability again in the June 1997 quarter.
+America Online Inc.'s new flat-rate pricing plan and moves to meet spiraling subscriber demand suggest it is on track to become a major media player, comparable to broadcast or cable TV networks, analysts said Tuesday.
+Analysts cautioned, however, that underlying this success loomed a real threat that the online network's capacity to serve its more than 7 million subscribers could soon be overwhelmed.
+They warned that the additional demand on AOL's network generated by the company's offer of unlimited usage for $19.95 per month imperilled its near-term capacity to handle demand.
+If only a small fraction of AOL's millions of subscribers were to take up the company's offer of unlimited access and remain connected to the service for long periods of the day, the service would quickly grind to a halt, detractors said.
+Clearly, investors are betting the company can surmount such challenges, as AOL has done repeatedly in mushrooming sevenfold from less than 1 million users three years ago.
+In recent weeks, the stock's momentum has revived, doubling from a year-low of $22 to reach $44 earlier Tuesday. An afternoon sell-off caused the stock to fall back to $37.50. down $2.375.
+"The market appears to have taken a very bullish view of the new pricing scheme," said Arthur Newman, an analyst with brokerage firm Gerard Klauer of the stock's recent run-up.
+"But you have to balance this with the realisation that the more time users spend online, the higher the cost of adding capacity" requiring new equipment investments, he said.
+AOL officials have warned repeatedly that they expect the next two quarters to be transitional ones, both operationally and financially, as the company seeks to gain revenues from advertising and commercial transactions instead of mainly subscriber fees.
+But Abishek Gami, an analyst with Nesbitt Burns Securities, said he believed AOL had proven its capacity to weather the pressures of the explosively growing online medium.
+In particular, Gami said AOL has measures in place to limit excessive connection times by users who now have little incentive to disconnect and free up network time for other users.
+"Will this demand on its network be enough to destroy the company? I think not," said Gami. "What the company will do is build out to meet demand and stage a comeback," said the analyst.
+"Anyone who is writing this company's obituary is going to be disappointed," agreed Gary Arlen, an online industry analyst at Arlen Communications Inc.
+AOL said Monday it was greatly expanding its online network and planned to spend $250 million by next June to double its network capacity and improve service.
+Flextronics International Inc Chief Executive Michael Marks said he expects revenues of around $1 billion during fiscal 1998, more than double the $500 million expected in the fiscal 1997 year ending in March.
+Marks was responding to the nose-dive in Flextronics stock price Wednesday morning that send the stock down 12-1/4 to 25. The sharp decline came after the company announced a restructuring plan that is likely to dampen near-term profits.
+"We are going to more than double our revenues next year... to somewhere around $1 billion," Marks said.  
+"There is nothing but good news here," Marks told Reuters by phone from San Jose, Calif.. He was referring to the company's business prospects going forward.
+He said Flextronics' restructuring was designed to allow it to continue to gain market share and position for it for annual earnings growth of 35-40 percent through the year 2000.
+"Next year we will be third in the market by revenues," Marks said, rising from its current fourth place position. Only SCI Systems Inc and Solectron Corp remain larger, he said. "We are on fire as a company," he added.  
+The executive blamed the volatility of the Nasdaq market and the departure of momentum players who had invested in his company recently for the tumble in Flextronic stock price.
+In particular, he said the sell-off was sparked Wednesday when sellers dumped a relatively small volume of about 80,000 shares, creating the downward spiral in the stock price.
+"It's one of the reasons why everyone thinks about getting out of Nasdaq," Marks said.  
+Asked if he considered the stock a buy at current levels, he declined to comment.
+In a statement released earlier, Flextronics said its restructuring would include charges of $5 to $7 million spread over the December and March quarters, to "prepare for accelerated growth over the next several years."
+The company also said it had told analysts in a briefing Tuesday of new contract wins with Ascend Communications Inc, Harris Corp's Communications unit and Philips Electronics NV.
+With Ascend in particular, he said the company would be manufacturing the company's mainstream MAX TNT remote access network equipment. "We expect (Ascend) will be one of our top 10 customers," Marks said.
+These latest wins follow a recent $350 million contract win with Telefon AB L.M. Ericsson, bolstering its already strong activity in the contract manufacturing of telecommuncation and data communciation products, he said.
+Other major customers include Microsoft Corp MSFT.O and LifeScan Inc, a unit of Johnson &amp; Johnson.
+Flextronics is Singapore based.
+-- New York newsdesk, 212-859-1736
+General Electric Co Chairman John Welch was upbeat about GE's prospects for the current year and beyond during a private meeting with Wall Street analysts, several of those who attended said on Tuesday.
+In particular, Welch told analysts he was comfortable with current Wall Street estimates for the 1996 calendar year. The First Call consensus is $4.40 per share for the year.
+Salomon Brothers analyst Russell Leavit said the GE executive had said on Monday he "expected earnings to be up about 13 percent this year, in line with expectations."  
+Analysts said the meeting with analysts helped propel General Electric stock on to the NYSE most actives list on Tuesday. The stock was up 1-1/8 in early afternoon trading after gaining more than two points earlier in the day.
+A GE spokesman declined to comment on Welch's remarks to analysts. He said the company had gone on record in its third-quarter earnings report, released October 10, as being on track for a "record year" in 1996 in terms of earnings.
+After the meeting, CS First Boston said analyst Martin Sankey reiterated his strong buy on GE and boosted his 1997 earnings estimate by a nickel to $5.00 per share.  
+"They are looking for good progress next year," Leavitt said of Monday's meeting, one of the company's regular briefings with Wall Street analysts.
+While litle new was disclosed at the meeting, "there seems to be a high level of conviction that progress is in place," the analyst said.
+GE's leader specifically cited the company's aircraft engine and power businesses as being well-positioned for growth in the coming year, along with its NBC broadcast unit, Leavitt said.
+Leavitt retained his buy rating after the meeting and left his current estimates intact. He said he expected GE to report earnings of $4.40 for 1996 and $4.95 per share for 1997, which is a penny above the First Call consensus.
+"Most of the Wall Street analysts came away comfortable that the earnings estimates will be realized this year and next year," one fund manager said. "It's his usual magic with Wall Street," a reference to Welch's popularity.
+-- Wall Street bureau, 212-859-1736
+The stock of General Electric Co. rose in active trading Tuesday, boosted by speculation it might raise its dividend and increase its share buyback programme following upbeat comments by Chairman John Welch.
+Salomon Brothers analyst Russell Leavitt said Welch told analysts who attended a private meeting with him on Monday that he "expected earnings to be up about 13 percent this year, in line with expectations."
+According to First Call, which monitors Wall Street analysts' earnings projections, GE's profits for the 1996 calendar year are expected to equal $4.40 per share.
+In 1995, GE earned profits of $3.90 per share, or $6.6 billion, on revenues of $43 billion.
+Analysts said news from the meeting helped propel General Electric's stock onto the NYSE most actives list. The stock was up $2.25 to $97.50 in late afternoon trading after earlier climbing as much as $3.25.
+A GE spokesman declined to comment on Welch's remarks to analysts. He said the company had gone on record in its third-quarter earnings report, released Oct. 10, as being on track for a "record year" in 1996.
+The spokesman confirmed, however, that GE's board would meet on Friday.
+After the meeting, CS First Boston said analyst Martin Sankey reiterated his strong buy recommendation on GE's stock and boosted his 1997 earnings estimate 5 cents to $5 per share.
+"They are looking for good progress next year," Leavitt said, adding that while little new was disclosed at the twice-yearly briefing, "There seems to be a high level of conviction that progress is in place."
+Welch specifically cited a turnaround in the company's power businesses and strong growth in its NBC broadcasting unit, Leavitt said.
+"You've got everything pretty much clicking in the company," said NatWest Securites analyst Nicholas Heyman, who also attended the meeting. He said Welch spoke of 13 percent earnings growth for both the current year and for 1997.
+More good news could come as early as Friday, when GE's board of directors is scheduled to meet.
+At that meeting, several analysts said they believed the board will authorise a two-for-one split of GE shares and increase its authorisation to buy back the company's shares to $13 billion from its current level of $9 billion.
+Company share buybacks increase the value of remaining shares by decreasing the number of shares outstanding, a move looked on with favour by investors, since the underlying value of each share held increases.
+In addition, NatWest's Heyman said he expected the board to boost the stock's annual dividend by 13 percent to $2.08 from its current level of $1.84 per share.
+Since early 1995, General Electric's stock has proven one of Wall Street's best perfomers, more than doubling in value.
+"Most of the Wall Street analysts came away comfortable that the earnings estimates will be realised this year and next year," one fund manager said of the meeting with Welch. "It's his usual magic with Wall Street."
+Blue chip technology stocks charged ahead Wednesday in a new buying spree spurred on by optimism about holiday PC sales and year-end book-squaring by money managers, traders and market analysts said.
+Market participants said the rally was spurred by positive comments from a Soundview analyst about Compaq Computer Corp, and waning fears that the holiday sales season would prove a failure for consumer personal-computer makers.
+The enthusiasm swept up other PC makers such as Dell Computer Corp and spilled over to other top technology names.  
+By late afternoon, Compaq had added 6-1/2 points on the day to 78-3/4 while International Business Machines Corp gained 6-1/8 to 157-3/4.
+Leading Nasdaq's most actives was Intel Corp, which swelled 5-3/8 to 135-3/8, Dell, up 3-5/8 to 57 and Microsoft Corp, which gained 2-3/4 to 82-5/8.
+"It looks like they're going after the group again," said one trader, pointing in particular to Compaq, Intel and IBM.
+"They are just buying the techs in a dramatic way again," agreed another trader. "The PC scare isn't what they thought it would be," he said.  
+"It's a group move, if you look at other names, like Compaq up six, Intel up 5-1/8, Dell up 4-1/8," said Peter Jenkins, director of global equity trading at Scudder Stevens &amp; Clark, listing some of the most active names.
+"We're coming to the end of the year," he said, "and these are big (institutional) holdings."
+"IBM and Intel I think have sold here over last couple of weeks, and whatever had to be done has been done," he argued, laying the groundwork for institutional buyers to add to their holdings.
+"All (these) stocks are in a year-end window-dressing rally," said Philip Orlando, chief investment officer at Value Line Asset Management, who concurred that several of these stocks had been oversold in the past two weeks.
+"IBM is the one all the money managers want in their portfolios," Orlando said, referring to the desire to put the best face on their end-of-year report cards by which investors judge the relative performances of funds.
+Earlier, Soundview PC analyst Mark Specker upgraded his short-term rating on Compaq to buy from hold and retained his long-term buy position on the stock.
+-- Wall Street bureau, 212-859-1736
+Technology stocks rose Wednesday on a growing belief that recent price-cutting has spurred holiday personal computer sales as money managers loaded up on stocks to dress up their portfolios at year-end.
+Traders and analysts said the rally was sparked by positive comments from a Soundview analyst about Compaq Computer Corp., and waning fears that the holiday sales season would be a dismal one for makers of PCs for consumers.
+Soundview Financial analyst Mark Specker upgraded his short-term rating on Compaq to buy from hold and continued to recommend buying the stock for long-term gains.
+His recommendations on technology stocks hold strong sway among institutional investors.
+The enthusiasm swept up other PC makers like Dell Computer Corp. and spilled over to other top technology names.
+Compaq rose $6.375 to $78.625 on Nasdaq while International Business Machines Corp. added $6.75 to $158.625 on the New York Stock Exchange.
+Leading Nasdaq's most actives was Intel Corp., which added $5.75 to $135.75, Dell, up $3.125 to $56.50 and Microsoft Corp., which gained $2.75 to $82.625.
+The Nasdaq composite index, laden with technology stocks, jumped 19.06 points to 1,285.38, a gain of 1.5 percent compared with a rise of 0.6 percent for the Dow Jones industrial average.
+"It looks like they're going after the group again," said one trader, pointing in particular to Compaq, Intel and IBM.
+"They are just buying the techs in a dramatic way again," agreed another trader. "The PC scare isn't what they thought it would be," he said.
+Both IBM and Intel shares had reached 52-week highs in recent weeks, only to fall back in end-of-year profit-taking and a broader market downturn.
+Peter Jenkins, director of global stock trading at Scudder Stevens &amp; Clark said, "It's a group move ... we're coming to the end of the year and these are big (institutional) holdings."
+"IBM and Intel, I think have sold here over last couple of weeks, and whatever had to be done has been done," he said, which laid the groundwork for institutional buyers to add to their holdings.
+"All (these) stocks are in a year-end window-dressing rally," said Philip Orlando, chief investment officer at Value Line Asset Management, who concurred that several of these stocks had been oversold in recent weeks.
+"IBM is the one all the money managers want in their portfolios," Orlando said, referring to the desire to put the best face on their end-of-year report cards by which investors judge a fund's relative performance.
+Apple Computer Inc shares crumbled 17 percent on Monday as hope faded on Wall Street for a short-term turnaround in the computer maker's fortunes and further darkened the company's long-term outlook.
+Several brokerages urged investors to dump the stock, with Wall Street analysts turning gloomy about the ability of Apple management to put the company's business strategies in order.
+Apple fell four points to 17-3/4, and was the most actively traded Nasdaq issue with more than 10 million traded.  
+The company said Friday it expected an operating loss of $100 to $150 million in the first quarter, ended December 27.
+Apple blamed weak U.S. demand for its Performa consumer PC line and continued shortages of PowerBook notebook computers.
+The company said these factors contributed to a 10 percent decline in December quarter revenues, versus the September quarter, when Apple reported $2.3 billion in revenues.
+"You can't dismiss this as a one-time issue," Montgomery analyst Kurt King said. "It really does say something about Apple's long-term position in the consumer market." King said he maintained his hold rating on the stock.  
+Beyond the earnings disappointment, analysts expressed concern over the impending onslaught of rival machines that will be based on new multimedia chip technology from Intel Corp and will run Microsoft Corp Windows software.
+The latest financial disappointment is likely to deepen Apple's image problems among PC buyers, where widespread doubts have lingered about the company's ability to compete with rival PCs that run Windows software.  
+In recent years, the distinctions separating Apple's easy-to-use Macintosh operating system from the more complex Microsoft Windows system have narrowed. The changes have led many consumers to abandon Apple for lower cost Intel-based machines that offer a greater variety of software programs.
+There is also confusion over Apple's future operating system and whether it can introduce a new, distinctive system, based on the NeXT system, which it acquired last month.
+Apple's latest earnings disappointment arrived just ahead of the company's annual in-gathering of Macintosh loyalists at the MacWorld trade show in San Francisco, which begins Monday.  
+In a speech slated for Tuesday, Apple Chairman Gil Amelio was expected to chart the company's future course.
+But Prudential's Young doubted whether Amelio could say anything to reignite enthusiasm for the stock.
+Young said the speech simply comes too soon after Apple's acquisition of NeXT for Amelio to provide much concrete guidance on the company's future strategy.
+"The problem is that he now has to start talking about futures, but he doesn't know enough now to be making this speech," he said.
+"(Amelio) is not going to be able to say a whole lot about the technical plan, or what they are going to do to bring the new operating system to market," Young said.
+-- Wall Street bureau, 212-859-1736.
+Shiva Corp. stock lost almost half its value Wednesday after the data communications equipment maker stunned Wall Street by revealing that fourth-quarter earnings were likely to be no more than a third of expectations.
+The company's stock plunged $15.625, or 45 percent, to $19.25 on Nasdaq after it said late on Tuesday it expected earnings for the fourth quarter of 1996 to be between 5 cents and 7 cents a share.
+That would be sharply below consensus estimates of 21 cents a share, according to First Call, which tracks analysts' estimates. Twenty-four million shares exchanged hands, making it the day's most actively traded issue.
+Securities analysts said the earnings shortfall triggered the massive sell-off, but that the decline was accelerated by plans by company officials to make changes in Shiva's business strategy that analysts said could imperil earnings further.
+"I think the drop was to a large extent a reaction in the stock to the warning of lower earnings," said Smith Barney analyst Therese Murphy. "But I think when people sit back they are also going to be concerned about the change in strategy."
+In a brief statement released after the markets closed on Tuesday, the Bedford, Mass.-based company said the shortfall was based on preliminary calculations.
+Chief Financial Officer Cynthia Deysher said in a phone interview on Tuesday that the shortfall was mainly due to weakness in domestic sales and a decision by International Business Machines Corp. to delay an order during the quarter.
+"We didn't receive the Q4 (order) from IBM," Deysher said. IBM is a key reseller of Shiva's networking products. She also said the company did not ship as much product as it expected in the quarter.
+The Shiva official said the company would take steps to address the shortfall, including reorganizing its sales force.
+Deysher said Shiva had renegotiated terms of its strategic alliance with Canada's Northern Telecom Ltd., a move she said is likely to cause revenues to decline but profit margins to rise, ensuring it can still meet its earnings goals.
+Deysher said NorTel will assume the costs of manufacturing products resulting from the alliance and cover a larger share of the partnership's research and development costs.
+Shiva's switching equipment is one piece of a larger Northern Telecom communications system that allows remote callers such as telecommuters or traveling sales staff to dial into central office computers.
+"We felt it would be more profitable because we are moving to a royalty arrangement" with Nortel, Deysher said. Shiva will be paid a percentage of sales instead of for each product it builds, as called for under the prior terms of the alliance.
+Before its fall from grace, many Wall Street analysts classified Shiva as one of the fast-growing companies best-positioned to participate in the massive demand for network equipment used to build the Internet's infrastructure.
+While executives said they remained confident Shiva could make up the lost ground in future quarters and still meet the Wall Street consensus expectation of $1.06 per share for fiscal 1998, Wall Street analysts refused to buy the argument.
+Analysts slashed earnings estimates well below company forecasts and those who had not previously done so downgraded their ratings on the stock. Most advised investors to dispose of shares and remain on the sidelines until Shiva shows concrete evidence it can meet earnings targets again.
+According to First Call, of nine Wall Street analysts who follow the company, seven cut earnings forecasts and or stock ratings on Shiva.
+In spite of Shiva's optimism long-term, the new earnings consensus for the year ending January 1998 of the seven analysts was $0.83 per share, down from $1.07 previously.
+Murphy said that even if Shiva's plans to focus on its newer switching equipment products succeed, it faces stiff competition from larger rivals like Ascend Communications Inc., Cascade Communications Corp. and U.S. Robotics Inc.
+"I didn't encourage people to bottom-fish on this correction," she said, referring to her recommendation to brokerage clients.
+"When you miss numbers as significantly as they did, it draws a lot of different questions," said Matt Barzowskas, an analyst for First Albany. "You get a lot more conservative."
+"After a quarter like this you have to just step back and evaluate," Barzowskas said. "I am not ready to believe they can do what they think they can do at the moment."
+But while he slashed his earnings estimates for the foreseeable future, the First Albany analyst maintained his buy rating on the stock at its now severely reduced price.
+Shiva said it expected revenue for the three months ending Dec. 28 to be $48 million to $50 million, compared with $57.1 million for the prior quarter, which ended in September. The company reported $35.6 million in revenues for the fourth quarter of 1995.
+Shiva said it will report final results for the fourth quarter and year on Jan. 23 after the close of the market.

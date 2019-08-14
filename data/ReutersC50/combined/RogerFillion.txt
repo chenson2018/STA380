@@ -1,0 +1,920 @@
+The federal government's bid to pry open the phone business has hit a snag that could postpone the onset of full-blown competition in the local and long-distance markets and delay cheaper phone service.
+The snag came when a federal appeals court Tuesday suspended, or stayed, key parts of a Federal Communications Commission rule opening local phone monopolies to competition from long-distance carriers, cable TV operators and others.
+Experts said the action could postpone competition in the $100 billion local phone market now controlled by the regional Baby Bell phone companies, until the case makes its way through the courts in coming months. A final decision could easily take a year or more.
+"We're in for a very messy 1997, and the dust won't settle until fairly deep into 1997," said Henry Geller, a former top telecommunications official in the Commerce Department.
+That, in turn, could delay the Baby Bells' entrance into the $70 billion long-distance market. The telecommunications law enacted in February lets the Bells offer long-distance only after they have opened their own markets to new rivals.
+Even before the appeals court acted, government officials suggested a prolonged delay of the FCC's rules would make it tougher for regulators to allow the Bells to enter the long-distance business.
+The FCC -- along with the Justice Department and state regulators -- has the final say over whether the Bells have satisfied a 14-point "checklist" that includes provisions of the now-suspended FCC rule.
+"If the stay chills investment and retards new entry into the local marketplace, it may become more difficult for the (FCC) to authorise the Bell companies to offer long-distance (service)," FCC Commissioner Susan Ness said in a speech only hours before the appeals court order.
+And she noted that the Justice Department -- whose views "must be accorded 'substantial weight'" by the FCC -- already has signalled it will be reluctant to support Baby Bell entry as long as as the key parts of the FCC's proposed rules are on ice.
+David Turetsky, deputy assistant attorney general in the department's antitrust division, said last month a stay would "seriously impair" the Bell entry process spelled out in the telecommunications law.
+Any delays could delay the benefits of competition that Congress and President Clinton promised when enacting the law.
+"The sooner there is competition in the local market, the consumer will benefit. And that's for sure when the Bells are allowed to go into long distance," said Geller.
+"That will result in marketing and price wars. And the consumer again will greatly benefit."
+But Baby Bell stocks rallied after the ruling because state regulators were likely to call for lower discounts when the companies lease their phone lines to new competitors, analysts said.
+GTE, the nation's largest local phone company -- which has spearheaded the legal challenge to the FCC rules -- jumped $3.625 to $42.25 on the New York Stock Exchange.
+BellSouth added $2.50 to $38.875, Bell Atlantic gained $2.125 to $60.875, NYNEX rose $1.625 to $44.50, Ameritech was up $1.75 to $56.125 and Pacific Telesis rose $1.28 to $34.66, all on the NYSE.
+The appeals court suspended the FCC rule until the judges consider a challenge to the measure early next year by GTE Corp., the Bells, other local carriers and state regulators.
+They argue the FCC overstepped its power by requiring the Bells and local carriers to lease their phone lines to new competitors at steep discounts of up to 25 percent.
+The court's action, for now, puts back in the hands of state regulators the responsibility to set such prices.
+But local phone company officials discount the chance that competition will be delayed.
+"The Telecommunications Act of 1996 passed by Congress in February is the law of the land and sets forth a timetable for the introduction of competition," said GTE Senior Vice President William Barr. He said that timetable is "unaffected" by the court's action and will proceed.
+An obscure part of the new telecommunications law could restrict how phone companies use confidential customer data to peddle everything from calling plans and caller I.D. to Internet access and credit cards.
+The law pits consumer advocates who fear an onslaught of telemarketers and a loss of personal privacy against local, long-distance and cellular carriers wanting to offer their customers one-stop shopping in the new communications age.
+The data, which include billing records and calling patterns, are taking on added importance as local and long-distance companies, cable-TV operators and others brace to get into each other's business under the new telecom law.
+"Everybody wants to use these data -- subject to the law -- for their marketing efforts, given that it's a much more competitive environment now," said attorney Alfred Mamlet of Steptoe &amp; Johnson. "There are new technologies and new markets for the companies."
+The Federal Communications Commission is drafting rules to spell out the limits set by Congress on the use of "customer proprietary network information." CPNI details when calls are made, the destination, the frequency and length, the number and type of phone lines ordered, and the price of the bill.
+Few curbs existed before the new telecom law. The new FCC rules -- which stem from a provision in the law pushed by Rep. Edward Markey, D-Mass., -- are expected in early 1997.
+The agency must decide what form of customer approval a carrier must receive before using the data for marketing.
+The rules will determine, for example, what if any okay is needed for a carrier to use a customer's long-distance calling pattern to pitch a cellular service if a customer is seen to make plenty of calls from the road.
+Many phone companies want the FCC to avoid stringent rules requiring detailed customer approval. Industry executives argue that consumers would benefit from flexibile rules that let companies target a customer's communications needs.
+"It would give us the opportunity to tailor their package of services to what they need and what they want," said James Spurlock, AT&amp;T Corp.'s director of federal government affairs.
+But consumer and privacy groups fear the data could fall into the wrong hands without tough curbs and clear approval.
+They also fear an explosion in telemarketing: Companies could use CPNI to market a vast array of products and services unrelated to the phone service a customer actually receives.
+"When consumers sign up for telehone service, they don't expect the information to be used to market non-phone services such as credit cards or investment information," said John Windhausen, general counsel for the Competition Policy Institute (CPI), a consumer advocacy group.
+Companies already use the information. Long-distance carriers pitch cheaper plans based on a customer's calling habits. The marketing is expected to heat up.
+Under contention at the FCC is whether a company can use the data derived from its long-distance business to pitch local or cellular service, without prior customer assent.
+The telecom law lets carriers use CPNI without prior approval when supplying the service a customer ordered.
+The FCC has proposed to classify phone service under three categories: local, long distance and cellular. CPNI from one could not be used to market another without a customer's okay.
+A number of phone companies, including several regional Baby Bell companies, have asked the FCC for just one broad category that would give them greater marketing flexibility.
+Texas phone regulators, by contrast, propose categories based on "the exact services (the customer) has ordered."
+The FCC also has proposed requiring phone companies to notify customers of their right to restrict access to CPNI.
+Under contention is whether the notification should be oral or written, such as a notice stuffed into a bill or posted in the "white pages" phone directory.
+Consumer advocates, privacy groups and state regulators want advance written approval for use of the information.
+Some companies -- AT&amp;T, several of the Bells and GTE Corp. -- suggest that no response to a detailed notification about a customer's CPNI rights should amount to a customer's blessing.
+An obscure part of the new telecommunications law could restrict how phone companies use confidential customer data to peddle everything from calling plans and caller I.D. to Internet access and credit cards.
+The law pits consumer advocates who fear an onslaught of telemarketers and a loss of personal privacy against local, long-distance and cellular carriers wanting to offer their customers one-stop shopping in the new communications age.
+The data, which include billing records and calling patterns, are taking on added importance as local and long-distance companies, cable-TV operators and others brace to get into each other's business under the new telecom law.
+"Everybody wants to use these data -- subject to the law -- for their marketing efforts, given that it's a much more competitive environment now," said attorney Alfred Mamlet of Steptoe &amp; Johnson. "There are new technologies and new markets for the companies."
+The Federal Communications Commission is drafting rules to spell out the limits set by Congress on the use of "customer proprietary network information." CPNI details when calls are made, the destination, the frequency and length, the number and type of phone lines ordered, and the price of the bill.
+Few curbs existed before the new telecom law. The new FCC rules -- which stem from a provision in the law pushed by Representative Edward Markey, D-Mass., -- are expected in early 1997.
+The agency must decide what form of customer approval a carrier must receive before using the data for marketing.
+The rules will determine, for example, what if any okay is needed for a carrier to use a customer's long-distance calling pattern to pitch a cellular service if a customer is seen to make plenty of calls from the road.
+Many phone companies want the FCC to avoid stringent rules requiring detailed customer approval. Industry executives argue that consumers would benefit from flexibile rules that let companies target a customer's communications needs.
+"It would give us the opportunity to tailor their package of services to what they need and what they want," said James Spurlock, AT&amp;T Corp.'s director of federal government affairs.
+But consumer and privacy groups fear the data could fall into the wrong hands without tough curbs and clear approval.
+They also fear an explosion in telemarketing: Companies could use CPNI to market a vast array of products and services unrelated to the phone service a customer actually receives.
+"When consumers sign up for telehone service, they don't expect the information to be used to market non-phone services such as credit cards or investment information," said John Windhausen, general counsel for the Competition Policy Institute (CPI), a consumer advocacy group.
+Companies already use the information. Long-distance carriers pitch cheaper plans based on a customer's calling habits. The marketing is expected to heat up.
+Under contention at the FCC is whether a company can use the data derived from its long-distance business to pitch local or cellular service, without prior customer assent.
+The telecom law lets carriers use CPNI without prior approval when supplying the service a customer ordered.
+The FCC has proposed to classify phone service under three categories: local, long distance and cellular. CPNI from one could not be used to market another without a customer's okay.
+A number of phone companies, including several regional Baby Bell companies, have asked the FCC for just one broad category that would give them greater marketing flexibility.
+Texas phone regulators, by contrast, propose categories based on "the exact services (the customer) has ordered."
+The FCC also has proposed requiring phone companies to notify customers of their right to restrict access to CPNI.
+Under contention is whether the notification should be oral or written, such as a notice stuffed into a bill or posted in the "white pages" phone directory.
+Consumer advocates, privacy groups and state regulators want advance written approval for use of the information.
+Some companies -- AT&amp;T, several of the Bells and GTE Corp. -- suggest that no response to a detailed notification about a customer's CPNI rights should amount to a customer's blessing.
+The Justice Department asked the Supreme Court Thursday to lift a lower court suspension of landmark federal rules aimed at prying open the nation's local telephone monopolies to competition.
+The department, acting on behalf of the Federal Communications Commission, said the lower court's "stay"  could hurt consumers by delaying the introduction of full-fledged competition in the $100 billion market.
+The request comes after a U.S. appeals court based in St. Louis last week suspended key provisions of the FCC's "interconnection" order, which spells out how long-distance carriers, cable-TV operators and others could operate in the local phone market under the new telecommunications law.
+The rules were frozen while the appeals court considers a challenge to the FCC order by GTE Corp., the so-called Baby Bell phone companies, other local carriers and state regulators who want the measure overturned.
+They argue the FCC overstepped the power granted to it by Congress. The FCC, among other things, ordered the regional Bells and other local phone companies to lease their lines to new rivals at discounts of 17 percent to 25 percent.
+The three-judge appeals court panel said the opponents "have a better than even chance of convincing the court" that the FCC's rules conflicted with the law.
+But the Justice Department told the high court the appeals court action "already imperils" the timetable set by Congress for opening the local phone market.
+"The stay draws into question not just the timing of competition in the local market, but also the timing of full entry by the Bell companies into the long-distance telephone market," the department added.
+Long-distance carriers AT&amp;T Corp. and MCI Communications Corp., among other companies, also asked the high court on Thursday to lift the stay.
+Lawyers were divided over the likely outcome.
+"They have a decent shot at lifting the stay," said Alfred Mamlet of Steptoe &amp; Johnson. He noted the FCC's success last year in having Supreme Court Justice John Paul Stevens lift a lower court stay that had blocked a major FCC airwave auction.
+But others were less sure. "It's very difficult to predict," said Nicholas Allard of Latham &amp; Watkins.
+The Justice Department request, along with those of the long-distance companies, is expected to go to Supreme Court Justice Clarence Thomas, who oversees matters related to the St. Louis-based appeals court.
+Thomas could refer the request to the full court for its consideration.
+The Justice Department asked the Supreme Court Thursday to lift a lower court suspension of landmark federal rules aimed at prying open the nation's local telephone monopolies to competition.
+The department, acting on behalf of the Federal Communications Commission, said the lower court's "stay" could hurt consumers by delaying the introduction of full-fledged competition in the $100 billion market.
+The request comes after a U.S. appeals court based in St. Louis last week suspended key provisions of the FCC's "interconnection" order, which spells out how long-distance carriers, cable-TV operators and others could operate in the local phone market under the new telecommunications law.
+The rules were frozen while the appeals court considers a challenge to the FCC order by GTE Corp., the so-called Baby Bell phone companies, other local carriers and state regulators who want the measure overturned.
+They argue the FCC overstepped the power granted to it by Congress. The FCC, among other things, ordered the regional Bells and other local phone companies to lease their lines to new rivals at discounts of 17 percent to 25 percent.
+The three-judge appeals court panel said the opponents "have a better than even chance of convincing the court" that the FCC's rules conflicted with the law.
+But the Justice Department told the high court the appeals court action "already imperils" the timetable set by Congress for opening the local phone market.
+"The stay draws into question not just the timing of competition in the local market, but also the timing of full entry by the Bell companies into the long-distance telephone market," the department added.
+Long-distance carriers AT&amp;T Corp. and MCI Communications Corp. among other companies, also asked the high court on Thursday to lift the stay.
+Lawyers were divided over the likely outcome.
+"They have a decent shot at lifting the stay," said Alfred Mamlet of Steptoe &amp; Johnson. He noted the FCC's success last year in having Supreme Court Justice John Paul Stevens lift a lower court stay that had blocked a major FCC airwave auction.
+But others were less sure. "It's very difficult to predict," said Nicholas Allard of Latham &amp; Watkins.
+The Justice Department request, along with those of the long-distance companies, is expected to go to Supreme Court Justice Clarence Thomas, who oversees matters related to the St. Louis-based appeals court.
+Thomas could refer the request to the full court for its consideration.
+The Federal Communications Commission is expected to curb its power to approve or reject long-distance rates by ending a Depression-era rule requiring telephone carriers to notify the FCC before rate changes.
+The new rules, set to be adopted on Tuesday, are meant to pump more competition into the $70 billion long-distance market and trim government red tape for AT&amp;T Corp, MCI Communications Corp, Sprint Corp and other long-distance carriers, said FCC officials.  
+The 1934 rule that is headed for the scrap heap has forced long-distance companies to notify the FCC in advance of plans to change rates or offer new services through "tariff" filings with the agency.
+It was intended originally to let regulators review the changes while giving the public an advance look, although the language contained in the filings is arcane and read by few.
+Regulators say the new approach will let companies respond more quickly to competitors' price changes -- without the need to file burdensome paperwork with the FCC.  
+They also say it will reduce the opportunity for companies to collude tacitly on long-distance rates.
+And carriers will have to notify residential customers directly of a rate change. Currently, they unveil any rate increases through the complex tariff filings.
+The new approach represents the first major step the FCC has taken under a provision of the new telecommunications law allowing it to shed outdated rules if the public interest is not harmed.
+Currently, tariff filings take effect one day after their submission to the FCC. But it has not always been that way.  
+When it was considered a "dominant" long-distance carrier, AT&amp;T complained that the filings offered competitors an early look at its plans, allowing the others to mimic the move and implement it beforehand.
+The top long-distance company had to wait up to 60 days after a tariff filing for a new promotional plan before it could act on the plan. A year ago, the FCC ended AT&amp;T's dominant carrier status. That also ended the long delays.  
+The FCC tried to eliminate long-distance tariff filings for "non-dominant" carriers such as MCI and Sprint about a dozen years ago. But a court said the agency lacked the power to do so. The FCC then asked Congress to change the law.
+Industry officials have sought -- but apparently without success -- to retain the option of filing tariffs for certain residential telephone plans, saying that would make it easier to let consumers know what their phone rates are.
+"We think there ought to be something in place for the mass marketplace," said an AT&amp;T spokesman.  
+He added that tariff filings allow residential customers to know the terms and conditions of their service. And he said they save the company the expense of having to communicate those terms and conditions to individual customers.
+But critics complain that such a practice would make it tougher for consumers to know when a rate rise was coming, because it would be buried in the jargon of the tariff filing.
+Officials do favor ending tariff filings for big business customers, paperwork that can run hundreds of pages. Ending the practice, they say, would give carriers added flexibility to negotiate the best deals with big customers.
+Business users agree.
+"It allows for individual customers to negotiate the best terms and conditions for them, while preserving the normal customer-supplier confidentiality we see in other contracts," said Ray Cline, director of information systems for the American Petroluem Institute, an oil industry trade group.
+The Federal Communications Commission reined in its regulation of long-distance telephone rates Tuesday by scrapping a Depression-era rule requiring phone carriers to tell the agency beforehand of rate changes.
+FCC officials said the move was designed to inject more competition into the $70 billion long-distance market and cut thousands of pages of government red tape for long-distance companies such as AT&amp;T Corp. and MCI Communications Corp.
+But industry officials and consumer advocates argued the new approach will lead to consumer confusion and make it tougher for consumers to get the best possible deals.
+The 1934 rule the FCC ended forced long-distance carriers to tell the FCC ahead of time of plans to change rates or offer new services via "tariff" filings with the agency.
+The rule was intended originally to let regulators approve or reject the changes while giving the public an advance look.
+Under the new approach, companies will be required to disclose their rates and conditions to the public, such as through ad campaigns or over the Internet computer network.
+FCC officials said the onset of greater competition in the long-distance market made the old rule outdated. They said that few people actually read the complex filings.
+Officials said elimination of the tariff requirement removes the opportunity for long-distance carriers to tacitly collude on phone rates by getting a preview of their competitors' pricing policies.
+"Competition will intensify and consumer benefits will increase as a result," said Commissioner Susan Ness.
+The tariff filings currently take effect one day after their submission to the FCC. When AT&amp;T was classified a "dominant" carrier, the No. 1 long-distance company had to wait up to 60 days. The FCC ended AT&amp;T's dominant status last fall.
+The new approach is the first major step the FCC has taken under a part of the new telecommunications law allowing the agency to shed outdated rules, as long as the public interest is unharmed. The new rules will take effect in nine months.
+"We think it's a terrible mistake," said Mark Cooper of the Consumer Federation of America. "You need informed choices." He noted that groups such as his use the data from the tariff filings to help consumers find the best phone packages and avoid questionable deals.
+Industry officials had sought -- but without success -- to retain the option of submitting tariff filings for certain residential and small-business phone plans, saying that would make it easier for customers know their phone rates.
+"While AT&amp;T has always favoured less regulation, we're concerned the FCC's decision to mandate the end of tariffs will lead to more consumer confusion and possible litigation," said AT&amp;T Vice President Gerry Salemme.
+Responding to a dispute with the United States, Canada said Tuesday it plans to develop its own satellite-TV industry rather than rely on U.S. companies such as Tele-Communications Inc. to jump-start the business.
+The announcement came just hours after the Federal Communications Commission rejected for a second time a bid by TCI and Colorado-based TelQuest Ventures to beam TV programmes to the United States from two satellites in Canadian-authorised orbits.
+The Canadian satellites also would have beamed shows to Canadian households via pizza-sized dishes. The satellites were to have been launched by Telesat Canada, a Montreal-based satellite-communications company. It planned to lease space to both TelQuest and TCI, the No. 1 U.S. cable TV operator.
+"My belief is that the time has come for us to proceed with a possible Canada-only solution and my hope is that there will be some companies that will be able to pursue that, including Telesat," Canada's minister of industry John Manley told reporters in Ottawa.
+Manley plans soon to invite Canadian companies to bid for the ownership and operation of two Canadian satellites.
+He told Telesat in a letter Monday he would revoke his ministry's support for the company to have access to the two satellite slots, unless the FCC gave the needed green light.
+The FCC, however, rejected the TCI and TelQuest requests by noting that the Canadian government had not yet officially licensed the two satellites. The FCC had issued the same decision earlier in the summer, prompting TelQuest and TCI in August to file emergency requests for FCC approval.
+Lawyers and government officials said the basis of the dispute stems from the Clinton administration's objection to allowing a Canadian satellite to beam programmes into the United States -- while U.S. companies cannot enjoy the same rights to broadcast into Canada.
+In July, administration officials urged the FCC to defer action on TCI and TelQuest's bid to offer direct broadcast satellite (DBS) services from the Canadian orbital slots.
+Officials from the U.S. Trade Representative's office, the Justice Department, the Commerce Department and the State Department said in a letter to FCC Chairman Reed Hundt that the requests "raise foreign, trade or competition policy issues within the jurisdiction of the Executive Branch."
+They argued that Canadian curbs discriminate against U.S. programmers by requiring a minimum amount of Canadian content in TV, cable and satellite-TV broadcasts. They asserted  that Canada maintains curbs on the use of non-Canadian satellites to distribute phone and broadcast services to Canada.
+In his letter to Telesat, Manley noted that U.S. officials rejected proposals to allow the TCI-TelQuest venture to proceed, while not addressing the issue of Canada's content restrictions on programming.
+"The Canadians are going to insist on retaining their protectionist policies on content. And since the U.S. will not accept those policies, the Canadian are picking up their DBS marbles and going home," said Scott Harris, an attorney with Gibson, Dunn &amp; Crutcher.
+Supreme Court Justice Clarence Thomas refused Thursday to reinstate landmark federal rules aimed at prying open the nation's $100 billion local telephone market to full-fledged competition.
+Thomas let stand, without comment, a U.S. appeals court order suspending key parts of the Federal Communications Commission's "interconnection" rules. The FCC, long-distance giants AT&amp;T Corp. and MCI Communications Corp., and other phone companies had asked Thomas to restore the rules, but he rejected the request.
+The FCC and the long-distance companies immediately submitted a new request for the high court to lift the lower court's "stay." The matter is expected to be taken up by the entire Supreme Court for consideration. In the meantime, deregulation of the nation's local phone monopolies remains in legal limbo.
+The 8th U.S. Circuit Court of Appeals, based in St. Louis, issued its stay on Oct. 15 while it considers a challenge to the rules, which spell out how long-distance carriers, cable-TV operators and others can link up to the local phone market under the new telecommunications law. Oral arguments are set for January.
+GTE Corp., the Baby Bell phone companies, other local carriers and state regulators want to overturn the rules, saying the FCC overstepped its authority and usurped state powers to issue policies on pricing and other matters. Local companies and state regulators had requested the stay.
+"We're gratified that the court declined to lift the stay. We are anticipating that the appeals process (against the FCC rules) will go forward and we think that is the right decision," said Bell Atlantic Corp. spokesman Jay Grossman.
+The FCC and the long-distance companies had told the high court the stay ran counter to the telecom law and would hurt consumers by delaying the introduction of competition in the local market.
+Thomas oversees appeals from the St. Louis-based appeals court.
+The FCC rules, adopted in August, are intended to serve as a guide to negotiations between local phone companies and new rivals seeking to enter the local market.
+They also are intended to serve as a reference for state arbitrators overseeing stalled negotiations.
+The FCC rules, among other things, require the Bells and other local carriers to lease their phone lines to new competitors at steep discounts of up to 25 percent.
+With the stay in place, state regulators will hold sway in determining what pricing and other policies will apply to the interconnection agreements between the Bells and GTE and new market entrants. Regulators in several states already have begun to issue preliminary arbitration agreements.
+Scott Cleland, an analyst at the Washington Research Group, said the decision to leave the stay in place throws the process of telecommunications deregulation into uncertainty.
+"It decentralizes the deregulation process down to the states and injects a lot of potential uncertainty over time," he said.
+Federal and state regulators raced Wednesday to finalize a multi-billion dollar proposal to ensure all Americans get quality and affordable phone service and that schools and libraries can hook up to the Internt.
+An eight-member board of state regulators and members of the Federal Communications Commission is trying to figure out the size of a federal fund to subsidize "universal" service.
+Estimates range anywhere from $4 billion to $12 billion a year. It could influence what consumers and businesses pay for their phone bills.
+"Depending on how big the dollar figures are and what the recovery mechanism is, consumers may have something at stake," said Mark Cooper of the Consumer Federation of America.
+The panel, established by the new telecommunications law, is scheduled to unveil its plans Thursday. Several issues are at stake, some of which were unresolved at the last minute.
+"All the issues are still being discussed," said a state official requesting anonymity. "There will be sections where we need further clarification on issues."
+Regulators must determine how local and long-distance companies, cable-TV operators, and other telecommunications carriers foot the bill to ensure that residents of secluded rural communities and poor inner-city areas get quality, affordable phone service.
+They must spell out how the nation's schools and libraries will get hooked up to the Internet and at what cost.
+And regulators must determine what roles the states and federal government will play in overseeing universal service.
+The board must issue its recommendations to the FCC by Friday. The agency must then issue final rules by early May.
+The nation's hundreds of local phone companies now provide universal service. It is funded in part via "access" charges that long-distance carriers such as AT&amp;T Corp. pay to hook up to the local phone network.
+In 1994, local companies took in about $21 billion in interstate access charges. The seven regional Baby Bells received about $17 billion of that amount. Long-distance companies want those charges slashed.
+Following are the issues the joint board is grappling with:
+-- The extent to which schools and libraries should be hooked up to the Internet at discounted rates.
+President Clinton has proposed giving these institutions free basic service, with the nation's communications carriers paying the tab. Members of the joint board disagree on whether every school, or every classroom, should be wired.
+There also is disagreement over what discounts schools and libraries should receive.
+-- The type of funding mechanism that would be used to pay for universal service. The telecom law requires that companies offering interstate phone service -- or virtually all carriers -- must foot the bill for universal service in an "equitable and non-discriminatory" manner.
+A national fund will be established to pay for universal service. State regulators want the ability to establish and oversee their own funds as well. Those funds would be backed by intrastate phone revenues.
+-- How to ensure phone service to low-income consumers. Poor Americans currently receive subsidized service through two plans, "Lifeline Assistance" and "Link Up America." Both are expected to be retained, expanded and improved.
+-- How to determine the cost of subsidies for companies that offer phone service in high-cost, out-of-the-way areas such as rural communities.
+The joint board has been examining whether to calculate such costs based on existing costs of providing such service, or a new model spelling out different "proxy" prices that would be used as a reference by regulators. The proxy prices would influence how much subsidies carriers would receive.
+Regulators proposed Thursday to set aside $2.3 billion a year to link schools and libraries to the Internet at discounted rates, but declined to endorse President Clinton's call to hook them up free of charge.
+Eligible institutions could buy access to the computer network at discounts of 20 percent to 90 percent, under the plan offered by an eight-member board of state regulators and members of the Federal Communications Commission.
+"Schools will be able to connect every single classroom to the Information Highway," said FCC Chairman Reed Hundt, who oversaw the panel.
+"The ramp will be a high-speed, high-bandwidth, cutting-edge connection. The discounts, tailored to each school's individual level of need, will make building and maintaining the ramp truly affordable for every school."
+The Internet proposal is part of a broader plan to overhaul the multi-bilion dollar "universal service" program that ensures affordable phone service to rural communities and low-income neighborhoods.
+Officials hope the wide-ranging proposal, which stems from the new telecommunications law, eventually will generate lower phone rates through increased competition.
+But some board members fear the  plan -- to be paid for from the reveneus of phone companies, cable-TV operators and other communications carriers -- may prove too ambitious and ultimately push up rates.
+"A universal service fund that taxes consumers billions of dollars a year is not only inconsistent with congressional intent, but could be extremely harmful nationwide to consumers," said Laska Schoenfelder, chairman of the South Dakota Public Utilities Commission.
+Under the Internet provision, less well off institutions and those in out-of-the-way high-cost areas would be entitled to the larger discounts.
+The plan stops short of the president's proposal to give schools and libraries free basic service, with the nation's communications carriers footing the bill.
+In other areas, the board left many key provisions of its proposals vague, including the cost of the federal fund that would be used to subsidize carriers that offer phone service in high-cost rural areas and in low-income neighborhoods.
+Overriding the objections of some regulators, the board proposed to fund the federal program through the interstate and intrastate revenues of telecommunications carriers.
+Some state regulators objected to the use of intrastate revenues, saying such funds should be used only by the states to set up their own funds that would help provide distinct telecommunications services within their borders.
+The board said that the current $3.50 a month subscriber line charge that residential customers now pay should not be increased. The charge is used to help fund universal service.
+And it held out the prospect that the charge -- along with the "access" charges long-distance carriers pay to local phone companies to hook up to their networks -- could drop if the federal universal fund is indeed bankrolled by interstate and intrastate phone revenues.
+Regulators proposed Thursday to set aside $2.3 billion a year to link schools and libraries to the Internet at discounted rates, but declined to endorse President Clinton's call to hook them up free of charge.
+Eligible institutions could buy access to the computer network at discounts of 20 percent to 90 percent, under the plan offered by an eight-member board of state regulators and members of the Federal Communications Commission.
+"Schools will be able to connect every single classroom to the Information Highway," said FCC Chairman Reed Hundt, who oversaw the panel.
+"The ramp will be a high-speed, high-bandwidth, cutting-edge connection. The discounts, tailored to each school's individual level of need, will make building and maintaining the ramp truly affordable for every school."
+The Internet proposal is part of a broader plan to overhaul the multi-billion dollar "universal service" programme that ensures affordable phone service to rural communities and low-income neighbourhoods. The FCC must adopt rules by early May.
+Officials hope the wide-ranging proposal, which stems from the new telecommunications law, eventually will generate lower phone rates through increased competition.
+But some board members fear the plan -- to be paid for from the revenues of phone companies, cable TV operators and other communications carriers -- may prove too ambitious and ultimately push up rates.
+"A universal service fund that taxes consumers billions of dollars a year is not only inconsistent with congressional intent, but could be extremely harmful nationwide to consumers," said Laska Schoenfelder, chairman of the South Dakota Public Utilities Commission.
+Under the Internet provision, less well off institutions and those in out-of-the-way high-cost areas would be entitled to the larger discounts.
+Officials said the average discount would be 60 percent. One-third of schools would get at least an 80 percent discount, and the poorest 15 percent would get a 90 percent discount.
+"It is no secret and no surprise that access to technology in the nation's schools and classrooms is tremendously unequal," said Vice President Al Gore. "Wealthier schools are twice as likely as poor schools to have Internet access, and wealthier students use computers 20 percent more than their poorer peers."
+But the plan stops short of the president's proposal to give schools and libraries free basic service, with the nation's communications carriers footing the bill.
+In other areas, the board left many key provisions of its proposals vague, including the cost of the federal fund that would be used to subsidise carriers that offer phone service in high-cost rural areas and in low-income neighbourhoods.
+Overriding the objections of some regulators, the board proposed to fund the federal programme through the interstate and intrastate revenues of telecommunications carriers.
+Some state regulators objected to the use of intrastate revenues, saying such funds should be used only by the states to set up their own funds that would help provide distinct telecommunications services within their borders.
+The board said that the current $3.50 a month subscriber line charge that residential customers now pay should not be increased. The charge is used to help fund universal service.
+And it held out the prospect that the charge -- along with the "access" charges long-distance carriers pay to local phone companies to hook up to their networks -- could drop if the federal universal fund is indeed bankrolled by interstate and intrastate phone revenues.
+The nation's distillers Thursday formally reversed their 48-year-old voluntary ban on broadcast advertising of liquor, saying whiskey and gin should be treated just like beer and wine.
+The announcement -- coming two days after the presidential election and just ahead of the holiday season -- affirms the decision by Seagram Co. Ltd. in June to begin airing TV ads for its Royal Crown and Chivas Regal whiskey.
+That ad campaign has unleashed criticism from lawmakers, regulators and President Clinton. And the latest decision is sure to rachet up the debate.
+"For decades, beer and wine have been advertised on television and radio while the distilled spirits industry has upheld its own voluntary ban," said Fred Meister, president of the Distilled Spirits Council of the United States (DISCUS).
+"The absence of spirits from television and radio has contributed to the mistaken perception that spirits are somehow 'harder' or worse than beer or wine and thus deserving of harsher social, political and legal treatment."
+The reversal of the voluntary ban was adopted in DISCUS's "code of good practice."
+The announcement drew an immediate rebuke from the chairman of the Federal Communications Commission, who has made it clear he is opposed to the practice and has raised the specter of new rules that would bar such advertising.
+"This decision is disappointing for parents, and dangerous for our kids," said FCC Chairman Reed Hundt, whose agency has begun a probe of the ad campaign.
+Consumer advocates also objected. "Today's decision by DISCUS to dump its voluntary ban marks the beginning of an open liquor-marketing season on America's children and teens," said George Hacker of the Centre for Science in the Public Interest.
+He urged President Clinton to renew his appeal to distillers to return to the voluntary ban, and he called on the Federal Trade Commission to assist the FCC in its probe.
+In Congress, Representative Joseph Kennedy has offered legislation to make it illegal to advertise hard liquor on radio or TV.
+Broadcasters, meanwhile, criticised the distillers' decision but stopped short of refusing to run liquor ads.
+The National Association of Broadcasters advocated to continue leaving the decision on whether to air the ads to individual TV and radio stations.
+"We believe this process has served American consumers well, since individual stations make and will continue to make judgments every day on what is most appropriate for their local audiences," said NAB President Edward Fritts.
+Federal and state regulators raced Wednesday to finalise a multi-billion dollar proposal to ensure all Americans get quality and affordable phone service and that schools and libraries can hook up to the Internet.
+An eight-member board of state regulators and members of the Federal Communications Commission is trying to figure out the size of a federal fund to subsidise "universal" service.
+Estimates range anywhere from $4 billion to $12 billion a year. It could influence what consumers and businesses pay for their phone bills.
+"Depending on how big the dollar figures are and what the recovery mechanism is, consumers may have something at stake," said Mark Cooper of the Consumer Federation of America.
+The panel, established by the new telecommunications law, is scheduled to unveil its plans Thursday. Several issues are at stake, some of which were unresolved at the last minute.
+"All the issues are still being discussed," said a state official requesting anonymity. "There will be sections where we need further clarification on issues."
+Regulators must determine how local and long-distance companies, cable-TV operators, and other telecommunications carriers foot the bill to ensure that residents of secluded rural communities and poor inner-city areas get quality, affordable phone service.
+They must spell out how the nation's schools and libraries will get hooked up to the Internet and at what cost.
+And regulators must determine what roles the states and federal government will play in overseeing universal service.
+The board must issue its recommendations to the FCC by Friday. The agency must then issue final rules by early May.
+The nation's hundreds of local phone companies now provide universal service. It is funded in part via "access" charges that long-distance carriers such as AT&amp;T Corp. pay to hook up to the local phone network.
+In 1994, local companies took in about $21 billion in interstate access charges. The seven regional Baby Bells received about $17 billion of that amount. Long-distance companies want those charges slashed.
+Following are the issues the joint board is grappling with:
+-- The extent to which schools and libraries should be hooked up to the Internet at discounted rates.
+President Clinton has proposed giving these institutions free basic service, with the nation's communications carriers paying the tab. Members of the joint board disagree on whether every school, or every classroom, should be wired.
+There also is disagreement over what discounts schools and libraries should receive.
+-- The type of funding mechanism that would be used to pay for universal service. The telecom law requires that companies offering interstate phone service -- or virtually all carriers -- must foot the bill for universal service in an "equitable and non-discriminatory" manner.
+A national fund will be established to pay for universal service. State regulators want the ability to establish and oversee their own funds as well. Those funds would be backed by intrastate phone revenues.
+-- How to ensure phone service to low-income consumers. Poor Americans currently receive subsidised service through two plans, "Lifeline Assistance" and "Link Up America." Both are expected to be retained, expanded and improved.
+-- How to determine the cost of subsidies for companies that offer phone service in high-cost, out-of-the-way areas such as rural communities.
+The joint board has been examining whether to calculate such costs based on existing costs of providing such service, or a new model spelling out different "proxy" prices that would be used as a reference by regulators. The proxy prices would influence how much subsidies carriers would receive.
+The nation's top communications regulator Friday appealed to nearly 1,200 television stations nationwide to adhere to a voluntary ban and refrain from airing liquor advertisements.
+Federal Communications Commission Chairman Reed Hundt, speaking a day after a liquor industry group said it would end its own voluntary ban on radio and TV promotions, also said he had no immediate plans to issue rules to block such ads.
+"That is a long, long and hard road to travel," Hundt said of the rulemaking process.
+For now, the FCC chairman plans instead to use his position as a bully pulpit to convince TV stations not owned by the four major networks to abstain from showing ads for gin, whiskey and other spirits.
+Seagram Co. Ltd. in June began airing TV ads for its Royal Crown whiskey in selected local markets.
+The National Association of Broadcasters (NAB), while "disappointed" with the lifting of the decades-old ban by the nation's distillers, declined to embrace Hundt's call for a voluntary ban.
+Hundt applauded the decision by the big networks -- ABC, CBS, NBC and Fox -- to leave unchanged their own policies against accepting liquor ads. Together, the four own about 50 stations in major markets.
+That leaves just under 1,200 commercial stations scattered across the nation not owned by the major networks.
+"The government has many, many options available to it. It's not necessary for these options to be explored if the broadcasters will stand up the way the four major networks have done," Hundt told a news conference.
+NAB President Edward Frits, however, noted that "over the years, individual stations have adopted their own standard regarding the acceptability of hard liquor advertising.
+"We believe this process has served American consumers well, since individual stations make and will continue to make judgments every day on what is most appropriate for their local audiences," he said in a statement.
+On Thursday, the Distilled Spirits Council of the United States, or Discus, said it formally ended its decades-old voluntary ban on radio and TV liquor ads. The ban had been in place since 1936 for radio and 1948 for TV.
+The group said distillers should enjoy the same right to promote their products as beer and wine producers, whose ads are carried on TV. Over the past 14 years, liquor consumption in the United States has tumbled 28 percent, to 325 million gallons last year from 449 million in 1981.
+The Seagram ad campaign already has unleashed criticism from lawmakers, regulators, consumer advocates and President Clinton. The FCC has opened its own probe of ads shown in Texas and New Hampshire.
+Meanwhile, other liquor makers have said they are planning their own ad campaigns or are considering their options.
+The nation's distillers Thursday formally reversed their 48-year-old voluntary ban on broadcast advertising of liquor, saying whiskey and gin should be treated just like beer and wine.
+The announcement -- coming two days after the presidential election and just ahead of the holiday season -- affirms the decision by Seagram Co. Ltd. in June to begin airing TV ads for its Royal Crown and Chivas Regal whiskey.
+That ad campaign has unleashed criticism from lawmakers, regulators and President Clinton. And the latest decision is sure to rachet up the debate.
+"For decades, beer and wine have been advertised on television and radio while the distilled spirits industry has upheld its own voluntary ban," said Fred Meister, president of the Distilled Spirits Council of the United States (DISCUS).
+"The absence of spirits from television and radio has contributed to the mistaken perception that spirits are somehow 'harder' or worse than beer or wine and thus deserving of harsher social, political and legal treatment."
+The reversal of the voluntary ban was adopted in DISCUS's "code of good practice."
+The announcement drew an immediate rebuke from the chairman of the Federal Communications Commission, who has made it clear he is opposed to the practice and has raised the specter of new rules that would bar such advertising.
+"This decision is disappointing for parents, and dangerous for our kids," said FCC Chairman Reed Hundt, whose agency has begun a probe of the ad campaign.
+Consumer advocates also objected. "Today's decision by DISCUS to dump its voluntary ban marks the beginning of an open liquor-marketing season on America's children and teens," said George Hacker of the Center for Science in the Public Interest.
+He urged President Clinton to renew his appeal to distillers to return to the voluntary ban, and he called on the Federal Trade Commission to assist the FCC in its probe.
+In Congress, Rep. Joseph Kennedy has offered legislation to make it illegal to advertise hard liquor on radio or TV.
+Broadcasters, meanwhile, criticized the distillers' decision but stopped short of refusing to run liquor ads.
+The National Association of Broadcasters advocated to continue leaving the decision on whether to air the ads to individual TV and radio stations.
+"We believe this process has served American consumers well, since individual stations make and will continue to make judgments every day on what is most appropriate for their local audiences," said NAB President Edward Fritts.
+The Supreme Court Tuesday declined a request by federal regulators and long-distance phone companies to reactivate landmark rules intended to pry open the nation's local phone monopolies to competition.
+The denial means key terms and conditions for deregulating the $100 billion local phone market will for now depend on the decisions of state regulators in the 50 states -- instead of on uniform rules issued by the Federal Communications Commission.
+The denial was a defeat for the FCC and long-distance giants AT&amp;T Corp.  and MCI Communications Corp., which had sought to reinstate FCC rules suspended by a U.S. appeals court pending a legal challenge to the rules. Supreme Court Justice Thomas had declined to restore them.
+It was a victory for the regional "Baby Bell" companies, GTE Corp.  , other local carriers and state regulators who are seeking to overturn the rules in the appeals court in St. Louis. They argue that the FCC unfairly snatched from the states power to issue policies governing pricing and other matters.
+The rules spell out how long-distance companies, cable-TV operators, utilities and others wanting to get into the local phone business can plug into local networks under the new federal telecommunications law.
+"For all practical purposes the states have complete control over the prices new entrants will pay to share the existing telephone networks during the critical period when competition is supposed to begin in local telephone markets," FCC Chairman Reed Hundt said after the high court's denial.
+The appeals court temporarily suspended the rules last month, saying the FCC probably erred when it drafted them.
+On Oct. 31, Justice Thomas declined a request by the FCC and its long-distance allies to lift the lower court's "stay." They separately asked Justices Ruth Bader Ginsberg and John Paul Stevens to reconsider the request, and the justices referred the matter to the entire court.
+"The stay prevents grossly arbitrary and distored pricing rules from going into effect and ruining the whole process," said GTE General Counsel William Barr. "It does not delay the timetable set forth in the Telecommunications Act of 1996 for the introduction of competition, but instead allows for a more level playing field."
+Oral arguments in the case are set for January. FCC Chairman Hundt conceded Friday it was unlikely the appeals court would decide in favour of the FCC, and he doubted that the rules would be put into effect for at least 1-1/2 years, if ever, while they were fought over in the courts.
+Hundt was encouraged, however, by the actions of state regulators arbitrating connection agreements between the Bells and their long-distance rivals.
+He said key provisions of the arbitration decisions issued thus far were similar to the suspended FCC rules.
+Iowa, Texas, Maryland, Virginia and Pennsylvania have been among the states that have issued decisions that will lay the groundwork for arbitrated agreements between the Bells and AT&amp;T, MCI and No. 3 long-distance company Sprint Corp.
+"There hasn't been any evidence that the states are going off and doing any wild and crazy stuff," said analyst Robert Mayer of Deloitte &amp; Touche Consulting Group.
+Deregulation of the $100 billion local telephone market is progressing -- but not by the script written by the Federal Communications Commission.
+Although the Supreme Court Tuesday declined to revive key parts of the FCC's landmark rules for prying open local phone monopolies, the march to competition is not dead, industry and government officials agree, and earlier fears that consumers would not see lower rates anytime soon may be overblown.
+"Things haven't come to a halt," said Henry Geller, a former FCC general counsel. "It's not the end of the world."  
+But the deregulation road map has changed.
+State regulators, not the FCC, are calling many of the shots over how to open the local market to competition from the likes of long-distance carriers such as AT&amp;T Corp, cable-TV operators, utilities and other companies.
+The states do, however, appear to be taking account of the FCC's now-defunct rules governing the prices new entrants to the local business must pay to acess the existing network controlled by the Baby Bells and other local carriers.  
+FCC Chairman Reed Hundt -- who last month charged that an appeals court order suspending the FCC rules amounted to a "monkey wrench" in the  deregulation process -- now sees matters differently. "I'm pretty encouraged as of this moment about the general trend here," he said last Friday.
+What's more, long-distance carriers such as AT&amp;T are not now sounding alarm bells.
+And despite warnings that state regulators would give local carriers preferential treatment once the FCC rules were suspended, the Baby Bells and other local companies concede that state decisions so far represent a "mixed bag" for them.  
+BellSouth Corp Vice President Randy New insists "it is impossible not to conclude" the states are being independent.
+Last month, a U.S. appeals court in St. Louis suspended key provisions of the FCC's "interconnection" rules that spell out how new entrants can hook up to the local network under the new communications law.
+The court said the FCC likely erred when writing them. The Baby Bells, GTE Corp and other local carriers and state regulators want the rules overturned.  
+They argue that the FCC unfairly snatched from the states power to issue policies governing pricing and other matters.
+Thanks to the appeals court order, state regulators are responsible for deciding important pricing issues. The FCC rules prescibed standardized prices for all 50 states.
+Lawyers and industry officials agree that even though the FCC rules are suspended, their influence still lingers.
+Regulators in Texas, Maryland, Virginia, Pennsylvania, Iowa, and elsewhere have not strayed far from them in arbitration decisions they've issued involving AT&amp;T and MCI Communications Corp. and the Baby Bells.  
+The decisions lay the groundwork for how the two long-distance giants access the local network.
+"So far, states are taking an approach generally consistent with the FCC's rules," said Richard Levine of the management consulting firm A.T. Kearny Inc.
+The FCC required the Baby Bells to lease their networks in bulk at discounts of 17 percent to 25 percent.
+The FCC also ordered local carriers to "unbundle" their networks into seven pieces that new rivals could lease to complete their own networks. The price of the pieces -- such as call-switching devices and operator assistance -- were to be based on the cost of new and more efficient facilities.
+"In general, the states so far are very consistent with the FCC's interconnection order and with the general pricing construct the FCC laid out," said AT&amp;T Vice President Steve Davis.
+Predicted Dan Hubbard, a senior vice president for a division of SBC Communications Inc : "There will be competition in the local markets by the early part of 1997."
+Deregulation of the $100 billion local telephone market is progressing -- but not according to the script written by the Federal Communications Commission.
+Although the Supreme Court Tuesday declined to revive key parts of the FCC's landmark rules for prying open local phone monopolies, the march to competition is not dead, industry and government officials agree. In addition, fears that consumers would not see lower rates anytime soon may be overblown.
+"Things haven't come to a halt," said Henry Geller, a former FCC general counsel. "It's not the end of the world."
+But the deregulation road map has changed.
+State regulators, not the FCC, are calling many of the shots over how to open local markets to competition from the likes of long-distance carriers, cable-TV operators, utilities and other companies.
+The states do, however, appear to be taking account of the FCC's now-defunct rules governing the prices new entrants to the local business must pay to acess the existing network controlled by the Baby Bells and other local carriers.
+FCC Chairman Reed Hundt -- who last month charged that an appeals court order suspending the FCC rules amounted to a "monkey wrench" in the  deregulation process -- now sees matters differently. "I'm pretty encouraged as of this moment about the general trend here," he said last Friday.
+What's more, long-distance carriers such as AT&amp;T Corp. are not now sounding alarm bells.
+Despite warnings that state regulators would give local carriers preferential treatment once the FCC rules were suspended, the Baby Bells and other local companies concede that state decisions so far represent a "mixed bag" for them.
+BellSouth Corp. Vice President Randy New insists "it is impossible not to conclude" the states are being independent.
+Last month, a U.S. appeals court in St. Louis suspended key provisions of the FCC's "interconnection" rules, which spell out how new entrants can hook up to the local network under the new communications law.
+The court said the FCC likely erred when writing them. The Baby Bells, GTE Corp. and other local carriers and state regulators want the rules overturned.
+They argue that the FCC unfairly snatched from the states power to issue policies governing pricing and other matters.
+Thanks to the appeals court order, state regulators are responsible for deciding important pricing issues. The FCC rules prescibed standardised prices for all 50 states.
+Lawyers and industry officials agree that even though the FCC rules are suspended, their influence still lingers.
+Regulators in Texas, Maryland, Virginia, Pennsylvania, Iowa, and elsewhere have not strayed far from them in arbitration decisions they've issued involving AT&amp;T and MCI Communications Corp. and the Baby Bells.
+The decisions lay the groundwork for how the two long-distance giants access the local network.
+"So far, states are taking an approach generally consistent with the FCC's rules," said Richard Levine of the management consulting firm A.T. Kearny Inc.
+The FCC required the Baby Bells to lease their networks in bulk at discounts of 17 percent to 25 percent.
+The FCC also ordered local carriers to "unbundle" their networks into seven pieces that new rivals could lease to complete their own networks. The price of the pieces -- such as call-switching devices and operator assistance -- were to be based on the cost of new and more efficient facilities.
+"In general, the states so far are very consistent with the FCC's interconnection order and with the general pricing construct the FCC laid out," said AT&amp;T Vice President Steve Davis.
+Dan Hubbard, a senior vice president for a division of SBC Communications Inc., predicted: "There will be competition in the local markets by the early part of 1997."
+Television industry moguls crafting a ratings system should spell out sexual and violence content of shows, not rely solely on a system like the motion picture code, a survey of parents issued Thursday concluded.
+The nationwide survey of 679 parents showed 80 percent preferred a system that specified the level of violence, sex or bad language rather than the age group for which a program is intended, as the motion picture industry's 28-year-old system does for movies.
+The survey was a joint effort of the National Parent Teacher Association, the Institute for Mental Health Initiatives and University of Wisconsin researchers. It came as TV executives raced to complete a ratings system in the next month.
+The executives favor an approach like the alphabetical code used by the Motion Picture Association of America (MPAA) for movies. Individual networks would rate their shows.
+But the survey sponsors -- along with Rep. Edward Markey, D-Mass. -- want a system that covers content and viewer age.
+"Parents want it all. They want every shred of information available about every program," said Markey, the author of a provision in the new communications law requiring TV makers to install a "V-chip" in all new sets. The device can be used with the upcoming ratings to let parents block shows they consider too violent or racy.
+Markey told a news conference it would be "very unfortunate" if the TV industry ignored the survey results and did not incorporate the kind of system used by the Home Box Office cable-TV movie channel to rate its shows. Each HBO show is given a rating based on content such as "MV" for "mild violence" or "SC" for "strong sexual content."
+Markey vowed the groups sponsoring the poll would "scream to the high heavens" if the TV ratings ignored program content.
+MPAA President Jack Valenti, overseeing the ratings' creation, said his group welcomed all suggestions. "We are trying to devise a TV parental guidance system which will be family friendly, easy to understand, easy to use, and most of all grounded in honorable purposes so that parents can better monitor and supervise the TV watching of their children."
+Regulators are set to kick off a two-part plan to slash rates on overseas phone calls, a move that could save American consumers and companies billions of dollars but ruffle the feathers of foreign governments.
+The Federal Communications Commission is expected Tuesday to make it simpler for U.S. and foreign phone companies to negotiate cheaper packages for connecting international calls to and from the United States.
+Next month the FCC is expected to propose rules to cut the charges U.S. carriers pay foreign phone monopolies to complete overseas calls made from U.S. shores. "The ultimate goal is to get lower-priced and better-quality services for consumers," said Don Gips, head of the FCC's international bureau.
+Officials say the foreign charges, or "accounting rates," run five to 10 times actual costs, reflecting the power of state-run monopolies unexposed to home competition. Monopolies control more than 90 percent of the non-U.S. market.
+U.S. phone companies, as a result, paid their overseas counterparts $5.5 billion more in 1995 than foreign companies paid U.S. carriers to complete calls.  
+"This figure would drop in half overnight if American carriers simply paid fees even vaguely related to costs," FCC Chairman Reed Hundt said in a recent speech. He noted that the imbalance dwarfs the U.S. foreign aid budget of $2 billion.
+The United States has big imbalances with China, Jamaica, Mexico, Hong Kong, Colombia and Argentina, among others.
+"Those few countries trying to defend their monopolies are going to be nervous" about the FCC effort, said Dan Rosen of the Institute for International Economics.
+U.S. carriers support the strategy. "You've got to move accounting rates to cost," said AT&amp;T Corp Vice President Gerry Salemme. AT&amp;T said it must pay 45 cents a minute to have its calls connected to the Dominican Republic, but that the actual cost of the termination is 7 to 8 cents a minute.
+The FCC actions come as the United States is seeking to open overseas telecommunications markets through talks sponsored by the World Trade Organization.
+To cut rates and open markets, the FCC is adopting a carrot-and-stick approach. Tuesday's order is meant for open markets, such as possibly those in Britain, Canada and Chile.  
+The FCC will waive its "proportionate return" rules that limit the ability of U.S. and foreign carriers to negotiate lower rates for terminating overseas calls. To win a waiver a foreign carrier's home market must be open to competition.
+The existing rules require overseas companies to turn over their long-distance calls to U.S. carriers in the same proportion U.S. carriers send calls to a foreign carrier's home market. If AT&amp;T, for example, accounts for 60 percent of calls to a country, then that country's monopoly must hand off 60 percent of its U.S.-bound calls to AT&amp;T.
+The FCC proposal due out next month would set "benchmark" rates for what U.S. carriers could pay foreign carriers to complete calls. These rates, according to FCC officials, would better reflect actual costs. The agency must still work out the details of how long a country would have to lower its rates and what steps could be taken if it refused to do so.
+"It literally has the potential of savings consumers billions of dollars," said Scott Harris, an attorney with Gibson, Dunn &amp; Crutcher.
+But the plan could rub governments the wrong way. High rates charged by their own phone monopolies can be used to maintain bloated payrolls or to subsidize local phone service.
+Federal regulators are set to kick off a two-part plan to slash rates on overseas phone calls, a move that could save consumers and companies billions of dollars but may ruffle the feathers of foreign governments.
+The Federal Communications Commission is expected Tuesday to make it simpler for U.S. and foreign phone companies to negotiate cheaper rates for international calls to and from the United States.
+Next month the FCC is expected to propose rules to cut the charges U.S. carriers pay foreign phone monopolies to complete overseas calls made from the United States.
+"The ultimate goal is to get lower-priced and better-quality services for consumers," said Don Gips, head of the FCC's international bureau.
+Officials say the foreign charges, or "accounting rates," run five to 10 times actual costs, reflecting the power of state-run monopolies unexposed to home competition. Monopolies control more than 90 percent of the non-U.S. market.
+U.S. phone companies, as a result, paid their overseas counterparts $5.5 billion more in 1995 than foreign companies paid U.S. carriers to complete calls.
+"This figure would drop in half overnight if American carriers simply paid fees even vaguely related to costs," FCC Chairman Reed Hundt said in a recent speech. He noted that the imbalance dwarfs the U.S. foreign aid budget of $2 billion.
+While the accounting rates paid by both carriers are about equal, the imbalance reflects the fact that many more overseas calls are made from the United States than into this country.
+The United States has big imbalances with China, Jamaica, Mexico, Hong Kong, Columbia and Argentina, among others.
+"Those few countries trying to defend their monopolies are going to be nervous" about the FCC effort, said Dan Rosen of the Institute for International Economics.
+U.S. carriers support the strategy.
+"You've got to move accounting rates to cost," said AT&amp;T Corp. Vice President Gerry Salemme. AT&amp;T said it must pay 45 cents a minute to have its calls connected to the Dominican Republic, but that the actual cost is 7 to 8 cents a minute.
+The FCC actions come as the United States is seeking to open overseas telecommunications markets through talks sponsored by the World Trade Organisation.
+To cut rates and open markets, the FCC is adopting a carrot-and-stick approach. Tuesday's order is meant for open markets, such as possibly Britain, Canada and Chile.
+The FCC will waive its "proportionate return" rules that limit the ability of U.S. and foreign carriers to negotiate lower rates for overseas calls. To win a waiver, a foreign carrier's home market must be open to competition.
+The existing rules require overseas companies to turn over their long-distance calls to U.S. carriers in the same proportion U.S. carriers send calls to a foreign carrier's home market.
+If AT&amp;T, for example, accounts for 60 percent of calls to a country, then that country's monopoly must hand off 60 percent of its U.S.-bound calls to AT&amp;T.
+The FCC proposal due next month would set "benchmark" rates for what U.S. carriers could pay foreign carriers to complete calls. These rates, according to FCC officials, would better reflect actual costs.
+The agency must still work out the details of how long a country would have to lower its rates and what steps could be taken if it refused to do so.
+"It literally has the potential of saving consumers billions of dollars," said Scott Harris, an attorney with Gibson, Dunn &amp; Crutcher.
+But the plan could rub governments the wrong way. High rates charged by their own phone monopolies can be used to maintain bloated payrolls or to subsidise local phone service.
+Federal regulators are set to kick off a two-part plan to slash rates on overseas phone calls, a move that could save consumers and companies billions of dollars but may ruffle the feathers of foreign governments.
+The Federal Communications Commission is expected Tuesday to make it simpler for U.S. and foreign phone companies to negotiate cheaper rates for international calls to and from the United States.
+Next month the FCC is expected to propose rules to cut the charges U.S. carriers pay foreign phone monopolies to complete overseas calls made from the United States.
+"The ultimate goal is to get lower-priced and better-quality services for consumers," said Don Gips, head of the FCC's international bureau.
+Officials say the foreign charges, or "accounting rates," run five to 10 times actual costs, reflecting the power of state-run monopolies unexposed to home competition. Monopolies control more than 90 percent of the non-U.S. market.
+U.S. phone companies, as a result, paid their overseas counterparts $5.5 billion more in 1995 than foreign companies paid U.S. carriers to complete calls.
+"This figure would drop in half overnight if American carriers simply paid fees even vaguely related to costs," FCC Chairman Reed Hundt said in a recent speech. He noted that the imbalance dwarfs the U.S. foreign aid budget of $2 billion.
+The United States has big imbalances with China, Jamaica, Mexico, Hong Kong, Columbia and Argentina, among others.
+"Those few countries trying to defend their monopolies are going to be nervous" about the FCC effort, said Dan Rosen of the Institute for International Economics.
+U.S. carriers support the strategy.
+"You've got to move accounting rates to cost," said AT&amp;T Corp. Vice President Gerry Salemme. AT&amp;T said it must pay 45 cents a minute to have its calls connected to the Dominican Republic, but that the actual cost is 7 to 8 cents a minute.
+The FCC actions come as the United States is seeking to open overseas telecommunications markets through talks sponsored by the World Trade Organisation.
+To cut rates and open markets, the FCC is adopting a carrot-and-stick approach. Tuesday's order is meant for open markets, such as those in Britain, Canada and Chile.
+The FCC will waive its "proportionate return" rules that limit the ability of U.S. and foreign carriers to negotiate lower rates for overseas calls. To win a waiver, a foreign carrier's home market must be open to competition.
+The existing rules require overseas companies to turn over their long-distance calls to U.S. carriers in the same proportion U.S. carriers send calls to a foreign carrier's home market.
+If AT&amp;T, for example, accounts for 60 percent of calls to a country, then that country's monopoly must hand off 60 percent of its U.S.-bound calls to AT&amp;T.
+The FCC proposal due next month would set "benchmark" rates for what U.S. carriers could pay foreign carriers to complete calls. These rates, according to FCC officials, would better reflect actual costs.
+The agency must still work out the details of how long a country would have to lower its rates and what steps could be taken if it refused to do so.
+"It literally has the potential of saving consumers billions of dollars," said Scott Harris, an attorney with Gibson, Dunn &amp; Crutcher.
+But the plan could rub governments the wrong way. High rates charged by their own phone monopolies can be used to maintain bloated payrolls or to subsidise local phone service.
+Regulators took the first of two steps Tuesday to slash the cost of overseas phone calls for consumers and businesses, making it easier for U.S. and foreign carriers to negotiate cheaper international rates.
+The Federal Communications Commission hopes to save U.S. callers billions of dollars by backing up the new rules with a separate proposal to be unveiled next month to cut the charges U.S. carriers pay foreign phone monopolies to complete calls from the United States.
+Americans spend about 16 cents a minute for a domestic call. But they must shell out an average of 99 cents a minute to call overseas -- even though the cost of the calls are not much different, according to FCC officials.
+"At 99 cents a minute, you're not going to get a global information highway," complained FCC Chairman Reed Hundt.
+Tuesday's rules are targeted at countries whose own phone markets are open to competition from U.S. carriers, or are in the process of opening. FCC officials cited Canada, Britain, Chile and Sweden, as well as Europe and Mexico.
+Under the plan announced Tuesday, the FCC will waive rules that limit the ability of U.S. carriers to negotiate cheaper calling rates with an overseas phone company whose own market is considered open. The rules were crafted to prevent market abuse by foreign monopolies.
+Don Gips, head of the FCC's International Bureau, said the new rules "will allow competitive pressures, rather than archaic rules," to govern the telecommunications market.
+AT&amp;T Corp. Vice President Gerry Salemme said they "can lead to a significant reduction in the amount that American consumers pay for international telephone calls."
+Under the new approach, a company such as AT&amp;T -- with FCC approval -- could ask competing foreign carriers to bid for the right to handle AT&amp;T phone traffic from the United States to a foreign market.
+Alternatively, a U.S. carrier could offer end-to-end service from the United States to a foreign market without using the existing rate system for completing calls.
+Officials say these "accounting rates" run five to 10 times actual costs, reflecting the power of state-run monopolies unexposed to home competition. U.S. carriers paid their overseas counterparts $5.5 billion more in 1995 than foreign companies paid U.S. carriers to complete calls.
+While the accounting rates paid by both carriers are about equal, the imbalance reflects the fact that many more overseas calls are made from the United States than into this country.
+International calls from the United States account for about a quarter of all international calls worldwide.
+To reduce the rates, the FCC proposal scheduled for next month would set "benchmark" rates for what U.S. carriers could pay foreign carriers to complete calls. These rates, according to FCC officials, would better reflect actual costs.
+The agency must still work out the details of how long a country would have to lower its rates and what steps could be taken if it refused to do so.
+The FCC actions come as the United States is seeking to open overseas telecommunications markets through talks sponsored by the World Trade Organisation.
+The United States has big rate imbalances with China, Jamaica, Mexico, Hong Kong, Columbia and Argentina, among others. Next month's proposal is likely to ruffle feathers.
+"There will be concern from countries around the world with the benchmark item. There's no doubt about that," said the FCC's Gips.
+Regulators took the first of two steps Tuesday to slash the cost of overseas phone calls for consumers and businesses, making it easier for U.S. and foreign carriers to negotiate cheaper international rates.
+The Federal Communications Commission hopes to save U.S. callers billions of dollars by backing up the new rules with a plan next month to cut the charges U.S. carriers pay foreign phone monopolies to complete calls from the United States.
+Americans spend about 16 cents a minute for a domestic call. But they must shell out an average of 99 cents a minute to call overseas -- even though the cost of the calls are not much different, according to FCC officials.
+"At 99 cents a minute, you're not going to get a global information highway," complained FCC Chairman Reed Hundt.
+Tuesday's rules are targeted at countries whose own phone markets are open to competition from U.S. carriers, or are in the process of opening. FCC officials cited Canada, Britain, Chile and Sweden, as well as Europe and Mexico.
+The FCC will waive rules that limit the ability of U.S. carriers to negotiate cheaper calling rates with an overseas phone company whose own market is considered open. The rules were crafted to prevent market abuse by foreign monopolies.
+Don Gips, head of the FCC's International Bureau, said the new rules "will allow competitive pressures, rather than archaic rules," to govern the telecommunications market.
+AT&amp;T Corp. Vice President Gerry Salemme said they "can lead to a significant reduction in the amount that American consumers pay for international telephone calls."
+Under the new approach, a company such as AT&amp;T -- with FCC approval -- could ask competing foreign carriers to bid for the right to handle AT&amp;T phone traffic from the United States to a foreign market.
+Alternatively, a U.S. carrier could offer end-to-end service from the United States to a foreign market without using the existing rate system for completing calls.
+Officials say these "accounting rates" run five to 10 times actual costs, reflecting the power of state-run monopolies unexposed to home competition. U.S. carriers paid their overseas counterparts $5.5 billion more in 1995 than foreign companies paid U.S. carriers to complete calls.
+While the accounting rates paid by both carriers are about equal, the imbalance reflects the fact that many more overseas calls are made from the United States than into this country.
+International calls from the United States account for about a quarter of all international calls worldwide.
+To reduce the rates, the FCC proposal scheduled for next month would set "benchmark" rates for what U.S. carriers could pay foreign carriers to complete calls. These rates, according to FCC officials, would better reflect actual costs.
+The agency must still work out the details of how long a country would have to lower its rates and what steps could be taken if it refused to do so.
+The FCC actions come as the United States is seeking to open overseas telecommunications markets through talks sponsored by the World Trade Organisation.
+The United States has big rate imbalances with China, Jamaica, Mexico, Hong Kong, Columbia and Argentina, among others. Next month's proposal is likely to ruffle feathers.
+"There will be concern from countries around the world with the benchmark item. There's no doubt about that," said the FCC's Gips.
+Following weeks of talks, representatives from the television and computer industries reached an agreement in principle Monday on a broadcast standard for a new generation of high-definition digital TV.
+The accord is aimed at allowing the Federal Communications Commission to finalise by year's end a government-prescribed standard for advanced digital TV, which offers cinema-quality pictures and CD-quality sound. TV manufacturers, as a result, hope to begin bringing digital-TV receivers to market in 1998.
+While the accord between the computer, broadcast and consumer electronics industries calls on the FCC to issue a broadcast transmission standard, the agency would not mandate key aspects of digital TV technology.
+Instead, the eventual shape of the TV screen and the technology for putting images on to the screen would be dictated by the market -- and not a government agency.
+FCC officials welcomed the pact. "I am confident that, based on today's announcement, the FCC can act before the end of 1996," Commissioner Susan Ness said in a statement.
+FCC Chairman Reed Hundt said, "Our goal has been to trust the market, not government, to define the digital television of the future. Today's agreement is wholly welcome."
+Computer companies, led by Microsoft Corp. Chairman Bill Gates, had objected to the broadcast standard the FCC initially proposed in May, saying it would work poorly with computers and stifle the the convergence of TV and computer technologies.
+The long-promised convergence would allow consumers to watch TV and surf the Internet via the same "smart box."
+The latest round of talks, which were held in Washington, also resolved objections raised by Hollywood directors, actors and cinematographers who complained that the proposed screen size would mangle images in wide-screen films.
+The FCC proposal stalled after the Clinton administration made an election-year reversal in August and warned the plan could be "overly prescriptive" and could "stymie" development of new products and services.
+It initially backed the plan, but reversed itself after the objections from the computer industry and Hollywood.
+"If the FCC acts this year, it could make high-definition TV a reality for consumers in 1998," said Gary Shapiro, president of the Consumer Electronics Manufacturers Association, a trade group representing TV makers.
+The latest talks involved representatives for TV broadcasters, the big networks, TV manufacturers Philips Electronics N.A. Corp. and Thomson Consumer Electronics, plus Microsoft, Intel Corp., Compaq Computer Corp., and Apple Computer Inc.
+The initial FCC proposal stemmed from a recommendation by an advisory panel that included representatives from the entertainment, broadcast, electronic and computer industries. The plan took more than eight years to develop.
+The negotiations were initiated after a request last month from Commissioner Ness. She set a Nov. 25 deadline for the negotiators to reach agreement, although the date was not legally binding.
+Television executives have tentatively agreed to rate shows based on their suitability for kids of different age groups, industry sources said Tuesday, disappointing advocates of a ratings system that would specify the level of sex, violence and bad language.
+The new ratings system is expected to be completed by year's end and would be similar -- but not identical to -- the 28-year-old system now used by the motion-picture industry.
+The Motion Picture Association of America (MPAA) code uses letters and numbers -- G, PG, PG-13, R and NC-17 -- to suggest the age groups for which a film is appropriate.
+The TV industry executives, meeting privately since March, rejected a system backed by children's advocates and educators to rate shows based on content -- sex, violence and language.
+An industry source said that approach -- now used by cable network HBO -- would be unworkable for the hundreds of shows on broadcast and cable TV and would fail to deliver a uniform standard across the various broadcast and cable networks.
+Individual networks or syndicators would rate their shows.
+"It's just too hard to have uniformity," said the source.
+The HBO system, first devised in the mid-eighties, offers content-based ratings such as "MV" for "mild violence," "SC" for "strong sexual content" and "AL" for "adult language."
+Industry sources stressed that the TV ratings system has not been finalised and that details need to be worked out.
+Publicly, executives said no agreement has been reached.
+"It would be premature to suggest that we've reached any agreement," said Decker Anstrom, president of the National Cable Television Association.
+Once completed, the ratings will be used with a "V-chip" that will be installed in new TV sets to allow parents to block shows they consider too violent or racy.
+News that a content-based system had been rejected brought protest from children's advocates and others.
+"It's very unfortunate. We're going to end up with a system that is not going to be very helpful to parents," said Kathryn Montgomery of the Centre for Media Education.
+Montgomery, who met Tuesday with the industry group overseeing the ratings system, charged that the TV executives "never seriously considered" a content-based system and that "their minds were made up from the beginning."
+Representative Edward Markey, R-Mass., the backer of the 1996 V-chip legislation, said the "'V' for violence" appears to have been "hijacked." "It's time the public joined in a search for the missing 'V' so we can restore it to the V-chip," he added.
+A survey issued last month by the National Parent Teacher Association,  the Institute for Mental Health Initiatives and University of Wisconsin researchers reported that 80 percent of parents polled preferred a content-based ratings system.
+The state of Alaska has asked the Federal Communications Commission to ban broadcast advertising of hard liquor, adding to the controversy over whether liquor ads should be allowed on television and radio.
+Lawyers said the state's petition -- backed by former U.S. Surgeon General C. Everett Koop -- was significant.
+It could be used at the least as a vehicle within the FCC to generate public debate on the issue, or as a catalyst leading to rules restricting broadcast liquor promotions.
+"Whenever you have a state formally asking the FCC to step in, it legitimises the involvement of the commission for any 'doubting Thomases' that might remain," said attorney Nick Allard of Latham &amp; Watkins.
+The FCC is divided over the issue. Chairman Reed Hundt favours banning the ads if TV stations refuse to abide by a voluntary ban. But two of the FCC's four commissioners have doubts over the FCC's authority to act in the matter.
+FCC officials have yet to decide how to handle the Alaska request, which was submitted last month but drew little notice. They also have not yet decided how to respond to a recent bipartisan request from 26 members of Congress asking the FCC to open a formal investigation into broadcast liquor ads.
+The split among commissioners has stymied action for now.
+The Federal Trade Commission has opened a formal investigation into alcoholic beverage advertising on TV, both for liquor and beer. It is training its sights for now on distiller Joseph E. Seagram &amp; Sons and the Stroh Brewery Co. Seagram is a subsidiary of Montreal-based Seagram Co.
+Alaska, in its petition, asserted that the FCC does have the jurisdiction to act and called for speedy action.
+"Advertising of distilled spirits on television and radio will inevitably increase the use of this potent drug among the nation's young people," Alaska said in its petition, written by the state's attorney general, Bruce Botelho, and Assistant Attorney General Stephen Slotnick.
+The petition cited data showing that Alaska's per-capita alcohol consumption was third-highest in the nation in 1994.
+Alaska made its request after the nation's distillers last month ended their decades-old voluntary ban on broadcast ads. It had been in place since 1936 for radio and 1948 for TV.
+In June, Seagram began airing TV ads for its Royal Crown whiskey in Texas.
+Some dismissed Alaska's bid.
+"It's fair to say the Alaska proposal and (the state's) alcohol problem have more to do with a lack of sunlight than whether Seagram advertises for its whiskey," said attorney Robert Corn-Revere of Hogan &amp; Hartson.
+"An FCC ban of hard-liquor advertising would have a very hard chance of surviving judicial review," he added.
+But others said a carefully crafted FCC proposal -- such as restricting the ads until after 10 p.m. or later -- could withstand judicial scrutiny. "The courts have looked favourably on regulations designed to protect children," said attorney George Vradenberg of Latham &amp; Watkins.
+Lawyers said the FCC must decide what, if any, action it wants to take. Some within the FCC suggest putting the Alaska and congressional requests out for public comment to allow the agency to learn more about the issue.
+"Let's take it one step at a time," said an FCC official.
+The television and entertainment industries vowed Thursday to use only their system for rating TV programmes and promised to reject -- by legal means, if necessary -- any government-imposed plan.
+Following months of work, a group of TV and Hollywood executives are scheduled next week to unveil plans for a system to rate shows based on their suitability for kids of different ages, especially those under 14 years of age.
+It will be similar to the 28-year-old system of letters and numbers used by the motion-picture industry and which includes the ratings G, PG, PG-13, R and NC-17.
+"We will not use any other TV rating guidelines other than the ones we are going to announce next week," said Jack Valenti, chief executive of the Motion Picture Association of America and head of the "implementation group" developing the ratings.
+But parental groups, children's advocates, educators and some key lawmakers -- including Representative Edward Markey, a Massachusetts Democrat -- have demanded that the group include a content-based system specifying the level of sex, violence and bad language.
+Lawmakers have not ruled out a legislative fix.
+"It is clear that the industry has so far failed to respond adequately to the fundamental interest of parents in knowing the specific content of TV shows in advance," Markey said at a news conference accompanied by other lawmakers and groups pushing for a content-based system like the one now used by the HBO cable channel.
+At a press conference responding to Markey, Valenti lashed back. He accused Markey of trying to use government as a "big brother" to impose his own scheme. And Valenti vowed not to bend under pressure and alter his group's system.
+"We're not going to change a word of it. We're not going to redot an 'i' or recross a 't,'" Valenti said. "If there is any intervention by government, we're going to be in court in a nanosecond."
+The Federal Communications Commission also must approve or reject the ratings system. If it were to reject it, the agency could call for development of an alternative plan -- one that Valenti said the industry would ignore.
+Once the ratings are implemented in January, Valenti did say the industry would revisit the system after about a year to determine whether it should be changed or "tweaked."
+"Is it perfect? Of course not. All subjective systems are flawed. So is ours," Valenti said.
+The ratings -- expected to include six broad categories -- will not apply to news, news magazine shows such as "60 Minutes" or sports. TV networks and syndicators will issue the ratings, with the categories "mingling" age and content, according to Valenti.
+Proposed guidelines leaked to the media include two for children: "TV-K" for kids and suitable for all ages; and "TV-K7" for children older than seven.
+The other four are: "TV-G" for general audiences; "TV-PG," parental guidance suggested; "TV-14" for parents strongly cautioned; and "TV-M" for mature audiences only.
+The rating are to be used in conjunction with a "V-chip" installed in TV sets that allow parents to block out shows they consider too violent or racy.
+The HBO system, developed in the mid-80s, offers ratings such as "MV" for "mild violence," "SC" for "strong sexual content" and "AL" for "adult language."
+But Valenti said that system is unworkable and is too complicated to appear in TV listings in the newspaper.
+He also said a 19-member monitoring and oversight group will be created to oversee the new ratings. It will include a chairman and representives from the creative side of the industry, TV broadcasters and the cable-TV industry.
+The television and entertainment industries vowed Thursday to use only their system for rating TV programs and promised to reject -- by legal means, if necessary -- any government-imposed plan.
+Following months of work, a group of TV and Hollywood executives are scheduled next week to unveil plans for a system to rate shows based on their suitability for kids of different ages, especially those under 14 years of age.
+It will be similar to the 28-year-old system of letters and numbers used by the motion-picture industry and which includes the ratings G, PG, PG-13, R and NC-17.
+"We will not use any other TV rating guidelines other than the ones we are going to announce next week," said Jack Valenti, chief executive of the Motion Picture Association of America and head of the "implementation group" developing the ratings.
+But parental groups, children's advocates, educators and some key lawmakers -- including Rep. Edward Markey, a Massachusetts Democrat -- have demanded that the group include a content-based system specifying the level of sex, violence and bad language.
+Lawmakers have not ruled out a legislative fix.
+"It is clear that the industry has so far failed to respond adequately to the fundamental interest of parents in knowing the specific content of TV shows in advance," Markey said at a news conference accompanied by other lawmakers and groups pushing for a content-based system like the one now used by the HBO cable channel.
+At a press conference responding to Markey, Valenti lashed back. He accused Markey of trying to use government as a "big brother" to impose his own scheme. And Valenti vowed not to bend under pressure and alter his group's system.
+"We're not going to change a word of it. We're not going to redot an 'i' or recross a 't,'" Valenti said. "If there is any intervention by government, we're going to be in court in a nanosecond."
+The Federal Communications Commission also must approve or reject the ratings system. If it were to reject it, the agency could call for development of an alternative plan -- one that Valenti said the industry would ignore.
+Once the ratings are implemented in January, Valenti did say the industry would revisit the system after about a year to determine whether it should be changed or "tweaked."
+"Is it perfect? Of course not. All subjective systems are flawed. So is ours," Valenti said.
+The ratings -- expected to include six broad categories -- will not apply to news, news magazine shows such as "60 Minutes" or sports. TV networks and syndicators will issue the ratings, with the categories "mingling" age and content, according to Valenti.
+Proposed guidelines leaked to the media include two for children: "TV-K" for kids and suitable for all ages; and "TV-K7" for children older than seven.
+The other four are: "TV-G" for general audiences; "TV-PG," parental guidance suggested; "TV-14" for parents strongly cautioned; and "TV-M" for mature audiences only.
+The rating are to be used in conjunction with a "V-chip" installed in TV sets that allow parents to block out shows they consider too violent or racy.
+The HBO system, developed in the mid-80s, offers ratings such as "MV" for "mild violence," "SC" for "strong sexual content" and "AL" for "adult language."
+But Valenti said that system is unworkable and is too complicated to appear in TV listings in the newspaper.
+He also said a 19-member monitoring and oversight group will be created to oversee the new ratings. It will include a chairman and representives from the creative side of the industry, TV broadcasters and the cable-TV industry.
+A television industry group is set to formally unveil its controversial system for rating programmes on Thursday so parents can better control the shows their children tune in.
+The group of broadcast, cable-TV and Hollywood executives has been meeting privately since March to fashion a motion-picture style system to rate the thousands of hours of shows based on their suitability for kids of different ages.
+Despite loud criticism from lawmakers, parents groups, consumers advocates, educators and others, the executives said they have decided against a content-based system that would spell out the level of sex, violence and strong language.
+They called such an approach unworkable. And they said an age-based system -- such as TV-14 as suitable for children age 14 and older -- will be easy for parents to use, simple to understand, and convenient for newspapers to publish.
+Jack Valenti, chief executive of the Motion Picture Association of America and head of the group developing the ratings, predicted to reporters that once more people begin to understand the new system, they will realise "this is a hell of a lot better than what we have now."
+The ratings, to be unveiled in Washington, are expected to include six categories. Four are expected to be: TV-G for suitable for all ages; TV-PG for parental guidance suggested; TV-14 for kids 14 and older; and TV-M for mature audiences.
+The other two will cover children's programs: those suitable for all kids and those for children older than seven.
+The ratings will be put in use next month. TV networks and syndicators will rate their shows. News, news magazine shows such as "60 Minutes" and sports will be exempted.
+But programmes such as "Hard Copy" and "Entertainment Tonight" are expected to receive ratings instead of being classified as bona fide news programmes, said one source.
+President Clinton last week gave the system a conditional green light, saying that critics should allow the TV industry to test the ratings for 10 months before demanding changes.
+Yet the controversy is unlikely to die soon. Kathryn Montgomery, president of the Centre for Media Education, a children's advocacy group, called the system "inadequate."
+She said it "fails to provide parents the information they need to make decisions about what their children will watch."
+Top officials at the Federal Communications Commission plan to reserve judgment until they study the system.
+Television and Hollywood moguls on Thursday formally unveiled their controversial system to rate TV programmes, ushering in a new era meant to enable parents to control their kids' viewing habits better.
+Broadcast and cable-TV networks will begin displaying the six ratings categories at the start of shows as soon as Jan. 2. The ratings will appear briefly as a small icon in the upper left-hand corner of the TV screen.
+The age-based system is similar to the 28-year-old motion-picture industry ratings and will apply to nearly all shows, including cartoons and talk shows. News and sports programmes will be exempted.
+President Bill Clinton, appearing in the Oval Office with leading TV and Hollywood executives, called the new ratings a "huge step forward over what we have now, which is nothing."
+While not endorsing the system, Clinton said the ratings "are going to give America's families more help in choosing appropriate television programming for their children."
+Even before its unveiling, the system had drawn flak from lawmakers, parent groups, children's advocates, educators and others. They want the ratings content-based, specifying the level of sex, violence and strong language.
+The ratings are: TV-G for suitable for all ages; TV-PG for parental guidance suggested; TV-14 for parents of children under 14 strongly cautioned; TV-M for mature audiences only and two categories applying to children's shows: TV-Y for all children and TV-Y7 for kids seven and older.
+Executives said they expected programmes such as "Hard Copy" and "Entertainment Tonight" to receive ratings instead of being exempted as bona fide news programmes.
+"Our goal was to create TV parental guidelines which would be simple to use, easy to understand and handy to find, and we have accomplished it," said Jack Valenti, president of the Motion Picture Association of America and head of the group that developed the television ratings.
+The group included representatives from the broadcast and cable-TV industries and Hollywood. "We don't claim any divine inspiration," Valenti told a news conference, adding that the system was "not written in stone." Industry executives plan to review the ratings over the next few months.
+"What we are presenting is our best offer," Valenti said.
+Networks and producers will rate their own shows, unlike the movie industry, where an independent panel rates films. TV executives argue they have far more programmes to rate, with up to 2,000 hours a day of shows, equivalent to about 1,000 movies a day.
+Critics, while welcoming the system, say it is vague, does not go far enough and will prove unhelpful to parents. Child advocacy, public health, religious and education groups plan a campaign to see that a content-based system is developed. They favour an approach in which letters such as V, S and L are used to denote the level of violence, sex and bad language.
+"The system which they propose is too complicted. It's too vague. It doesn't give parents the information which they need in their homes for their kids," said Representative Edward Markey, a Democrat from Massachusetts and a vocal critic of the TV industry plan. He called on the industry to test both the aged-based and content-based systems side by side in the home.
+But industry officials said a content-based plan would be unwieldly. They said their own system would be more practical for parents, and more convenient for newspapers to print.
+The ratings stem from the telecommunications law enacted in February that requires new TV sets to include a "V-chip." The technology, expected to be available in a year or so, will be used in conjunction with the ratings and allow parents to screen out programmes they do not want their children to watch.
+Clinton last week gave the system a conditional green light, saying critics should allow the TV industry to test the ratings for 10 months before demanding changes.
+Top officials at the Federal Communications Commission will review the ratings over the next few weeks. Under the telecommunications law, the FCC must set up an advisory panel to devise a ratings system if the industry fails within a year to craft an "acceptable" plan.
+Valenti vowed to fight any government-imposed system in court on First Amendment free speech grounds.
+Regulators this week gave final approval to a technology standard for a new generation of high-definition digital television, setting off a race between computer makers and TV manufacturers to woo viewers.
+The Federal Communications Commission on Tuesday approved the compromise standard hammered out last month between TV manufacturers, broadcasters and the computer industry.
+Digital TV offers crystal-clear pictures and CD-quality sound. It is also expected to promote a "computer friendly" TV system that allows viewers to watch programmes while surfing the Internet over the same "smart box."
+The new standard "hastens convergence, transporting us into a competitive world of computer-friendly television sets and broadcast-friendly computers," commissioner Susan Ness said. "Our decision also provides a springboard for global leadership in high-definition digital equipment and programming."
+The standard, among other things, covers how voice and video material will be attached to digital signals, how the signals will be "compressed" for transmission, and how they will be "reopened" at the TV receiver.
+But not every detail is spelled out. Under the industry compromise, the standard does not specify the video format by which images will be put onto the screen, or "scanned."
+Broadcasters and TV manufacturers had wanted to require a format known as "interlace" scanning. Computer companies argued that would stifle the convergence of TV and computer technologies. They wanted to mandate "progressive" scanning, which is better suited to computers, or no format at all.
+Progressive scanning, used by most computers, updates every line of the TV picture at each pass. Interlaced scanning, used in exisiting television sets, updates every other line.
+Because no scanning format was specified, the computer industry will be free to manufacture computers that use just progressive scanning. And TV manufacturers are ready to make sets that offer both interlace and progressive technology.
+That sets up a competition between the two industries over how consumers will want to watch TV -- over a TV set or over a computer.
+"Ultimately, the personal computer will be the preferred communications device in the household," said Paul Misener, manager of telecommunications and computer technology policy at Intel Corp., a major computer chip maker.
+Not so fast, argue TV manufacturers.
+"The computer people need to evaluate how the average consumer wants to get delivery to the home," said Lisa Fasold, a spokeswoman for the Consumer Electronics Manufacturers Association, an industry group.
+"TV sets typically last a lot longer than computers. And they're much more simple to operate."
+In any event, industry officials agree that digital TV is likely to hasten the long-promised convergence of TV and computer technologies.
+For example, sports fans will be able to watch a baseball game and split the screen of their machine to receive up-to-the-minute scores of other games over the Internet, according to industry officials.
+TV manufacuters expect to begin bringing digital receivers to market in 1998. The new sets are expected to cost from $1,500 to $3,000. Prices are forecast to drop as broadcasters offer more digitally transmitted programmes, presumably boosting demand for digital TV.
+The television industry's controversial system for rating programs is set to begin airing Wednesday on the big networks ABC, CBS, NBC and Fox.
+Broadcast and cable networks will carry the ratings, though start dates will vary. Time Warner Inc.'s upstart WB network began rating shows on Dec. 22. Cable network Black Entertainment Television does not plan to use the ratings.
+Following are questions and answers about the system, unveiled by TV and Hollywood executives on Dec. 19.
+Question: What are the ratings?
+Answer: There are six categories, with two for children's shows. Like the 28-year-old motion-picture industry ratings, the TV ratings are meant to show a program's suitability for kids of different age groups. In general, they are:
+TV-Y  -- Children of all ages.
+TV-Y7 -- Children seven and older.
+TV-G  -- Suitable for all ages.
+TV-PG -- Parental guidance suggested.
+TV-14 -- Parents of children under 14 strongly cautioned.
+TV-M  -- Mature audiences only.
+Q: How about some examples?
+A: Westinghouse Electric Corp.'s CBS issued these ratings: "Teenage Mutant Ninja Turtles," TV-Y7; the Rose Bowl parade, TV-G; "Touched by an Angel," TV-PG; and "Chicago Hope," TV-14.
+Walt Disney Co.'s ABC offered the following: "Bugs Bunny and Tweety Show," TV-Y; "Sabrina, the Teenage Witch," TV-G; "Lois and Clark," TV-PG; and "NYPD Blue," TV-14.
+General Electric Co.'s NBC will broadcast the Holocaust movie "Schindler's List" in February with a TV-M rating. And News Corp.'s Fox said the year's first episodes of "Melrose Place" and the "X-Files" will be rated TV-14.
+Q: What are prime-time shows likely to receive?
+A: Networks expect most will carry a middle-of-the-road TV-PG. But a show's rating can vary from episode to episode.
+Q: Where will the ratings appear?
+A: They will be displayed briefly as a small icon in the upper-left corner of the TV screen at the start of a show. Newspapers, TV Guide and cable publications and on-screen listing services are expected to publish the guidelines.
+Q: Are all shows affected?
+A: No. News and sports programs are exempted. All other programs, including cartoons and talk shows, will be rated. Each local TV station will have the final say over whether a show is rated and what rating it will receive.
+Q: Who will rate the programs?
+A: Networks and producers will rate their own shows, unlike the movie industry, where an independent panel made up of parents rates films. TV executives contend they have far more programs to rate, with up to 2,000 hours a day of shows.
+Q: What's been the public's reaction?
+A: Mixed. The ratings have drawn flak from some lawmakers, parent groups, children's advocates, educators and others. These groups say the new system does not go far enough.
+They favor a system that also would specify violence, sex and foul language, using letters such as V, S and L. An example: V-PG for a program in which parental guidance is suggested because of violent scenes.
+Q: What do the critics plan to do?
+A: They will ask the Federal Communications Commission to reject the industry's plan. And they want the industry to test the two approaches side by side in the home.
+Q: What's the industry's response?
+A: It will not participate in such a test. Executives also argue their system "mingles" age and content. For example, the system notes a TV-14 show may contain "sophisticated themes, sexual content, strong language and more intense violence."
+Q: What is the origin of the ratings?
+A: They stem from the communications law enacted in February that requires new TV sets to include a "V-chip." The technology, expected to be available in a year or so, will be used with the ratings to allow parents to block certain shows.
+Q: What is the FCC's role?
+A: The FCC must set up an advisory panel to devise a new system if the agency considers the industry plan unacceptable.
+Q: Would the industry use such an alternative?
+A: No. It has vowed to fight any government-imposed plan in court on First Amendment grounds.
+Ameritech Corp. Thursday became the first Baby Bell phone company to seek federal approval under the new telecommunications law to offer long-distance service from its regional calling area.
+The Chicago-based carrier asked the Federal Communications Commission for permission to provide long-distance service to residents in Michigan, one of five midwestern states in which the company now provides local service. Ameritech has 3.5 million customers in Michigan.
+Under last year's law, Ameritech and other Bells can offer long-distance service from within their local-calling regions once regulators are convinced the Bells have opened their local network to new rivals such as AT&amp;T Corp. and others.
+The Bells can then provide customers the convenience of one-stop shopping involving local and long-distance service.
+"It's the single largest potential change that can occur quickly in the communications market," said analyst Scott Cleland of Schwab Washington Research Group.
+"If Ameritech gets a yes, it's easy for them to gain customers." The company has 11 million residential customers in Illinois, Michigan, Wisconsin, Indiana and Ohio.
+FCC Chairman Reed Hundt said Ameritech's more than 4,000-page application "opens a new chapter" in the implementation of the landmark telecom law.
+But the application is sure to face tough scrutiny at the agency and from other government regulators.
+Long-distance giants AT&amp;T Corp. and MCI Communications Corp. called on the FCC to reject the move, saying Ameritech has not yet opened its local phone market.
+The FCC -- after consulting with the Justice Department and Michigan regulators as well as seeking public comment -- has 90 days to decide whether Ameritech's entry is in the public interest.
+In particular, the carrier must meet a detailed 14-point checklist showing it has opened its local network in Michigan to new competitors.
+"The American people have called for choice," said Ameritech Chief Executive Richard Notebart. "Congress responded last year by passing a law that accelerates a competitive marketplace for all communications services. Ameritech is stepping forward to make this happen."
+AT&amp;T, however, called Ameritech's bid "clearly premature."
+"It's obvious that real local service competition does not yet exist in Ameritech's Michigan territory," said AT&amp;T spokesman Ray O'Connell.
+O'Connell accused Ameritech of trying to delay competition by ignoring orders from Michigan regulators to open its local network. He pointed out that Michigan's attorney general has intervened against Ameritech in a case pending before the state's supreme court.
+"By any competitive or public interest standard, Ameritech's application to begin offering in-region long-distance service should be rejected," said Jonathan Sallet, MCI's chief policy counsel.
+The No. 2 long-distance carrier said that Ameritech still controls 99.6 percent of Michigan's local phone customers, and that only four companies offer local service in Michigan.
+None of the big three long-distance carriers -- AT&amp;T, MCI and Sprint -- now offer such service.
+In any event, Ameritech's bid is expected to put pressure on other Bells to seek similar permission soon. Nynex Corp., which serves the Northeast United States, is considered a top candidate to seek approval in the near future.
+Regulators set aside a chunk of airwaves Thursday to let schools, businesses, communities and others bypass phone lines and send video images, data and voice over their own local wireless computer networks.
+The Federal Communications Commission's decision, for example, will allow a school to create a high-speed wireless network among classrooms that could then hook up to the World Wide Web, the multimedia portion of the Internet.
+That way, the school can avoid the costs of rewiring a building with high-capacity phone lines for computer use. Drilling through walls with asbestos can be expensive.
+"In many buildings, including schools, a wireless connection will be a cost-effective alternative to pulling wire through walls and ceilings," said Commissioner Susan Ness.
+Hospitals, community groups, companies and libraries also could create local high-speed networks in a building, or link up with computers and printers in nearby facilities or communities.
+Users of the new spectrum will not need an FCC license, just like users of baby monitors and cordless phones that also operate over the radio spectrum.
+And users will be able to cram more data on a high-speed wireless network than over a traditional phone line.
+Computers equipped with antennas are expected to allow consumers, businesses, hospitals and others to create the networks. Now that the FCC has set aside the spectrum, companies are set to produce the needed technology. The equipment, when it is available, must receive FCC approval.
+"Companies can now go ahead and build products for use in the spectrum," said Eric DeSilva, an attorney representing the Wireless Information Networks Forum. The consortium is made up of Lucent Technologies Inc., International Business Machines Corp. and other companies promoting wireless networks.
+Government and industry officials said potential applications abound.
+Hospitals staffers could receive on-the-spot patient data or X-rays over a wireless network throughout the building. Or a neighbourhood group could communicate within a community over the airwaves via computer.
+The FCC set power limits on the different spectrum bands that will be used so that existing users of the airwaves -- such as satellites and high-powered government radar systems -- will not face interference.
+Operators over the lowest spectrum band will be restricted to indoor use. Users of the middle band will be able to operate over a wider area, such as a college campus. And those using the highest band will be able to operate over several kilometres, such as within a community or with a nearby community.
+The government's largest wireless phone auction ended Tuesday, with prices taking a U-turn back toward earth after 125 companies bid a total of $2.5 billion to offer a new generation of cellular service.
+The total was down 75 percent from a similar Federal Communications Commission auction that raised $10.2 billion last May. The average price for a license to provide "personal communications services," or PCS, tumbled more than 90 percent.
+PCS technology is expected to turn the wireless phone into a mass-market product, allowing consumers to use different communications services -- such as phone, paging, fax and Internet access -- through a single handheld device.
+The drop reflected the flood of new entrants into the wireless phone market, a dearth of new money after the sky-high prices paid at last year's PCS sale, and the smaller slice of airwaves covered by the new licenses, analysts said.
+The top bidder this time around was a unit of No. 3 long-distance carrier Sprint Corp. It bid $544 million for 160 licenses in Chicago, Houston, and Atlanta, among other cities. The permits cover a total population of 70 million nationwide.
+Next was a unit of long-distance giant AT&amp;T Corp., which bid $407 million for 222 licenses in New York, Los Angeles and elsewhere. The licenses cover 139 million people. AT&amp;T was followed by a unit of BellSouth Corp., which bid $205 million for 39 licenses reaching nearly 12 million people in the Southeast.
+The No. 4 bidder was OPCSE-Galloway Consortium, a consortium made up of Omnipoint Corp. of Arlinton, Va., and Galloway Entrepreneurs of Charlottesville, Va. It bid $181 million for 109 licenses.
+The licenses will allow the companies to expand their wireless networks.
+The FCC sold 1,479 PCS licenses nationwide in three different blocks, making this the most licenses sold at once. A third were reserved for small companies. Markets that generated the highest bidding were New York, Chicago and Los Angeles.
+Based on the population sizes covered by the licenses, the average bid at the auction was just $3.32 a person.
+That was down from the average bid of $39.88 at last May's "C-Block" sale, which was reserved for small companies. Analysts called those prices too high for companies to make much money.
+The FCC's first PCS auction, which raised $7.7 billion and ended in March 1995, had an average bid of $15.54.
+"It's phenomenally cheaper," said Jonathan Foxman, vice president of Americall International, a Phoenix-based PCS firm that bid at the auction.
+Mark Lowenstein, a vice president with Boston consulting firm Yankee Group Inc., called the latest prices "more reflective of the current market reality."
+Analysts listed several factors behind the lower prices.
+The airwave parcels sold, at 10 megahertz (MHz) each, were a third the size of the 30 MHz parcels sold at the two prior auctions and thus less attractive. The permits cover less geographic area.
+Analysts also said the wireless market was getting crowded with companies holding PCS and traditional cellular licenses -- meaning less profits.
+"The market is going to be too crowded," predicted P. William Bane, a director at Mercer Management Consulting.
+The steep prices at last year's PCS auction meant less money available this time around. "The latest prices are an indication that people have run out of money," said Bane.
+In addition, analysts said, Wall Street has not rushed to extend financing to PCS providers.
+The government's largest wireless phone auction ended Tuesday, with prices taking a U-turn back toward earth after 125 companies bid a total of $2.5 billion to offer a new generation of cellular service.
+The total was down 75 percent from a similar Federal Communications Commission auction that raised $10.2 billion last May. The average price for a license to provide "personal communications services," or PCS, tumbled more than 90 percent.
+PCS technology is expected to turn the wireless phone into a mass-market product, allowing consumers to use different communications services -- such as phone, paging, fax and Internet access -- through a single handheld device.
+The drop reflected the flood of new entrants into the wireless phone market, a dearth of new money after the sky-high prices paid at last year's PCS sale, and the smaller slice of airwaves covered by the new licenses, analysts said.
+The top bidder this time around was a unit of No. 3 long-distance carrier Sprint Corp. It bid $544 million for 160 licenses in Chicago, Houston, and Atlanta, among other cities.
+Next was a unit of long-distance giant AT&amp;T Corp., which bid $407 million for 222 licenses in New York, Los Angeles and elsewhere, followed by a unit of BellSouth Corp., which bid $205 million for 39 licenses.
+The No. 4 bidder was OPCSE-Galloway Consortium, a consortium made up of Omnipoint Corp. of Arlinton, Va., and Galloway Entrepreneurs of Charlottesville, Va. It bid $181 million for 109 licenses.
+The FCC sold 1,479 PCS licenses nationwide in three different blocks, making this the most licenses sold at once. A third were reserved for small companies. Markets that generated the highest bidding were New York, Chicago and Los Angeles.
+Based on the population sizes covered by the licenses, the average bid at the auction was just $3.32 a person.
+That was down from the average bid of $39.88 at last May's "C-Block" sale, which was reserved for small companies. Analysts called those prices too high for companies to make much money.
+The FCC's first PCS auction, which raised $7.7 billion and ended in March 1995, had an average bid of $15.54.
+"It's phenomenally cheaper," said Jonathan Foxman, vice president of Americall International, a Phoenix-based PCS firm that bid at the auction.
+Mark Lowenstein, a vice president with Boston consulting firm Yankee Group Inc., called the latest prices "more reflective of the current market reality."
+Analysts listed several factors behind the lower prices.
+The airwave parcels sold, at 10 megahertz (MHz) each, were a third the size of the 30 MHz parcels sold at the two prior auctions and thus less attractive. The permits cover less geographic area.
+Analysts also said the wireless market was getting crowded with companies holding PCS and traditional cellular licenses -- meaning less profits.
+"The market is going to be too crowded," predicted P. William Bane, a director at Mercer Management Consulting.
+The steep prices at last year's PCS auction meant less money available this time around. "The latest prices are an indication that people have run out of money," said Bane.
+In addition, analysts said, Wall Street has not rushed to extend financing to PCS providers.
+A U.S. appeals court in St. Louis is set to hear arguments Friday on whether to reactivate or throw out a major Federal Communications Commission order opening the $100 billion local phone market to competition.
+Lawyers and analysts predict the FCC and its long-distance phone company allies will lose the latest battle to GTE Corp., the Baby Bells, other local carriers and state regulators who want to overturn the order. It spells out how new entrants to the local phone business can link to Bell local networks.
+The appeals court suspended the FCC order in October, pending Friday's case. "The FCC faces a tough uphill battle," said attorney Alfred Mamlet of Steptoe &amp; Johnson. "This case is headed for the Supreme Court."
+As a result, the FCC's "interconnection" order is likely to hang in legal limbo for at least a year while it is fought over in court -- a prospect analysts expect will cloud the phone industry's outlook and weigh on phone company stocks.
+"It adds to the uncertainty out there," said analyst Scott Cleland of Schwab Washington Research Group.
+The order was meant to implement the 1996 communications law, which allowed local and long-distance carriers, cable-TV operators and others into each other's business.
+The appeals court, in suspending the order, sided with the local carriers and state regulators who charged that the FCC overstepped its power by issuing national rules on pricing and other matters instead of leaving those issues to the states.
+The court wrote that opponents "have a better than even chance of convincing the court the the FCC's pricing rules conflict with the plain meaning" of the 1996 law.
+With the order expected to remain on ice for a while, lawyers and analysts said state regulators and federal judges will have the chief job of prying open local phone monopolies to long-distance companies such as AT&amp;T Corp. and others.
+FCC Chairman Reed Hundt warned that piecemeal deregulation -- with judges around the nation ultimately deciding terms for opening local phone markets -- would have a "very negative impact" on industry efforts to raise capital.
+FCC officials have said the case will not be resolved before the high court until spring 1998, at the earliest.
+The order requires the Bells and other local carriers to lease their phone lines to new competitors at discounts of up to 25 percent.
+The FCC also ordered local carriers to "unbundle" their local networks into pieces -- such as call-switching devices and operator and directory assistance -- so new competitors can lease components to complete their own networks.
+The "unbundled elements" were to be priced at competitive levels based on the cost of new and more-efficient facilities.
+In the meantime, state regulators have been issuing decisions on terms for opening the local markets. FCC Chairman Hundt said that despite the suspension of his agency's order, 29 of 31 states so far have adopted the FCC pricing policies.
+But even those decisions are being challenged. GTE Corp. in particular, as well as AT&amp;T, have appealed some of those rulings to federal courts around the country.
+Henry Geller, a former FCC general counsel, blamed the legal morass on Congress, saying lawmakers "botched" the job of writing the 1996 law. "The whole idea was that the courts weren't going to be determining this," he said.
+The brouhaha over Newt Gingrich's intercepted telephone call has shed light on how easy it is to eavesdrop on cellular calls and how seldom cases are prosecuted -- even though the law is violated daily.
+"It's had the chilling effect of reminding us all that anyone at any time could be listening to our most private conversations," Rep. Billy Tauzin, a Louisiana Republican, said of the widely publicized incident involving the House speaker.
+Tauzin, who chairs the House of Representatives telecommunications subcommittee, has called for hearings into cellular privacy.
+Federal law makes it a crime to intentionally intercept or disclose the contents of a telephone call, regardeless of whether it is over a hard-wired, cellular or cordless phone.
+But experts can cite only a handful of cell-phone cases that have drawn publicity. Politicians have been involved.
+Justice Department spokesman John Russell said that in the case of cellular calls, the law is "seldom used" and the department "seldom" gets complaints.
+For one, people rarely know when they have been overheard on their cell phone. And the complicated law is little known.
+In once case, Sen. Charles Robb, a Virginia Democrat, got into hot water in 1991 over an illegal tape recording of a cellular call made by a political rival, Virginia Gov. Douglas Wilder. Robb was spared indictment. Four associates pleaded guilty in the case.
+Another case in 1990 centered on an intercepted cell-phone conversation involving then-Rep. Bill Sarpalius, a Democrat from Texas.
+Tapes and transcripts of the call -- in which Sarpalius spoke with a young woman about a date and a possible job -- were made available to local media. Two unrelated men were later fined about $250 each in connection with the incident.
+Why the dearth of legal action?
+"Violations of this law are very, very hard to detect. That is why there are so few cases," said Clifford Fishman, a law professor at Catholic University of America in Washington.
+"The person whose privacy is invaded usually never hears about it and so does not alert authorities."
+What's more, the eavesdroppers usually are not familiar with the people they are monitoring. Penalties generally are light, except in cases involving repeat offenses or use of the information to commit another crime.
+The only times a case does seem to arise is when the perpetrator tries to capitalize on the conversation.
+"It doesn't come to light unless somebody makes political or commercial use of the information," said Paul Rothstein, a law professor at Georgetown University Law Center in Washington.
+Yet experts agree the law is broken frequently -- possibly hundreds or thousands of times a day -- given the availability and use of scanners that can tune in wireless calls. It's estimated that anywhere from 10 million to 20 million scanners are in use nationwide, many able to eavesdrop on cellular calls.
+"While the cellular industry may give their customers the illusion of privacy by assuring customers that it is illegal to listen, and that cellular-capable scanners are no longer manufactured or imported into the United States, millions of Americans do listen in," according to Bob Grove, publisher of Monitoring Times Magazine.
+Last week, the FBI opened an investigation into the taping and leaking of a telephone conference call between Gingrich and his top lieutenants. The probe came after a Florida couple said they  delivered a tape of the cellular phone conversation to the senior Democrat on the House Ethics Committee.
+A transcript of the tape was published in two newspapers two days later, prompting Republican calls for an FBI criminal probe into the source of the leak.
+"You're not going to see the law enforced unless it involves a person of rank, such as a politician," said Linus Layne Baker, a Kansas City, Mo. attorney who was fined in the Texas case. "You won't see the media prosecuted either."
+One option under study in wake of the Gingrich incident is whether to beef up a law that outlaws the sale, manufacture or imporation of scanners capable of picking up cellular calls.
+The Federal Communications Commission's new rules opening the local telephone market to competition are likely to survive a slew of legal challenges leveled by state regulators and local phone companies, lawyers predicted Wednesday.
+They said it is unlikely a federal court would overturn the core of the "interconnection" rules.  They said such a move would happen only if the FCC acted arbitrarily, or grossly overstepped its legal boundaries by making the rules inconsistent with the new telecommunications law.  
+But lawyers do not believe the FCC has overstepped the law. "Unless the commission has really overstepped the bounds, no court is going to be eager to overturn this carefully constructed apple cart," said attorney Jeffrey Olson with Paul, Weiss, Rifkind, Wharton &amp; Garrison.
+Scott Harris, a former top FCC official who is now an attorney with Gibson, Dunn &amp; Crutcher, echoed that view.
+"The commission will eventually win in court," he said.
+State regulators already have filed suit to block the new rules, which the FCC issued last month.  
+On Wednesday, the New York Public Service Commission said it asked the U.S. Court of Appeals in New York to annul the rules, which implement the 1996 Telecommunications Act.
+The regulator said the FCC rules are an intrusion on the state's authority to set local telecommunications policy.
+Last week, the National Association of Regulatory Utility Commissioners -- which represents state regulators -- said it would ask the courts to offer a speedy review of the rules.
+The regulations are designed to break open local phone monopolies and give long-distance companies, cable television firms and others a crack at offering local phone service.  
+Meanwhile, GTE Corp and Southern New England Telecommunications Corp said they would ask a federal appeals court in Washington to block the rules.
+BellSouth Corp said it would ask a federal appeals court to overturn the rules, charging that the FCC had "gone far beyond the intent of Congress."
+U S West Communications Group is exploring legal options, including a legal challenge or having the court set aside certain components of the rules through a "stay."  
+In addition, the United States Telephone Association, a trade group representing the Baby Bells and local phone companies, said it is exploring its legal options and plans to be involved in the appeals process.
+But lawyers think the rules will withstand such moves.
+"The (FCC) did such a good job here it is going to be sustained on appeal," said Harris of Gibson, Dunn &amp; Crutcher.
+Lawyers said that while a court could rule against the FCC on smaller aspects of the interconnection rules, the heart of the rules should remain unscathed.  
+Still, lawyers hedged their bets and said it was possible that the FCC could lose and that the legal challengers could pull a rabbit out of the hat and have the rules overturned.
+"You may get lucky.  You may win the lottery," said Olson of Paul, Weiss, explaining the tactics behind the challenges.
+"If I were a betting man, the odds favor the commission over the petitioners," said former FCC General Counsel Henry Geller.  "But I wouldn't put a lot of money on it."
+President Clinton and Congress are again set to look to airwave sales to cut the deficit, although analysts note the radio spectrum is not a bottomless money pit and prices should fall as more space is sold.
+"They need to be careful that they're not killing the golden goose," said Joe Boyer of Hatfield Associates Inc., a Boulder, Colo. telecommunications consulting firm.
+"The issue may be whether the federal government creates a glut of spectrum available," said Boyer, noting that such an oversupply would force down prices -- and thus the amount of money the government could fetch through auctions.
+Auctions for the rights to use the airwaves have been a cash bonanza for Uncle Sam. Since the summer of 1994, the Federal Communications Commission has raised about $23 billion for the government through 12 spectrum auctions.
+The FCC has sold licenses for a new generation of cellular phones known as "personal communications services," or PCS, satellite TV, "wireless" cable TV and other services.
+"It's been the most valuable asset the government has had to sell in decades," said budget analyst Stan Collender of Burson-Marsteller.
+The president is set to unveil his fiscal 1998 budget on Feb. 6 for the year that begins next Oct. 1. White House officials have told lawmakers to expect spectrum auctions to be a part of the plan, though details are unclear.
+For fiscal 1997, Clinton proposed, among other things, to auction in 2002 the "analog" spectrum TV broadcasters would return to the government in the transition to high-definition digital TV. The sale was projected to raise $17 billion.
+But more sales could well mean lower prices.
+The Congressional Budget Office last year predicted the price of valuable spectrum under 3 GHz -- airwaves that can be used for PCS, digital TV, paging, and other services -- will fall "as more spectrum is brought to market."
+Already, there are signs of softer prices. A PCS auction that ended last month netted $2.5 billion, down 75 percent from a similar auction last May that raised $10.2 billion.
+The average license price tumbled more than 90 percent.
+Analysts were quick to note that smaller airwave parcels were auctioned at the latest sale and that financing terms extended by the government were not as attractive.
+But they also said the drop reflected the dearth of new money available after the sky-high prices paid at last year's PCS sale and the flood of new entrants to the market.
+"If everybody builds out the spectrum that has been acquired in the PCS auctions, there would be more than enough capacity for every man, woman, and child and every household pet in the United States," said Boyer.
+While more sales could mean lower proceeds, many analysts argue that more auctions also would usher in more competitors to the market -- and thus drive down prices of cellular phone service, pagers, Internet access and other services.
+"The first thing you have to think about is 'What's good for getting communications services to the public?'" said Charles Jackson, of Strategic Policy Research, a consulting firm in Bethesda, Md. "Only after you've solved that problem do you worry about auction revenues."
+Experts said plenty of spectrum is available to auction. "There's a lot more spectrum out there," said James Gatusso of Citizens for a Sound Economy, a free-market advocacy group.
+"There's much, much more that can be done," he said.
+The U.S. communications revolution is off to a slow start, unleashing more hype than competition among local and long-distance carriers, cable-TV firms, utilities and others.
+But experts say that, just one year after passage of the huge telecommunication reform bill, it is too early to judge it a failure. Most predict the current "phoney war" ultimately will be followed by heated competition, new services and lower prices in communications.
+But it will take time, possibly five years or more.
+"This is on track to be the kind of event that will change our economy and our society," said industry analyst Jeffrey Kagan of Kagan Telecom Associates in Atlanta.
+"Expecting there to be significant change in the first year is bordering on ridiculous," Kagan said.
+Scott Cleland of Schwab Washington Research Group agreed: "The timetable people had for this bill was overly ambitious."
+The Telecommunications Act of 1996, enacted on February 8, ripped down 62-year-old legal barriers and encouraged local and long-distance carriers, cable-TV operators, electric utilities and others to invade each other's backyards.
+Lawmakers, analysts and industry officials held out the prospect of one-stop shopping, enabling technology junkies to dial local and long-distance calls, hook up to the Internet, and speak over wireless phones via the same company.
+But that has yet to materialise in a big way and prices are up. Experts attribute the slow start to several factors.
+The law's timetable stretches out as long as 15 months. Consequently, key rules designed to help break open the $100 billion local phone market to new competitors have yet to be finalised by the Federal Communications Commission.
+A U.S. appeals court in St. Louis has suspended the market-opening rules already set by the FCC. And carriers are going to court over key decisions by state regulators.
+Moreover, industry officials say it takes time to get new technology, packaging and billing procedures in place.
+"It takes time to design a system, get the components ordered and assembled, hire the people and train them," said NYNEX Corp Executive Vice President Tom Tauke.
+The law's critics have plenty to gripe about.
+Prices for long-distance service were expected to fall, and the phone, cable-TV, utility, broadcast and computer industries were expected to scramble to bring entertainment, news, information and calling services to homes and offices.
+PROMISED COMPETITION IS BARELY SEEN, MANY PRICES RISE
+But a year later, the local phone market remains a monopoly run by the Baby Bells and other local carriers. So far, they have been successful in court fighting FCC rules.
+The $78 billion long-distance market remains dominated by AT&amp;T Corp., MCI Communications Corp. and Sprint Corp.. However, Ameritech Corp. has asked for FCC approval to offer long-distance service from its local-calling region.
+Big cable-TV operators such as Time Warner Inc. and Tele-Communications Inc. have watered down plans to offer phone service and are instead defending their own turf. Phone companies have trimmed plans for cable-TV.
+Prices for communications services, instead of falling, are rising. Cable-TV rates jumped 7.8 percent last year, more than double the 3.3 percent rise in consumer prices. Residential interstate long-distance rates rose 3.7 percent, while intrastate long-distance rates jumped 6.1 percent.
+"My reasons for voting against the bill were valid. And I'm very sorry, because it's the American citizen who is paying more for these services rather than less," Sen. John McCain, chairman of the commerce committee, told Reuters.
+The Arizona Republican is planning hearings on the telecom industry but will not push any major bills this year.
+A string of mergers among the seven Bells, meanwhile, has narrowed the number of potential competitors in the phone business, with Bell Atlantic Corp. acquiring NYNEX and SBC Communications Inc. buying Pacific Telesis Group.
+Outside the Bells, No. 4 long-distance carrier WorldCom Inc. is buying MFS Communications Co., a supplier of local phone to businesses. And British Telecommunications Plc plans to buy the No. 2 U.S. long-distance carrier, MCI.
+"The forces of evil are running well ahead of the forces of good," says the Consumer Federation of America's Mark Cooper. "Price increases and market concentration are keeping apace .... Nothing good happened this year for competition."
+BILL'S SUPPORTERS COUNSEL PATIENCE
+But the bill's supporters counsel patience.
+"I don't think you can stop it now. The competition genie is out of the bag," Representative Billy Tauzin, a Louisiana Republican who chairs the telecommunications subcommittee, said.
+Industry officials admit they underestimated the task -- both the cost and complexity of new technologies to allow competition to proceed.
+Companies will have to overcome such hurdles when bundling together services -- such as local, long-distance and wireless phone services -- into one package for customers.
+And there are other complexities: long-distance carriers will have to lease space on their lines to local carriers wanting to offer long-distance service; alternatively, local carriers will have to lease their networks to long-distance carriers seeking to break into the local phone business.
+"Getting systems in place on every side is a tough thing to do," said Randy New, a BellSouth Corp. vice-president.
+Analaysts and industry officials also say that the FCC must still resolve key issues before local competition can truly come to the local phone market -- namely, how to finance and ensure affordable phone service for all Americans and how to cut the $20 billion in "access charges" long-distance carriers pay local phone companies to link to their networks.
+FCC Chairman Hundt says the courts, regulators and lawmakers must resist industry efforts to stifle competition.
+"For the next two years, everybody is going to beat us up to maintain the status quo," he told Reuters. "We should be very optimistic as long as we stay the course."
+U.S. Vice President Al Gore on Wednesday defended last year's telecommunications law against critics who charge it is a failure, saying that the Clinton administration has no plans to try and reopen the act.
+"This is the first year of a process of change that will take quite some time," Gore told a group of reporters. He also noted that several key provisions of the sweeping law have yet to be implemented.  
+The law, enacted last February 8, ripped down 62-year-old legal barriers and encouraged local and long-distance carriers, cable-TV operators, electric utilities and others to invade each other's backyards.
+Gore said the difficult negotiations over the bill during the prior four years have led most participants to realize just how delicate and complex the legislation is.
+"Most reasonable people believe it will be a little time before much of it is opened up," Gore said, echoing the view of several lawmakers on Capitol Hill.  
+But critics -- including influential Arizona Republican Senator John McCain and consumer groups -- complain that despite the bill's enactment, the $100 billion local phone market remains a monopoly run by the Baby Bells and other local carriers.
+They also note that the $78 billion long-distance market remains dominated by AT&amp;T Corp, MCI Communications Corp and Sprint Corp.
+Prices for communications services, instead of falling, are rising. Cable-TV rates jumped 7.8 percent last year, more than double the 3.3 percent rise in consumer prices.  
+Residential interstate long-distance rates rose 3.7 percent, while intrastate long-distance rates jumped 6.1 percent.
+Gore noted, however, that the increases in cable-TV rates are not a result of the new law and that they come within the guidelines established by a major 1992 cable-TV law.
+Meanwhile, big cable-TV operators such as Time Warner Inc and Tele-Communications Inc have watered down plans to offer phone and other services and are instead defending their own turf.  
+Gore said he was "surprised" by those decisions, but added that it has not been universal among all cable companies.
+"I rather suspect the pioneers who make these investments will be handsomely rewarded by the market," Gore said. That, in turn, should spur other cable companies to take the plunge and diversify their offerings.
+Meanwhile, Gore aide Greg Simon told reporters that the administration is sticking by its proposal for an expedited auction of analog spectrum that will be returned by television broadcasters during the transition to digital TV.
+Under the administration plan, the government would auction the spectrum in 2002, with digital TV stations required to return their analog channel to the government no later than 2005.
+Lawmakers and law-enforcement officials voiced support Wednesday for tougher laws to bar eavesdropping on cellular phone calls, following the uproar over Newt Gingrich's intercepted call.
+A House telecommunications subcommittee is training its sights on a little-enforced law banning the sale, manufacture and importation of scanners that can pick up cellular calls.
+Despite the 1992 law, scanner enthusiasts have used legal loopholes to modify tens of thousands of otherwise legal scanners so they can overhear cellular traffic. An estimated 10 million legal scanners are in the hands of the public.
+"Our goal is to make sure that the sale of this kind of equipment drops precipitously," declared Representative Edward Markey, a Massachusetts Democrat and author of the law.
+Markey, speaking at a hearing of the subcommittee, called the modified scanners "a great danger to the presumption of privacy" enjoyed by users of cellular phones.
+Markey expressed support for closing the necessary loopholes to make it tougher for scanner operators to illegally tap in on cellular calls.
+The head of the subcommittee, Representative Billy Tauzin, R-La., also said "there is a problem in enforcement."
+He noted the Federal Communications Commission refers potential criminal cases to other agencies "that may have less interest in enforcing the anti-intercept laws, due to other, and perhaps, more important law-enforcement priorities.
+"Perhaps a solution is to rationalise the respective enforcement roles of the FCC, the Justice Department and the FBI," Tauzin added.
+Last month, the FBI opened an investigation into the taping and leaking of an embarrassing conference call between House Speaker Gingrich and his top lieutenants.
+The probe came after a Florida couple said they delivered a tape of the cell-phone conversation to the senior Democrat on the House Ethics Committee, which was deliberating over a politically charged case involving Gingrich.
+A transcript of the tape was published in two newspapers two days later, prompting Republican calls for an FBI criminal probe into the source of the tape.
+Federal law also makes it a crime to intentionally intercept or disclose the contents of a phone call, regardless of whether it is over a hard-wired, cellular or cordless phone. Criminal violation is punishable by a penalty of up to five years in jail and a $250,000 fine.
+But in the case of wireless calls in particular, the law is little enforced and penalties are light because cellular traffic is so easily intercepted.
+Unless there are "aggravating" circumstances, such as a repeat offence, eavesdropping on a cellular call is treated as an infraction, with no jail time and a maximum fine of $5,000.
+Deputy Assistant Attorney General Robert Litt suggested to lawmakers they explore "whether it continues to make sense" to levy different penalties for eavesdropping on the different types of calls.
+"From the point of view of the person having the conversation, the invasion of privacy is the same," he said.
+The Clinton administration is making a $36 billion bet in its new budget that companies will rush to pay big bucks for a chunk of the airwaves to roll out newfangled communications services to the public.
+As a part of the bet, the administration is wagering it can overcome major political forces, such as TV broadcasters, opposed to aggressive plans for selling spectrum.
+Experts are split on whether the wager will pay off.
+To finance its fiscal 1998 budget, the White House proposed Thursday to raise $36.1 billion by selling licenses to firms wanting to sell new ways to link to the Internet or send video images through the air, among other things.
+The administration also proposed to auction toll-free 888 phone numbers instead of giving them away.
+The White House, however, offered few details about its grand auction plan, which covers the five years through 2002.
+Many economists think the $36 billion is achievable because of the large amounts of spectrum still available and the rush by companies to develop new products incorporating the Internet and other communications services.
+"There's a lot of unmet demand for frequencies that can be used to offer new services," said James Gatusso of Citizens for a Sound Economy, a free-market advocacy group.
+"A lot of people are coming through the front door of the Federal Communications Commission asking for spectrum."
+Among the new services that could be rolled out in the future over newly available spectrum: high-speed wireless access to the Internet or mobile video services that allow drivers to download maps or traffic pictures in their cars.
+Critics charge that any aggressive bid to sell spectrum to companies that want to use it for any purpose will backfire by driving down airwave prices and hurting companies -- such as wireless phone providers -- that already hold licenses.
+"What they will do is drive the price of spectrum to zero and therefore kill the goose that lays the golden egg," said Tom Wheeler, president of the Cellular Telecommunications Industry Association, an industry trade group representing cellular carriers and other wireless phone providers.
+Since 1994, the FCC has raised about $23 billion through 12 spectrum auctions for wireless cable television, satellite TV, a new generation of cellular phones and other services.
+The White House proposed four auctions to raise:
+-- $700 million through the sale of 888 phone numbers.
+-- $17.1 billion by extending and broadening the FCC's auction powers to sell spectrum not used by TV stations.
+-- $3.5 billion to sell part of the airwaves now occupied by TV channels 60-69. The channels would be made available through the transition to high-definition digital TV.
+-- $14.8 billion through the sale of the analogue spectrum now occupied by TV broadcasters. The frequencies also would become available in the transition to digital TV.
+The administration wants to speed up the return of the analogue spectrum to the government by requiring stations to return it by 2005. The auction would be held in 2002.
+But broadcasters want to postpone any auction.
+"We remain opposed to upfront auctions or accelerated giveback of broadcast spectrum. We expect the government will receive full value for spectrum once the broadcast industry transition to digital is complete," said Dennis Wharton, a spokesman for the National Association of Broadcasters.
+The NAB supports an FCC plan for an approximately 15-year transition to digital broadcasts.
+Ameritech Corp. won an important endorsement Wednesday from Michigan regulators in its bid to become the first Baby Bell to offer long-distance telephone service from its local calling region.
+The Michigan Public Service Commission voted to advise the Federal Communications Commission that it appears Ameritech has met a 14-point checklist for opening its local phone network in the state to new competitors -- such as AT&amp;T Corp. and other companies wanting to offer local phone service.
+That checklist was spelled out under last year's big communications law as a condition for local carriers to offer long-distance service from their regions.
+"We're extremely disappointed with this decision. It seems to ignore the overwhelming evidence that Ameritech faces no viable local telephone competition in Michigan," said an AT&amp;T spokesman. An Ameritech spokesman was not available.
+The FCC will make the final determination on whether Ameritech has indeed met the technical checklist for entry into the $78 billion long-distance market.
+But a negative review from Michigan would have dimmed the Chicago-based carrier's prospects considerably. The Justice Department must issue a recommendation to the FCC by Feb. 21.
+Ameritech asked the FCC on Jan. 2 for permission to provide long-distance service to residents in Michigan, one of five Midwestern states in which the company provides local phone service. Ameritech has 3.5 million customers in Michigan.
+Long-distance carriers such as AT&amp;T and MCI Communications Corp. have called on regulators to reject Ameritech's request, saying the company has not yet opened its local market fully to competitors.
+The Michigan commission said that in a 2-1 vote among commissioners the agency authorised the filing of its comments in the Ameritech case with the FCC.
+"For many years, the Michigan Public Service Commission has supported allowing expanded choice for telephone customers," said commission Chairman John Strand.
+"Our comments today are designed to assist the Federal Communications Commission to follow a course that will introduce more competition in the telecommunications marketplace."
+After filing its initial request with the FCC, Ameritech was forced to amend its application with an additional 1,500 pages of documents. Regulators had determined that many needed pages were missing.
+Other Baby Bells are expected to ask the FCC for similar approval soon.
+The television industry's new ratings system is a bust and is rife with inconsistencies that make it tougher for parents to pick shows appropriate for kids, a conservative media watchdog group charged in a new study on Tuesday.
+The Media Research Centre reviewed 150 hours of shows in the two weeks that ended Jan. 16 on six broadcast networks: ABC, CBS, Fox, NBC, UPN and WB. The study concluded the age-based system, which began airing Jan. 1, was confusing and contradictory.
+TV officials said it was too soon to judge.
+The study, for example, said 61 percent of shows got a middle-of-the-road TV-PG rating -- parental guidance suggested -- although about half of these shows contained obscenities while half did not.
+Words such as "ass," "bastard," and "son of a bitch" were typical on PG shows, and while an obscenity for sexual intercourse was bleeped out three times, it was understandable when uttered, the study said.
+It also charged there was no consistency within different episodes of a series. In an episode of CBS's "Moloney," a girl shot her uncle. The man fell over dead with no blood. That bloodless depiction drew a TV-14, for parents of kids under 14 strongly cautioned.
+An episode a week later had a lesser PG rating even though it showed a bloody torture scene, the group said. In that episode a man put a razor blade in his wife's hand, then clasped the hand between his own and squeezed it violently, forcing the blade into her hand and causing the hand to bleed.
+"After only a few weeks of the new system, it is apparent that those who said it would never work were right," said Brent Bozell, chairman of the Media Research Centre.
+Bozell told a news conference the system "is a failure and should be junked at the earliest possible opportunity."
+Others from the opposite end of the political spectrum said the study's findings backed their own view.
+"You can't tell what the content of the shows are from the ratings," said Kathryn Montgomery of the Centre for Media Education, a children's advocacy group.
+A number of groups representing lawmakers, parents, children's advocates, educators and others believe this system is too vague and advocate a content-based system that would specify violence, sex and strong language, using letters such as V, S and L.
+The current ratings have two categories for children: TV-Y, children of all ages, and TV-Y7, children 7 and older.
+Aside from TV-PG and TV-14, the other two categories are: TV-G, suitable for all ages; and TV-M, for mature audiences only.
+TV industry officials stressed that their system was still in its infancy and that it was too early to draw conclusions.
+"The television industry's parental guidelines system is barely 42 days old. Before its critics attempt to kill it in the cradle, it should be given a fair chance to establish itself," said Martin Franks, CBS Inc. senior vice president.
+Congress was expected to hold hearings later this month on the system's effectiveness.
+Negotiations between American Airlines and its pilots union continued into the early hours of Friday, with neither side reporting any breakthrough that would avert a midnight strike at the nation's No. 2 carrier.
+A federal mediator refereeing the talks at a downtown hotel informed the pilots that American had rejected a key union contract proposal covering who should pilot -- and at what pay -- the carrier's smaller American Eagle planes.
+Mediators are shuttling back and forth between the two sides offering hypothetical "what if" proposals on a variety of issues in an effort the bring the two sides closer together and prevent a midnight Friday (0500 GMT Saturday) strike by the pilots which would throw the nation's air transport system into turmoil.
+"They're going to work all night, throughout the night. All day (Friday)," said Dave Bates, a spokesman for the Allied Pilots Association, which represents American's 9,000 pilots.
+He said the union is "disappointed at the lack of progress" so far.
+"We will continue to negotiate for as long as it takes. But (Friday) night at midnight the pilots will be on strike."
+Bates said no face-to-face talks had as yet been scheduled. An American spokesman would only say that the negotiations were continuing.
+Going into the talks on Thursday evening, Kenneth Hipp, chairman of the National Mediation Board, said he was hopeful an agreement could be worked out in time to avert a strike.
+The union had proposed that its pilots fly the American Eagle flights, but with lower pay than pilots flying the regular American aircraft. American, however, wants to continue using lower-paid commuter pilots from a different union to fly the smaller planes.
+While the mediator has informed the union of the airline's rejection of the proposal on small planes, union officials said the company itself has not notified them directly of that.
+The dispute also centres around the pilots' pay. They now earn an average of about $120,000 a year.
+The union earlier had said it would offer a new pay proposal -- probably less than the 11.5 percent over four years it had sought. The latest reported offer from American was a 6 percent boost over four years.
+A strike would ground 2,200 American flights on Saturday and affect about 200,000 passengers. American, a unit of AMR Corp., accounts for about 20 percent of the nation's airline capacity.
+The Fort Worth, Texas-based airline is trying to rebook passengers on other carriers and has already cancelled nearly all international flights scheduled for Friday night.
+American Airlines spokesman John Hotard said on Thursday the carrier was cancelling 12 of its domestic flights scheduled for Friday. "There are some small domestic airports where we have no permanent place to park the planes if there is a strike, so we decided to cancel those 12 flights."
+A Transportation Department official said a strike could cost the U.S. economy up to $200 million a day.
+American Airlines Chairman Robert Crandall called for binding government arbitration of the dispute, a proposal the pilots have repeatedly rejected.
+"I think mandatory binding arbitration should be required" to prevent airline strikes, Crandall told a congressional subcommittee. Binding arbitration would mean both parties agreed to abide by the decision of an arbitrator.
+"I seriously doubt we could accept that," union spokesman Wally Pitts said.
+Crandall told a hearing of a House of Representatives Transportation subcommittee he was unsure if a strike could be avoided. "We have two choices: we can either cave in or take a strike. A strike of 90 days will destroy this airline."
+As the talks entered their fourth day of intensive bargaining, President Bill Clinton was keeping a close watch.
+Clinton could intervene and name an emergency board to try to resolve the issues. Under the Railway Labour Act, which also covers airlines, the president has the power to declare a national emergency to stop a strike and to keep planes flying for 60 days. The last time such an action was taken in an airlines strike was in 1966.
+But at an unrelated news conference on Thursday, Clinton repeated that the parties should use the government mediator to reach an agreement.
+Negotiations between American Airlines and its pilots union continued into the early hours of Friday, with neither side reporting any breakthrough that would avert a midnight strike at the nation's number-two carrier.
+A federal mediator refereeing the talks at a downtown hotel informed the pilots that American had rejected a key union contract proposal covering who should pilot -- and at what pay -- the carrier's smaller American Eagle planes.
+Mediators are shuttling back and forth between the two sides offering hypothetical "what if" proposals on a variety of issues in an effort the bring the two sides closer together and prevent a midnight Friday (0500 GMT Saturday) strike by the pilots which would throw the nation's air transport system into turmoil.
+"They're going to work all night, throughout the night. All day (Friday)," said Dave Bates, a spokesman for the Allied Pilots Association, which represents American's 9,000 pilots.
+He said the union is "disappointed at the lack of progress" so far.
+"We will continue to negotiate for as long as it takes. But (Friday) night at midnight the pilots will be on strike."
+Bates said no face-to-face talks had as yet been scheduled. An American spokesman would only say that the negotiations were continuing.
+Going into the talks on Thursday evening, Kenneth Hipp, chairman of the National Mediation Board, said he was hopeful an agreement could be worked out in time to avert a strike.
+The union had proposed that its pilots fly the American Eagle flights, but with lower pay than pilots flying the regular American aircraft. American, however, wants to continue using lower-paid commuter pilots from a different union to fly the smaller planes.
+While the mediator has informed the union of the airline's rejection of the proposal on small planes, union official said the company itself has not notified them directly of that.
+The dispute also centers around the pilots' pay. They now earn an average of about $120,000 a year.
+The union earlier had said it would offer a new pay proposal -- probably less than the 11.5 percent over four years it had sought. The latest reported offer from American was a six percent boost over four years.
+A strike would ground 2,200 American flights on Saturday and affect about 200,000 passengers. American, a unit of AMR Corp., accounts for about 20 percent of the nation's airline capacity.
+The Fort Worth, Texas-based airline is trying to rebook passengers on other carriers and has already canceled nearly all international flights scheduled for Friday night.
+American Airlines spokesman John Hotard said on Thursday the carrier was canceling 12 of its domestic flights scheduled for Friday. "There are some small domestic airports where we have no permanent place to park the planes if there is a strike, so we decided to cancel those 12 flights."
+A Transportation Department official said a strike could cost the U.S. economy up to $200 million a day.
+American Airlines Chairman Robert Crandall called for binding government arbitration of the dispute, a proposal the pilots have repeatedly rejected.
+"I think mandatory binding arbitration should be required" to prevent airline strikes, Crandall told a congressional subcommittee. Binding arbitration would mean both parties agreed to abide by the decision of an arbitrator.
+"I seriously doubt we could accept that," union spokesman Wally Pitts said.
+Crandall told a hearing of a House of Representatives Transportation subcommittee he was unsure if a strike could be avoided. "We have two choices: we can either cave in or take a strike. A strike of 90 days will destroy this airline."
+As the talks entered their fourth day of intensive bargaining, President Bill Clinton was keeping a close watch.
+Clinton could intervene and name an emergency board to try to resolve the issues. Under the Railway Labor Act, which also covers airlines, the president has the power to declare a national emergency to stop a strike and to keep planes flying for 60 days. The last time such an action was taken in an airlines strike was in 1966.
+But at an unrelated news conference on Thursday, Clinton repeated that the parties should use the government mediator to reach an agreement.

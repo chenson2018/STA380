@@ -1,0 +1,750 @@
+The semiconductor industry's key indicator of computer chip demand rose in September to its highest level this year, reflecting a stronger-than-expected increase in new orders.
+The Semiconductor Industry Association said Tuesday the North American book-to-bill ratio, which measures the value of orders against shipments, rose to 0.99 in September from a revised 0.93 in August. The ratio means manufacturers received $99 in new orders last month for every $100 in shipments.
+Industry analysts had expected the ratio to inch closer to breakeven with most estimates averaging around 0.95.
+New orders for chips rose to $3.19 billion, a 9 percent increase from August, and shipments inched upward to $3.22 billion, or 2.1 percent above August's level.
+"From any perspective, these are the most positive numbers we've seen all year," Douglas Andrey, director of information systems and finance for the association, said in a statement. "The modest increase in orders for August and September suggest the 1996 slowdown in growth has bottomed out.
+The ratio, a leading indicator of future demand tallied by the industry trade group, has been improving recently, reflecting an increase in orders by personal computer makers and more stable prices for memory chips.
+"People are buying PCs as if there's no tomorrow," said Dan Klesken, an analyst at Robertson Stephens in San Francisco. "We're having a PC-led recovery in the chip industry."
+Analysts predicted the better-than-expected ratio would likely send shares of key technology stocks higher on Wednesday.
+In after-hours trading, shares of Intel Corp., the world's largest chipmaker, rose $1.375 to $103 and shares of Micron Technology Inc., a key supplier of memory chips, jumped 87.5 cents to $32.375.
+Prices of memory chips, or DRAMs, plummeted over the course of the year to a fraction of what they were in January. Because memory chips make up about 40 percent of the unit volume of semiconductors shipped in a year, their prices have had a big influence on orders and sales measured in dollars.
+But since mid-September, memory prices have risen 30 percent to 50 percent from their lows.
+The September ratio marked the highest level since December of 1995 when the index hit 1.12. A year ago it stood at 1.16.
+Micron said late last week that memory chip inventories were down to desirable levels from formerly excessive levels.
+Worldwide, the ratio rose to 0.97 in August from 0.95 in July. Global figures include Asia, Europe, North America and Japan and are one month behind North American figures. The Japan book-to-bill ratio rose above 1.0.
+Robertson Stephen's Klesken said he was particulary impressed by the rise in Europe, which had a ration of 1.04.
+Internet search firm Yahoo! Inc. Wednesday reported a smaller-than expected third quarter loss, reflecting sharply higher revenues from Internet advertising.
+The Santa Clara, Calif.-based company reported a loss of $1.2 million, or 4 cents a share, for the quarter ended in September compared with a loss of $371,000, or 2 cents a share, in the 1995 quarter. Sales jumped to $5.2 million from $288,000 in the year ago quarter and $3.3 million in the second quarter.
+Analysts had expected the company to lose 7 cents a share in the quarter, according to First Call, which tracks earnings estimates.
+Yahoo! is an online directory that appears on computer screens as computer users tap the Internet, the global computer network. The service helps users find specific sites, articles and points of interest in the World Wide Web section of the Internet. Yahoo! makes its money from advertisers, which display banners on its Internet site.
+The company, founded by two Stanford University students two years ago, went public in March.
+Most of the quarter's loss came from the cost of advertising Yahoo! in traditional media, said Gary Valenzuela, chief financial officer. The company spent $4 million on sales and marketing, more than 14 times the $275,000 it spent a year ago. Research and development expenses also jumped in the quarter to $1.36 million.
+"Our focus righrt now is absolutely on building market share, on expanding out reach globally and on adding" services to the site, Valenzuela said.
+Valenzuela declined to say how much the company planned to spend on marketing and research and development in coming quarters.
+Yahoo! said the number of advertiser grew to 340 in the third quarter from 230 in the second quarter quarter.
+Yahoo! also reported more than 1 billion "hits," or viewings by computer users, in the quarter ended Sept. 30, giving the company an average of more than 14 million page views a day in September, up from an average of 9 million a day in June. The site is one of the most popular destinations on the Web.
+Yahoo! had a loss of $1.4 million, or 5 cents a share, in the second quarter on sales of $3.3 million.
+Most U.S. software publishers are expected to report only modest increases in their third-quarter earnings, reflecting a seasonal slowdown and a lack of new products this quarter.
+"For the behemoths of the industry, like Microsoft (Corp) and Oracle (Corp ), business is still good," said Marshall Senk, an analyst at Robertson Stephens &amp; Co in San Francisco. "Summer is the slow buying season for most of the industry," but setting aside the seasonal slowing, "business is still pretty okay."  
+Analysts expect Microsoft, the world's biggest personal computer software publisher, to report substantially higher earnings for its first quarter of fiscal 1997 on the back of strong sales of its networking software and business programs. Microsoft is scheduled to report results on Oct. 21.
+Better-than-expected sales of personal computers in the past few months also will contribute to Microsoft's revenue, analysts said. Microsoft, based in Redmond, Wash., makes about a quarter of its revenue from the sale of its Windows family of operating systems.  Operating systems are the type of software that controls the basic functions of every PC.  
+Microsoft benefits from strong PC sales because PC makers have to pay Microsoft a royalty for every copy of Windows they pack in the boxes of new machines.
+Wall Street expects Microsoft to earn $0.90 a share, according to a survey of 24 analysts by First Call.  In the same quarter a year ago, Microsoft earned $0.78.
+Novell Inc, the biggest publisher of computer networking software, is not expected to perform as well.  
+The company is struggling to sell its NetWare flagship -- which controls the flow of computer information through departmental computer departments -- in the face of competition with Microsoft's Windows.  Novell, based in Provo, Utah, also still faces management issues following the resignation of Bob Frankenberg, the former chief executive officer, said David Takata, an analyst at Gruntal &amp; Co in Los Angeles.
+"They clearly still have a lot of work to do" to get the company's management in order, Takata said.  
+Novell is expected to earn $0.18 a share in its fiscal fourth quarter, compared with $0.16 a year ago, according to a First Call survey of 17 analysts.
+Meanwhile, vendors of software for large, corporate computer networks and database management tools are expected to continue to post substantial gains in the third quarter on continuing strong demand.
+"For a relatively mature market, this niche is still growing at a good clip," said Jim Pickrel, an analyst at Hambrecht &amp; Quist in San Francisco.  
+Pickrel said he expects Oracle and Informix Corp to report the most impressive results on strong sales of their database software -- computer programs which help big companies keep track of huge libraries of corporate information.  Both are taking business from Sybase Inc,  another database software publisher, which is still struggling to recover from marketing and technical shortcomings last year.
+Sybase,is expected to report it broke even in the quarter, not counting charges for a restructuring, Pickrel said.  In the year-earlier quarter, Sybase earned $0.01 a share.  
+Oracle, the biggest database software publisher, is expected to earn $0.27 a share for the fiscal second quarter ending November, according to a recent survey of 27 analysts by First Call.  A year ago in the same quarter, it earned $0.21.
+Hambrecht &amp; Quist's Pickrel said Informix could pass Sybase this quarter in revenue to become the second biggest database vendor.  Informix is expected to earn $0.18 a share, according to a First Call survey of 25 analysts.  In the same quarter a year ago, Informix earned $0.16.
+Most software publishers are expected to report only modest increases in their latest earnings, reflecting a seasonal slowdown and a lack of new products this quarter.
+"For the behemoths of the industry, like Microsoft and Oracle, business is still good," said Marshall Senk, an analyst at Robertson Stephens &amp; Co. in San Francisco.
+"Summer is the slow buying season for most of the industry," but setting aside the seasonal slowing, "business is still pretty okay," he said.
+Analysts expect Microsoft, the world's biggest personal computer software publisher, to report substantially higher earnings for its first fiscal 1997 quarter on the back of strong sales of its networking software and business programmes. Microsoft is scheduled to report results Oct. 21.
+Better-than-expected sales of personal computers in the past few months also will contribute to Microsoft's revenue, analysts said.
+Microsoft, based in Redmond, Wash., makes about a quarter of its revenue from the sale of its Windows family of operating systems -- a type of software that controls the basic functions of a personal computer.
+The company benefits from strong PC sales because PC makers have to pay Microsoft a royalty for every copy of Windows they pack in machines they make.
+Wall Street expects Microsoft to earn 90 cents a share, according to a survey of 24 analysts by First Call, which tracks Wall Street analysts' estimates. In the same quarter a year ago, Microsoft earned 78 cents a share.
+Unlike Microsoft, however, Novell Inc., the biggest publisher of computer networking software, is not expected to perform as well.
+The company is struggling to sell its NetWare flagship software, which manages networks of computers within a company, in the face of competition with Microsoft's Windows NT.
+Novell, based in Provo, Utah, also faces management issues following the resignation of Bob Frankenberg as chief executive, said David Takata, an analyst at Gruntal &amp; Co. in Los Angeles.
+"They clearly still have a lot of work to do" to get the company's management in order, Takata said.
+Novell is expected to earn 18 cents a share in its fiscal fourth quarter, compared with 16 cents a year ago, according to a First Call survey of 17 analysts.
+Meanwhile, vendors of software for large, corporate computer networks and database management tools will continue to post substantial gains on continuing strong demand, analysts said.
+"For a relatively mature market, this niche is still growing at a good clip," said Jim Pickrel, an analyst at Hambrecht &amp; Quist in San Francisco.
+Pickrel said he expects Oracle Corp. and Informix Corp. to report the most impressive results on strong sales of their database software -- programmes that help big companies keep track of huge libraries of corporate information.
+Both are stealing business from Sybase Inc., another database software publisher, which is still struggling to recover from marketing and technical shortcomings last year.
+Sybase is expected to report it broke even in the quarter, not counting charges for a restructuring, Pickrel said. In the year-earlier quarter, Sybase earned a penny a share.
+Oracle, the biggest database software publisher, is expected to earn 27 cents a share for the fiscal second quarter ending Nov. 30, according to a survey of 27 analysts by First Call. A year ago it earned 21 cents.
+Informix is expected to earn 18 cents a share, according to a First Call survey of 25 analysts. A year ago, Informix earned 16 cents.
+Hambrecht &amp; Quist's Pickrel said Informix could pass Sybase this quarter in revenue to become the second biggest database vendor.
+Apple Computer Inc is expected to report on Wednesday that it had a loss in its fiscal fourth quarter ended in September amid declining sales of its Macintosh computers, but a turnaround may be at hand.
+Apple's management is likely to tell investors that the beleagured company is getting closer to resuming profitability, possibly as early as the December quarter, analysts said.  
+"The financial condition of the company has been strengthened," said Todd Bakar, an analyst at Hambrecht &amp; Quist in San Francisco.  "Questions of their long-term viability don't come up as often anymore."
+In the past three quarters, Apple has reported huge losses as customers have defected to cheap IBM-compatible personal computers running Microsoft Corp's easy-to-use Windows 95 software.  By cutting costs and firing workers, Apple has managed to whittle its losses.  
+Wall Street expects Apple, based in Cupertino, Calif., to post a loss of $0.30 a share, according to a recent survey of 23 analysts by First Call.  In the fiscal fourth quarter last year, Apple reported net income of $60.1 million, or $0.48 a share, on revenue of $3.0 billion.
+Apple's new management, under former National Semiconductor Corp chief Gilbert Amelio, has done a good job cutting expenses, analysts said.
+Apple also has managed to raise enough cash to be out of a dire cash shortage, which threatened to hamper day-to-day operations. The company could even generate a little cash from its business this quarter, analysts said.
+The trick now is to convince consumers that the Macintosh is a worthy competitor to PC clones.
+Apple Computer Inc. stunned investors Wednesday by reporting an unexpected $25 million profit for the last three months of its fiscal year.
+The Cupertino, Calif.-based computer maker, which had been expected to lose around 30 cents a share in the quarter, posted a profit of 20 cents a share, the first time Apple was in the black this year.
+Included in the operating results for the fourth quarter of Apple's fiscal 1996 was a gain of $17 million, or 14 cents a share.
+Wall Street welcomed the news, bidding the company's stock price up $2.25 to $28 a share in after-hours trading.
+Analysts cited improved manufacturing efficiencies, lower component costs and reduced operating expenses for the better-than-expected performance.
+"It is a shock," said Daniel Kunstler, computer industry analyst at JP Morgan. "It seems they've brought the break-even point for their business down pretty dramatically. This is very encouraging."
+In the year-ago quarter, Apple earned $60 million, or 48 cents a share. Revenues for the three months ended in September fell to $2.32 billion from $3.0 billion a year ago.
+For the full year, Apple posted a loss of $816 million, or $6.59 a share, reflecting a series of hefty one-time charges for inventory writedowns and restructurings.
+In fiscal 1995, Apple earned $424 million, or $3.45 a share.
+During the year, Apple was hurt by a sharp decline in its market share, management turmoil and an inability to have the right products on the shelf at the right time.
+However, in the last two quarters Apple has started to show signs of a turnaround under former National Semiconductor Corp. chief Gilbert Amelio.
+In a statement, Amelio said Apple's financial situation is stablized, as evidenced by the improvement in gross margins during the quarter and cash flow.
+"By increasing revenues sequentially and fortifying Apple's financial position in each of the last two quarters, we have achieved two very critical goals of Apple's transformation," Amelio said. "We remain confident about reaching sustainable profitability by the end of Q2 '97.
+"As we move forward, our challenges will be to extend our competitive leadership in key markets and to reclaim the mantle of industry pioneer and innovator," he said.
+Apple's gross margins -- the difference between what it sells its products for and the cost of goods -- rose to 22 percent in the fourth quarter from 18.5 percent in the third quarter.
+More importantly, however, Apple ended the quarter with more than $1.7 billion in cash and short-term investments on hand, up from $952 million a year ago.
+"We continue to make progress in strengthening Apple's financial condition, as our $410 million in positive cash flow from operations during the quarter suggests," said Apple Chief Financial Officer Fred  Anderson. "We've reduced inventories by nearly $400 million since June and completed the quarter with over $1.7 billion in cash and short-term investments."
+"Gross margins increased due to several factors, including declining component costs, improved manufacturing efficiencies, and sales of previously reserved inventory," he added. "We achieved further sequential reductions in operating expenses, primarily in general and administrative functions."
+While shipments were down 26 percent in the fourth quarter to 932,000 units from the year-ago quarter, Apple said shipments were up 11 percent, a sign that customers were once again buying its products.
+Apple Computer Inc. ( stunned investors Wednesday by reporting an unexpected $25 million profit for the last three months of its fiscal year.
+The Cupertino, Calif.-based computer maker, which had been expected to report a loss of 30 cents a share, posted a profit of 20 cents a share, its first quarterly profit this year.
+In the same quarter a year ago, Apple had net income of $60 million, or 12 cents. Included in the most recent quarter's operating results was a gain of $17 million.
+Fourth-quarter revenue for fiscal 1996 declined 23 percent to $2.32 billion from $3 billion.
+Apple released the news after the market closed and Its shares jumped as much as $4.25 to $30 a share in after-hours trading.
+The profit came because of Apple's aggressive cost cutting, a bigger-than-expected exodus of employees and lower prices for key components, such as memory chips, analysts said.
+"It is a shock," said Daniel Kunstler, an analyst at JP Morgan in San Francisco who was expecting a loss. "It seems they've brought the break-even point for their business down pretty dramatically. This is very encouraging."
+Most important to investors, Apple could remain profitable in coming quarters, which would bolster confidence among consumers that it will be around for years and keep loyal customers from switching to IBM-compatible personal computers, analysts said.
+Fred Anderson, Apple's chief financial officer, stopped short of predicting a profit in the first fiscal quarter.
+He said, however, that he expects the company's costs to increase only slightly in the December quarter on higher advertising expenses and that first-quarter revenue should be about the same as in the fourth fiscal quarter.
+"We continue to make progress in strengthening Apple's financial condition, as our $410 million in positive cash flow from operations during the quarter suggests," Anderson said.
+"We've reduced inventories by nearly $400 million since June and completed the quarter with over $1.7 billion in cash and short-term investments," he said in a statement.
+In the past three quarter, Apple reported huge losses because of declining Macintosh sales, management turmoil and growing popularity of personal computers running Microsoft's Windows software, which compete with Macintosh.
+The company began slashing its costs when former National Semiconductor Corp. chief Gilbert Amelio took charge of Apple in February.
+With most of the cost-cutting plan completed, Apple now will concentrate on the much tougher task of increasing revenue, Anderson said.
+While shipments were down 26 percent in the fourth quarter to 932,000 units from the year-ago quarter, Apple said shipments were up 11 percent from the third quarter, a sign that customers were once again buying Apple's products.
+Apple has a slew of new products in the works.
+On Monday, the company is expected to unveil a new low-end PowerBook, a much-needed portable computer to replace Apple's older glitch-prone models.
+In the first calendar quarter, the company also is expected to introduce new low-end consumer desktop models, a niche from which Apple had retreated in an effort to cut costs.
+For the full year, Apple reported a loss of $816 million, or $6.59 a share, reflecting a series of hefty one-time charges for inventory writedowns and restructurings. In fiscal 1995, Apple earned $424 million, or $3.45 a share.
+Revenue for the year fell 11 percent to $9.83 billion from $11.1 billion a year ago.
+Apple Computer Inc.'s unexpected fourth quarter profit initially impressed Wall Street, but some analysts said Thursday that the computer maker was not out of the woods yet.
+Apple on Wednesday reported a profit of $25 million for its fiscal fourth quarter, defying Wall Street's expectations for a loss. But analysts said that a steeper-than-expected 23 percent drop in revenue in the quarter could hurt the computer maker's prospects in the new fiscal year.
+The analysts said sluggish revenues could force Apple to skimp on research and development spending just as rivals Microsoft Corp. and Intel Corp. are preparing innovative software for personal computers that could permanently squelch Apple's technology and ease-of-use bragging rights.
+"Apple's never hit a wall like this before," said Kurt King, an analyst at Montgomery Securities in San Francisco. "They've never seen their sales drop this much before. It's possible they can recover, but unlikely."
+Analysts attributed Apple's profit, equal to 20 cents a share, to aggressive cost cutting, lower prices for memory chips, as well as a one-time gain of $17 million. In the 1995 quarter, the Cupertino, Calif.-based company earned $60 million, or 48 cents a share.
+Revenues fell to $2.32 billion from $3 billion.
+While Apple's machines remain popular in education and publishing, the company has lost many customers to Compaq, Dell, Hewlett-Packard and other competitors.
+The man hired in February to revive the company, Gilbert Amelio, the former head of National Semiconductor Corp., has cut costs aggressively but has not found a way to boost sales.
+In the crucial December quarter, revenues will be about even with the $2.32 billion reported for the September quarter, Apple executives said.
+The prospect of flat sales during the Christmas season, typically the year's busiest, could finally convince loyal developers of educational and consumer software to defect, further loosening Apple's hold on those markets, analysts said.
+"I can't remember the last time Apple's revenue declined in the December quarter from the September quarter," said Jim Poyner at Oppenheimer in New York. "Christmas is supposed to be Apple's high-water mark. This isn't a good sign."
+The cautious comments were reflected in Apple's stock, which retreated after an early-morning surge to close at $26.375, up 62.5 cents, on Nasdaq. Earlier, the stock was as high as $27.75.
+Apple, which lost about $800 million in the three prior quarters, has been slow to introduce new products.
+It is not expected to release a new line of low-cost Macintosh machines aimed at consumers until next year, and it has been slow to replace a glitch-prone line of PowerBook portable computers. A new PowerBook line is expected to be unveiled on Monday, analysts said.
+In a conference call with reporters and analysts, Apple Chief Financial Officer Fred Anderson said PowerBook sales were expected to fall $150 million in the current quarter, adding to pressure on revenues.
+Anderson also said the company's research and development budget would probably be flat next year.
+But the $600 million or so that Apple spent in fiscal 1996 will not keep up with Microsoft and Intel, which are each pouring billions of dollars into improving the multimedia and Internet capabilities of personal computers, analysts said.
+"Where are Apple's innovations going to come from?" said Richard Zwetchkenbaum at market researcher International Data Corp. "They've got to come up with something new, something from the ground up."
+In the first half of calendar 1996, Apple's share of the domestic computer market fell to 6.7 percent from 9.9 percent in the 1995 period, Zwetchkenbaum said. The rest of the PC market is expected to grow 20 percent this year.
+"Apple was the only vendor of the top ten PC makers to fall in shipments this year," Zwetchkenbaum said.
+Apple Computer Inc. stunned investors Wednesday by reporting an unexpected $25 million fourth quarter profit, stemming a year of management turmoil and swelling red ink.
+The Cupertino, Calif.-based computer maker, which had been expected to report a loss of 30 cents a share, posted a profit of 20 cents a share for the last three months of fiscal 1996, its first quarterly profit this year.
+In the same quarter a year ago, Apple earned $60 million, or 48 cents per share. Included in the most recent quarter's operating results was a gain of $17 million.
+Fourth-quarter revenue for fiscal 1996 declined 23 percent to $2.32 billion from $3 billion.
+Apple released the news after the market closed and its shares jumped as much as $4.25 to $30 a share in after-hours trading.
+Industry analysts attributed the profit to Apple's aggressive cost cutting, a bigger-than-expected exodus of employees and lower prices for key components, such as memory chips.
+"It is a shock," said Daniel Kunstler, an analyst at JP Morgan in San Francisco who was expecting a loss. "It seems they've brought the break-even point for their business down pretty dramatically. This is very encouraging."
+Most important to investors, Apple could remain profitable in coming quarters, which would bolster confidence among consumers that it will be around for years and keep loyal customers from switching to IBM-compatible personal computers, analysts said.
+Fred Anderson, Apple's chief financial officer, stopped short of predicting a profit in the first fiscal quarter.
+He said, however, that he expects the company's costs to increase only slightly in the December quarter on higher advertising expenses and that first-quarter revenue should be about the same as in the fourth fiscal quarter.
+"We continue to make progress in strengthening Apple's financial condition, as our $410 million in positive cash flow from operations during the quarter suggests," Anderson said.
+"We've reduced inventories by nearly $400 million since June and completed the quarter with over $1.7 billion in cash and short-term investments," he said in a statement.
+In the previous three quarters, Apple reported huge losses because of declining Macintosh sales, management turmoil and growing popularity of personal computers running Microsoft's Windows software, which compete with Macintosh.
+The company began slashing its costs when former National Semiconductor Corp. chief Gilbert Amelio took charge of Apple in February.
+With most of the cost-cutting plan completed, Apple now will concentrate on the much tougher task of increasing revenue, Anderson said.
+While shipments were down 26 percent in the fourth quarter to 932,000 units from the year-ago quarter, Apple said shipments were up 11 percent from the third quarter, a sign that customers were once again buying Apple's products.
+Apple has a slew of new products in the works.
+On Monday, the company is expected to unveil a new low-end PowerBook, a much-needed portable computer to replace Apple's older glitch-prone models.
+In the first calendar quarter, the company also is expected to introduce new low-end consumer desktop models, a niche from which Apple had retreated in an effort to cut costs.
+For the full year, Apple reported a loss of $816 million, or $6.59 a share, reflecting a series of hefty one-time charges for inventory writedowns and restructurings. In fiscal 1995, Apple earned $424 million, or $3.45 a share.
+Revenue for the year fell 11 percent to $9.83 billion from $11.1 billion a year ago.
+Apple Computer Inc. will unveil Monday a new family of portable PowerBook computers to fill a critical gap in its product line.
+The new PowerBook 1400 family, scheduled to be sold in mid-November with prices starting at $2,500, will feature a built-in CD-ROM drive and a bigger screen. The models are designed to appeal to small office users and students, Apple said.
+Until now, the lack of a CD-ROM drive in its portables has held back Apple in competing with offerings from International Business Machines Corp., Compaq Computer Corp. and Dell Computer Corp., analysts said.
+The new family "isn't going to put them in the leadership role, but it's going to get them back in the game," said Bruce Steven, an analyst at market researcher International Data Corp.
+Apple said it also plans to introduce another new series of PowerBooks in the first half of the 1997 with more advanced multimedia and communication capabilities. The company did not release any more specifications.
+Apple has been scrambling to retool the PowerBook line. The predecessor to the new model, the PowerBook 5300, was recalled last spring because of several defects including a faulty AC power connector and a display casing that could easily crack.
+The PowerBook 1400 will replace that family. The new machines will be based on a mid-range PowerPC microprocessor.
+The faster microprocessor, the CD-ROM drive and bigger screen make the 1400 comparable in price and performance to top-selling models from other vendors, but the 1400 will have a tough time competing with low-priced offerings from second-tier PC manufacturers, Steven said.
+Based on the memory, screen options and disk-drive size, the 1400 models will sell for an estimated $2,500 to $4,000 retail in the United States, an Apple spokeswoman said.
+The entry-level model will not have the internal CD-ROM drive, she said.
+Although the machines will go on sale in mid-November, there will be a limited supply on some models until after the New Year, she said.
+The stock of Vantive Corp. plunged as much as 24 percent Friday after the software company said it expects slowing revenue growth in the next two quarters because of a shortage of sales staff.
+The warning came one day after the company reported better than expected third-quarter earnings.
+Vantive, based in Santa Clara, Calif., lost $9.25 to close at $31.50 on Nasdaq trading of 4.5 million shares.
+Vantive writes software that helps big companies, such as Hewlett-Packard Co. and Motorola Inc., find and keep track of customers and their requests.
+In the past few quarters, Vantive's revenue has more than doubled each time on increasing demand for its customer-service products.
+In the third quarter ended Sept. 30, the company's income jumped five-fold to $3.17 million, or 12 cents a share, from $632,000, or 3 cents, a year ago.
+Wall Street had expected Vantive to earn 7 cents a share, according to First Call, which tracks analyst forecasts.
+Third-quarter revenue more than doubled to $11.1 million from $4.29 million on strong software sales and service contracts, the company said.
+In a conference call with analysts, however, Vantive executives said revenue in the its next two quarters will be about flat to slightly higher compared with the third. The company doesn't have enough qualified sales and marketing staff to sell its products, the company said.
+"We believe most sequential growth for 1996 has already occurred," Kathleen Murphy, Vantive's chief financial officer, told the analysts.
+The forecast caught Wall Street by surprise, since the firm had been expected to report continued revenue leaps.
+Still, most said the forecast isn't a sign of extended tough times for Vantive.
+"Even if sequential growth in the fourth and first quarter is flat, that (revenue) would be double what it was last year," in the same quarter, said Ed Bierdeman, an analyst for Dakin Securities.
+Murphy said the company will concentrate on expanding and training its sales and support staff in the coming quarters. It takes about six months to train new sales people, so the new staff will not be effective until the second quarter of 1997.
+Apple Computer Inc., struggling to remain the teacher's pet among computer makers, is turning a modified version of its handheld Newton organizer into an inexpensive portable computer for students.
+The computer maker on Monday will unveil the Apple eMate 300, an $800 machine that looks like a grown-up's laptop with a keyboard and a flip-up screen, but in a rugged casing that can survive rough handling.
+Apple plans to sell the machine directly to elementary and high schools, beginning early next year, as an alternative to personal computers. For the price of a $2,500 multimedia PC, a school can buy three eMates, Apple executives said.
+"The federal government says we need to get to a three-to-one student-to-computer ratio by the year 2000," said Jim Groff, general manager of Apple's information appliances group. "I would say the eMate is the only credibled vehicle for accomplishing that."
+More vital to Apple, the product could keep educators from abandoning the company as the leading supplier of computers for classrooms, analysts said.
+"The potential for something like this in a classroom setting is tremendous," said Mike McGuire, a mobile computing analyst at Dataquest Inc. "This will be an indication to educators that Apple is one of the few companies spending time extending computing to more and more kids."
+Apple needs a distinctive product to set itself apart from other personal computer makers crowding into the education market, analysts said.
+Although Apple, based in Cupertino, Calif., still enjoys strong educational sales, sales of IBM-compatible personal computers by companies such as Compaq Computer Corp. are growing much faster.
+Apple's computer has always been the favored tool for teaching children how to use computers. But in the face of Apple's uncertain future and a flood of cheap PCs, schools are less likely to remain loyal.
+For the 1996-1997 school year, of all the computers that schools plan to buy, 56 percent will be Apple Macintoshs and 40 percent IBM-compatible machines, according to a recent report by Quality Education Data, an education market researcher. In the previous school year, the purchasing plans were 61 percent Macintosh and 38 percent PC.
+"The numbers are overwhelming in favor of PCs," said Carole Cotton, president of CCA Consulting Inc., another tracker of technology purchases by schools.
+"No school district can afford to make a mistake" when picking computers they will use for years, she noted.
+Apple's Groff said, however, that the eMate is not the company's answer to competitors' inroads.
+Instead, he said, the device was built for schools asking for a cheap, powerful computer that can offer educational software and Internet connections -- as well as endure rough handling by kids.
+"When we introduced the Newton three years ago, it was a solution in search of an application," Groff said. Education turned out to be one of the best applications, he said.
+Along with the eMate, Apple plans to unveil a beefier version of the Newton MessagePad on Monday. The new MessagePad 2000 features better Internet capabilities, easier connection to PCs and built-in word processing and spreadsheet software.
+Analysts said, however, that the eMate is the more interesting device. Teachers and students will like it because it is not as esoteric and hard to run as a traditional personal computer.
+"Kids are having to learn more about how to run a computer than about reading and writing," McGuire said. "The ability to have the kid just turn on the device and get right into the writing assigment is really valuable."
+The eMate weighs four pounds (1.8 kg) and fits into a backpack. It can run for a week on rechargeable batteries, according to Apple.
+The machine features a built-in word processor, drawing and equation-drawing programs and an address book. With an optional modem and software, students can browse the Internet.
+Still, the eMate could be a tough sell for Apple.
+Because its software is based on the Newton operating system, it cannot run the thousands of educational programs written for the Macintosh and for PCs running Microsoft Corp.'s Windows software.
+Apple executives are confident, however, that the eMate will help the company place more its computers on students' desks.
+"There's 52 million screaming (grades) K-to-12 children to sell to," said Robert Kondrk, Apple's manager of education product lines. "We've known for years this is an opportunity, but we didn't have the technology to do it before. We do now."
+Tandem Computer Inc on Wednesday will become the latest maker of high-end, proprietary computers to introduce a line of machines based on personal computer technology.
+Tandem, which specializes in making transaction-processing computers for banks and stock exchanges, said it will unveil a line of servers based on Intel Corp's Pentium Pro microprocessors and Microsoft Corp's Windows NT networking operating system.
+The servers -- which are computers souped up to control the flow of information through a network -- will include some of Tandem's technology for handling huge volumes of transactions, the company said. Tandem plans to pitch the machines to customers who want to set up shop on the Internet.
+The machines are Tandem's first step to rely less on sales of computers based on its own proprietary software and technology.
+Banks, telephone companies and stock exchanges still rely heavily on Tandem's so-called fault-tolerant computers for their heavy-duty computing.
+But Tandem's sales growth has stalled in recent years as its customers have replaced some of its machines with networks of cheaper computers from companies such as Sun Microsystems Inc and Compaq Computer Corp.
+To strike back, Tandem unveiled a strategy earlier this year that includes making servers based on off-the-shelf technology from Intel and Microsoft.
+Other high-end computer makers, such as International Business Machines Corp and Digital Equipment Corp, embarked on similar strategies years ago.
+With its new machines, Tandem plans to help its existing customers set up networks based on Microsoft's Windows NT networking software, said Chris Rooke, Tandem's vice president of corporate marketing.
+"We expect Tandem to now be on our customers' vendor list when they're looking at using Windows NT in more business- critical applications," Rooke said. "Yes, we do expect to open new accounts, but we expect to still be Fortune 500-class customers."
+Rooke said Tandem will concentrate on selling the machines as foundations for businesses that want to sell their wares online.
+Tandem also plans on Wednesday to unveil a new line of its Himalaya servers, a line of proprietary servers for storing and retrieving huge libraries of corporate information.
+Rooke declined to discuss the pricing of its new lines.
+Apple Computer Inc. plans to release a new line of computers as early as 1998 that will run an operating system written from scratch, Chief Executive Gilbert Amelio said on Wednesday.
+The new operating system -- the fundamental software that controls the basic functions of the computer -- will leapfrog Microsoft Corp.'s competing family of Windows software, Amelio told investors at the American Electronics Association conference in Monterey.
+"When you are the minority player in the marketplace, as we are, you need something other than market share to distinguish yourself," Amelio said.
+Amelio declined to specify what the new software would look like or how it would outperform Windows. But he promised it would "completely change the way" people get their work done on computers through applications, such as word processing and spreadsheets.
+Earlier this year, Apple said it would abandon the overhaul of its Macintosh operating system, an effort code-named Copland. Apple programmers will use some of the components of Copland but will practically start from scratch, Amelio said.
+Amelio also told investors, as he has done recently, that increasing the struggling computer maker's revenue and market share would not be a priority until he could improve the company's operations and product lines.
+The effort may take until 1998.
+"I have to have a solid foundation before I can build a castle," Amelio said. Without a solid foundation, Apple would improve its financial performance for one or two quarters but slide again, he said.
+Apple, whose headquarters are in Cupertino, California, reported an unexpected profit of $25 million for the last three months of fiscal 1996, down from a profit of $60 million a year ago. Many on Wall Street had expected the company to post a loss for the quarter.
+Investors have given Amelio credit for moving quickly to improve product quality, cut costs and fix production snafus. Apple is likely to report good progress in the next two quarters as well, said Michael Murphy, president of the California Technology Stock Letter and an investment fund. it faces "worrisome" quarters after March, Murphy added.
+"Amelio's getting closer to fixing the company's problems," he said, "but we're not going to go back in yet."
+Microsoft Corp. Monday will unveil a set of software technologies that lets programmers more easily create software for sharing information through corporate and public computer networks.
+Microsoft executives, including Chairman Bill Gates, also will discuss at an event in Los Angeles development plans for the company's Windows family of operating systems, the company said Friday.
+At one of its periodic Professional Developers Conferences, Microsoft executives will encourage programmers to write commercial software based on Microsoft's standards.
+Microsoft's event will be held the same week Oracle Corp., Microsoft's biggest rival in the corporate software business, is holding a conference in San Francisco to pitch its own approach to writing programmes for shuffling information through huge networks.
+Both companies in recent months have been retooling their key applications and networking software to work on the Internet's World Wide Web and internal corporate networks called intranets.
+Writing even simple programmes to let computer users collaborate on documents through networks tradionally has required intimate knowledge of difficult programming techniques.
+The technology Microsoft will unveil on Monday will relieve programmers of the need to know the secret handshakes of its Windows operating systems, said Tanya van Dam, a Microsoft group product manager.
+The move would encourage developers to base more of their commercial products on Microsoft's Windows NT networking operating system, analysts said.
+Oracle has a similar aim.
+On Monday, the company will unveil its own tools for writing intranet software for tapping information stored in Oracle databases, Oracle executives said.
+Corporate programmers have written huge libraries of financial, manufacturing and human resources software using Oracle's products. The new programming tools would let programmers easily convert the libraries to work on the Web, Oracle said.
+Apple Computer Inc. said Thursday it will cut U.S. prices of its Power Macintosh personal computers by as much as 30 percent to make the machines more competitive with those from rival PC makers.
+The price cuts are part of Apple's effort to make its machines as attractive as so-called Wintel PCs -- machines based on Intel Corp. microprocessors running Microsoft Corp Windows software.
+Apple, based in Cupertino, Calif., said it will reduce the price of its high-end Power Macintosh 9500/200 to about $4,200 from $4,900.
+The price of the entry-level Power Macintosh 7200/120 business machine will be cut to about $1,600 from $2,300, the company said. The price reductions, which will be effective Nov. 2, range from 9 percent to 30 percent.
+Apple can afford the price cuts because it has reduced its costs significantly since a restructuring effort began nine months ago, said Byran Longmire, a Power Macintosh product manager at Apple.
+"It shows that we can take aggressive pricing actions across many of our product lines and still maintain a healthy business," Longmire said.
+Apple's computers have traditionally been priced higher than PCs with similar features made by companies such as International Business Machines Corp. and Compaq Computer Corp.
+With the release of Microsoft's Windows 95 program a year ago, Apple lost much of its bragging rights for ease-of-use and saw many of its customers flee to the IBM-compatible world. In the past year, the company reported more than $800 million in losses amid falling sales.
+To make its machines more attractive, Apple has had to cut its prices to keep customers from defecting.
+"Now when a business customer does a feature-for-feature comparison between a Power Macintosh and a Wintel machine, that customer will find the Power Macintosh competitively priced," Gary Little, Apple's senior vice president of the Power Macintosh division, said in a statement.
+The price cuts should help Apple increase the momentum it has gained in recent weeks, analysts said. Earlier this month, Apple reported an unexpected profit in its fiscal fourth quarter ended Sept. 30.
+The price cuts will not "take Apple out of the hole, but we're seeing a more aggressive Apple, which is good news," said Scott Miller, an analyst at market researcher Dataquest Inc. The price cuts and the news about better financial health could convince more customers sitting on the fence to buy an Apple, Miller said.
+A motto of Bill Gates, chairman of Microsoft Corp., has been: "A computer on every desk running Microsoft software."
+With that goal almost accomplished, Microsoft executives have set their sights on other flat surfaces, such as the kitchen counter, the living room's entertainment console and the back of airline seats.
+At a Los Angeles conference for professional programmers, Microsoft executives outlined the company's plans to take its Windows family of operating systems into more types of computers, such as subway token vending machines, handheld portables and arcade video games.
+The company also said it plans to spend much of its research and development budget to automate management tasks of personal computers and to simplify the machines' operations.
+In recent weeks, Microsoft's competitors Sun Microsystems Inc. and Oracle Corp. have outlined their plans to build new types of computers, called network computers, that are simpler and cheaper to use than personal computers.
+At Monday's Professional Developers Conference, Microsoft executives said future versions of its Windows -- which control about 80 percent of the world's desktop computers -- will do the same things.
+"We are focusing now on the investments people have put in their computing technology and on increasing their returns," said Paul Maritz, Microsoft group vice president.
+Maritz demonstrated software products that can recognize spoken commands. He also demonstrated programs that automatically take care of network chores without human help.
+Features like these will help companies get more out of their investment in Microsoft products already in place, Maritz said.
+He also demonstrated how programmers can use Windows in non-traditional types of computers. He showed a bullet-proof vending machine for New York subways that uses Windows software to dispense fares on smart cards.
+Cisco Systems Inc. said Tuesday its fiscal first quarter profit from operations rose 77 percent, reflecting strong sales of its computer networking equipment.
+The company, which makes devices that control the flow of information between computers in a network, said earnings before gains and charges rose to $320.8 million, or 47 cents a share, for the three months ended Oct. 26, from $181.4 million or 28 cents in the same quarter a year ago.
+Net income for the quarter, after taking into account a $174.6 million charge for the acquisition of Telebit Corp. and a $55.1 million gain from the sale of a minority investment, totaled $180.9 million, or 26 cents a share, slightly lower than the year-ago figure.
+Revenues jumped 80 percent to $1.43 billion from $798.3 million.
+Wall Street had expected Cisco, the world's biggest computer networking company and a bellwhether technology stock, to report a profit from operations of 46 cents, according to First Call, which tracks estimates.
+Analysts said the company had a solid quarter, alleviating concerns in recent weeks about slowing sales of networking equipment.
+"They surprised us on the revenue," said Eric Blachno, analyst at Bear Stearns in New York. "It was a little higher than we thought."
+Cisco also managed to keep its gross margins -- a measure of how much profit a company makes from each dollar of sales -- at 65 percent, better than analysts had expected.
+Cisco, based in San Jose, Calif., attributed the higher profits to strong sales across all its product lines.
+"More of our customers are beginning to look at a single vendor" for all of their networking needs, said John Chambers, Cisco's chief executive.
+The company reported its results after the market closed. For the day, the stock had gained $1.125 to close at $61.75. After the earnings release, the shares slipped 25 cents to $61.50 in after-hour trading.
+Analysts said some investors may have been disappointed that Cisco's earnings per share were not higher. Frequently, Cisco reports per-share results that are at least 3 or 4 cents above forecasts.
+Apple Computer Inc executives on Thursday showcased products and technology geared toward business computer users, reaffirming its committment to corporate markets.
+Apple Chief Operating Officer Marco Landi, in a speech at at a software trade show, also said Apple will put much of its resources into making the Macintosh work smoothly with other computer systems from rivals such as Microsoft Corp, Sun Microsystems Inc and International Business Machines Corp.  
+Apple has traditionally had a tough time selling its machines to big corporations, which prefer to buy machines based on Intel Corp computer chips running Microsoft software.
+To win the favor of corporate programmers and technicians, Apple will release in coming months software and computers that can easily tap vital information stored in huge corporate databases, Landi said.
+He also assured the audience of professional programmers that their investment in Apple technology and products is not in danger.  
+"Apple may have its ups and downs, but you can be sure we will be there for the long haul," Landi said at Oracle Open World, a trade show for users of Oracle Corp's corporate software.
+Apple executives demonstrated the company's network servers for storing and distributing data using Oracle database management software.
+They also demonstrated Apple's HotSauce technology -- software under development to make it easy for average computer users to search huge databases without knowing esoteric computer languages and commands.  
+In recent weeks, speculation has increased that Apple is close to buying Be Inc, a closely held software company in Menlo Park, Calif., to beef up its fundamental software.
+Landi declined to comment about the speculation.
+Other Apple officials said the company will outline its strategy for improving its Macintosh operating system in January.
+-- Palo Alto desk +1 415 677 2542
+Intuit Inc. shares jumped 24 percent Wednesday amid market speculation that American Express Co. is about to buy the struggling financial management software company.
+Shares of Intuit, which publishes the best-selling Quicken personal finance computer program, surged $7 to close at $36.50 on Nasdaq. American Express rose 12.5 cents to $48.50 on the New York Stock Exchange.
+Officials of both companies declined to comment about "market rumors," and an Intuit spokeswoman called the speculation "wild."
+Analysts said American Express, the charge card and financial services company, would be interested in buying Intuit to enable it to jump into the booming online banking industry.
+Intuit, analysts said, might be receptive to an offer because of increasing doubts about its future.
+Even if American Express is not interested in acquiring Intuit, other companies may be, analysts said.
+More than 9 million people, most of them affluent, use Intuit's Quicken to manage their finances and do their banking chores through their personal computers.
+But Intuit's growth has stalled amid fierce competition with Microsoft Corp., a one-time suitor of Intuit, and a handful of banks which are offering online banking to their customers through the Internet.
+"Intuit is staring down the barrel of a gun, and that gun is the Internet, which is making financial management easier," said Karen Epper, an online banking analyst at market researcher Forrester Research Inc in Cambridge, Mass.
+Until two years ago, Intuit relied heavily on sales of its financial and tax software for its growth. Those sales have slowed as Intuit has cut prices.
+Intuit also faces renewed competition from Microsoft, which tried to buy it in 1994. Microsoft dropped the acquisition in May 1995 because of opposition from government antitrust officials.
+Since then, Microsoft, the world's biggest PC software company has spent hundreds of millions to take on Intuit.
+To fuel its growth, Intuit set up a business two years ago to process online banking transactions between banks and depositors. Some investors saw the transaction business as a promising source of growth.
+In September, however, Intuit sold its transaction processing unit, Intuit Services Corp., to rival CheckFree Corp.
+Epper said Intuit's biggest challenge is figuring out how to grow. She said the company needs the backing of a bank or bigger computer company to fuel expansion into any new business.
+Novell Inc. said Tuesday it will license one of its key technologies to other software companies in a move to expand its sources of revenue.
+Novell, which publishes computer networking programmes, wants to establish the technology, Novell Directory Services, as a software foundation for letting people easily find others on the Internet and for sharing information.
+The move is part of Orem, Utah-based Novell's strategy to adapt its corporate networking software to control the flow of information through global networks, company executives said.
+"The goal is to get into electronic commerce," said Michael Simpson, director of marketing of Novell's Internet infrastructure division. "We believe a common infrastructure is necessary and we will provide it."
+Simpson compared the variety of computer networks and software standards to the early days of the telephone industry, when a customer of one telephone company could not call someone who was a customer of another company.
+Novell Directory Services, also known as NDS, would help users in huge corporate or public computer networks reach others without knowing arcane electronic addresses.
+Adapted for the Internet, the technology also would let users communicate with others regardless of computer or software standards, Novell said.
+Novell plans to license the technology to networking software companies, Internet service providers and online services. Novell and other software companies would make money by writing computer programmes that take advantage of the universal directory, the company said.
+Tom Arthur, a Novell vice president, declined to say how much Novell expects to make from the move, but said it would see a significant boost by the middle of 1997.
+He also declined to say which companies would license NDS, but said work is being done to adapt it to run on computers using networking software from Sun Microsystems Inc., Microsoft Corp. and Hewlett-Packard Co.
+For the past two year, Novell has been trying to recover from a failed strategy of taking on Microsoft Corp., its biggest rival, in the word processor and spreadsheet business.
+Novell dumped its application business by selling its WordPerfect Corp. unit earlier this year. But the company has had a tough time rebuilding its business around NetWare, its flagship networking product.
+Microsoft has been chipping away at NetWare's market share with its rival offering, Windows NT.
+Novell's stock edged down 12.5 cents to $10.50 on Nasdaq.
+Novell Inc. said Tuesday it will license one of its key technologies to other software companies in a move to expand its sources of revenue.
+Novell, which publishes computer networking programs, wants to establish the technology, Novell Directory Services, as a software foundation for letting people easily find others on the Internet and for sharing information.
+The move is part of Orem, Utah-based Novell's strategy to adapt its corporate networking software to control the flow of information through global networks, company executives said.
+"The goal is to get into electronic commerce," said Michael Simpson, director of marketing of Novell's Internet infrastructure division. "We believe a common infrastructure is necessary and we will provide it."
+Simpson compared the variety of computer networks and software standards to the early days of the telephone industry, when a customer of one telephone company could not call someone who was a customer of another company.
+Novell Directory Services, also known as NDS, would help users in huge corporate or public computer networks reach others without knowing arcane electronic addresses.
+Adapted for the Internet, the technology also would let users communicate with others regardless of computer or software standards, Novell said.
+Novell plans to license the technology to networking software companies, Internet service providers and online services. Novell and other software companies would make money by writing computer programs that take advantage of the universal directory, the company said.
+Tom Arthur, a Novell vice president, declined to say how much Novell expects to make from the move, but said it would see a significant boost by the middle of 1997.
+He also declined to say which companies would license NDS, but said work is being done to adapt it to run on computers using networking software from Sun Microsystems Inc., Microsoft Corp. and Hewlett-Packard Co.
+For the past two year, Novell has been trying to recover from a failed strategy of taking on Microsoft Corp., its biggest rival, in the word processor and spreadsheet business.
+Novell dumped its application business by selling its WordPerfect Corp. unit earlier this year. But the company has had a tough time rebuilding its business around NetWare, its flagship networking product.
+Microsoft has been chipping away at NetWare's market share with its rival offering, Windows NT.
+Novell's stock edged down 12.5 cents to $10.50 on Nasdaq.
+Jilted once, financial software company Intuit Inc appears unlikely to return to the merger altar any time soon.
+Buyout speculation has swirled around Intuit since May 1995, when Microsoft Corp. dumped its plans to buy the maker of popular personal finance software like Quicken and TurboTax. Last week, Intuit shares surged again on speculation American Express Co. was about to make an offer.  
+However, many industry analysts believe such a deal is not in Intuit's future, adding the best way for Intuit to grow is to attract as many partners as it can to set up online banking services.
+"My personal belief is that Intuit is best able to maximize its value on its own," said David Farina, an analyst at William Blair.
+Intuit's key asset is Quicken, a program that helps computer users track checkbook balances, check stock portfolios, pay bills, plan monthly budgets and lay out retirement plans.  
+The company depends on partnerships with dozens of banks and brokerages to provide online links between customers' personal computers and their accounts.
+Intuit would turn off most of its partners if it were acquired by a big financial partner, Scott Cook, Intuit's chairman, insists.
+"We would never become a captive of one financial institution or a small group of financial institutions," Cook told a group of investors in Florida on Friday.  
+Still, some analysts questioned whether Intuit has the marketing and financial muscle to compete on its own against Microsoft for long.
+Microsoft, the world's biggest personal computer software company, is spending a big chunk of its $2 billion research and development budget on financial software and online banking services provided through the Internet.
+Although Intuit still controls 70 percent of the market for personal financial software, Microsoft is gaining.  
+Intuit also needs capital to expand into new area, such as giving online investment advice, said Karen Epper, an analyst at Forrester Research, a market researcher. Such forays will likely hurt profits, she said.
+"They might get dinged on their stock price, but this area is more in line with the consumer marketing business model they have," Epper said.
+It could be years, however, before Intuit's push into new areas could pay off, Epper said.
+Intuit said in September it expects lower revenue growth in the current fiscal year ending July 1997.  
+The company blamed a slow market for consumer software. Some of the shortfall is because of one-time suitor Microsoft, analysts said.
+In October 1994, Microsoft stunned Wall Street by offering to buy Intuit for more than $1 billion, the biggest acquisition attempt in the software industry at the time.
+Microsoft was willing to pay that huge sum to turn Quicken into a gateway for online banking services, an industry that's expected to rival brick-and-mortar retail banking in revenue in the next ten years.  
+Microsoft backed out of the deal in May 1995, however, when the Justice Department said it would sue Microsoft on antitrust grounds if it pursued the transaction.
+Since then, Microsoft has spent hundreds of millions beefing up its rival Microsoft Money financial management program. The company also set up a division to sell networking and Internet software to banks.
+To counter Microsoft's redoubled efforts, Intuit set up a business to process online transactions -- such as bill payments and account transfers -- between banks and depositors. Some investors saw the unit, Intuit Services Corp., as a promising source of revenue.
+In September, however, Intuit sold the unit to rival Checkfree Corp., partly because it did not have the expertise to handle huge volumes of transactions.
+Banks also were reluctant to have Intuit sit between them and their depositors, Epper said. Most banks preferred to reach their customers through the Internet instead of Intuit's proprietary network.
+"Intuit is staring down the barrel of a gun, and that gun is the Internet, which is making financial management easier," Epper said.
+It could be a while before Intuit outlines a new strategy for growing its business, analysts said.
+Meanwhile, there may be more bouts of wishful thinking about an acquisition, they said.
+Apple Computer Inc. said Tuesday it plans to to work with a restaurant operator to open cybercafes in the United States and Europe starting late next year.
+The third-biggest maker of personal computers licensed its name and famous half-eaten apple logo to London-based Mega Bytes International BVI, a developer of theme parks. Mega Bytes will develop a high-tech chain of eateries where patrons can surf the Internet, play games and eat.
+Apple said the restaurants are part of its plan to spread its famous brand into the everyday world, as other non-gourmet companies, such as Harley-Davidson Motorcyles and Nike Inc., have done.
+The first restaurant, slated to open in Los Angeles in late 1997, will flaunt Apple's computers at every table, the company said. Customers can browse the World Wide Web with high-speed access, check out the latest CD-ROM titles and send e-mail.
+Restaurants in London, Paris, New York, Tokyo and other cities will follow, Apple said.
+Apple, based in Cupertino, Calif., will only make money from the licensing agreement, an Apple spokeswoman said. Terms of the agreement weren't disclosed. Mega Bytes will run the restaurants.
+This year's Comdex, the world's most influential computer trade show, will be the showcase for some unusual computers, including machines the size of paperback books.
+A host of companies will introduce second-generation handheld computers, about the size of paperbacks, which can do much of the work their desktop counterparts handle.
+The trade show, expected to draw 250,000 people to Las Vegas next week, also will feature the digital video disc, or DVD, an advanced compact disc for playing movies and storing computer information.
+In addition International Business Machines Corp., Microsoft Corp. and other industry giants are expected to take their year-old battle over rival approaches to simplifying personal computers to the trade show floor.
+Moreso than in recent years, this year's show will highlight how the PC, the centre of a $400 billion global industry, is moving into new venues such as the living room entertainment cabinet, shirt pockets and the backs of airline seats, industry executives said.
+"As more and more of the population gains experience with PCs, the types of products consumers select will diversify, and the major players have to accommodate them," said Tom Grueskin, marketing manager at computer maker Gateway 2000 Inc.
+Microsoft will kick off Comdex on Sunday night with the introduction of Windows CE, a computer programme that will run on handheld computers. Several companies, including Compaq Computer Corp., NEC Corp. and LG Electronics Inc. will unveil devices using the software.
+The handheld PCs represent the industry's second big push in four years to sell tiny computers for managing appointments and contacts and keeping in touch with the office.
+Analysts said the new more powerful machines will let users do things earlier models were not good at, such as writing lengthy e-mail and tapping the Internet. Microsoft has made strides in making it easier for the handhelds to share information with desktops, analysts said.
+Microsoft also will unveil Microsoft Office 97, a major revision of its top-selling package of business programmes. The product will be one of the biggest revenue generators for the world's biggest PC software company, analysts said.
+Consumer electronics companies will crash Comdex this year to formally introduce DVD. The technology is based on compact discs similar to music CDs, but with many times the storage capacity.
+Next year, Toshiba Corp., Sony Corp., Matsushita Electric Industrial Co. and several other companies will sell DVDs that can play movies and music.
+At Comdex, the computer arms of the consumer electronics companies will unveil DVD storage devices that plug into PCs. The so-called DVD-ROM players are expected to spur development of video games that use sophisticated 3-D animation.
+By the middle of next year, high-end consumer PCs will be equipped with DVD-ROM players, said Paul Dempsey, senior vice president at Pioneer Electronic Corp.'s New Media division. Several game software companies will have DVD-based products ready to show at Comdex.
+By early 1998, some DVD-equipped laptops may even be able to play full-length, full-screen movies, analysts said.
+Comdex may also become an arena this year for competing versions of so-called network computers -- bare bones PCs that get most of their computing power from corporate or public computer networks.
+IBM will introduce several network computers, geared toward corporate customers who need simple terminals for data entry and customer service tasks.
+Meanwhile, Microsoft Chairman Bill Gates and Intel Corp. Chief Executive Andy Grove may give some details in keynote speeches about their companies' plans to redesign the guts of the PC to make them easier to maintain and upgrade.
+Both Gates and Groves had pooh-poohed the concept of the network computer, but decided to take a second look when it became clear consumers were intrigued by the possibility of no-brainer PCs.
+Microsoft Corp said on Monday it had sent the final version of Office 97 -- a product that is expected to be its biggest revenue generator in 1997 -- to factories and will have it in stores within weeks.
+The product, a package of Microsoft's top-selling business programs, is Microsoft's biggest new product since the release of Windows 95, and is expected by analysts to increase the company's revenue by about 15 to 20 percent this year.
+About half of Microsoft's $8 billion in revenue came from business applications last year.
+"People on the (Office 97) development team were jumping in the fountain this afternoon," just after Microsoft sent the final version to manufacturing, said Pete Higgins, Microsoft group vice president of applications.
+The new version, which had been in development for more than two years, features better ties to the Internet, help tools that guide computer users through common tasks and a new component called Outlook, which manages computer users' documents, appointments, contacts and electronic mail.  
+Higgins said the standard edition of Office 97 will cost about $239 for users of existing versions of Office. He said Office 97 will be available on a limited basis in December, and more broadly in early January.
+Foreign versions of the product will be available a month to six months later, he said.
+Analysts said the new version has several significant features that could goad corporate computer buyers to upgrade.
+"It will take some time to catch on because it requires a high-end PC," said Mary Meeker, an analyst at Morgan Stanley &amp; Co. "But I think products like these are going to drive PC sales."
+On Sunday, International Business Machine Corp's Lotus Development Corp unveiled its own suite of office applications, called SmartSuite 97, which it said would begin shipping in January.
+Microsoft has roughly 70 percent of the market by unit volume, followed by Lotus with 23 percent, according to recent market research data.
+At this year's Comdex computer trade show, the most sought-after people are not Microsoft Corp.'s Bill Gates or Intel Corp.'s Andy Grove, but corporate computer buyers.
+Personal computer makers and software vendors are relying heavily on their corporate customers this year to make up for disappointing sales to consumers, executives at the trade show said this week.
+While many consumers have been putting off their computer shopping until early 1997 -- when new gadgets come out -- corporate customers are finally dumping their older PCs and buying lots of machines that can run the latest business software from Microsoft.
+"Certainly we see a tremendously strong business environment as a major upgrade cycle is now occurring," said Michael Winkler, senior vice president at Compaq Computer Corp. "We think the fourth quarter will be excellent."
+Winkler and other PC executives said the recent release of Microsoft's Windows NT operating system and Office 97 package of business programs was fueling corporate sales. These programs work best with the computing horsepower of machines based on Intel's top-of-the-line Pentium computer chip.
+In large part because of strong corporate sales, domestic PC shipments in the fourth quarter were expected to rise 20 percent to 8 million units, according to International Data Corp., a market researcher.
+"The bottom line here is that the outlook for '97 for our business is very strong," said Jim McDonnell, a group marketing manager of PCs at Hewlett-Packard Co..
+Based on executives' bullish comments at Comdex this week, stocks of most PC makers have gained in recent days.
+Compaq rose $1.375 to $81.875 and International Business Machines Corp. jumped $2.50 to $156.25, both on the New York Stock Exchange, while Intel added $1.75 to $122.50 and Sun Microsystems Inc. gained $2.50 to $59.50, both on Nasdaq.
+Still, the fourth quarter has been disappointing to some PC makers, especially those that concentrate heavily on consumer sales.
+Last year this time, the release of Microsoft's Windows 95, software that makes PCs easier to use, drew lots of people to computer stores to buy their first PCs. The industry has no such attraction this year.
+In fact, analysts said, consumers were putting off computer shopping this Christmas season as the industry prepares new machines based on Intel's upcoming MMX technology. MMX-based machines, slated to be released in early 1997, will feature better video, sound and 3-D graphics.
+In late October, computer stocks slid as CompUSA Inc. and other computer retailers reported softening sales heading into the crucial Christmas season.
+"There's no question that the quarter started out slow, but we're hopeful that things are getting better," said Mal Ransom, senior vice president of marketing at closely held Packard Bell NEC Inc., the second-biggest PC maker in the United States behind Compaq.
+Consumer sales appear to be improving as it gets closer to Christmas, while prices of computer components remain low, Ransom said. "It looks like we're going to get a reasonable quarter."
+At this year's Comdex computer trade show, the most sought-after people are not Microsoft Corp.'s Bill Gates or Intel Corp.'s Andy Grove, but corporate computer buyers.
+Personal computer makers and software vendors are relying heavily on their corporate customers this year to make up for disappointing sales to consumers, executives at the trade show said this week.
+While many consumers have been putting off their computer shopping until early 1997 -- when new gadgets come out -- corporate customers are finally dumping their older PCs and buying lots of machines that can run the latest business software from Microsoft.
+"Certainly we see a tremendously strong business environment as a major upgrade cycle is now occurring," said Michael Winkler, senior vice president at Compaq Computer Corp.. "We think the fourth quarter will be excellent."
+Winkler and other PC executives said the recent release of Microsoft's Windows NT operating system and Office 97 package of business programmes was fuelling corporate sales. These programmes work best with the computing horsepower of machines based on Intel's top-of-the-line Pentium computer chip.
+In large part because of strong corporate sales, domestic PC shipments in the fourth quarter were expected to rise 20 percent to 8 million units, according to International Data Corp., a market researcher.
+"The bottom line here is that the outlook for '97 for our business is very strong," said Jim McDonnell, a group marketing manager of PCs at Hewlett-Packard Co..
+Based on executives' bullish comments at Comdex this week, stocks of most PC makers have gained in recent days.
+Compaq rose $1.375 to $81.875 and International Business Machines Corp. jumped $2.50 to $156.25, both on the New York Stock Exchange, while Intel added $1.75 to $122.50 and Sun Microsystems Inc. gained $2.50 to $59.50, both on Nasdaq.
+Still, the fourth quarter has been disappointing to some PC makers, especially those that concentrate heavily on consumer sales.
+Last year this time, the release of Microsoft's Windows 95, software that makes PCs easier to use, drew lots of people to computer stores to buy their first PCs. The industry has no such attraction this year.
+In fact, analysts said, consumers were putting off computer shopping this Christmas season as the industry prepares new machines based on Intel's upcoming MMX technology. MMX-based machines, slated to be released in early 1997, will feature better video, sound and 3-D graphics.
+In late October, computer stocks slid as CompUSA Inc. and other computer retailers reported softening sales heading into the crucial Christmas season.
+"There's no question that the quarter started out slow, but we're hopeful that things are getting better," said Mal Ransom, senior vice president of marketing at closely held Packard Bell NEC Inc., the second-biggest PC maker in the United States behind Compaq.
+Consumer sales appear to be improving as it gets closer to Christmas, while prices of computer components remain low, Ransom said. "It looks like we're going to get a reasonable quarter."
+Be Inc., a private software company which Apple Computer Inc. is eyeing as a possible acquisition target, will announce Tuesday that it will license software to an Apple rival, Be executives said.
+Be will license its BeOS operating system -- a type of programme that controls the basic functions of a computer -- to Power Computing Corp., a maker of computers compatible with Apple's Macintosh, executives of the companies said. Power Computing will have an exclusive license until April 1997.
+Apple itself has been considering using Be's software. Earlier this year, the No. 3 PC maker shelved a mired effort to rewrite the Macintosh operating system and has been looking outside, primarily at Be, for programming talent.
+Be and Power Computing executives said their agreement was not a threat to Apple's plans. Instead, the companies are offering fast machines that would appeal to saavy users, such as programmers, game developers and Web site managers, known as Webmasters.
+"This agreement has no impact on any deal we may or may not conclude with Apple," said Mark Gonzalez, marketing director at Be, based in Menlo Park, Calif.
+An Apple spokesman declined to comment on the agreement.
+Be, founded in 1992 by the former head of Apple's research and development, writes software that takes full advantage of the multimedia and computing capabilities of the PowerPC microprocessor, the same computer chip that serves as the brains of the Macintosh.
+The company's BeOS includes many software features and innovations that Apple's programmers have not been able to include in Macintosh software.
+Apple, struggling to set the Macintosh apart from personal computers running software from Microsoft Corp., has been negotiating with Be since June about licensing its products or buying Be outright, executives close to the negotiations have said.
+Apple Chairman Gilbert Amelio and Chief Technology Officer Ellen Hancock have hinted in recent weeks that Apple planned to rewrite the core of the Macintosh software itself, but will turn to outside software companies for help in developing the features a computer user would see on the screen, including next-generation multimedia capabilities.
+Bay Networks Inc., keeping up with rivals in the computer networking business, said Wednesday it paid $99 million in cash and stock to buy closely held NetICs Inc.
+The acquisition gives Bay Networks a line of devices called Fast Ethernet switches that are becoming increasingly popular with computer technicians for speeding up the flow of information through corporate computer networks.
+Bay Networks' rivals Cisco Systems Inc. and 3Com Corp. have bought similar Fast Ethernet technology in recent months.
+Bay Networks, based in Santa Clara, Calif., agreed to pay about $55 million in stock and $44 million in cash for NetICs, a company that has yet to report any revenue. Bay will charge "a substantial portion" of the purchase price against earnings for its quarter ending in December, the company said.
+Bay Networks' stock was off 12.5 cents at $21.50 in late trading on the New York Stock Exchange.
+The acquisition keeps Bay Networks up to date with rapidly emerging technology, said Dick Eyestone, its senior vice president. "We live in dog years in this industry. Six months is like forever," he said.
+Eyestone, who will oversee NetICs' operation as a Bay Networks unit, said his company plans to use NetICs' designs in its own line of networking products. Bay will release the first product from the acquisition in the first quarter.
+NetICs, formed in 1995 by a dozen engineers, will remain in Acton, Mass. Until now, NetICs has been developing its technology and has not had any revenue, said Gary Vacon, NetICs founder and president.
+Some analysts said they were surprised by the amount of money Bay was willing to pay to get its hands on the technology.
+"I know companies with revenues in this sector that would be happy to get $30 million," said Steve Koffler, an analyst at NatWest Securities in New York. "They obviously felt they need this technology."
+Bay Networks executives said they are paying the standard price for high-tech startups.
+"This is right in line with the industry standard and our expectations," said Bill Ruehle, Bay Networks chief financial officer. He declined to say how much revenue he expects NetICs products to generate.
+Apple Computer Inc. Friday agreed to acquire NeXT Software Inc. for $400 million, a stunning move that reunites the computer company with its co-founder, Steven Jobs.
+The acquisition will give Apple the software technology it needs to revamp the Macintosh personal computer, which has lost much of its technological luster to PCs running software from Microsoft Corp.
+"The Mac has provided the innovation that the industry has been feeding off for the last 10 years," Jobs said. "It's time for someone to come up with innovation to drive the industry forward. Who better than Apple?"
+Apple Chief Financial Officer Fred Anderson said the company will pay $350 million, mostly in cash and a little stock, for Redwood City, Calif.-based NeXT. Apple also will pay off NeXT's $50 million debt.
+Jobs, who founded Apple with a friend in his garage 20 years ago, led Apple through its early years until he was fired by the company's board in 1985.
+Apple said he will come back to Apple part-time to lead an effort to rewrite the fundamental software of the Macintosh. He will report to Apple Chairman Gilbert Amelio.
+Apple will base much of its next-generation operating system -- the computer program that controls the basic function of the Mac -- on Nextstep.
+NeXT's technology will not only provide many of the software bells and whistles that Apple needs to compete with Microsoft's Windows, but will attract outside software companies to write more titles for the Mac, Amelio said.
+"Without question, the technology at NeXT was the superior technology, by a significant amount," Amelio said.
+Apple had been for months looking outside for help after having abandoned an unfinished operating system code-named "Copland."
+The company looked at operating system technology and multimedia software from companies such as Sun Microsystems Inc. and closely held Be Inc.
+Amelio said with NeXT's existing technology, he hopes Apple will have a new operating system in 1997.
+For Jobs, the cheerleader who instilled an attitude in Apple that the company was out to change the world, the merger is another stop in a strange odyssey.
+After being fired by his successor John Sculley in 1985, he left to found NeXT, which initially made a line of whiz-bang computers.
+When NeXT ran into financial trouble in the late 1980s, the company dropped its computers to concentrate on software. In the past two years, NeXT has been selling a line of reasonably successful software for creating sites on the Internet's World Wide Web.
+Meanwhile, Jobs helped co-found Pixar Animation Studios, a production studio that uses powerful computers instead of drawings. The company made last year's hit "Toy Story."
+Jobs said he will continue to run Pixar.
+When Apple Computer Inc. fired co-founder Steven Jobs in 1985, Apple employees did not know whether to cry or to rejoice.
+Through the early 1980s, Jobs had inspired Apple engineers to create a computer called the Macintosh which would change the world. At the same time, though, Jobs and his mercurial temper burned out many of the same engineers who adorded him.
+On Friday, more than 11 years after Jobs was ousted in a stunning boardroom coup, Apple took a huge gamble by bringing him back.
+His assignment is to help the Cupertinto, California-based computer company revamp the software behind the Macintosh, an effort that had been mired for three years.
+The bet is that Jobs is the only person who can inspire Apple's demoralized programmers to create software that would leapfrog Microsoft Corp's competing Windows operating system.
+"He will help tremendously," said Randy Wigginton, a former Apple programmer who worked under Jobs to write the software of the original Mac. "Steve is incredibly bright, talented, amusing."
+On Friday, as word of Apple's decision to rehire Jobs spread, shares of the company rose $1.25 or 5.6 percent, to $23.50.
+Job's new company, NeXT Software Inc., which Apple agreed to acquire on Friday for $400 million, offers a computer operating system that has many of the software bells and whistles Apple has been looking for to catch up with rival Microsoft.
+Apple had tried to reach a deal with closely held software company Be Inc., founded by another former Apple executive, Jean-Louis Gassee, but the talks broke down and the company turned to Jobs for help.
+With NeXT's existing technology, Apple hopes to finish the overhaul of its popular Macintosh operating system -- the type of program that controls the fundamental functions of a computer -- in late 1997.
+But the key asset that Apple acquired is Jobs. He will serve part-time as a technology adviser and will report to Apple Chairman Gilbert Amelio.
+Several Apple programmers working on the Mac overhaul said they have been frustrated for months with a string of weak managers who could not get the project past a rough sketch even after three years. With Jobs, the programmers said, they hope the project can finally move forward.
+"Everybody is excited," said an Apple employee close to the project. "I am very excited."
+The risk of hiring Jobs is his volatility. People who have worked for him said Jobs has a knack for inspiring engineers to think that their work is a life-or-death project, a sentiment Apple now needs. But the same sentiment can burn engineers out.
+"In some ways he has mellowed, but he still has an incessant drive for perfection," said Joanna Hoffman, the Mac's first marketing manager.
+Jobs could not be reached on Saturday for comment. On Friday he told reporters he was looking forward to rejoining the company he co-founded nearly 20 years ago out of his parent's garage.
+"I feel very lucky to be a part-time Apple employee and work for Gil and advise him on product strategy."
+Jobs also will work with Apple Chief Technical Officer Ellen Hancock, a veteran International Business Machines Corp. software manager who has set specific goals for the operating system team.
+Jobs' visionary role and Hancock's strict, no-nonsense management style balance nicely, said Tim Bajarin, analyst at market researcher Creative Strategies Research.
+When Apple Computer Inc. fired co-founder Steven Jobs in 1985, Apple employees did not know whether to cry or to rejoice.
+Through the early 1980s, Jobs had inspired Apple engineers to create a computer called the Macintosh which would change the world. At the same time, though, Jobs and his mercurial temper burned out many of the same engineers who adorded him.
+On Friday, more than 11 years after Jobs was ousted in a stunning boardroom coup, Apple took a huge gamble by bringing him back.
+His assignment is to help the Cupertinto, California-based computer company revamp the software behind the Macintosh, an effort that had been mired for three years.
+The bet is that Jobs is the only person who can inspire Apple's demoralised programmers to create software that would leapfrog Microsoft Corp's competing Windows operating system.
+"He will help tremendously," said Randy Wigginton, a former Apple programmer who worked under Jobs to write the software of the original Mac. "Steve is incredibly bright, talented, amusing."
+On Friday, as word of Apple's decision to rehire Jobs spread, shares of the company rose $1.25 or 5.6 percent, to $23.50.
+Job's new company, NeXT Software Inc., which Apple agreed to acquire on Friday for $400 million, offers a computer operating system that has many of the software bells and whistles Apple has been looking for to catch up with rival Microsoft.
+Apple had tried to reach a deal with closely held software company Be Inc., founded by another former Apple executive, Jean-Louis Gassee, but the talks broke down and the company turned to Jobs for help.
+With NeXT's existing technology, Apple hopes to finish the overhaul of its popular Macintosh operating system -- the type of programme that controls the fundamental functions of a computer -- in late 1997.
+But the key asset that Apple acquired is Jobs. He will serve part-time as a technology adviser and will report to Apple Chairman Gilbert Amelio.
+Several Apple programmers working on the Mac overhaul said they have been frustrated for months with a string of weak managers who could not get the project past a rough sketch even after three years. With Jobs, the programmers said, they hope the project can finally move forward.
+"Everybody is excited," said an Apple employee close to the project. "I am very excited."
+The risk of hiring Jobs is his volatility. People who have worked for him said Jobs has a knack for inspiring engineers to think that their work is a life-or-death project, a sentiment Apple now needs. But the same sentiment can burn engineers out.
+"In some ways he has mellowed, but he still has an incessant drive for perfection," said Joanna Hoffman, the Mac's first marketing manager.
+Jobs could not be reached on Saturday for comment. On Friday he told reporters he was looking forward to rejoining the company he co-founded nearly 20 years ago out of his parent's garage.
+"I feel very lucky to be a part-time Apple employee and work for Gil and advise him on product strategy."
+Jobs also will work with Apple Chief Technical Officer Ellen Hancock, a veteran International Business Machines Corp. software manager who has set specific goals for the operating system team.
+Jobs' visionary role and Hancock's strict, no-nonsense management style balance nicely, said Tim Bajarin, analyst at market researcher Creative Strategies Research.
+Apple Computer Inc.'s rehiring of company co-founder Steve Jobs and purchase of NeXT Software Inc. will give it a much-needed operating system, but analysts warned Monday the deal might not be enough to boost the computer maker's market share or bottom line.
+"(The move) has a lot of PR value, but it looks to me that the company still has a strategic mess on its hand with $400 million less," said John Rossi, an analyst at the Robertson Stephens &amp; Co. brokerage in San Francisco.
+Apple said Friday it would pay $400 million to buy NeXT and rehire NeXT founder Jobs, Apple's mercurial co-founder, as part of a plan to revamp the Macintosh computer.
+Apple bought NeXT because it needs an operating system -- the program that controls a computer's basic functions -- after its own attempt failed.
+While NeXT's existing technology helps Apple make up for lost time and provides a decent foundation for a new operating system, the technology is not dazzling enough to set the Macintosh apart from computers running Microsoft Corp.'s Windows software, analysts said.
+"Trying to prop up the brand name with a psychological hire is not going to solve Apple's problems," said one Wall Street analyst who asked not to be identified.
+Analysts note that NeXT has failed to make any dent in the consumer computer market on its own. The company sold only 50,000 computers in four years as a hardware manufacturer before it focused entirely on software.
+Some analysts also are disappointed that Apple chose NeXT over Be Inc., a closely held software company founded by another former Apple executive, Jean-Louis Gassee.
+"I saw Be's technology. I was wowed by it," Rossi said. Be had many features that would have appealed to Macintosh customers, who do a lot of graphics design, video and image editing and desktop publishing. NeXT, Rossi said, "is aged" in comparison.
+Still, Apple needed to come up with a technological blueprint to persuade outside software companies not to abandon the Macintosh.
+By making no secret they were shopping around for technology, Apple's management had essentially told their customers the current Macintosh system was a dead end, analysts said.
+If Apple had taken much longer to present its plan, Macintosh software developers would have begun to look for other ways to make a living.
+"The technology direction implicit in the acquisition is a good one," said Ike Nassi, a former Apple executive and computer scientist who headed the software development effort.
+Some investors agreed. Apple shares rose 12.5 cents to $23.625 in afternoon Nasdaq trading. The shares jumped $1.25 to $23.50 Friday as word spread of Apple's decision to buy NeXT, based in Redwood City, Calif.
+Analysts said they may have to wait months to get a clearer picture from Apple about what the combination of NeXT and Apple software will look like.
+"Merging operating systems is not a simple task," said Peter Andrew, an analyst at brokerage AG Edwards.
+And it is still unclear where Apple will get the software expertise to include key features in the new operating system.
+For example, neither Apple nor NeXT's software is efficient at handling several tasks simultaneously, such as recalculating a spreadsheet while faxing a document and updating stock quotes on the screen.
+"There are many issues about how the NeXT operating system can revitalize the Mac," said Richard Zwetchkenbaum, an analyst at market researcher International Data Corp.
+Apple executives are expected to give more technological details about their plan Jan. 7 at the MacWorld trade show in San Francisco.
+Daniel Kunstler, an analyst with investment bank JP Morgan's San Francisco office, said Jobs, even if he helps Apple comes up with a brilliant operating system quickly, cannot save Apple alone.
+"My investment thesis on Apple hinges on a lot of mileposts," including reporting a decent Christmas quarter this year and revamping its entire product line in 1997, Kunstler said. Finding an operating system was just one milepost, he said.
+"The PC industry is one of the most dynamic and competitive in the world, and this announcement underscores that fact," said Microsoft spokesman Mark Murray. "We look forward to watching their efforts and competing in the marketplace."
+He pointed out that Microsoft has been the biggest developer of applications for the Macintosh platform over the past 15 years.
+"Until Apple provides more details on their future plans, it's going to be hard for anyone to say how they will partner with or support this new venture," he said. But he added that Microsoft would take a "hard look" at any new system, depending on customer demand.
+A warning about weak Christmas sales from personal computer retailer CompUSA Inc. Thursday raised concerns that the entire computer industry may have a weak fourth quarter, sending PC stocks lower.
+CompUSA, tradionally one of the healthier PC retailers, said it expected a disappointingly small rise in sales in the fourth quarter because of weak PC sales. The Dallas-based company was the third major PC retailer in two weeks to report a weak outlook.
+"This is certainly not a good sign," said Scott Miller, an analyst at market researcher Dataquest Inc. in San Jose, Calif.
+Stock in Compaq Computer Corp., the world's biggest PC maker, fell $2 to $72.375. Dell Computer Corp. slipped $1.875 to $51.25. And Intel Corp., the biggest maker of PC microprocessors, declined 56.25 cents to $130.375.
+Analysts said PC companies that make machines geared toward home users, including Packard Bell NEC Inc. and Acer Inc., did have a disappointing year.
+Unlike last year, when Microsoft Corp. released the Windows 95 operating system, there were no compelling new technologies in 1996 to drive consumers to stores.
+But investors may be overreacting, analysts said. The three biggest personal computer makers -- Compaq, International Business Machines Corp. and Dell -- get only a sliver of their revenues from sales to consumers.
+In fact, each of the big three is expected to have solid fourth-quarter financial results because of strong corporate sales.
+"Our checks with distributors indicate that IBM is going to have over 30 percent growth (in its PC business) this quarter," said Gary Helmig, an analyst at brokerage SoundView Financial. "IBM's sales are not really focused in the consumer marketplace."
+SoundView Thursday raised its rating on IBM to long-term buy from hold.
+Neither Dell nor Compaq are expected to suffer from weak consumer sales in the fourth quarter, either, analysts said.
+"Corporate sales are still strong, as far as I can see," Dataquest's Miller said. In the past couple of months, many big companies began buying huge numbers of PCs to take advantage of new business software from Microsoft, released late this year.
+"The companies that are really suffering now are the ones that are very exposed to retail," said Don Young, an analyst at Prudential Securities in New York.
+Those companies may continue to have weak sales increases into 1997, while consumers wait for new multimedia PCs to be released, analysts said.
+Packard Bell and Acer officials could not immediately be reached for comment.
+Apple Computer Inc. Chairman Gilbert Amelio will outline a long-awaited plan Tuesday to revamp the Macintosh personal computer with the help of recently acquired Next Software Inc.
+At the Macworld trade show here next week, Apple and dozens of other vendors also will unveil new products that could help boost the Macintosh market in 1997, analysts said.
+This year's show will be more cheery than last year's, when Apple's future as an independent company was in doubt, customers and vendors said. In 1996, Apple's new management under Amelio stopped huge financial losses and acted quickly to come up with a plan to update the Mac.
+"We're very pleased with the decisions Apple has made with the future of the Mac," said Bob Roblin, senior vice president of marketing at Adobe Systems Inc., one of the biggest suppliers of Mac software.
+"It's going to be a much more upbeat show, but one where a lot of questions have to be answered."
+The questions swirl around Apple's agreement last month to pay $400 million for Next, the company run by Apple co-founder Steven Jobs.
+Apple, based in Cupertino, Calif., plans to take Next's well-regarded operating system -- a type of program that controls the basic functions of a computer -- and meld it with the Mac operating system. The Mac's fundamental software needs an overhaul to keep up with Microsoft Corp.'s Windows family of software.
+While Apple management has outlined the Next strategy, Macintosh programmers and executives of Mac-related companies said they still needed lots of technical details before they could start working on new products.
+"As a user, I want to know what this means for the interface, for the functionality, for my existing software," said Phil Schuller, vice president of product management at Macromedia Inc., a developer of graphics software.
+Other highlights of Macworld are expected to be the release of new versions of several key Macintosh products.
+Adobe officials said they will announce plans to start shipping later this month the latest version of PageMaker, which helps graphic artists design and compose magazines and newspapers and is one of the best-selling Mac programs.
+Microsoft will unveil its long-awaited Internet Explorer browser for the Mac at the show, a company spokesman said.
+Apple itself will announce plans to re-enter the online service business. It plans a World Wide Web site, dubbed Apple Club, where subscribers can download Mac software. An annual subscription will cost $19.95, an Apple spokeswoman said.
+In 1996, Apple pulled the plug on eWorld, its first foray into the online business.
+Apple Computer Inc.'s expected loss of $100 to $150 million in its fiscal first quarter is a serious setback to the company's unfolding comeback plan, industry analysts said on Saturday.
+Apple was banking on a strong Christmas season this year to convince potential customers there are still plenty of people using the Macintosh and plenty of people willing to write software for it, analysts said.
+The company also had hoped to show software developers there would be enough demand for their products while Apple engineers finish a major overhaul of the Mac's fundamental software with the help of recently acquired Next Software Inc.
+But the loss shows Apple is having a much tougher time selling its PC than analysts expected.
+"I can't tell you how many people have asked me about whether they should be buying from Apple when there's so much negative news out there," said Richard Zwetchkenbaum, an analyst at market researcher International Data Corp.
+In the September quarter, Apple's share of the PC market worldwide fell to 5.4 percent from 8.7 percent in the same quarter a year ago, according to a recent Apple filing with the Securities and Exchange Commission. In the U.S., its share fell to 7.3 percent from 13.2 percent.
+Apple on Friday blamed a shortage of PowerBook laptops and slow sales of its Performa line -- which is geared toward home users -- for the shortfall. Consumer sales traditionally account for 40 percent of Apple's Christmas quarter.
+Revenue for the quarter ended Dec. 27 will be about 10 percent less than the $2.3 billion reported in the September quarter, Apple said.
+Meanwhile, Apple faces more technological competition from PCs based on Intel Corp. Pentium microprocessors. Intel will release in a few weeks a new Pentium with so-called MMX technology that can handle computer graphics and sounds much better than before.
+Tim Bajarin, president of market research firm Creative Strategies International Corp., said some consumers may have put off buying Macintosh Performas -- until now, a favored brand for running multimedia software -- in favor of waiting for PCs based on Intel's MMX chips.
+"It is an image problem," Bajarin said. "Apple has not been able to convince the consumer that the software developers are coming back, and has not been able to convince them that Apple will be around in the future."
+Not counting the $400 million purchase of Next, Apple expects to report a loss of $100 million to $150 million, the company said. Based on Apple's 123.7 million shares outstanding, the loss would be about $0.80 to $1.21 a share.
+Wall Street expected Apple to report a per-share loss of $0.04, according to a survey of analysts by First Call.
+The expected loss puts pressure on Apple Chairman Gilbert Amelio, who on Tuesday will outline his company's strategy to thousands of Macintosh customers and programmers at the Macworld trade show.
+Amelio said on Friday the company would have to reduce its expenses by about $1 billion to $8 billion annually, to return to profit, a move that could include another round of firings.
+Last year, the company laid off about 1,300 people.
+In recent speeches Amelio said he did not expect the company's revenue to grow until 1998, but other executives have said they expected the company to have "sustainable profits" by the end of the March quarter.
+While it is too early to forecast the March quarter's results, Apple is "telling people to recalibrate their expectations," David Harrah, corporate public relations director, said.
+Apple Computer Inc. stock tumbled Monday after the company said it expected a loss of up to $150 million in the latest quarter, prompting even some of the company's most loyal customers to question its survival.
+Apple shares fell $3.875 to $17.875, the lowest level since mid-July, as more than 16.8 million shares traded, making it the most active issue on Nasdaq.
+Industry analysts, who had expected Apple to post a small loss in the normally strong Christmas quarter, said the loss made it harder for customers to justify buying a Macintosh, given serious questions about the company's finances.
+"You can't dismiss this as a one-time issue," Montgomery Securities analyst Kurt King said. "It really does say something about Apple's long-term position in the consumer market."
+The troubled computer maker, struggling for the past year to shore up its finances and rebuild its image, said late on Friday that weak demand for its Performa personal computers would lead to an operating loss of $100 million to $150 million in its first fiscal quarter ended in December.
+The company also said it may need further restructuring aimed at cutting another $1 billion in costs, which could mean another round of cutbacks at Apple.
+More damaging, the company's woes make it harder for customers -- particularly corporate technology managers -- to justify choosing a Mac over personal computers running Windows software from Microsoft Corp., buyers at the Macworld trade show said Monday.
+"It's definitely a fight," said Donald Laird, a computer consultant who advises companies about technology purchases. "Very seldom do I go into a shop where they're as objective (about Apple's technology) as I'd like them to be."
+Complicating matters is a new generation computer chip by industry giant Intel Corp., which the company expects to unveil on Wednesday. Analysts said the new multimedia chip should dramatically boost Intel sales and spur sales for PCs  powered by Microsoft software.
+Experts said the perception that Apple was in serious financial trouble could keep potential customers away, leading to a spiral of bigger and bigger losses.
+"It's frustrating" trying to convince customers they may be better off with a Mac, said Jeff Lauterette, a technical support engineer at EPI Systems, a big Macintosh dealer in Rockville, Md.
+At a presentation Monday, Apple Chief Technical Officer Ellen Hancock assured big customers that Apple will concentrate on winning back big accounts now that the company has a clear technology strategy.
+"We honestly do believe our lack of a (technology) strategy until a couple of weeks ago caused us the problem" of weak sales in the December quarter, she said. "We are ready to go back on the attack to tell (corporate customers) that we have excellent technology."
+Last month Apple announced plans to buy Next Software Inc. for $400 million in a bid to update Apple's operating system.
+News of the loss prompted several Wall Street analysts to stop recommending Apple's stock as an investment.
+Bear Stearns Cos. Inc. cut its rating on Apple from hold to unattractive. Prudential Securities lowered its rating to hold from buy, according to a source at the brokerage house.
+Apple Chairman Gilbert Amelio is expected to outline his company's strategy on Tuesday to thousands of Macintosh customers and programmers at the Macworld show. The highlight of his speech was expected to be Apple's plan to revamp its fundamental Macintosh software with technology acquired as part of the Next acquisition.
+Some Apple customers said any technology improvement might be too late.
+"I've been an Apple supporter since early on and the Mac has made a difference in my life," said Don Barrs, principal at Wilton Manors Elementary school in Florida. But he said he was under growing pressure to buy Windows-based computers.
+"I have to be realistic about what's best for our school district and our children," Barrs said.
+Apple Computer Inc. Chairman Gilbert Amelio said Tuesday the computer maker's three-year turnaround plan was still on track despite its statement last week that it will report a first-quarter operating loss of as much as $150 million.
+Amelio, speaking to thousands of Macintosh computer enthusiasts at the MacWorld trade show here also called on several star computer industry executives to express their support for the Macintosh.
+In his much-anticipated keynote speech, Amelio assured Mac customers the company will have a smooth transition as Apple shores up its finances and overhauls the fundamental software of the Macintosh.
+"We will encounter a few bumps on the way, but I don't want that to shake your confidence," Amelio told Macintosh customers and software developers. "We are sticking to our strategy."
+Apple has been struggling for the past year to stop huge financial losses, develop new software to make the Mac more modern and increase revenues. Under Apple's three year plan, it aims to stop financial losses in 1996, develop new products in 1997 and increase revenues in 1998.
+Since Amelio became chairman of the Cupertino, Calif.-based company a year ago, he has slashed costs. In December, Apple also agreed to buy NeXT Software Inc. for $400 million to get its help in revamping the fundamental software of the Mac.
+In order to move developers smoothly from Apple's current operating system to the new system, Apple said it plans to continue to deliver regularly scheduled upgrades to the current system while accelerating development of a new and advanced operating system.
+The new operating system, code-named "Rhapsody," will be based on the merging of technologies from Apple and NeXT.
+"Our goal is to be one of the world's strongest brands for consumer, education and the enterprise," Apple co-founder and Next Software President Steven Jobs said, adding Apple hoped to rely on Next's multimedia and computing intensive software to accomplish that goal.
+Apple said Friday it expected to report a loss from operations of $100 million to $150 million because of weak sales of its Performa line of Macintosh computers. Revenue for the company's first quarter ended Dec. 27 is expected to drop 10 percent from the $2.3 billion reported in the September quarter.
+Amelio blamed the shortfall on weak consumer sales for personal computers rather than a breakdown of Apple's strategy.
+"We had one thing that really fell out of bed in a big way and that is, Santa Claus forgot to come," he said, referring to the surprisingly low sales of its Performa desktop PC line aimed at consumers.
+The first quarter "was about retail sales, not about the fundamentals in the recovery of Apple," Amelio told a packed ballroom.
+Industry experts say part of the blame for declining revenue falls on the perception that there is not as much software for the Macintosh as there is for PCs running Windows software from Microsoft Corp..
+To boost the Mac's image, Amelio turned to executives from Microsoft, Sun Microsystems Inc., and Netscape Communications Corp. to announce software plans for future versions of the Mac.
+"We see great opportunities for the Mac in the future," said Paul Maritz, Microsoft vice president in charge of application development.
+At Macworld, Microsoft introduced its Internet Explorer browser for the Mac.
+The Redmond, Wash.-based software giant, which has often battled Apple for control of the PC industry, also said it created a new product unit responsible for design and development of a Macintosh version of its widely used Microsoft Office software suite.
+While Microsoft remains Apple's great nemesis in the operating systems software business, Microsoft also has long served as the leading independent developer of software applications that run on Apple Macintosh computers.
+"When Apple's biggest third-party developer decides to commit new resources to its Macintosh applications business, that's a pretty clear sign that there's still money to be made in the Macintosh market," said Jeffrey Tarter, an industry analyst and publisher of Soft*Letter.
+The creation of the new Macintosh product unit, part of the Microsoft desktop applications division, marks the first time in the history of the division that an entire product unit has focused exclusively on the Macintosh, Microsoft said.
+James Barksdale, chief executives of Internet software vendor Netscape, also said his company will release versions of its communication software within the next few weeks that will run on Apple's next-generation operating system.
+Apple's stock closed down 37.5 cents at $17.50 on Nasdaq.
+Macromedia Inc. shares plunged to a two-year low Friday after the software company reported an unexpected third-quarter loss and said it could face weak sales for another quarter.
+Some analysts said they also were concerned that Apple Computer Inc.'s declining sales could hurt Macromedia's revenue from sale of software for Macintosh computers in coming quarters.
+Shares of the San Francisco graphics software vendor fell $4.19, or 31 percent, to $9.31 in Nasdaq trading -- the lowest price since December 1994.
+Macromedia on Thursday reported a loss of $2.36 million, or 6 cents a share, for its fiscal third quarter ended Dec. 31, compared with net income of $7.15 million, or 18 cents a share, in the same quarter a year ago. Third-quarter revenue fell 9 percent to $28.1 million from $30.9 million.
+Wall Street expected Macromedia to report net income of 14 cents a share, according to a recent survey of analysts by First Call.
+Macromedia gets about half its revenue from Director, a computer program that helps graphic artists make animated clips for video games and multimedia software.
+Macromedia customers are putting off Director purchases until the company releases a new version in a couple of months, analysts said.
+"We are left with the concern that there will be a dip in revenue" in the fourth quarter as well, said Kevane Wong, analyst at brokerage firm Jefferies &amp; Co. in San Francisco.
+Macromedia also gets about 60 percent of its revenue from Macintosh software sales. A slow rollout of high-end Macintosh PCs in Europe led to slow European sales for Macromedia as well, said Ed Bierdeman, analyst at Dakin Securities.
+"The Mac market is like a block of ice melting in the sun," leaving many Mac software vendors, including Macromedia, to suffer, Bierdeman said.
+Macromedia likely will post a small loss in its fiscal fourth quarter, ending in March, Bierdeman said.
+Several analysts also said they were concerned Macromedia might not be able to finish the new version of Director until spring, which would jeopordize earnings until the quarter ended in June.
+Macromedia officials could not be reached for comment immediately.
+Macromedia Inc. shares plunged to a two-year low Friday after the software company reported an unexpected third-quarter loss and said it could face weak sales for another quarter.
+Some analysts said they also were concerned that Apple Computer Inc.'s declining sales could hurt Macromedia's revenue from sale of software for Macintosh computers in coming quarters.
+Shares of the San Francisco graphics software vendor fell $4.19, or 31 percent, to $9.31 in Nasdaq trading -- the lowest price since December 1994.
+Macromedia on Thursday reported a loss of $2.36 million, or 6 cents a share, for its fiscal third quarter ended Dec. 31, compared with net income of $7.15 million, or 18 cents a share, in the same quarter a year ago. Third-quarter revenue fell 9 percent to $28.1 million from $30.9 million.
+Wall Street expected Macromedia to report net income of 14 cents a share, according to a recent survey of analysts by First Call.
+Macromedia gets about half its revenue from Director, a computer programme that helps graphic artists make animated clips for video games and multimedia software.
+Macromedia customers are putting off Director purchases until the company releases a new version in a couple of months, analysts said.
+"We are left with the concern that there will be a dip in revenue" in the fourth quarter as well, said Kevane Wong, analyst at brokerage firm Jefferies &amp; Co. in San Francisco.
+Macromedia also gets about 60 percent of its revenue from Macintosh software sales. A slow rollout of high-end Macintosh PCs in Europe led to slow European sales for Macromedia as well, said Ed Bierdeman, analyst at Dakin Securities.
+"The Mac market is like a block of ice melting in the sun," leaving many Mac software vendors, including Macromedia, to suffer, Bierdeman said.
+Macromedia likely will post a small loss in its fiscal fourth quarter, ending in March, Bierdeman said.
+Several analysts also said they were concerned Macromedia might not be able to finish the new version of Director until spring, which would jeopordize earnings until the quarter ended in June.
+Macromedia officials could not be reached for comment immediately.
+Apple Computer Inc. Wednesday reported a $120 million loss in the first quarter of fiscal 1997 and warned investors it did not expect to return to profitability until September.
+The troubled computer maker attributed the loss to slow sales of its its consumer-oriented Performa desktop computers during the normally robust Christmas quarter.
+Apple's loss, which equaled 96 cents a share, compared with a loss of $69 million, or 56 cents a share, in the year-ago period. Sales for its first fiscal quarter ended on Dec. 27 fell to $2.13 billion from $3.15 billion.
+Based on the weak first quarter results, the company said it planned to develop additional restructuring programs during the second quarter with the goals of reducing its break-even point to $8 billion in annual revenues and enabling Apple to return to  profitability by the fourth fiscal quarter, which ends Sept. 26, 1997.
+Previously, Apple had promised to return to sustainable profits by March but industry analysts had started to question that goal after Apple disclosed less than two weeks ago that sales of its Performa line were running behind plan.
+"While we were very disappointed by the Performa sales results and the associated loss, our financial position remains sound," said Apple Chief Financial Officer Fred Anderson. "We exited the quarter with $1.8 billion in cash and continued to show improvements in our inventory management during the quarter.
+"Additionally we saw a 15 percent sequential increase in our high-end Power Macintosh sales," he said. "We significantly exceeded our internal plans for shipments of PowerBooks and expect their availability to continue to improve in the second quarter."
+Nevertheless, analysts said the results, which Apple forecast less than two weeks ago represented a setback for Apple Chairman Gilbert Amelio, who had set a goal of stanching Apple's losses in 1996.
+"Our expectations now do not show a profit until the fourth quarter, which ends in September," said Walter Winnitzki, analyst at brokerage PainWebber Inc. in New York.
+Apple Computer Inc. Wednesday reported a $120 million loss in the first quarter of fiscal 1997 and warned investors it did not expect to return to profitability until September.
+The troubled computer maker attributed the loss to slow sales of its its consumer-oriented Performa desktop computers during the normally robust Christmas quarter.
+Apple's loss, which equalled 96 cents a share, compared with a loss of $69 million, or 56 cents a share, in the year-ago period. Sales for its first fiscal quarter ended on Dec. 27 fell to $2.13 billion from $3.15 billion.
+Based on the weak first quarter results, the company said it planned to develop additional restructuring programmes during the second quarter with the goals of reducing its break-even point to $8 billion in annual revenues and enabling Apple to return to  profitability by the fourth fiscal quarter, which ends Sept. 26, 1997.
+Previously, Apple had promised to return to sustainable profits by March but industry analysts had started to question that goal after Apple disclosed less than two weeks ago that sales of its Performa line were running behind plan.
+"While we were very disappointed by the Performa sales results and the associated loss, our financial position remains sound," said Apple Chief Financial Officer Fred Anderson. "We exited the quarter with $1.8 billion in cash and continued to show improvements in our inventory management during the quarter.
+"Additionally we saw a 15 percent sequential increase in our high-end Power Macintosh sales," he said. "We significantly exceeded our internal plans for shipments of PowerBooks and expect their availability to continue to improve in the second quarter."
+Nevertheless, analysts said the results, which Apple forecast less than two weeks ago represented a setback for Apple Chairman Gilbert Amelio, who had set a goal of stanching Apple's losses in 1996.
+"Our expectations now do not show a profit until the fourth quarter, which ends in September," said Walter Winnitzki, analyst at brokerage PainWebber Inc. in New York.
+Synopsys Inc. said Thursday it agreed to buy Epic Design Technology Inc. for about $428.1 million in stock to gain expertise in a hot niche of the semiconductor design business.
+Synopsys, which writes software to help engineers design computer chips, said it will issue 0.7485 of its shares for each of Epic's 13.7 million shares outstanding. Based on Synopsys's closing stock price of $41.75 on Wednesday, Synopsys would pay about $31.25 for each Epic share.
+Shares of Epic, based in Sunnyvale, Calif., fell 87.5 cents to $31 in late Nasdaq trading. Shares of Synopsys, based in Mountain View, Calif., were unchanged at $41.75, also on Nasdaq.
+Synopsys specialises in software used in designing the overall framework of a microchip. Epic specialises in software for designing individual microscopic circuits, millions of which make up the microchip.
+The acquisition gives Synopsys an edge as the so-called design automation industry scrambles to come up with ways to help engineers design ever smaller chips, analysts said.
+"We believe the Epic acquisition is a good strategic move," said Raj Seth, analyst at Cowen &amp; Co. in Boston. "Synopsys picks up technologies that are increasingly critical to developing" the tiny "deep submicron" circuits.
+Synopsys' customers, which include some of the world's biggest chip makers, have been asking for a suite of design software that would let engineers design a chip's framework as well as its circuits, said Aart de Geus, Synopsys chief executive.
+Epic will become a unit of Synopsys, the companies said. Sang Wang, Epic chairman and CEO, will head the unit.
+Synopsys will take an undetermined charge for the acquisition in the quarter the transaction is done, "ideally March," said Brooke Seawell, Synopsys chief financial officer. Because of little overlapping products, there should be no Epic job cuts, Seawell said.
+Intuit Inc., Microsoft Corp. and Checkfree Corp. said Thursday they jointly developed a software standard to make it easier to bank online.
+The companies said their Open Financial Exchange -- a set of technical specifications -- will make it easier for depositors' personal computers to communicate with bank computers. That makes it easier to pay bills, transfer money between accounts and get balances via the Internet.
+About 50 banks are expected to announce by fall that they will adopt the standard, said Intuit Executive Vice President Bill Harris. By then, each of the three companies also will unveil new lines of online banking products based on the standard.
+Intuit and Redmond, Wash.-based Microsoft, fierce competitors since a merger agreement between them fell apart almost two years ago, said that by working together they will accelerate the adoption of online banking.
+"In all of the meetings each of us have had, every one of the financial institutions asked us to bring this together," said Lewis Levin, head of Microsoft's desktop finance unit.
+The alliance gets rid of the "mishmash" of standards Intuit, Microsoft and Checkfree were trying to push on banks, said Karen Epper, online banking analyst at market researcher Forrester Research.
+Menlo Park, Calif.-based Intuit and Microsoft are the two largest vendors of personal financial software and checkbook programmes. Checkfree lets customers send checks and pay bills through their personal computers.
+The companies said they will work with credit card issuer Visa to link Open Financial Exchange to Visa's bill payment network.
+Other companies supporting Open Financial Exchange including banking software firm Edify Corp.
+Stock in Microsoft, which also launched its Office 97 business software package Thursday, rose $1.125 to $85.75 in afternoon trading on the Nasdaq market. Checkfree climbed 62.5 cents to $15.375, while Intuit was unchanged at $34.625, also on Nasdaq.
+Apple Computer Inc. Wednesday reported a $120 million loss in its fiscal first quarter and warned investors it did not expect to report a profit until September.
+The troubled computer maker, based in Cupertino, Calif., also said it expected revenue for the current fiscal year, which ends next September, to drop about 13 percent to $8 billion to $8.5 billion because of weak consumer sales.
+Apple's loss, which equaled 96 cents a share, compared with a loss of $69 million, or 56 cents a share, in the year-ago quarter. Sales for the quarter ended Dec. 27 fell to $2.13 billion from $3.15 billion.
+Apple attributed the latest quarterly loss to slow sales of consumer-oriented Performa desktop computers during the crucial Christmas quarter, which analysts said was partly due to concerns about Apple's future.
+"Apple's been under a black cloud, and part of it has been Apple's doing," said Lou Mazzucchelli, analyst at brokerage Gerard Klauer Mattison in New York. "It's hard for a consumer to get the gumption to buy a Performa when everyone's asking, 'Is Apple dead yet?'"
+Apple officials said the company will unveil in coming weeks its second restructuring program in two years, aimed at cutting operating costs by $400 million.
+The plan could include more job cuts, Chief Financial Officer Fred Anderson said. Apple wants to reduce its break-even point to $8 billion in annual revenues to enable it to return to profitability by the end of September.
+Previously, Apple had promised to return to sustainable profits by March. But industry analysts had started to question that goal after Apple disclosed less than two weeks ago that sales of its Performa line were running behind plan.
+Apple, which posted a record loss last year of $816 million, has been struggling to return to profitability in the face of increased competition from computers using Microsoft Corp.'s Windows operating system and Intel Corp.'s computer chips.
+Last February, Apple replaced Chief Executive Michael Spindler with National Semiconductor Corp. boss Gilbert Amelio and then, in December, announced a reunion with former co-founder Steven Jobs when it agreed to acquire Job's Next Software Inc. for $400 million.
+Meanwhile, debt rating agency Standard &amp; Poor's lowered Apple's corporate credit and debt rating another notch Wednesday, putting the company's debt further into junk bond status.
+The rating agency said the downgrade reflected the challenges facing Apple, including reducing costs and restoring revenue growth, executing a cohesive operating system upgrade upon completion of the Next acquisition, and Apple's diminished liquidity and financial resources.
+"Despite its position among the top five worldwide personal computer manufacturers ... Apple has been struggling with extremely competitive industry conditions, slipping market share, and operating losses," the rating agency said.
+Despite the slowdown in Performa sales, Anderson said Apple's financial position remained strong.
+"While we were very disappointed by the Performa sales results and the associated loss, our financial position remains sound," he said. "We exited the quarter with $1.8 billion in cash."
+Anderson said there were some bright spots in its results. European shipments rose 50 percent in the first quarter from the fourth quarter. Sales to educational organizations also were above the company's goals, Anderson said.
+Still, Performa sales, which account for about a third of Apple's revenues, will be weak for the rest of the year. "We had a major problem in this one product area," he said.
+Analysts said the loss, which Apple forecast two weeks ago, represented a setback for Amelio. He had set a goal of stanching Apple's losses in 1996 and getting revenue growing again by 1998.
+News of the latest loss can drive even more consumers to avoid buying Apple products, analysts said.
+"The question is, can Apple wait until 1998 to get its growth engine going again?" said Walter Winnitzki, analyst at broker PaineWebber Inc. in New York.
+Apple reported its results after the market closed. Apple closed at $17.25 a share, down 62.5 cents, on Nasdaq.
+Synopsys Inc. said Thursday it agreed to buy Epic Design Technology Inc. for about $428.1 million in stock to gain expertise in a hot niche of the semiconductor design business.
+Synopsys, which writes software to help engineers design computer chips, said it will issue 0.7485 of its shares for each of Epic's 13.7 million shares outstanding. Based on Synopsys's closing stock price of $41.75 on Wednesday, Synopsys would pay about $31.25 for each Epic share.
+Shares of Epic, based in Sunnyvale, Calif., fell 87.5 cents to $31 in late Nasdaq trading. Shares of Synopsys, based in Mountain View, Calif., were unchanged at $41.75, also on Nasdaq.
+Synopsys specializes in software used in designing the overall framework of a microchip. Epic specializes in software for designing individual microscopic circuits, millions of which make up the microchip.
+The acquisition gives Synopsys an edge as the so-called design automation industry scrambles to come up with ways to help engineers design ever smaller chips, analysts said.
+"We believe the Epic acquisition is a good strategic move," said Raj Seth, analyst at Cowen &amp; Co. in Boston. "Synopsys picks up technologies that are increasingly critical to developing" the tiny "deep submicron" circuits.
+Synopsys' customers, which include some of the world's biggest chip makers, have been asking for a suite of design software that would let engineers design a chip's framework as well as its circuits, said Aart de Geus, Synopsys chief executive.
+Epic will become a unit of Synopsys, the companies said. Sang Wang, Epic chairman and CEO, will head the unit.
+Synopsys will take an undetermined charge for the acquisition in the quarter the transaction is done, "ideally March," said Brooke Seawell, Synopsys chief financial officer. Because of little overlapping products, there should be no Epic job cuts, Seawell said.
+Database software company Informix Corp. said Friday it filed a lawsuit against Oracle Corp., accusing its bigger rival of stealing trade secrets by hiring away its employees.
+Oracle hired 11 Informix employees from Informix's Portland, Ore., research and development centre. All 11 workers quit on Wednesday morning, said Informix Chief Executive Phil White.
+Informix stock fell $1.50, or 6.6 percent, to $21.375 in active trading on Nasdaq. Oracle stock fell 87.5 cents to $39.625, also on Nasdaq.
+"This is a blatant effort by Oracle," said White. "They're behind significantly technically. We're not going to let someone who's significantly behind technically just buy his way in."
+Oracle officials called the lawsuit "ridiculous" and said the 11 programmers approached Oracle on their own. They also had approached Microsoft Corp. about jobs, said Jerry Held, Oracle senior vice president of server technologies.
+"This is a group of senior developers that was very frustrated by the lack of vision of Informix top managers," Held said. "We did no active recruiting. I was called absolutely out of the blue" when the former Informix staff joined Oracle.
+The lawsuit, filed on Thursday in Oregon Circuit Court in Portland, seeks unspecified damages. Informix on Thursday also obtained a temporary injunction barring the former employees from giving trade secrets to Oracle, Informix said.
+Informix also charged Gary Kelley, a former Informix product development vice president who left for Oracle, with breach of contract. Kelley did not return phone calls to Oracle's Portland facility.
+Informix, based in Menlo Park, Calif., and Oracle, based 20 miles north in Redwood Shores, Calif., both write sophisticated programmes that store and retrieve huge amounts of information in corporate computer networks.
+The companies for years have been fighting a marketing war touting their advances in database technology with each new release of their respective flagship products.
+White said he believed Oracle was interested in gaining Informix's expertise in writing software for so-called massively parallel computers -- top-of-the-line machines that can process huge amounts of transactions simultaneously.
+The 11 Informix employees who left for Oracle were working on this type of product, White said.
+Held said Oracle does not have an interest in Informix's technology because Oracle is ahead in that area.
+"Oracle has had parallel technology for years," Held said. "Informix is playing catch-up. Phil has a knack for being behind and saying he's ahead."
+Technology debates aside, the spat is the most serious between the companies in years. White, normally a publicity-shy executive, said he was livid about Oracle's tactics and intended to make the lawsuit a political cause in Silicon Valley for preventing employee raids.
+White said he personally went to the home of Oracle Chief Executive Larry Ellison on Thursday night to discuss the issue, but Ellison was in Hong Kong. Both men live in the same small town in Silicon Valley.
+"I'm doing this not only for Informix and for our shareholders but also for the industry," White said. "We can't let companies come in and throw big financial incentives and walk away with intellectual property we spent hundreds of millions of dollars developing."
+In recent years, several software rivals in Silicon Valley have accused each other of trade secret theft by employee snatching.
+In 1992, Borland International Inc. accused a former employee of sending confidential electronic mail to new employer Symantec Corp.. Last year, Cadence Design Systems Inc.. filed a similar charges against direct competitor Avant Corp..
+The court has set a hearing in the Informix case for Feb. 7.
+Database software company Informix Corp. said Friday it filed a lawsuit against Oracle Corp. accusing its bigger rival of stealing trade secrets by hiring away its employees.
+Oracle hired 11 Informix research and development employees from Informix's Portland, Ore., research and development centre. All 11 workers quit Wednesday morning, said Informix Chief Executive Phil White.
+"This is a blatant effort by Oracle," said White. "They're behind significantly technically. We're not going to let someone who's significantly behind just buy his way in."
+Oracle officials could not immediately be reached for comment.
+The lawsuit, filed Thursday in Oregon Circuit Court in Portland, seeks unspecified damages. Informix on Thursday also obtained a temporary injunction barring the former employees from giving trade secrets to Oracle, Informix said.
+Informix also charged Gary Kelley, a former Informix product development vice president who left for Oracle, with breach of contract. Kelley did not return phone calls to Oracle's Portland facility.
+Oracle stock dropped 62.5 cents to $39.875 in afternoon trading on Nasdaq, where it was among the most actively traded shares. Informix lost $1.625 to $21.25, also on Nasdaq.
+Informix, based in Menlo Park, Calif., and Oracle, based 20 miles to the north in Redwood Shores, Calif., both write sophisticated database programmes that store and retrieve huge amounts of information in corporate computer networks.
+The companies for years have been fighting a marketing war touting their advances in database technology with each new release of their respective flagship products.
+White said he believed Oracle was interested in gaining Informix's expertise in writing software for so-called massively parallel computers -- top-of-the-line machines that can process huge amounts of transactions, such as bank ATM withdrawals, simultaneously.
+The 11 Informix employees who left for Oracle were working on this type of product, White said.
+White, normally a publicity-shy executive, said he was livid about Oracle's tactics and intended to make the lawsuit a political cause for preventing raids in high-technology industries.
+White said he personally went to the home of Oracle Chief Executive Larry Ellison on Thursday night to discuss the issue, but Ellison was in Hong Kong. Both men live in the same small town in the hills of Silicon Valley.
+"I'm doing this not only for Informix and for our shareholders but also for the industry," White said. "We can't let companies come in and throw big financial incentives and walk away with intellectual property we spent hundreds of millions of dollars developing."
+In recent years, several software rivals in Silicon Valley have accused each other of trade secret theft by employee snatching.
+In 1992, Borland International Inc. accused a former employee of sending confidential electronic mail to new employer Symantec Corp.. Last year, Cadence Design Systems Inc.(. filed a similar charges against direct competitor Avant! Corp.
+The court has set a hearing in the Informix case for Feb 7.
+The lean times for the video game software industry appear to be over.
+Three of the largest game developers on Thursday reported results for the crucial December quarter that were better than Wall Street expected.
+Electronic Arts Inc., Activision Inc. and Spectrum Holobyte Inc. said strong sales of games for personal computers and next-generation video game consoles, such as the Sony PlayStation, contributed to the strong results.
+For the past year, the video game software industry had been in a funk while consumers waited for the release of advanced game machines from Sony Corp., Sega Enterprises and Nintendo Corp. The industry also lacked blockbusters to draw customers to the video game isle at stores.
+The release of the PlayStation last year and the Nintendo 64 this year has revitalized the industry, analysts said.
+"People are underestimating how truly red hot sales of the video game systems are," said David Farina, an analyst at brokerage William Blair &amp; Co. in Chicago. "If history is any guide, we're in for a strong two-year cycle for my investors, cross my finger."
+After the market closed, Electronic Arts, the biggest U.S. game publisher, said net income for its fiscal third quarter, ended Dec. 31, rose 25 percent to $36.7 million, or 66 cents a share, from $29.3 million, or 54 cents, in the same quarter a year ago.
+Electronic Arts' revenue in the quarter jumped 13 percent to $271.1 million from $240.1 million on strong sales of games for the PlayStation and PCs, the company said.
+Activision, another big game vendor, said net income in its Christmas quarter more than doubled to $4.12 million, or 28 cents, from $1.95 million, or 13 cents, a year ago.
+Spectrum Holobyte, based in Alameda, Calif., said net income in the December quarter was $5.7 million, or 20 cents a share, more than double the 9 cents Wall Street expected. In the same quarter last year, Spectrum Holobyte had a loss of $9.95 million, or 41 cents a share.
+The strong earnings likely will continue into the March quarter, analysts said, as consumers buy a new generation of PCs based on Intel Corp.'s MMX technology, which soups up the graphics capabilities of the machines.

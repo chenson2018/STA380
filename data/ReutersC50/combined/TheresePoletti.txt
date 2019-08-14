@@ -1,0 +1,905 @@
+Netscape and Microsoft and others agreed on Tuesday that the so-called Internet browser wars were silly, although that did not stop some sparks from flying between the two battling CEOs at a computer conference here.
+Microsoft Corp. and Netscape Communications Corp. are locked in a few battles over Internet software, with the most attention being paid to the fight for share in the Internet browser market, where Microsoft is an underdog.
+"I do think there is a certain silliness about these browser wars," said Steve Case, chairman and CEO of America Online Inc, on a panel at a Gartner Group technology symposium here. Case's AOL was one of the first online services to embrace Internet Explorer as its preferred browser software, in exchange for a spot on Microsoft's Windows 95 desktop.
+Case said that he believes Microsoft and Netscape will end up with comparable market share and he likened the battle to the set-top box war in the early days of the cable television industry during the 1980s.
+Netscape still dominates the Internet browser market with its Navigator software, which has an approximate 70 to 80 percent share of the market.
+But Microsoft recently said that its Internet Explorer is gaining momentum, as it continues to sign on more deals to have Internet Explorer bundled as the primary browser with more online services and Internet access providers.
+Just last week, Internet Explorer became the preferred browser on AT&amp;T's WorldNet Internet access service, fueling some analysts to say the deal was another blow to Netscape's dominance of the browser market.
+James Barksdale, president and CEO of Netscape, pointed out that while the feud between Navigator and Internet Explorer is the "current blood sport in the popular press," he pointed out that 80 percent of Netscape's revenues are from sales to the corporate network or "intranet" market.
+In that market, Netscape is aiming to hold onto its dominance of the server that runs internal corporate networks and is competing with Microsoft's BackOffice and with International Business Machines Corp's Lotus Notes.
+Bill Gates, chairman and CEO of the software behemoth Microsoft, said that the competition between Netscape and Microsoft is good for the market.
+"We compete with Netscape and there is a lot of value there," he said, adding that Microsoft has many developers working pretty much at "full speed" to develop new Internet software. He conceded that in part, the fast-moving competition from Netscape has fueled this intensity.
+One area where the sparring companies did agree was on the Internet itself, which both Gates and Barksdale said should remain free of government intervention.
+"No one will come to dominate standards on the Internet, that's why it works," said Barksdale.
+Gates drew laughter when he said that Microsoft, which dominates the operating system arena with Windows software, will still make "some percent" of the operating systems. But he also said that "no one will control the printing presses" of the Internet.
+One Gartner Group analyst asked Barksdale if that view was contradictory with Netscape's recent request to the Department of Justice to investigate Microsoft's Internet marketing tactics.
+"In that matter...all we've asked is 'let's stay with the consent decree,'" Barskdale said, referring to the 1994 consent decree between Microsoft and the U.S. Department of Justice, which set restrictions on Microsoft's behavior.
+"We don't believe they are doing that," said Barksdale, in an interview with Reuters after the panel. But he declined to speak further on the DOJ's latest request for information from Microsoft, saying that he is having his lawyers do the talking.
+Gates was mum on the DOJ during the panel and he shook Barksdale's hand after the session. The two also pointed out that they are working together to develop industry standards for credit card transactions over the Internet, after being on opposing sides of that battle.
+"I don't want this to sound like a love-in, but Bill's company and my company work together with Carl's company (Carl Pascarella, president and CEO of Visa U.S.A.) to make (credit card transaction) standards," Barksdale said. "Otherwise we would all be dead."
+But the two CEOs collided on their views of the future. Gates, who is known for being an industry visionary, forecast that within five years many things on the Internet will change and be easier to use, such as the use of URLs (universal resource locators) to find World Wide Wed sites.
+"In five years I am quite optimistic that there will be some radical breakthroughs," Gates said, adding that users will look at things like URLs and see how silly they were.
+Barksdale, however, pointed out that such predictions are impossible to make.
+"We have to be honest, despite my learned colleague Mr. Gates's comments," Barksdale said. "It's very hard to predict five years. How many of you would have predicted two and a half years ago that we would have a panel on this topic or that Netscape would be on this panel?" he asked, pointing out that Netscape did not even exist two and a half years ago.
+International Business Machines Corp is discontinuing some unspecified research and development projects as part of a wider effort to cut costs, Louis Gerstner, the company's chairman and chief executive, said on Wednesday.
+Gerstner, speaking on a panel of top IBM executives at a Gartner Group technology symposium, said IBM would cut projects for products and services it thought customers would not  want. The move is part of a reallocation of the company's $6.0 billion research budget for 1996, he said.  
+"Are the dogs eating the dog food," Gerstner asked. "Is the customer liking this stuff?"
+Previously, he said, IBM cut overhead expenses from its research projects. He said that on Monday he sat down with several top IBM executives and painstakingly reviewed the company's entire research and development program.
+"We have been able to cut overhead," Gerstner said. "A lot of what has been done in the past was cutting duplication....We are now at the point where we are cutting projects."  
+Gerstner took over IBM in April 1993 and quickly embarked on a massive cost-cutting program.
+"We spend $6 billion in research. That just happens to be equal to Microsoft's revenues," Gerstner said.
+He said the company had moved about 20 percent of the R&amp;D budget to its networked computing research.
+In 1995, IBM spent a total of $6.01 billion on research.
+Gerstner declined to be more specific about what projects IBM decided to halt. But he stressed that IBM was discontinuing "projects" -- not products that IBM's customers depend on. "I don't want to start any rumors here," he said.  
+Analysts said Gerstner was likely trying to prevent any possible misinterpretation of his comments and stop any speculation that IBM was cutting research on products already on the market, such as its much-maligned OS/2 Warp operating system.
+"Some industry solutions will go away," said Gary Helmig, a SoundView Financial analyst, referring to projects aimed at specific industries, such as travel. He declined to speculate any further on what projects IBM was cutting.
+"We used to develop solutions country by country," said Nick Donofrio, an IBM senior vice president, who was on the Gartner conference panel.  
+When asked why IBM remained in the unprofitable home PC business, executives said the potential of the $60 billion market -- which may grow to $100 billion by 2000 -- was too rich to ignore. A second reason is that IBM is able to leverage its development and manufacturing of corporate PCs, they said.
+"We are not doing this just so we can put a box in the home," said Robert Stephenson, a senior IBM vice president in charge of the PC business. "I hope that we will (eventually) have a server in every home."  
+"We can make a profit," Stephenson added.
+Industry analysts have said the home PC business is the least profitable segment of the market. Indeed, many companies are losing money, they say.
+U.S. computer hardware makers are expected to report mixed results for the third quarter starting this week, as some companies are still in the throes of product transitions, but a few will have solid earnings.
+Among the large system makers, International Business Machines Corp is expected to have good results, but Digital Equipment Corp is expected to report a loss.
+"Product transitions and U.S. strength, those are some issues for the third quarter," said Gary Helmig, a SoundView Financial Group analyst.  
+Currency will play less of a role than it has in the past two quarters, when it has had a negative impact on earnings, especially at multi-national giants like IBM.
+"The negative impact from currency exchange rates is much reduced from June-quarter results," said John Jones, a Salomon Brothers analyst, referring to large computer systems makers.
+Europe is still an issue for some companies, such as Digital, and this quarter will include the sluggish summer month of August, when many Europeans are on vacation.
+"They (Digital) have significant exposure to Europe," said Steve Milunovich, a Morgan Stanley analyst.  
+Milunovich said that Digital has more exposure in Europe, which has been "a bit under water," than IBM. Digital recently revamped its sales force in Europe and made changes in its distribution channel there, to help sluggish European sales.
+Product transitions are still ongoing at some companies, such as Unisys Corp and Silicon Graphics Inc.
+IBM has now completed a refresh of most of its hardware products, including its lower-cost mainframe line, the CMOS vesions of its System 390 mainframes and analysts are awaiting results of the first quarter to include any impact from the much-anticipated systems.  
+"We expect IBM to highlight the success of its CMOS mainframes," Jones of Salomon said.
+In the personal computer arena, analysts expect Compaq Computer Corp to again be the leader of the sector, but they do not expect a record quarter for the world's largest PC maker. Its strongest sales are in fourth quarter.
+"I think the company had a good quarter and they probably gained market share," said Bill Milton of Brown Brothers Harriman, adding that it was a "so-so quarter" for the rest of the PC industry. Compaq has the highest profit margins in the industry and Milton said its margins should be up slightly.  
+Among the weaker players in PCs, Apple Computer Inc is expected to report a loss, but analysts said they are more focused on the company's comments going forward. The troubled PC maker has previously forecast that it would return to profitability in its second fiscal quarter, ending March.
+"Their first order of priority is to eliminate the losses," Milton said. "Can they reach break-even by December or March? Once we get to that point, we will look to see if they can begin to grow their revenues."
+Milton is forecasting Apple's revenues will fall about 17 percent, versus the year ago period.  
+The following is a list of consensus earnings estimates for some major U.S. computer makers, as compiled by First Call.
+COMPANY	    CONSENSUS	  DATE	  YEAR-AGO
+Amdahl	     loss $0.17	 Oct. 29     profit $0.17
+Apple Computer   loss $0.30	 Oct. 16     profit $0.48
+Compaq Computer  profit $1.07     Oct. 16     profit $0.89
+Digital	    loss $0.14	 Oct. 22     profit $0.26
+IBM Corp	   profit $2.43     Oct. 21     profit $2.30
+Sun Micro	  profit $0.61     Oct. 15     profit $0.43
+Tandem	     profit $0.30     Oct. 24     profit $0.17
+Netscape Communications Corp. Tuesday unveiled a line of low-cost software to make corporate networks more like the Internet and said that it would "embrace" archrival Microsoft Corp.'s products as part of its war for control of the corporate software market.
+Netscape is under heavy attack from software behemoth Microsoft, which is seeking to wrestle away some of Netscape's dominant share in both Internet and intranet software.
+The Mountain View, Calif.-based upstart has about 80 percent of the Internet browser software arena with its Navigator software and between 60 percent to 70 percent of the exploding "intranet" market.
+A corporate "intranet" is a computer network designed around Internet technology and open standards.
+As part of its plan to try to hold onto its lead and to gain entree to more companies, Netscape unveiled several products for the corporate market and said it was "embracing" Microsoft applications software and its operating systems because many potential customers rely on Microsoft products.
+"We are very hard-core about ... fitting into our customers' 'legacy' systems," Marc Andreessen, co-founder and senior vice president of technology at Netscape, told a news conference, in one of many jabs at Microsoft.
+"Legacy systems" is a term in the industry that usually refers to the established, older technology running a corporation, such as mainframe computers.
+Netscape stock dipped 62.5 cents to $44.25, while Microsoft rose $2.25 to $138.875 on Nasdaq.
+Netscape announced several new intranet products, including new software incorporating the latest upgrade of its popular Navigator Web browser, Version 4.0, and priced them way below similar offerings by both Microsoft and Lotus Development Corp., Netscape said.
+One new software product, Netscape Communicator, combines Navigator and other components: Composer, to create documents in the hypertext markup language (HTML) used on the Internet's World Wide Web; Messenger, an electronic mail application; Collabra group discussion software; and the Netscape Inbox Direct service, which delivers messages and news stories to an e-mail address daily at no extra cost.
+Netscape Communicator will replace the current Navigator software for consumers. Communicator is priced at $49 for the standard version and $79 for the professional edition, per user.
+Netscape expects to make Communicator available by next year's first quarter for 17 major computer operating systems, including Windows 95, Windows 3.1 and Apple's Macintosh.
+Users of Navigator 3.0 who have purchased a subscription will receive an upgrade to Communicator at no charge.
+Netscape also introduced an upgrade of its SuiteSpot software, which manages the server computers that run corporate networks.
+SuiteSpot is priced at $57,900 for 1,000 users. This compares with prices of $73,590 to $279,590 for competing products from Microsoft and Lotus, Netscape said.
+Netscape also unveiled an initiative to help corporate users make it easier to use its software with core Microsoft products, such as its Windows 95 and Windows NT operating systems and Microsoft Office with Netscape products.
+Analysts said Netscape is trying to appeal to a whole new group of corporations by enabling its software to run with the huge installed base of Microsoft-based PCs and servers.
+"The strategy is not to scare away the IT (information technology) managers," said Eric Brown, a Forrester Research analyst.
+Netscape's not-so-friendly bear hug of Microsoft is part of the David-and-Goliath war with Redmond, Wash.-based Microsoft, the world's No. 1 software company, for control of the Web browser market and more importantly, control of the corporate network. Netscape already derives 80 percent of it revenues from sales of intranet software.
+But Netscape acknowledged it may lose some share in the future intranet software market, which Forrester Research is forecasting to reach $10 billion by 2000.
+"Dominance is hard to measure," Andreessen said in an interview. "I think we can get at least 50 percent of the intranet software market in five years."
+According to a recent Hambrecht &amp; Quist survey of 200 companies, Netscape now has about 60 percent of corporate intranets, Microsoft's BackOffice has 30 percent and International Business Machines Corp.'s Lotus Notes 10 percent.
+Netscape's Navigator software has created a huge brand name and a "calling card," giving it entree to major  corporations. Now the company must execute its strategy and build a sales infrastructure, Andreessen said, a major challenge as its growth continues to explode.
+The company, which went public in August 1995, is expected to grow to about 1,700 employees by year-end, up from about 400 at the time of its initial public offering, Andreessen said.
+Andreessen added that Netscape has not abandoned its consumer focus in favor of the corporate user.
+Netscape also signed deals with more than 70 manufacturing partners, including Apple Computer Inc., Compaq Computer Corp., Digital Equipment Corp., Hewlett-Packard Co., International Business Machines Corp., Ing. C. Olivetti &amp; C. SpA, Siemens Nixdorf and Sun Microsystems Inc.
+Prodigy Inc. said Wednesday that on Monday it will launch its Internet-based version of the Prodigy online service, called Prodigy Internet, with two pricing models, including a flat-rate plan of $19.95 a month for unlimited service.
+The company said its introduction of Prodigy Internet makes it the first of the original three commercial online service companies to offer its rebuilt service, embracing the open technological and content standards of the Internet, the global computer network.
+Prodigy also said its Internet focus will form the basis of its international expansion plans, and that it will offer a Spanish-language version of Prodigy Internet in Mexico early next year.
+Sources close to the White Plains, N.Y.-based company said the online service plans to spend about $100 million in 1997 to market the new service, through advertising in newspapers, magazines, trade journals and radio, but for now it has no plans for television, because it feels it has an established brand name.
+Prodigy Internet is targeted at the "New to the Net" market and the 90 percent of American homes that have yet to sign up for an online or Internet service provider.
+"The focus of the new offering is certainly not focused at our existing subscriber base," company President Paul Delacey, said in a telephone interview. "It's focused at the very broad market out there who are not current users or who are users of bare-bones ISPs (Internet service providers), who are looking for more for their money."
+Prodigy Internet is designed to overcome current limitations in navigating the Internet while also addressing the fears and anxieties that many Internet novices experience.
+Prodigy Internet would offer two pricing schemes -- a low-cost, entry-level plan for low-volume users and a flat-rate plan for Internet enthusiasts.
+The company said its basic plan costs $9.95 a month for 10 hours usage of both regular Prodigy and Internet content, with additional hours at $2.50 each.
+The other plan costs $19.95 a month and provides unlimited access to Prodigy, Prodigy Internet and add-on features not available elsewhere, the company said .
+Prodigy will still offer its current proprietary online service, which it is calling Prodigy Classic, but it will offer incentives for its current members to migrate to Prodigy Internet, such as two months free, with 20 hours of usage.
+"We expect that it's going to be a long, protracted service," Delacey said. "I wouldn't be surprised if we are still offering Prodigy Classic a few years from now."
+Prodigy will be the first to deliver an Internet-based service of the three major online service providers.
+One rival, CompuServe Inc. of Columbus, Ohio, has announced plans to rebuild its service around Internet protocols and standards, but it has not yet begun offering its Internet-based service.
+The leading online service provider, America Online Inc., says it brings more users to the Internet via its proprietary service, but it does not have any immediate plans to move its service to the Internet.
+And indeed, AOL and other industry pundits, some of whom have predicted the demise of online services because of the growth of the Internet, are seeeing a blurring of distrinctions between online services and the Net.
+AOL says it is the Internet and a whole lot more.
+Last week, the fourth major entrant in online services, Microsoft Corp., rolled out a hybrid Internet online service as it relaunched the Microsoft Network.
+Since its August 1995 rollout, Microsoft has become the third-largest online service, as Prodigy membership has declined. Prodigy says it currently has 1 million households, or about 1.6 million total members. But some analysts dispute these figures, saying it has fewer members.
+Prodigy also announced a licensing deal with privately held Progressive Networks to provide Real Audio technology to be integrated with Prodigy Internet. Real Audio software enables users to listen to music and other audio material on the Net.
+Prodigy also said that its Africa Online unit is now providing Internet access in Ivory Coast as well as in Kenya.
+Prodigy said its Internet service is designed to work with two leading Web browsers, Microsoft Corp.'s Internet Explorer and Netscape Communications Corp.'s Navigator, but Internet Explorer is its preferred browser through a cross-distribution pact announced last week.
+The online service, formerly a joint venture owned by International Business Machines Corp. and Sears Roebuck Corp., is now owned by a group of private investors, including Grupo Carso, a leading Mexican industrial company.
+In July, the privately held investor group, called International Wireless, merged with Prodigy. The group's founders, Greg Carr and Delacey, are now at the helm of Prodigy. Carr is chairman of Prodigy Inc.
+Compaq Computer Corp., the world's biggest personal computer maker, said Wednesday that profits jumped 43 percent in the third quarter on higher sales of PCs and accessories, as well as streamlined operations.
+The results exceeded published estimates on Wall Street, but Compaq's stock fell $1.125 to $73.625 on the New York Stock Exchange after it had risen sharply in recent weeks ahead of the earnings report.
+Houston-based Compaq said net income for the three months ended Sept. 30 rose to $350 million, or $1.26 a share, from $245 million, or 89 cents a share, in the 1995 period.
+Analysts had forecast earnings of $1.07 a share, according to First Call, which tracks profit estimates.
+Sales grew 25 percent to $4.5 billion from $3.6 billion.
+Compaq said its accessories business, which includes monitors, hard drives, keyboards and compact disc drives, grew significantly in the third quarter and remained one of its most profitable segments.
+"We're very pleased with Compaq's continuing solid financial performance and especially with improvements in earnings and the growth of gross margins to 23.8 percent (of revenues)," Compaq President Eckhard Pfeiffer said.
+Compaq said it now has the strongest line-up of products and alliances in its history. At the end of October it plans to launch powerful computer workstations that run Microsoft Corp.'s Windows NT operating system, priced 50 percent below other workstations, for engineers and other users.
+The company said it still expected a good fourth quarter, which is traditionally its strongest, driven by Christmas sales of PCs.
+"Demand is strong," said John Dean, a Salomon Brothers analyst. "In June, they rolled out their best product line they have ever had and their competition has not done a great job in some international markets, such as Europe."
+Compaq Chief Financial Officer Earl Mason said in an interview that he was comfortable with analysts' estimates of $1.40 a share for the fourth quarter, but many analysts said he was being cautious.
+"He is clearly conservative," said Eugene Glazer, a Dean Witter analyst. "This is the same man who said on the second-quarter conference call that he was comfortable with $1.03 a share and they came in at $1.25 a share."
+In the quarter, Compaq generated almost three times as much cash as in the year-earlier period, $3.2 billion, through improved inventory, asset and receivables management.
+"As the team continues to work on the balance sheet as a major focus and as we continue to focus on operations, cash ought to increase," Mason said.
+He said Compaq plans to expand its international sales operations and may also make selective acquisitions in the computer networking and corporate-wide computing areas.
+Net income for the first nine months of 1996 grew 20 percent to $851 million, or $3.07 a share, from $707 million, or $2.59 a share. Revenues rose to $12.7 billion from $10.1 billion.
+IBM reports earnings on Monday and analysts expect growth of about 5 percent for the third quarter, boosted by sales of personal computers, other hardware and its fast-growing service business.
+Industry analysts expect the improvement after a difficult second quarter for International Business Machines Corp., the nation's biggest computer company, and despite a product transition that depressed results in its mainframe business.
+The strong dollar will also constrain IBM's results, though not as much as in the second quarter, analysts said.
+"I don't hear any whispers that it's a blowout or any whispers that it's going to be soft," said John Jones at Salomon Brothers. "I think it's going to be modestly above consensus."
+According to First Call, which tracks forecasts, IBM is expected to earn $2.43 a share, on average, up from $2.30 a share, in the 1995 quarter. Estimates range from $2.17 a share to $2.60 a share.
+In the third quarter of 1995 IBM earned $1.3 billion excluding a one-time charge of $1.8 billion associated with its aquisition of Lotus Development Corp. Including the Lotus charge, IBM lost $538 million, or 96 cents a share.
+IBM stock rose $3.75 to $129.375 on the New York Stock Exchange, as some investors were apparently betting on solid results.
+Sales grew in all of IBM's hardware businesses except mainframes, where tough pricing by competitors and IBM's transition to a new line of low-cost CMOS machines constrained results, analysts said. CMOS, or complimentary metal oxide semicondutor, mainframes are cheaper to manfacture and use less power.
+"This quarter is not all that important a quarter," said Daniel Ries at Nomura Equity Research. "It was still a transition for the mainframe products. They started shipping them in volume on Sept. 30," right when the quarter ended.
+Bill Milton at Brown Brothers Harriman said IBM most likely benefited from the sharp drop in memory chip prices that hurt its semiconductor operations in the second quarter. IBM's Microelectronics unit makes the dynamic random access memory (DRAM) chips that are the brains of many PCs.
+"In the second quarter, the company felt the pain as a producer," Milton said. "But in the third quarter, many of those low-priced DRAMs were incorporated in IBM PCs and they saw a net benefit as a consumer," he said.
+Analysts said they expect the rest of IBM's hardware businesses to show growth, including personal computers, AS/400 minicomputers, which are used in corporations and are the company's second most profitable computers, and RS/6000 workstations, used by engineers and designers.
+PC sales growth will not match the second quarter's 30 percent rate, analysts said. Compaq Computer Corp. was upgrading products in the second quarter, which helped IBM's PC sales.
+"Last quarter they had the strongest quarter in years (in PCs)," said Nomura's Ries. "The significant contributing factor to that was that Compaq was refreshing their product line."
+But Ries said PC demand was very strong now, especially with corporate customers, one of IBM's strengths.
+Analysts also said they expect continued strong growth in IBM's computer services, the stellar performer last quarter with growth of 23 percent.
+"Services will continue to grow at more than 20 percent," Brown Brothers' Milton said.
+IBM Chief Financial Officer G. Richard Thoman and other executives will discuss the results with analysts on Monday morning in New York.
+International Business Machines Corp is expected to report solid third quarter earnings Monday, but because its new mainframes did not ship in big volumes until the end of the quarter, analysts said they do not expect any big upside surprises.
+According to First Call, the computer giant is expected to report earnings in the range of $2.17 to $2.60 a share, with a consensus estimate of $2.43 a share, versus $2.30 a year ago.
+IBM is also expected to have a negative impact from currency moves, but not as big as its hit in second quarter.
+International Business Machines Corp reported strong third quarter results on Monday but raised concern about the fourth quarter, sending shares on a roller-coaster ride.
+IBM's third quarter earnings of $2.45 a share was just two cents above the Wall Street consensus estimate of $2.43. IBM opened off, then climbed to 135-3/8 during its analysts' call.
+But analysts said comments by its chief financial officer about continuing negative impact from currency, memory prices and higher expenses dampened his otherwise bullish outlook.  
+"There were some cautionary comments about fourth quarter," said Jay Stevens, a Dean Witter analyst, adding that he was revising his fourth quarter estimates.
+Some analysts started cutting fourth quarter numbers after the conference call, reflecting the company's comments about a bigger currency impact, continued drop in memory chip prices and higher-than-expected fourth quarter restructuring costs.
+In general, analysts said they were pleased with IBM's ongoing cost-cutting, its successful transition to new products in all its hardware areas and its investments in its future growth. Revenue growth was also better than expected.  
+"I think the most impressive was the revenue growth," said Stephen Dube, a Wasserstein Perrella analyst. "It's coming from all other products except for mainframes." As expected, IBM said its mainframe revenues fell in the quarter.
+Previously, IBM had expected that currency and memory chip prices would have a diminished impact on the second half.
+But Monday, IBM said it could have a slightly bigger negative impact from currency rates than the $0.08 a share it saw in the third quarter and memory prices would continue to hurt its semiconductor business, comments that had a dampening effect on analysts hoping for a very strong fourth quarter.  
+Analysts still expect IBM to report a strong fourth quarter, because many other products are doing well and it will also begin to see sales of its recently shipped models of its lower-cost mainframes. But they also need to account for IBM's comments that it will begin spreading out some of its mainframes sales over several quarters.
+G. Richard Thoman, IBM's chief financial officer, told Wall Street that a "growing proportion" of IBM's mainframes sales are going through its computer services business, and therefore, IBM will not see the full sales in a quarter for all its machines.  
+"If you sell a mainframe for $100,000 and you lease it or it's on a services contract ... rather than $100,000 at once, you have $8,000 a quarter," Thoman said in an interview, adding that this is "just an example."
+Thoman buoyed analysts with news that IBM's mainframe installations, which grew 25 perent, are growing "almost back to 1980s" levels. But even with such strong customer interest, IBM's prices are still so low that revenues are still expected to decline, while mainframe profits are forecast to be hefty.
+"This quarter it did not come from mainframes," said Stephen Dube, a Wasserstein Perella Securities analyst.
+"Mainframes are not a growth area for them," he said. But mainframes are still IBM's second most profitable hardware product, after its AS/400 minicomputers.
+The fourth quarter was also marred by a prediction that IBM will take a bigger-than-expected restructuring cost. Originally, IBM had predicted about $200 million per quarter this year, but said on Monday that it will spend an additional $100 million to $200 million in the fourth quarter.
+IBM said the increase resulted from more employees taking its voluntary buyout plan in Europe in the fourth quarter.
+International Business Machines Corp. Monday reported a third-quarter profit that came in a shade better than Wall Street had expected, boosted by strong sales of personal computers and services.
+The world's largest computer maker said net earnings were $1.29 billion, or $2.45 a share, for the quarter, compared with a loss of $538 million, or 96 cents a share, in the year-ago quarter.
+Excluding a one-time charge of $1.8 billion related to its Lotus Development Corp. acquisition from the year-ago period, IBM's earnings were $1.3 billion in the 1995 quarter.
+Sales grew 8 percent to $18.06 billion from $16.75 billion on the strength of PCs, minicomputers and computer services, IBM said. As expected, sales of mainframe computers declined.
+Wall Street took IBM shares for a rollercoast ride after the report. They fell initially, then rallied on comments by the chief financial officer, and closed a fraction higher.
+The midday rally took IBM to a new high for the year of $135.375. The stock closed at $130, up 75 cents.
+The rally followed remarks by Chief Financial Officer G. Richard Thoman, who said in a meeting with analysts that he was "very comfortable" with the computer giant's prospects for the rest of 1996.
+"I feel very good about the quarter and very good about the year," Thoman said.
+But analysts still were concerned about company warnings that currency exchange rates, low prices for memory chips and higher-than-expected restructuring costs would hurt fourth quarter results.
+"There were some cautionary comments about the fourth quarter," said Jay Stevens, a Dean Witter analyst who was among several who lowered their fourth quarter profit estimates.
+Analysts said they generally were pleased with IBM's ongoing cost-cutting, its successful transition to new products in all its hardware areas and its investments in its growth. Revenue growth was also better than expected.
+"I think the most impressive was the revenue growth," said Stephen Dube, an analyst with Wasserstein Perrella.
+While mainframe computers no longer generate sales growth for Armonk, N.Y.-based IBM, they remain one of the company's important profit centres.
+Thoman told analysts that more of IBM's mainframes sales were coming through its computer services business, and that IBM will not see the full impact of sales in one quarter for its new machines.
+"If you sell a mainframe for $100,000 and you lease it or it's on a services contract ... rather than $100,000 at once, you have $8,000 a quarter," Thoman said in an interview, citing an example.
+The company said revenues were higher in North America, Asia and Latin America but were flat in Europe. Revenue at its services division grew 26 percent to $3.9 billion, IBM said.
+Total hardware sales rose 8 percent to $8.4 billion. PC sales, AS/400 minicomputers, and storage systems were up, while RS/6000 work stations, mainframes, and semiconductors fell.
+IBM said pricing pressures hurt its semiconductor business.
+Software revenues were off 1 percent to $3.1 billion, largely due to a decline in host-based software, which runs on mainframes. Distributed software revenues grew significantly from the 1995 period. Maintenance revenues fell 7 percent to $1.8 billion.
+Unisys Corp. posted improved results in the third quarter, the company said Wednesday, as its new business structure began to pay off, while Stratus Computer Inc. reported better-than-expected profits.
+Unisys, based in Blue Bell, Pa., reported a third quarter profit of $14.2 million, but a loss of 9 cents a share after paying $30.2 million in dividends on preferred stock. That compared with a net loss of $32.2 million, or 36 cents a share a year ago.
+Revenues for the third quarter were $1.63 billion, up 9 percent from $1.49 billion in the year-ago quarter.
+Unisys said revenues were up at each of its three business units: information services, computer systems and computer services. The three units were formed in a restructuring.
+"After nine months of operations under the new business structure, our three businesses ... are more cost-competitive, streamlined, and focused on capturing opportunities in their respective markets," said James Unruh, chairman and CEO.
+Unisys shares closed at $6.875, up 37.5 cents, on the New York Stock Exchange.
+Unisys said its computer systems group has made excellent progress in working through a major product transition to its new lower-cost mainframes, which have experienced a delay as it tested problems with a new chip.
+Unisys said while the transition continued to affect its results, sales of computer systems were up 14 percent and profitability in this unit "rebounded nicely" in the quarter.
+Analysts said a sale of more than 50,000 election systems in Brazil helped its computer systems unit. Revenue increased strongly both in the United States and internationally.
+"The Brazilian deal was over $50 million," said John Jones, a Salomon Brothers analyst.
+Unisys said it planned to meet its revised shipment schedule for its new mainframe computers, which are a major transition to a new lower-cost architecture. Analysts said they expected the high-end versions of these systems to begin shipping around March and April.
+Separately, Stratus Computer Inc. of Marlboro, Mass., reported a better-than-expected third quarter, citing a positive contribution from its once-beleaguered software business and improved sales of its new computers.
+Stratus reported third quarter income of $10.8 million, or 45 cents a share, compared with a loss of $9.3 million, or 40 cents a share in the third quarter of 1995.
+Revenues totalled $150 million vs. $151 million last year.
+Stratus's results were better than Wall Street expectations. According to First Call, the consensus estimate was for third quarter earnings of 42 cents a share. The company's shares closed at $24.25, up 25 cents, on the NYSE.
+Stratus said its software business contributed to earnings for the first time this year, as the benefits of its recent restructuring began to take effect.
+"With a sharpened focus on the best opportunities, we expect that results will continue to improve in this part of our business," said Bill Foster, chairman and CEO, in a statement. Stratus restructured its software unit in the second quarter.
+Hardware revenues were up 15 percent on a sequential basis and were up 5 percent vs. the year-ago period, as its Continuum Series computer line saw strong sales growth. It expects even stronger Continuum growth in the current quarter.
+Jones of Salomon said its new Radio systems, which run Microsoft Corp.'s NT operating system, will also be a contributor when it begins volume shipments this quarter.
+Stratus develops so-called fault-tolerant computers specifically designed with a backup system in case of system failures.
+A top executive at Compaq Computer Corp. said Thursday he was leaving the world's biggest personal computer maker and joining an Internet startup, giving credibility to the startup and setting in motion a realignment of Compaq's sales managers.
+The executive, Ross Cooley, is leaving a position where he was in charge of Compaq's $7 billion North American computer business for a job at a four-month-old company with the high-tech name of pcOrder.com
+At pcOrder.com, Cooley, 55, will fill the as-yet unfilled positions of chairman and chief executive officer and have a salary of $1 a year, plus stock options.
+His move from an executive suite at a Fortune 500 company to a technology startup mirrors that of several other executives over the past few years, notably, the departure of Alex Mandl from AT&amp;T earlier this year.
+Cooley's move provides instant credibility to pcOrder.com, which provides a marketplace on the Internet for buying and selling personal computers and related equipment.
+Cooley's retirement had been rumoured in the industry for several months, and Compaq announced that James Schraith, formerly president of The Cerplex Group Inc. and president of AST Research Inc., is replacing Cooley.
+"Ross's plan to retire has been in discussion for awhile and there were some rumours flying," Eckhard Pfeiffer, president and CEO of Compaq, said in an interview. "The time has come and obviously as you can see the succession is already in place ... Ross has been a great leader."
+At the same time, Compaq created a new sales infrastructure, hiring Richard Snyder, a Dell Computer Corp. executive, for a newly-created position of general manager, worldwide sales. All the heads of Compaq's five geographical sales regions -- Asia Pacific, Europe, Middle East and Africa, Japan, Latin America and North America -- will report to him.
+Previously, these regions all reported directly to Pfeiffer. But as Compaq has quickly grown to an almost $18 billion company in recent years, Pfeiffer said he needs another executive to stay in touch with the day-to-day activities of its worldwide sales and support organisation.
+"Fifteen people have been reporting to me up until this morning when we announced this change," Pfeiffer said. "That is a huge top management organisation. As the company grows, my tasks change."
+Compaq has grown from its origins as one of the first companies to successfully clone the IBM PC in the early 1980s to become the leading PC maker in the world. Cooley is known for his strong relationships with the PC sales channel and his role in building Compaq's massive distribution.
+"My feelings in joining pcOrder are similar to those I had in joining Compaq almost 13 years ago," Cooley said in a statement. "Back then, I saw the irrefutable logic of the PC as a new paradigm in computing. Today, I believe pcOrder's technology and vision represent an irrefutable value proposition."
+Before joining Compaq in 1984, Cooley held several sales and marketing positions at International Business Machines Corp., where he worked for 18 years.
+"Getting Cooley is really a coup for pcOrder," said John McCarthy, a Forrester Research analyst, adding that Cooley's connections in PC distrubution will give pcOrder more credibility as it builds its system. Cooley's acceptance of $1 a year for salary, plus stock options, is also a "big bet on the company's upside (potential)," McCarthy said.
+pcOrder for now is still private, but the company is contemplating a public offering eventually.
+"We do not have a set plan or a set timetable, but we are seriously considering it," said founder and President Christina Jones. Jones will continue as president of pcOrder. The post of chairman and CEO had been vacant since the start-up was founded in June.
+pcOrder.com is a marketplace on the Internet, where PC makers, components makers and distributors list information and receive orders.
+Currently, sales representatives and customers user pcOrder to configure build-to-order PCs, compare prices, and place orders over the Internet. The system contains information on over 150,000 products in the PC industry from over 800 manufacturers.
+A top executive at Compaq Computer Corp. said Thursday he was leaving the world's biggest personal computer maker and joining an Internet startup, giving credibility to the startup and setting in motion a realignment of Compaq's sales managers.
+The executive, Ross Cooley, is leaving a position where he was in charge of Compaq's $7 billion North American computer business for a job at a four-month-old company with the high-tech name of pcOrder.com
+At pcOrder.com, Cooley, 55, will fill the as-yet unfilled positions of chairman and chief executive officer and have a salary of $1 a year, plus stock options.
+His move from an executive suite at a Fortune 500 company to a technology startup mirrors that of several other executives over the past few years, notably, the departure of Alex Mandl from AT&amp;T earlier this year.
+Cooley's move provides instant credibility to pcOrder.com, which provides a marketplace on the Internet for buying and selling personal computers and related equipment.
+Cooley's retirement had been rumored in the industry for several months, and Compaq announced that James Schraith, formerly president of The Cerplex Group Inc. and president of AST Research Inc., is replacing Cooley.
+"Ross's plan to retire has been in discussion for awhile and there were some rumors flying," Eckhard Pfeiffer, president and CEO of Compaq, said in an interview. "The time has come and obviously as you can see the succession is already in place ... Ross has been a great leader."
+At the same time, Compaq created a new sales infrastructure, hiring Richard Snyder, a Dell Computer Corp. executive, for a newly-created position of general manager, worldwide sales. All the heads of Compaq's five geographical sales regions -- Asia Pacific, Europe, Middle East and Africa, Japan, Latin America and North America -- will report to him.
+Previously, these regions all reported directly to Pfeiffer. But as Compaq has quickly grown to an almost $18 billion company in recent years, Pfeiffer said he needs another executive to stay in touch with the day-to-day activities of its worldwide sales and support organization.
+"Fifteen people have been reporting to me up until this morning when we announced this change," Pfeiffer said. "That is a huge top management organization. As the company grows, my tasks change."
+Compaq has grown from its origins as one of the first companies to successfully clone the IBM PC in the early 1980s to become the leading PC maker in the world. Cooley is known for his strong relationships with the PC sales channel and his role in building Compaq's massive distribution.
+"My feelings in joining pcOrder are similar to those I had in joining Compaq almost 13 years ago," Cooley said in a statement. "Back then, I saw the irrefutable logic of the PC as a new paradigm in computing. Today, I believe pcOrder's technology and vision represent an irrefutable value proposition."
+Before joining Compaq in 1984, Cooley held several sales and marketing positions at International Business Machines Corp., where he worked for 18 years.
+"Getting Cooley is really a coup for pcOrder," said John McCarthy, a Forrester Research analyst, adding that Cooley's connections in PC distrubution will give pcOrder more credibility as it builds its system. Cooley's acceptance of $1 a year for salary, plus stock options, is also a "big bet on the company's upside (potential)," McCarthy said.
+pcOrder for now is still private, but the company is contemplating a public offering eventually.
+"We do not have a set plan or a set timetable, but we are seriously considering it," said founder and President Christina Jones. Jones will continue as president of pcOrder. The post of chairman and CEO had been vacant since the start-up was founded in June.
+pcOrder.com is a marketplace on the Internet, where PC makers, components makers and distributors list information and receive orders.
+Currently, sales representatives and customers user pcOrder to configure build-to-order PCs, compare prices, and place orders over the Internet. The system contains information on over 150,000 products in the PC industry from over 800 manufacturers.
+Compaq Computer Corp., the world's largest personal computer maker, will launch its first computer workstations this week with low-cost entrants that already have at least one workstation maker scrambling.
+"They have a fighting chance to really threaten some of the traditional vendors," said Keren Seymour, an analyst with International Data Corp., a market research firm.
+On Tuesday Compaq will unveil three systems in the "personal workstation" area, the faster-growing segment of the $15.1 billion market for workstations -- high-powered computers used by engineers and designers to perform complex calculations requiring enormous power.
+Traditional workstations run on the UNIX operating system and the market has been dominated by Sun Microsystems Inc., Digital Equipment Corp., International Business Machines Corp. and Hewlett-Packard Co.
+But in the past two years, Microsoft Corp's Windows NT operating system has been making major inroads and a host of companies now develop lower-cost workstations running NT.
+According to IDC, the personal workstation market -- workstations selling at prices from $4,500 to $10,000 -- is growing at a faster pace than traditional, UNIX-based arena, where systems cost from $17,000 up to $100,000.
+While Windows NT cannot yet handle some of the memory-intensive, highly technical applications, Seymour said, NT-based workstations are widely used for financial modeling, animation, and computer-aided design.
+Engineers can also run their desktop applications, such as spreadsheets, word processing, and electronic mail, on the same system, instead of having two separate computer systems.
+"It's growing at an average rate of 44 percent a year," Seymour said of the personal workstation area, compared with traditional workstation growth of 7.5 percent, on a compounded annual growth rate, through the year 2000.
+Already, Houston-based Compaq's expected entry in the market has at least one major vendor nervous.
+Last week, IBM held a hastily-arranged conference call for analysts to discuss the formation of a new business unit that will develop Intel-based workstations running NT.
+"It was an answer to Compaq's initiative," said Sam Albert, an industry consultant in Scarsdale, N.Y. Otherwise, he asked, "Why would IBM give a heads up for a product that isn't ready until March?"
+IBM's current line of workstations, the RS/6000 family, are designed around IBM's PowerPC chip and run on the UNIX operating system. In its third-quarter earnings report, however, IBM said its workstation business was flat, another indicator of the increasingly popularity of the lower-cost NT-based machines.
+Compaq is expected to introduce three models in the $5,000 to $10,000 range, IDC's Seymour said. A Compaq spokeswoman declined to comment on the products to be unveiled Tuesday.
+PC Week, an industry trade magazine, reported last week that Compaq will price its entry-level workstation at $5,000, targeted to molecular modeling and computer-aided design.
+Two other models, for the animation creation business, are priced from $8,000 to $10,000, PC Week said.
+As part of its recent product revamp, Silicon Graphics Inc., long a leader in the animiation workstation area, also recently introduced a less-expensive model called the O2, which runs on UNIX, in response to the growth in the NT-based machines.
+But analysts said SGI and Sun Micro will not likely embrace the Microsoft operating system NT anytime soon, even though it is poised to become the faster-growing workstation segment.
+"Sun and SGI would rather die than do NT," said Seymour. "That's the unfortunate thing ... At some point, the NT market share is going to be bigger than theirs."
+Sun Microsystems Inc. Tuesday introduced its first network computer, the JavaStation, in a direct challenge to Microsoft and Intel, the dominant players in the industry.
+Saying the company was ushering in a new era of computing, Sun Chief Executive Officer Scott McNealy unveiled a sleek, charcoal-grey device, about nine inches by 12 inches, with no disk drives or slots or floppy disks, to allow access to networks of computers and the Internet, at a cost of $742.
+Sun, Oracle Corp., and International Business Machines Corp. are challenging the computer industry's dominant "Wintel" architecture from Microsoft Corp. and Intel Corp. with the new low-cost, low-maintenance network computers, or "NCs."
+"Today you'll see why the network is the computer and has been since 1984," McNealy said, reiterating Sun's mantra.
+The JavaStation is targeted at businesses. Sun said the machines might eventually be offered into the consumer market by cable TV and telecommunications firms as Internet access devices, but it declined to say when that might happen.
+With Java, software applications can be written in one language and distributed across networks and diverse computers and computing environments, from mainframes to minicomputers to personal computers and now to the new NCs.
+"Java computing is going to be as powerful as the mainframe in the '60s, the minicomputer in the '70s and the PC environment of the '80s," said Ed Zander, president of Sun Micro's Computer Co.
+Sun introduced three versions of the JavaStation. The lowest cost, $742 version does not include a monitor or a keyboard. The systems are aimed at corporate users of Sun workstations and host computers, but can also access Microsoft PC applications from a host computer running Windows NT.
+At a news conference in New York, Sun executives said they did not expect the new machines to take the place of personal computers, but they also professed amazement at the news conference Microsoft held Monday.
+Microsoft, with several major players in the PC industry, unveiled its own "NetPC" strategy aimed at driving down the cost of PC ownership, with new features in Windows for network management, calling it "Zero Administration."
+"I have never seen such totally reactive vapour," Zander told reporters. "We must really have touched a nerve."
+McNealy said it was simply a move by the "old-line legacy Wintel" trying to hold onto its position in the world. Wintel refers to the combination of Microsoft operating systems and Intel chips.
+"People call it a PC on a diet, I call it a PC in a corset, with the strings pulled too tight and a bright red face," McNealy said, referring to the Microsoft initiative.
+But even with all the hype surrounding the industry's latest infatuation, Sun executives and analysts were not expecting big sales of the NC, nor will the JavaStation become a big percentage of Sun's hardware sales.
+"This thing is a small percentage of the total product environment, it will help sell more servers," Zander told Reuters.
+"Maybe a couple of years from now it will begin competing with low-end PCs," said Evan Quinn at International Data Corp., noting Sun's network computing strategy is tied to future expansion of its Java technology.
+Sun said the entry level model, containing eight megabytes of memory, will ship beginning in December. A fully configured system, which includes memory, keyboard, a mouse and 14-inch monitor, will cost $995.
+The company also said it will offer a JavaStation with 16 megabytes of memory, a mouse, keyboard and a 17-inch monitor for $1,565. The JavaStation also has a small operating system, the Java OS, taking up less than three megabytes of memory.
+While the devices are lower cost than the typical PC, which can range in cost from $1,500 to $3,000, Sun executives said their customers will save money as the costs of PC ownership for businesses escalate and are now estimated at anywhere from $6,000 to $12,000 a year, per PC.
+Sun said a JavaStation costs about $2,500 a year to maintain, or about $7,500 for three years, potentially saving corporations millions of dollars.
+The battle between Bill Gates and Larry Ellison over the ballyhooed network computer is getting rougher.
+For the past year, Oracle Corp. Chairman Larry Ellison has been evangelizing his vision of a low-cost, diskless PC to access corporate networks and the Internet, a PC without a hefty operating system like Windows.
+Ellison's vision has captivated many in the industry, who are weary of the domination by the Wintel combination of Microsoft Corp.'s Windows operating systems and Intel Corp. processors in PCs.
+Sun Microsystems Inc. has jumped on the network computer bandwagon with Oracle and on Tuesday it will introduce its much-anticipated JavaStation.
+But Monday, in a blatant move to steal Sun's thunder, Microsoft Chairman Bill Gates struck back.
+Microsoft gathered together a Who's Who list of the PC industry and announced its own low-cost solution to the growing interest in the network computer.
+"Obviously, Microsoft is feeling the heat from all the hype that Oracle and Sun are getting," said Eileen O'Brien, an analyst at International Data Corp., in Framingham, Mass. Microsoft's initiative left many industry analysts underwhelmed. The software behemoth unveiled a "new" PC design, a standard PC design with an Intel processor, memory, a hard disk drive, and of course, the Windows operating systems, with features to automate software upgrades.
+But Microsoft zoomed in on the key point of the pro-network computer argument that is striking a nerve with many corporate information technology managers: the high cost of owning large numbers of PCs.
+Some industry analysts estimate that a PC, which can range from $1,500 to $3,000 to purchase, can cost anywhere from $6,000 to $12,000 and more annually to maintain.
+Redmond, Wash.-based Microsoft unveiled "Zero Administration" features in its roadmap for its NetPC, which will be built into future versions of its Windows 95 and Windows NT operating systems.
+"That's the biggest advantage of the NC, is the lower cost of ownership" said Tom Rhinelander, an analyst with Forrester Research, in Cambridge, Mass. "They are trying to get to that and say, 'we can create something that is just as low-cost.'"
+The concept behind the network computer, which "rents" software such as a word processing package, or a spreadsheet, from a main computer, or server, is that it does not need continuous upgrades for the operating system or applications.
+"PCs have two huge liabilities, high cost and high complexity," Marc Andreessen, the co-founder and senior vice president of Netscape Communications Corp., told reporters on a conference call.
+As Microsoft was holding a press conference in the backyard of its Silicon Valley foes on Monday, Mountain View, Calif.-based Netscape and Oracle, headquartered in Redwood Shores, Calif., unveiled their own alliance.
+Oracle agreed to use the Netscape Navigator as the main browser on the Intel version of its network computer, which is expected to ship early next year, and Netscape will offer Oracle database software in its server packages for corporate intranets, or internal networks modeled on the Internet.
+"The rise of the NC ... it's a profound shift in the industry," Andreessen said.
+While Netscape has much to gain with the adoption of devices that access the Internet and corporate networks -- its browser holds about an 80 percent share of the Internet market -- analysts said the current Navigator is a bit too bulky and has limited functionality on a network computer.
+Netscape has a subsidiary, called Navio, which is developing a "thinner" version of Navigator that will be more tailored to NC-like devices, mostly aimed at the home market.
+For now, the hype is surrounding the corporate market, where analysts expect the network computer to have an impact.
+"I am skeptical about the NC as a consumer device," said Josh Bernoff, another Forrester analyst. "In corporations, there is a lot more hope for it."
+Even International Business Machines Corp. has jumped into the fray. The world's largest computer maker was the first company to begin shipping its version of a network computer, which it calls the Network Station, to a limited number of customers, last month.
+"To us, it's not about network computers replacing PCs, it is the right technology for the right problem," said Phil Hester, vice president, network computing, at IBM. "We have been through three phases of computing, from the mainframe to the minicomputer to the PC and none of them have replaced the ones that came before them."
+Indeed, most market researchers do not believe that the NC will replace the PC, but it will make a dent in the market.
+International Data predicts that by the year 2000, there will be about 5.5 million to 6 million NCs shipped, or "non-PC type devices" vs. 80 million PCs.
+But when asked which companies will dominate the burgeoning NC sector, analysts hedge.
+"Who knows who is going to be around that long," said International Data's O'Brien.
+America Online Inc., responding to the competion posed by the Internet, said Tuesday it would reorganize its business and unveiled a flat-rate $19.95-a-month pricing plan.
+The world's biggest online services company said it was taking $460 million in charges this year as it restructures its operations.
+As part of its reorganization, AOL plans to separate into three operating units -- AOL Networks, to oversee its flagship Internet online service; AOL Studios, for creating online programming; and ANS Communications, its network arm, the Dulles, Va.-based company said.
+AOL said it would begin offering a number of new pricing options, including a flat monthly rate of $19.95 for unlimited access. The pricing action, which was widely expected, matches the recent pricing by Microsoft Corp. when it re-launched the Microsoft Network and the rates of Internet access providers.
+As part of its restructuring, AOL named Robert Pittman, former chief exectutive of MTV Networks, to oversee AOL Networks. Pittman, most recently chief executive of Century 21 Real Estate Corp., had forged MTV into the first profitable basic cable network company.
+Pittman also headed Time Warner's Inc.'s Six Flags amusement park chain, where he oversaw four straight years of record growth in attendance, revenues and earnings, AOL said.
+The company said it was taking a $385 million charge in its fiscal first quarter, which ended Sept. 30, to account for deferred subscriber acquisition costs, an accounting method for which it has been heavily criticised by Wall Street.
+AOL also said it plans to take a one-time charge of up to $75 million in the current quarter for costs it expects to incur as it reorganizes.
+AOL's stock, which recently moved to the New York Stock Exchange from the Nasdaq market, jumped $1 to $25.675 and it was among the most active issues on the NYSE, as Wall Street applauded its rejigging of its accounting methods.
+"We are moving to remove this distraction from earnings," AOL Chairman Steve Case told reporters on a conference call. "The focus here is to simplify how people really look at this business. We are confident that people will see the underlying momentum."
+Analysts do expect some pressure on the company's gross profits as a result of the new pricing, but they said the moves were necessary to compete with the growing pressures from Internet access providers and to keep its subscribers.
+AOL expects to report a second fiscal quarter loss, break-even in the March quarter and return to profitability in the quarter ending in June, its fourth fiscal quarter.
+"It's a very bold, clever and necessary set of moves by America Online to get their financial house in order and reposition themselves as a diversified media company," said Adam Schoenfeld, a vice president at Jupiter Communications.
+"AOL was for a long time able to ignore the going rate and market vicissitudes because of its pre-eminent position, but those positions only last so long," Schoenfeld added.
+AOL said the company added nearly 250,000 net new subscribers in October as it began to address some of the customer retention problems it encountered during the traditionally slower summer months.
+Case said the company was still on target for reaching its 10 million subscribers sometime during calendar 1997.
+"The phones have been ringing off the hook today from people who are eager to subscribe to the new AOL," Case said. "We now believe we have the strategy in place and a team in place to take AOL to the next level."
+Ted Leonsis, who currently heads AOL Services Co., was named to head the newly formed AOL Studios, and Bruce Bond, hired this year to lead ANS Communications, will continue in his current role with that unit.
+AOL said its new, more competitive pricing structure would take effect immediately.
+The plans calls for two unlimited pricing tiers to provide a "comfort factor" for heavy and medium users, and a $4.95 plan for light users. AOL said it will offer a standard monthly plan for unlimited AOL use, including Internet access, for $19.95.
+It will also offer advance-payment rates of $14.95 a month for customers who pay for two years, and $17.95 per month for those who pay in advance for one year.
+The company also said it will charge a "bring-your-own-access" rate of $9.95 per month, offering unlimited access to the proprietary content available only on AOL to people who already have a separate Internet access connection.
+AOL will also offer a light-usage programme providing three hours of AOL a month for $4.95, with additional time priced at $2.50 per hour.
+America Online Inc, the world's largest online service, said with the changes it implemented earlier this fall and its major restructuring announced this week, it is seeing a renewed momentum.
+Steve Case, AOL chairman and CEO, told the company's annual meeting that with the reoganization of AOL, its new flat-rate pricing, and its big accounting changes, "the pieces are now in place" for growth, not only in new subscribers, but with major new sources of revenue, such as advertising.  
+"Now we have a new structure in place...and the momentum is stronger than ever," Case told shareholders, adding that in the month of October alone, AOL added 250,000 new subscribers, a sign of its "renewed momentum."
+The company, which has seen its stock decline, has been under pressure from the lower-cost Internet access services and has seen its subscriber growth slow this summer.  
+AOL, based in Dulles, Va., was further pressured when Microsoft Corp relaunched the Microsoft Network this month at a flat price of $19.95 for unlimited access, on par with most direct Internet access services.
+Previously, AOL had added a 20/20 pricing plan to combat the growing competition, with 20 hours for $19.95 a month, in addition to its $9.95 for 10 hours plan.  But on Monday, it succumbed with its own flat rate $19.95 a month, and it will discontinue its direct Internet access, called GNN.  
+Case and other AOL executives highlighted to shareholders how the company will see new sources of revenue from advertising and merchandising and how one area of its new business will be running on a cable industry model, with more revenues from advertising than subscriber fees.
+"Increasingly, we are evolving where we depend less on subscriber revenue and increasingly on advertising and other sources," said Lennert Leader, the company's chief financial officer.  
+One of the areas from which the company expects this growth to come is its new unit AOL Networks, headed by former MTV executive Bob Pittman, to oversee AOL's flagship online service.  The other two units in AOL's reorganization are its AOL Studios, to create content for its service and ANS Communications, to manage the core network infrastructure.
+Pittman said he expects that in the future, over 50 percent of AOL's revenues will come from advertising and other revenue sources, such as merchandising the AOL brand name, through books, television, etc.  
+"To me, it looks very similar to the cable network business," Pittman said, adding that in the early days of Viacom Inc's MTV network, subscriber revenue was greater than advertising revenue.  "Our growth curve looks very similar to the cable business.  Ad revenue is growing faster than subsciber revenues."
+Pittman said he plans to "ride the tremendous wave" of AOL's brand recognition for new sources of revenue growth, for which he said there are multi-levels of possibilities. One area, he mentioned after his second day on the job, is the catalog business, which can move to electronic shopping.  
+Shareholders, some of whom said the stock has been a very good investment because of its many stock splits, said they were pleased with AOL's recent actions, in particular the measure to restructure accounting methods.
+"The fact that they are getting a more straightforward accounting system is a step in the right direction," said David Ryan, a retired shareholder from the Washington, D.C. area. "Their financial statements were hard to understand. It's more straightforward now."  Ryan said the stock has split three times since he has owned it in the past four or five years.  
+AOL said on Monday that it will now expense all its marketing costs, which includes the hefty subscriber acquisition costs, as they are incurred, instead of deferring those costs over time.
+To reflect those immediate changes, AOL is taking a $385 million restructuring charge in the September quarter, to account for the balance of its deferred subscriber acquisition costs.  AOL CFO Leader also told the meeting that the cost to acquire new subscribers will be lower in the future, as AOL depends less on sending out floppy disks, and as AOL comes with more new PCs.
+"The good news is the growth is accelerating," Case said. "We have taken the step of expensing the marketing and we can avoid some of the debates about the earnings."
+Upstart satellite company EchoStar Communications Corp -- in the business only since March -- gave the nascent industry a major jolt this month when it cut prices sharply.
+Then on Monday, Thomson, which dominates the satellite TV dish market, matched EchoStar's $199 price.
+Thomson executives said the new price will surely shake up the industry and fuel sales for what is the said to be the fastest growing consumer electronics product ever -- one that even now is taking market share from the cable industry.  
+"It will completely change the nature of the business," said Joe Clayton, an executive vice president at Thomson, the U.S. unit of Thomson-CSF in France.
+The move by Thomson cut the price of the RCA brand digital satellite system by as much as $200 a unit. Combined with a $200 cash back offer by programming providers DirecTV -- a unit of Hughes Electronics Corp -- and U.S. Satellite Broadcasting Co, it cuts the total price to $199 for consumers who pre-pay for one year of programming.
+The lower price will make it harder for new entrants in the industry to make money.  
+"We know the telcos and the cable companies are getting more involved," Clayton said. "We are going to capitalize on our strengths now."
+He added that the $199 price will make the "awareness base explode."
+Thomson has an estimated 45 percent of the digital satellite system dish market, which amounted to 3.4 million units at the end of July, according to the Carmel Group.
+"It's been a real winner for them," said Jimmy Schaeffler, an analyst at Carmel, a market research firm in Carmel, Calif. "Plus it has launched them into the international marketplace."  
+Schaeffler said that, outside the United States, satellite television is gaining markets where there is no cable because it can leapfrog installing massive cable systems.
+"Most of the rest of the world is not very cable wired, so there is a clear opportunity for direct broadcast satellite," Schaeffler said. Satellite TV is also becoming big in the U.S., as vaunted digital cable systems undergo trials.
+New competitors see an opportunity in digital satellites -- a technology that is here now and working. MCI Communications, aligned with Rupert Murdoch's New Corp Ltd, already has a valuable U.S. satellite slot.  
+When asked how low prices of the satellite dishes could go, Clayton joked he had never seen prices in consumer electronics go up. Analysts expects prices to keep falling.
+"Maybe Charlie will take it to zero, but I don't think we will," Clayton said of EchoStar chairman Charles Ergen.
+A spokeswoman said Englewood, Colo.-based EchoStar, which launched its satellite network in March, already has 125,000 subscribers for its programming, which has 40 TV channels and 30 of music, compared with 175 channels offered by DirecTV. The launch next month of a second satellite will increase its offerings to up to 200 channels, EchoStar said.
+America Online Inc., the world's largest online service, Thursday reported a first quarter net loss of $353.7 million due to its widely-expected restructuring charges to change its accounting practices.
+The Dulles, Va.-based company said its loss, of $3.80 a share, in the first quarter ended Sept. 30, included a write-off of $385.2 million in marketing costs it had originally planned to defer for up to two years.
+The company announced its write-off plans last week when it also unveiled a flat-rate pricing plan of $19.95 a month, and a corporate realignment into three business units. Wall Street has largely applauded the changes in its accounting, because some investors said the practice inflated earnings.
+AOL also said its total revenues jumped 77 percent in the quarter, including a boost from advertisers and electronic commerce. Revenues climbed to $349.9 million from $197.9 million a year ago.
+AOL said its other revenues, from sources such as advertising and electronic commerce, rose to a record of $38.8 million, roughly 24 percent above the June quarter levels.
+AOL said eight advertisers have committed to spend $1 million or more this fiscal year, as it moves to seek more revenues beyond its base subscriber fees, which still make up the lion's share of its revenues.
+Before the big accounting charge, AOL said it earned $19 million, or 17 cents a share, exactly in line with the mean estimate on First Call, which compiles analysts' estimates.
+Revenues fell slightly short of some expectations because of the one-day outage of its service in August, analysts said.
+Abhishek Gami, an analyst with Nesbitt Burns Securities, estimates the almost 19-hour outage on Aug. 7 cost AOL about $6.5 million in lost revenues and to pay subscriber credits.
+However, AOL said its customer retention rate improved as the quarter progressed, reaching its best levels in September since mid-1995. Customer churn rate, or the drop-off in new customers, has been an issue at AOL, particularly this summer when subscriber growth slowed.
+AOL also said it saw strong subscriber growth following the September launch of its new marketing campaigns. It added 400,000 new subscribers in the first quarter.
+With the addition of nearly 275,000 new members in October, AOL said its total subscriber count reached 6.9 million worldwide. Analysts said 35,000 of those subscribers were from its online service in England, France and Germany.
+AOL also said average hourly usage improved to 6.95 hours per member in the recent period, and in October, hit its highest level in the company's history.
+"In the spring we indicated that member growth would slow in the summer, but would likely pick back up in the fall as we rolled out our 3.0 software and increased our marketing expenditures," said AOL CEO Steve Case, in a statement. "We're pleased to report that growth has indeed accelerated, and now....we believe we are poised for continued strong growth."
+Last week, AOL said it would write off $385 million in the September quarter to account for the balance of its hefty subscriber acquisition costs, such as its mass mailing of floppy disks. It had been deferring certain marketing costs and amortizing some costs over a period of 24 months.
+Analysts said they are now waiting to see how the new flat-rate pricing policy will effect the company's profit margins, which are expected to decline from the plan. The heavier users of AOL will now simply pay an all-you-can-eat rate of $19.95 instead of the heavier bills they incurred.
+Th company acknowledged in a statement that its new pricing plan will result in lower-margins but that it is also expecting benefits from new revenue sources in the future, as it seeks to generate new higher-growth revenue streams.
+"These are all issues that will clear up over time," said Jamie Kiggen, a Cowen &amp; Co. analyst. "Clearly the response to the new pricing plan has been very positive," Kiggen added, referring to the positive feedback AOL has received from customers. Analysts said AOL still expects to lose money in its second quarter ending Dec. 31, which will be the first period that the company expenses its quarterly marketing costs.
+AOL's stock fell 50 cents to $24.75 on the New York Stock Exchange.
+International Business Machines Corp will provide an update on its strategy for electronic commerce on Tuesday and will also unveil new partners and show examples of projects already in the works.
+Electronic commerce is a now widely-used buzz word in the computer industry that refers to buying and selling goods and services or conducting transactions over computer networks.
+For IBM, the world's largest computer maker, electronic commerce is a potentially huge opportunity to provide products and services to help its customers do business online.  
+An IBM spokesman declined to provide any details on what IBM would be discussing, except to say IBM will provide an update on where it is now and where it is going in electronic commerce.
+Top executives from IBM's Lotus Development Corp unit, its Internet division and its just-announced Network Computer unit will be hosting a press conference.
+Analysts said IBM plans to announce several new partners for various applications it has developed, targeted at specific industries, such as an automotive company that is co-developing an auto-loan application on the Internet.  
+IBM will also unveil and demonstrate an application targeted to the petroleum industry, a Web site called PetroConnect, that will let energy companies share geographical information over the Internet, to aid in their oil exploration searches.
+The computer giant is also expected to add 10 new retailers to its World Mall, its online shopping site on the Internet.
+IBM will also officially roll out its Network Computer division and possibly some new models of the Network Station, its first network computer, aimed at a specific industries.  
+Earlier on Monday, IBM announced that it had formed a unit to focus all its development and marketing efforts in the embryonic market for these scaled-down computer devices.
+Analysts said that, while electronic commerce represents a big opportunity for IBM and the rest of the computer industry, the market is still so young that it is hard to estimate what revenues will be, where they will come from and how long it will take for these ventures to be profitable.
+"I think IBM is very well poised to make money from all of these things, but it will be a year or two before anything happens," said Stan Dolberg, a Forrester Research analyst.  
+"The Internet commerce offerings, whether they are services or products, have to be really focused on a specific industry to be complete," Dolberg added.
+Indeed, IBM is developing many industry-specific services, such as its petroleum industry Web service, and the automotive industry application. IBM will also announce a partnership with Charles Schwab Corp, the discount brokerage firm that has already been very active in developing online brokerage and trading services. But it is not yet clear whether or not IBM will make much money from services and transactions, of which it will get a piece.  
+For example, in its World Avenue consumer retailing site on the Internet, IBM receives a start-up fee from its vendors and it gets a five percent commission from its retailing partners on sales and a monthly maintentance charge.
+"What they are trying to do is build a recurring revenue stream," said John Jones of Salomon Brothers. "They are trying to get into as many aspects of network computing as they can."
+Some analysts said that, of all IBM's electronic commerce ventures, the World Avenue site is the least likely to succeed, because it does not add a great deal of value, other than the convenience of not leaving your home to shop.
+"Malls on the Internet are not what people want," said Forrester's Dolberg. "If they want a mall, they want products grouped together by categories, say like shoes, so they can comparison shop...The Internet itself is like a whole mall, where a lot of different things are already grouped together."
+Other recent Internet shopping mall efforts have failed, such as MCI Communications Corp's MCI Marketplace.
+IBM is hoping its technology such as Net.Commerce and Net.Commerce Payment software, will provide an easy-to-use and secure way of conducting credit card transactions and help end consumer fears about using credit cards over the Internet.
+EchoStar Communications Corp. -- the upstart in the direct broadcast satellite television business -- gave the nascent industry a major jolt this month with a sharp price cut.
+The jolt reverberated earlier this week when Thomson, the U.S. unit of France's Thomson-CSF, which dominates the satellite TV dish market, matched EchoStar's new price at $199 for a satellite dish.
+Thomson executives said the new price will surely shake up the industry and fuel sales for what is said to be the fastest growing consumer electronics product ever -- one that even now is taking market share from the cable industry.
+"It will completely change the nature of the business," said Joe Clayton, an executive vice president at Thomson.
+Thomson's move cut the price of the RCA brand digital satellite system by as much as $200 a unit. Combined with a $200 cash back offer by programming providers DirecTV, a unit of Hughes Electronics Corp., and U.S. Satellite Broadcasting Co., it cut the total price to $199 for consumers who pre-pay for one year of programming.
+Programming costs from $29.95 a month for 70 channels on DirecTV to $44.95 a month for all 175 channels on DirecTV.
+The lower price -- while welcome for consumers -- will make it harder for new entrants to break into the market and make a profit.
+Other consumer electronics giants, Uniden America Corp., Toshiba America Consumer Products Inc., Samsung Electronics Co. Ltd. and Matsushita Electric Corp of America have announced plans to introduce new DSS systems later this year.
+Thomson will make the dishes for Toshiba and Panasonic.
+"We know the telcos and the cable companies are getting more involved," Clayton said. "We are going to capitalise on our strengths now."
+He added that the $199 price will make the "awareness base explode."
+Thomson has an estimated 45 percent of the digital satellite system dish market, which amounted to 3.4 million units worldwide at the end of July, according to the Carmel Group.
+"It's been a real winner for them," said Jimmy Schaeffler, an analyst at the market research firm in Carmel, Calif. "Plus it has launched them into the international marketplace."
+Schaeffler said satellite television is gaining markets outside the United States where there is no cable service because it does not require installing massive cable systems.
+"Most of the rest of the world is not very cable wired, so there is a clear opportunity for direct broadcast satellite," Schaeffler said. Satellite TV is also becoming big in this country while vaunted digital cable systems undergo trials.
+New competitors see an opportunity in digital satellites -- a technology that is already here and working. MCI Communications, aligned with Rupert Murdoch's News Corp. Ltd, already has a valuable U.S. satellite slot.
+The move to cut prices to gain market share is changing the industry, which Clayton said is moving more toward a cellular telephone model, where the hardware is the lowest cost -- sometimes practically nothing -- and revenues come from services and programming.
+"They have to fight within the industry and competitors from outside the industry," Schaeffler said. "They are doing the rebates because of the market share. It's a combination of EchoStar pushing everyone to a lower price point nationally and the effort to maintain and acquire future markets."
+Asked how low prices of satellite dishes could go, Clayton joked that he had never seen prices in consumer electronics products go up. Other analysts also expect prices to keep falling.
+"Maybe Charlie will take it to zero, but I don't think we will," Clayton said of EchoStar Chairman Charles Ergen.
+A spokeswoman said Englewood, Colo.-based EchoStar, which launched its satellite network in March, already has 125,000 subscribers for its programming, which has 40 TV channels and 30 channels of music, compared with 175 channels offered by DirecTV.
+The launch next month of a second satellite will increase its offerings to up to 200 channels, EchoStar said.
+International Business Machines Corp. will update its strategy for electronic commerce Tuesday, and will unveil new partners and show examples of projects already in the works.
+Electronic commerce is a widely used buzz word in the computer industry which refers to buying and selling goods and services or conducting transactions over computer networks, including the globe-spanning Internet.
+For IBM, the world's largest computer maker, electronic commerce is a potentially huge opportunity to provide products and services to help its customers do business online.
+An IBM spokesman declined to provide any details, except to say that IBM will provide an update on where it is now and where it is going in electronic commerce.
+Top executives from IBM's Lotus Development Corp. subsidiary, its Internet division and its just-announced Network Computer unit will hold a news conference.
+Analysts said IBM plans to announce several new partners for various applications it has developed, targeted at specific industries, such as an automotive company which is co-developing an auto-loan application on the Internet.
+IBM will also unveil and demonstrate an application targeted at the petroleum industry, a Web site called PetroConnect that will let energy companies share geological information over the Internet to aid in their oil-exploration searches.
+Analysts also expect the computer giant to add 10 new retailers to its World Mall, its shopping site on the Internet targeted at consumers.
+IBM will also officially roll out its Network Computer division and possibly some new models of the Network Station, its first network computer, aimed at a specific industries.
+Earlier Monday, IBM announced that it had formed a unit to focus all its development and marketing efforts in the embryonic market for these scaled-down computer devices.
+Analysts said that, while electronic commerce represents a big opportunity for IBM and the rest of the computer industry, the market is still so young that it is hard to estimate what revenues will be, where they will come from and how long it will take for these ventures to be profitable.
+"I think IBM is very well poised to make money from all of these things, but it will be a year or two before anything happens," said Stan Dolberg, a Forrester Research analyst.
+"The Internet commerce offerings, whether they are services or products, have to be really focused on a specific industry to be complete," Dolberg added.
+Indeed, IBM is developing many industry-specific services, such as its petroleum industry Web service, and the automotive industry application. IBM will also announce a partnership with Charles Schwab Corp., the discount brokerage firm that has already been very active in developing online brokerage and trading services.
+But it is not yet clear whether IBM will make much money from services and transactions, of which it will get a piece.
+EchoStar Communications Corp. -- the upstart in the direct broadcast satellite television business -- gave the nascent industry a major jolt this month with a sharp price cut.
+The jolt reverberated earlier this week when Thomson, the U.S. unit of France's Thomson-CS, which dominates the satellite TV dish market, matched EchoStar's new price at $199 for a satellite dish.
+Thomson executives said the new price will surely shake up the industry and fuel sales for what is said to be the fastest growing consumer electronics product ever -- one that even now is taking market share from the cable industry.
+"It will completely change the nature of the business," said Joe Clayton, an executive vice president at Thomson.
+Thomson's move cut the price of the RCA brand digital satellite system by as much as $200 a unit. Combined with a $200 cash back offer by programming providers DirecTV, a unit of Hughes Electronics Corp., and U.S. Satellite Broadcasting Co., it cut the total price to $199 for consumers who pre-pay for one year of programming.
+Programming costs from $29.95 a month for 70 channels on DirecTV to $44.95 a month for all 175 channels on DirecTV.
+The lower price -- while welcome for consumers -- will make it harder for new entrants to break into the market and make a profit.
+Other consumer electronics giants, Uniden America Corp., Toshiba America Consumer Products Inc., Samsung Electronics Co. Ltd. and Matsushita Electric Corp of America have announced plans to introduce new DSS systems later this year.
+Thomson will make the dishes for Toshiba and Panasonic.
+"We know the telcos and the cable companies are getting more involved," Clayton said. "We are going to capitalise on our strengths now."
+He added that the $199 price will make the "awareness base explode."
+Thomson has an estimated 45 percent of the total digital satellite dish market, which amounted to 3.4 million units worldwide at the end of July, according to the Carmel Group.
+"It's been a real winner for them," said Jimmy Schaeffler, an analyst at the market research firm in Carmel, Calif. "Plus it has launched them into the international marketplace."
+Schaeffler said satellite television is gaining markets outside the United States where there is no cable service because it does not require installing massive cable systems.
+"Most of the rest of the world is not very cable wired, so there is a clear opportunity for direct broadcast satellite," Schaeffler said. Satellite TV is also becoming big in this country while vaunted digital cable systems undergo trials.
+New competitors see an opportunity in digital satellites -- a technology that is already here and working. MCI Communications, aligned with Rupert Murdoch's News Corp. Ltd, already has a valuable U.S. satellite slot.
+The move to cut prices to gain market share is changing the industry, which Clayton said is moving more toward a cellular telephone model, where the hardware is the lowest cost -- sometimes practically nothing -- and revenues come from services and programming.
+"They have to fight within the industry and competitors from outside the industry," Schaeffler said. "They are doing the rebates because of the market share. It's a combination of EchoStar pushing everyone to a lower price point nationally and the effort to maintain and acquire future markets."
+Asked how low prices of satellite dishes could go, Clayton joked that he had never seen prices in consumer electronics products go up. Other analysts also expect prices to keep falling.
+"Maybe Charlie will take it to zero, but I don't think we will," Clayton said of EchoStar Chairman Charles Ergen.
+A spokeswoman said Englewood, Colo.-based EchoStar, which launched its satellite network in March, already has 125,000 subscribers for its programming, which has 40 TV channels and 30 channels of music, compared with 175 channels offered by DirecTV.
+The launch next month of a second satellite will increase its offerings to up to 200 channels, EchoStar said.
+International Business Machines Corp unveiled several new partnerships as part of an all-encompassing strategy unveiled at a session on electronic commerce, but said it will make money from these ventures the "old fashioned" way - through hardware, software, and services.
+IBM announced a wide array of partnerships, ranging from retailers to petroleum companies to insurance companies to a utility, all developing applications for conducting business over corporate computer networks and the Internet.  
+"We feel very, very good about the Internet as a business and about where we are going," said Irving Wladwasky-Berger, the general manager of IBM's Internet division, at a press conference. The Internet unit was formed less than one year ago and has become one of the key focal points at IBM.
+IBM is helping customers develop a wide range of electronic commerce applications, including an electronic trading system, an Internet retailing outlet, and a service for buying electrical power over networks. Revenues, however, will come from the usual sources of hardware, software and services as it fuels demand for its products and services.  
+"We will continue to make money the 'old-fashioned' way, by selling a lot more systems, software, services and solutions," Wladawsky-Berger said. "By leveraging our core businesses, we can sell more of what we are good at."
+He was not more specific about what kind of financial opportunity corporate networks and the Internet represent for IBM.
+But IBM expects the worldwide information technology industry to grow to $1.2 trillion, from $800 billion, in the next four years, with 60 percent of that growth driven by network computing, he said.  
+One novel partnership IBM announced Tuesday was a project with Siemens AG for the electric utility industry.
+IBM and Siemens Power Systems Control announced a service to let electric utilities use computer networks, including the Internet, to sell excess power transmission capacity. Pacific Gas and Electric Co is the first customer.
+IBM also announced 13 additional new retailers who are joining its Internet shopping mall, called World Avenue, such as Gottschalk's and Hudson Bay, Avante Jewelry and others. Consumers can purchase goods quickly and securely via the World Avenue service on the World Wide Web.  
+IBM also announced PetroConnect, a network-based service for the petroleum industry, with digital databases, maps, surveys, well logs, seismic data and other geographical and geological data, for all segments of the industry.
+In another industry-specific application, IBM and partner Charles Schwab Inc demonstrated its electronic trading system, called e.schwab, which lets customers request quotes, check account balances and execute trades on their Internet Web site, which runs on IBM's SP2 supercomputers.
+IBM also touted Lotus's Domino software, which is the next version of Lotus Notes designed using Internet technology.  
+IBM said that Domino is one of the "jewels in its crown," that will be targeting the Web server software market, which Forrester Research predicts will be $9 billion by 1999.
+Jeff Papows, the president of Lotus Development, made several jabs at both Microsoft Corp and Netscape Communications Corp and their initial emphasis on the browser wars, but said the battle is moving to groupware.
+Papows quoted Netscape's co-founder Marc Andreessen as saying that in 1997 the big war will be over groupware and e-mail. "We think Marc is right," Papows said, adding that whether they can take those markets by storm is the question.
+International Business Machines Corp said its $80 million acquisition of Edmark Corp will serve as the core for the computer giant's plans to focus on education in its fledgling consumer products unit.
+The deal will also give Edmark access to IBM's worldwide distribution tentacles, which it needs to compete in the cut-throat consumer retail market, where the brutal fight for shelf space can sometimes make or break a software company.
+"This gives us a very strong foundation," said Jim Firestone, general manager, IBM Consumer Division.  
+"We are working with a handful of other firms, but I expect Edmark to be the real core of this activity," Firestone added. "It is a base upon which we expect to grow."
+Firestone, formerly of American Express Co, was appointed to head up IBM's newly-created consumer business in July, 1995. He was faced with a daunting task because IBM's previous forays into the home PC market have not met with much success and it is not well known for its consumer software.
+As part of his refocusing of IBM in the consumer arena, Firestone said IBM will only choose a few places to compete, and one of those areas will be the family educational market.  
+"I am not interested in the entertainment side of consumer software," Firestone said. He also said IBM's latest models of its Aptiva home PC that it introduced in September, is gaining market share, where it is being marketed as a family learning tool. Software from Edmark will fit in with that focus.
+"IBM is focused on learning as the magic bullet that will elevate their position and raise their profile," said Richard Zwetchkenbaum, director of consumer research at IDC/Link. "Edmark has some very valuable properties...This acquisition should be seen as one in a series of major moves that will help IBM achieve some of its goals in the consumer market."  
+Analysts said that many of Edmark's software titles, such as its newly-released Mighty Math Series, Stanley's Stickers Stories and its Thinkin' Things Series are very popular in the industry. IBM's consumer software titles, such as its recent CD-ROM based on the Pinocchio movie, have not fared well.
+"They have had mixed results," said Zwetchkenbaum.
+Analysts also that there could be more deals in the educational software market, because some of the stock prices have fallen so low and the competition is fierce. Edmark's shares once traded at a 52-week high of 43-1/2.
+International Business Machines Corp. unveiled its Internet strategy Tuesday and announced partnerships with retailers, oil companies and other companies to boost business over the global computer network and corporate "intranets."
+"We feel very, very good about the Internet as a business and about where we are going," Irving Wladwasky-Berger, the general manager of IBM's Internet division, said at a news conference.
+The Internet unit was formed less than a year ago and has become a key strategic business for the world's largest computer maker.
+IBM is helping customers develop a wide range of electronic commerce applications, including an electronic trading system, an Internet retailing outlet, and a service for buying electrical power over networks. Revenues, however, will come from the usual sources of hardware, software and services as it fuels demand for its products and services.
+"We will continue to make money the 'old-fashioned' way, by selling a lot more systems, software, services and solutions," Wladawsky-Berger said. "By leveraging our core businesses, we can sell more of what we are good at."
+He was not more specific about what kind of financial opportunity the corporate networks known as intranets and the Internet represent for IBM.
+But IBM expects the worldwide information technology industry to grow to $1.2 trillion, from $800 billion, in the next four years, with 60 percent of that growth driven by network computing, he said.
+One novel partnership IBM announced Tuesday was with Siemens AG, the German conglomerate, for the electric utility industry.
+IBM and Siemens Power Systems Control announced a service to let electric utilities use computer networks, including the Internet, to sell excess power transmission capacity. Pacific Gas and Electric Co. is the first customer.
+IBM also announced 13 additional new retailers which are joining its Internet shopping mall, called World Avenue, such as Gottschalk's, Hudson Bay, Avante Jewelry and others. Consumers can purchase goods quickly and securely via the World Avenue service on the World Wide Web, the graphical portion.
+IBM also announced PetroConnect, a network-based service for the petroleum industry, with digital databases, maps, surveys, well logs, seismic data and other geographical and geological data, for all segments of the industry.
+In another industry-specific application, IBM and partner Charles Schwab Inc. demonstrated its electronic trading system, called e.schwab, which lets customers request quotes, check account balances and execute trades on their Internet Web site, which runs on IBM's SP2 supercomputers.
+IBM also touted Lotus' Domino software, which is the next version of Lotus Notes designed using Internet technology.
+IBM said that Domino is one of the "jewels in its crown," that will be targeting the Web server software market, which market research company Forrester Research predicts will reach $9 billion by 1999.
+Lotus Development President Jeff Papows made several jabs at both Microsoft Corp. and Netscape Communications Corp. and their initial emphasis on the browser wars, but said the battle was moving to group-oriented software.
+Papows quoted Netscape's co-founder Marc Andreessen as saying that in 1997 the big war will be over groupware and e-mail. "We think Marc is right," Papows said, adding that whether they can take those markets by storm is the question.
+International Business Machines Corp. said Wednesday it agreed to buy Edmark Corp., a publisher of children's education software, for $80 million in cash in a move to focus its consumer business on learning at home.
+The world's largest computer maker said it would launch a tender offer for all of Edmark at $15.50 a share. The company, based in Redmond, Wash., where software giant Microsoft Corp. is based, makes software aimed at students in kindergarten through 12th grade.
+Analysts said the move will strengthen IBM's effort to market personal computers and software to consumers.
+"Edmark has some very valuable properties. This acquisition should be seen as one in a series of major moves that will help IBM achieve some of its goals in the consumer market," said Richard Zwetchkenbaum, director of consumer research at International Data Corp., a market research firm.
+Analysts said many of Edmark's titles, including its newly released Mighty Math Series, Stanley's Stickers Stories and its Thinkin' Things Series, were gaining popularity.
+Some of IBM's consumer software titles, such as its recent CD-ROM based on the Pinnochio movie, and other CD-ROMS with movie tie-ins, have not fared well.
+"They have had mixed results," Zwetchkenbaum said, referring to IBM.
+The deal will also give Edmark access to IBM's worldwide distribution network, which it needs to compete in the cut-throat consumer retail market, where the fight for shelf space can sometimes make or break a software company.
+Following the news, Edmark's stock jumped $3.8125 to $15.25 on Nasdaq and IBM rose $1.50 to $134.75 on the New York Stock Exchange.
+IBM said the directors and executive officers of Edmark have agreed to sell their shares.
+IBM said it plans to operate the unit under the Edmark name in Redmond, with Jim Firestone, the head of its consumer business, overseeing and directing operations. Edmark will be the core of its plans to focus more on educational computers.
+"This gives us a very strong foundation," said Firestone, general manager, IBM Consumer Division, in an interview. "We are working with a handful of other firms, but I expect Edmark to be the real core of this activity. It is a base upon which we expect to grow."
+Firestone, formerly an American Express Co. executive, was named to head IBM's newly created consumer business in July 1995. He faced the daunting task of overhauling IBM's previous forays into the home PC market, which have not gone well. Nor is it well known for its consumer software.
+As part of refocusing IBM in the consumer arena, Firestone said IBM will only choose a few places to compete, and one of those areas will be the family educational market.
+"I am not interested in the entertainment side of consumer software," Firestone said. He also said IBM's latest Aptiva home PC models introduced in September were gaining market share. The machines are being marketed as a family learning tool and Edmark software will fit with that focus.
+Analysts also said more deals in educational software could be coming since stock prices have fallen. Edmark's shares have traded as as $43.50.
+The low price that IBM paid for Edmark, "reflects the distress of the industry," said Scott McAdams, of Ragen Mackenzie. "The whole sector's fortunes have changed."
+The stock of IBM, which in recent years was derisively dubbed "I've Been Mugged," is back trading at historic highs, with many analysts and traders predicting its shares will continue to soar.
+The major rally was sparked last Friday when an influential Wall Street analyst, Daniel Mandresh of Merrill Lynch, raised his 12-month price target on International Business Machines Corp, to $195 from about $155.
+Since Friday, IBM's shares have soared 20.2 percent to 153-3/4 at Tuesday's close of market.  
+One question now among investors is whether to jump in at these levels like sheep, or wait for IBM's stock to decline.
+Market technicians and some analysts who follow IBM say that its once-beleaguered stock still has room to climb.
+Even after Friday's run-up, analyst Steve Milunovich of Morgan Stanley on Monday raised his 12-month price target to $170, from $145.
+IBM's shares are now trading at levels its shares have not seen since before the 1987 stock market crash, having in fact reached a nine-year high.  
+"It still sells at a relatively low valuation, relative to the technology sector," Milton said.
+Technology stocks typically trade at a price/earnings ratio of about 20 times their earnings estimates. But even with its intraday surge Tuesday of 7-1/4, IBM is still trading at a P/E of only about 14.2 times its trailings earnings estimates.
+IBM's shares have climbed nearly 70 percent since July 15, when it was trading around 90-7/8.  
+Market technicians, who use charts, graphs and computer analysis without considering company fundamentals, said that IBM's shares have recently broken out of two previous resistance levels on the charts, one at 128 and another at 148, and are now poised for a further uptick.
+"At these levels there really isn't much resistance, this can continue to work higher," said Susan Stern, a senior technical analyst at Smith Barney. Resistance refers to a price ceiling where a stock price consolidates.  
+"I think the primary trend remains up," said Gregory Nie, a technical analyst at EVEREN Securities Inc. "The stock is getting a little extended on a short-term basis."
+Traders seem to agree. One technology trader said he has now covered a short position in IBM. "I think the move has probably been overdone short-term, but on a valuation, it is a lot cheaper than a lot of tech stocks," the trader said. "The way it's been trading, it's got a little more to go."
+However some more bearish analysts point out that since Mandresh and Milunovich upped their price tagets on IBM's stock price, neither analyst increased earnings estimates.  
+Stephen Smith, a PaineWebber analyst, said that he believes some of the fourth quarter 1996 and 1997 earnings estimates on Wall Street for the world's largest computer maker are too high.
+"Obviously they have done a good job financially, but it's going to be a lot tougher for them going forward," Smith said, adding that he believes IBM has already seen the biggest positive swing in its earnings it will get from its transition to lower-cost mainframe computers based on CMOS technology.
+When IBM was in the midst of a huge losses, a management upheaval and restructuring, and its first dividend cuts in 1993, its shares sunk to a low of 43, where it gained the moniker of "I've Been Mugged" by many traders on Wall Street.
+Now, with a steady stream of profits and many bullish views by analysts, some market analysts are again viewing the stock as a bellwether that is also helping fuel movements in the Dow Jones Industrial average.
+The stock of IBM, years ago dubbed "I've Been Mugged," is back in style and hitting historic highs on Wall Street, where investors say shares of the world's biggest computer company can continue rising.
+The rally in International Business Machines Corp. stock started on Friday when an influential analyst, Daniel Mandresh of Merrill Lynch, raised his 12-month price target on IBM to $195 from about $155.
+Since Friday, IBM's shares have soared more than 20 percent and touched $159 on Wednesday, a level last seen before the 1987 stock market crash. Investors called the stock a relative safe haven among technology shares. IBM hit an all-time high of $175 in August 1987.
+The stock ended at $152.75 Wednesday, off $1.375, on some mild profit-taking, but the shares are still up about 68 percent since July 15, when they stood at $91.
+When IBM was losing money and restructuring, and after its first dividend cuts in 1993, the stock sank as low as $43 and gained the moniker of "I've Been Mugged" on Wall Street.
+Now, with a steady stream of profits and many bullish opinions by analysts, some analysts are again viewing the stock as a bellwether that is also helping fuel the rally in the Dow Jones industrial average.
+One question now hounding investors is whether it would be wise to jump in and buy Big Blue, or wait for the stock to decline.
+Market technicians and some analysts who follow IBM say that the once-beleaguered stock still has room to climb.
+Some analysts still have buy ratings on IBM, even at these levels, because its value remains low relative to many other technology stocks, a point IBM officials have tried to bring home to investors in recent months.
+Apparently, many on Wall Street are hearing the message, and some are encouraged by IBM's progress and double-digit revenue growth in areas such as services.
+"Investors are looking for more defensive plays with companies with solid earnings outlooks," said Bill Milton, an analyst at Brown Brothers Harriman. "It still sells at a relatively low valuation, relative to the technology sector."
+Technology stocks typically trade at a price about 20 times their estimated earnings. But even with its latest surge, IBM is still trading at a only about 14 times its current estimates.
+Technicians, who use charts, graphs and computer analysis without considering company fundamentals, said that IBM's shares have recently broken out of two previous resistance levels, one at $128 and another at $148, and are now poised for further gains.
+"At these levels there really isn't much resistance, this can continue to work higher," said Susan Stern, a senior technical analyst at Smith Barney. Resistance refers to a price ceiling where a stock price consolidates.
+"I think the primary trend remains up," said Gregory Nie, a technical analyst at EVEREN Securities Inc. "The stock is getting a little extended on a short-term basis."
+CompuServe Corp is expected to announce on Thursday that it is dissolving its Wow! consumer online service as it gives up on the consumer market and refocuses on the corporate market, industry sources said.
+A spokesman for the Columbus, Ohio based company declined to comment, saying he could not comment in advance of a "strategic announcement" CompuServe plans early Thursday.
+The struggling online services company has been under more pressure in recent months from America Online Inc, the Microsoft Corp Network and Internet access providers.
+The company plans to halt its marketing aimed at consumers and it will expand its emphasis on corporate customers in the U.S. and Europe. CompuServe will try to convert its 100,000 Wow! users to its core CompuServe Information Service and it will not abandon its current consumer users, sources said.
+But it will not make the consumer business a key focus, as it cedes to the dominant America Online, which is growing its subscriber base again, after a hiccup in growth this summer.
+Wall Street analysts said that such a move could entail some layoffs at CompuServe, and possibly a restructuring charge to cover Wow! employees who cannot be reassigned.  
+CompuServe's move comes on the heels of some recent aggressive actions by AOL to stay on top with its plans to shut down its GNN direct Internet access and its announcement to cut its workforce by 300 employees and take a $75 million charge in its second fiscal quarter.
+AOL also announced flat-rate pricing of $19.95 a month for unlimited access, bowing to the competition from Internet access providers and their flat monthly rates of $19.95.
+CompuServe's Wow! service is a flat-rate service, for $17.95 a month, but it could not be learned if CompuServe will change the pricing of its core CIS service as it dissolves Wow.  
+CompuServe hopes to move all its Wow! subscribers over to its core service by the end of January.
+"They have a separate productions staff, separate marketing, etc," said Abhishek Gami, an analyst at Nesbitt Burns Securities, adding however that CompuServe has tried to keep Wow! extremely lean and some employees will likely be moved to the main service or to SPRYNET, its Internet service.
+Since CompuServe went public in April, its prospects have dimmed, with its stock tumbling from its initial offering price of $30 a share. Its shares now trade at around $11-5/8, since it has announced losses and a drop in subscribers.  
+"They have had a whole lot of problems since they went public," said one industry source. "They need to reposition the company."
+CompuServe is the second largest online service after America Online.
+America Online Inc. said Monday it was starting a major expansion of its online network and planned to spend $250 million through the end of its fiscal year in June to build capacity and improve service.
+The nation's largest online service provider said it was upgrading its network to meet the surge in demand generated by its new pricing and recent marketing initiatives. As of Sunday, AOL began offering a new flat-rate pricing plan to its 7 million subscribers.
+AOL said it will double its system hardware over the next six months, which would grow large enough to cover nearly two football fields.
+Since September, AOL has doubled its electronic mail capacity and its capability to connect users to the Internet's popular World Wide Web.
+An America Online spokesman said that despite heavy usage over the Thanksgiving holiday weekend, there were no serious problems with its online network.
+The Dulles, Va.-based company said that since July 1, it has added tens of thousands of new modems to AOLnet, which it said was the world's largest dial-in network. The expansion is to accelerate through the spring with tens of thousands of new modems being installed monthly, it added.
+AOL, the world's largest online service, recently sent out postcards to its members about the new pricing plan of $19.95 a month for unlimited use of the service.
+The postcards also warned members that the company expected a slowdown in its service during peak hours on Sunday, as users celebrated the flat-fee by going online for hours. "There were no serious problems," the spokesman said.
+Analysts said with more new users expected, AOL needs to upgrade its network, especially after its nearly 19-hour outage on Aug. 7, which happened during regular maintenance caused by a software glitch and angered many users.
+Already this quarter, AOL's subscriber growth is on the rebound, and in October, the company added 275,000 new members. In the summer, AOL was hurting from a slowdown in subscriber growth.
+The online service provider did not make any further mention of the recent investigation into its pricing policy by the attorneys general of about 18 states.
+Last month, AOL said it had received inquiries from states' attorneys general expressing concern with how it was implementing and disclosing the new pricing plans to members. A spokesman said at the time that its plan and the implementation was "fair in every sense."
+Last week, the attorney general of the state of Washington signed a letter of agreement with AOL, resolving allegations that AOL had violated Washington's Consumer Protection Act by planning to bill subscribers the new $19.95 rate for unlimited service, without their positive assent to it.
+AOL agreed to notify customers of the upcoming price changes by using a "pop-up" screen which appears when members sign on. Customers must choose one pricing plan by March 31.
+Several U.S. computer retailers reported a sluggish start to the big holiday season, with November sales showing ongoing weakness and heavy promotions, which may bode poorly for sales of consumer PCs this quarter.
+But retailers also noted in their monthly reports that the November holiday shopping season was shorter this month, because of the late Thanksgiving holiday weekend in the U.S.
+"Bad would be a better word than sluggish," said Stephen Baker, a retail channel analyst at International Data Corp. "Promotional is a code word for lower profits."  
+Circuit City Stores Inc, the largest retailer of brand-name consumer electronics and a leading retailer of personal computers, said that industry sales remained weak.
+The Richmond, Va.-based company reported an eight percent increase over total November 1995 sales, but its comparable store sales fell eight percent in November.
+"Industry sales trends remained weak and promotional activity intensified," said Richard Sharp, Circuit City's chairman and CEO, in a statement.
+Best Buy Co Inc, based in Minneapolis, said that the PC category "became more promotional in November."  
+"Third quarter sales were well below earlier expectations," said Allen Lenzmeier, Best Buy chief financial officer. Third quarter sales were up four percent.
+But for the four-week period ending November, Best Buy's comparable store sales in the month of November fell eight percent, versus an increase of 15 percent last November.
+"The numbers in general in computer retailing were pretty weak," said Tom Courtney, a Montgomery Securities analyst. He estimates that in the computer category at Circuit City, for example, November sales fell 20-25 percent. "Those data points suggest that it's pretty weak out there."  
+"We think that what's happening is there is a big shift to the direct channel," Courtney added, referring to direct resellers such as Dell Computer Corp and Gateway 2000 Inc, which sell PCs through phone and mail order.
+Analysts said that the big surge in PC sales this fourth quarter is expected to come from sales to the corporate sector instead of the typcially money-losing consumer arena. And there are no major innovations this quarter driving consumers into the stores for a "must have" purchase of a PC.
+"The market of first-time buyers seems to be shrinking," said Baker of IDC, which is based in Framingham, Mass.  
+"You've already gotten a PC into the homes that can afford a decent quality PC.  The rest of the households say it's either too much or what am I going to do with it," Baker said.
+"This is the first Christmas in a few years when there hasn't been a really compelling new reason to buy a PC," said Nick Donatiello, president of Odyssey LP, a market research firm in San Francisco. "Last Christmas and the year before you had CD-ROMs, fast modems, the Internet and new Pentium chips."
+Tandy Corp was lukewarm about the start of the season.  "Traffic in our stores was very good the first few days after Thanksgiving," CEO John Roach said in a statement.  
+Tandy's comparable store sales in November at its RadioShack outlets were down five percent, Computer City was up three percent and its Incredible Universe superstore sales were flat.  Total comparable store sales in November were down two percent from the prior year.
+But some analysts who follow personal computer hardware makers are not terribly worried by the sluggish retail environment, because they are looking to corporate sales for the bigger profits this quarter.  The consumer sector, fraught with price cuts, is still barely profitable for some.  
+Even before Thanksgiving, industry leader Compaq Computer Corp cut prices on its Presario home PCs by up to 21 percent. Analysts said Sony cut prices on new PCs.
+"I don't think it means a lot," said Andrew Neff, a Bear Stearns analyst, of the sluggish start to the holiday season. "People are in no hurry to buy."
+Neff added that this year, PC makers are expecting corporate sales to be the driver of PC growth, not consumer sales. Dataquest Inc has predicted that the PC market will grow at about 19.7 percent worldwide in 1996, which is still strong but is a slower growth rate than the record growth of 24.7 percent growth in 1995.
+"I just view anything that happens in retail as icing on the cake," Neff said.
+Computers appear to have taken a back seat this holiday season to gifts of other sorts as several computer retailers this week reported a sluggish start to the big holiday season.
+Among major computer retailers, November sales showed ongoing weakness and heavy promotions, and analysts said this combination may bode poorly for sales of personal computers to consumers this quarter.
+"Bad would be a better word than sluggish," said Stephen Baker, an analyst at Framingham, Mass.-based International Data Corp. "Promotional (discounting) is a code word for lower profits."
+Retailers noted, however, that calendar quirks made some year-to-year comparisons look negative because Thanksgiving, the traditional start to the holiday shopping season, was later this year.
+Circuit City Stores Inc., the largest retailer of brand-name consumer electronics and a leading retailer of personal computers, said that industry sales remained weak.
+The Richmond, Va.-based company reported an 8 percent increase over November 1995 sales, but at stores open at least a year sales fell 8 percent compared with a year earlier.
+"Industry sales trends remained weak and promotional activity intensified," said Richard Sharp, Circuit City's chairman and CEO, in a statement.
+Best Buy Co. Inc., based in Minneapolis, said that there were more discounts in the PC category in November.
+"Third quarter sales were well below earlier expectations," said Allen Lenzmeier, Best Buy chief financial officer. Third quarter sales were up 4 percent.
+But for the four-week period ending November, Best Buy's sales in stores open at least one year fell 8 percent, compared with an increase of 15 percent last November.
+"The numbers in general in computer retailing were pretty weak," said Tom Courtney, a Montgomery Securities analyst. He estimates that in the computer category at Circuit City, for example, November sales fell 20 percent to 25 percent.
+"We think that what's happening is there is a big shift to the direct channel," Courtney said, referring to companies such as Dell Computer Corp. and Gateway 2000 Inc. that sell PCs through phone and mail order.
+Analysts also cited increased interest in apparel this holiday season, following years of heavy buying of all sorts of home electronics -- from computers to satellite dishes to audio and video products.
+"This is the first Christmas in a few years when there hasn't been a really compelling new reason to buy a PC," said Nick Donatiello, president of Odyssey LP, a market research firm in San Francisco. "Last Christmas and the year before you had CD-ROMs, fast modems, the Internet and new Pentium chips."
+"The market of first-time buyers seems to be shrinking," said Baker.
+"You've already gotten a PC into the homes that can afford a decent quality PC.  The rest of the households say it's either too much or what am I going to do with it," Baker said.
+Tandy Corp. was lukewarm about the start of the season. "Traffic in our stores was very good the first few days after Thanksgiving," Chief Executive John Roach said in a statement.
+Tandy's November RadioShack sales for stores open at least one year were down 5 percent; Computer City was up 3 percent and Incredible Universe superstore sales were flat.
+Some analysts said they were not worried by the sluggish retail sales, because they were looking to corporate sales for the bigger profits this quarter. The consumer sector, fraught with price cuts, is still barely profitable for some companies.
+Even before Thanksgiving, industry leader Compaq Computer Corp. cut prices on its Presario home PCs by as much as 21 percent. Analysts also said Sony cut prices on new PCs.
+"I don't think it means a lot," said Andrew Neff, a Bear Stearns analyst, of the sluggish start to the holiday season. "People are in no hurry to buy."
+Neff said this PC makers expect corporate sales to be the driver of PC growth, not consumer sales. Dataquest Inc. has predicted that the PC market will grow at about 19.7 percent worldwide in 1996, still strong but behind the record growth of 24.7 percent growth in 1995.
+"I just view anything that happens in retail as icing on the cake," Neff said.
+Philip Zimmermann, a computer programmer and cryptographer who was investigated by the U.S. government for three years because his encryption software given away over the Internet was classified as a weapon, is going mainstream with the hopes of making money.
+At this week's Internet World trade show in New York, Zimmermann, who has become a hero among the Internet cognoscenti after his battle with the government will unveil his company, a private firm called Pretty Good Privacy Inc. and two security software products for Internet users, aimed at protecting privacy in cyberspace.
+Zimmermann's original data scrambling software, also known as encryption software, is already being used by more than 2 million users since Zimmermann first began distributing it over the Net in 1991.
+PGP Mail, as the product is called, scrambles electronic mail, which can be unscrambled by the designated recipient.
+But Zimmermann's software was so powerful that it attracted the attention of the U.S. Justice Department and the Department of Commerce. Its encryption was stronger (and harder to crack) than the legal limits set by the United States for export and was therefore considered a munition.
+Last January, the United States dropped its investigation of Zimmermann, without ever saying what it was investigating, after three years of intense scrutiny.
+"It was like a sword of Damocles hanging over his head," said a spokesman for PGP, based in San Mateo, Calif.
+Now, as Zimmermann goes from a "shareware" model of giving the software away for free, into a real commercial venture, he joined with some heavy hitters in Silicon Valley. Jonathan Seybold, a noted industry analyst, is a founder of Pretty Good Privacy, as is Dan Lynch, who founded the InterOp trade show. Other executives who recently joined the company include Phil Dunkelberger, formerly vice president of marketing at Symantec Corp. Inc. and Tom Steding, most recently of 3Com Corp..
+PGP so far is privately funded, with no venture capital help, even though some venture capitalists offered to become investors. The company has also purchased two other small software firms, whose products make a good match with PGP's.
+For example, PGP acquired ViaCrypt, which was the company Zimmermann licensed PGP software to while he was under federal investigation. Now with ViaCrypt's enhancements, PGP Mail is even easier to use and will "plug in" easily to popular electronic mail packages, such as QualComm Inc.'s Eudora Mail.
+PGP Mail, because of its heavy encryption, still cannot be used outside the United States, but it can be used to send mail within the United States and Canada. It has the strongest encryption available, using mathematical algorithms to encode the data that can be as big as 3,072 bits long, which is considered military-grade.
+Currently, the United States allows software with 128-bit encryption to be exported, but that is only if the users will provide a key to decipher the data.
+Pretty Good Privacy will also introduce a product called the PGP Cookie Cutter, based on software from a company it bought called PrivNet, of Chapel Hill, N.C., but now moving to San Mateo as it merges with PGP, which has about 60 employees.
+The PGP Cookie Cutter lets a user selectively block the so-called "cookies" on the Internet, which monitor his or her Web visits. Cookies are data files which track where a user has been and what the user is doing on the World Wide Web. They are increasingly used by companies and advertisers to monitor and accumulate Internet user data.
+Both products will be commercially available next year.
+A subsidiary of construction and engineering giant Bechtel Corp. said Monday it will unveil a new Internet gateway Tuesday as it seeks to break what it says is an oligopoly consisting of the phone companies that manage most of the world's Net hubs.
+Genuity Inc. said the gateway, known as a network access point, and a new service dubbed Hopscotch would relieve the traffic jams now bedeviling the Internet, resulting in faster, more reliable Internet service for consumers and corporations.
+The network access point, which will be based in Phoenix, and Hopscotch, will be formally announced at the Internet World trade show in New York, San Francisco-based Genuity said.
+There are now about eight major network access points, which funnel and route most of the world's Internet traffic. Network access points also allow smaller Internet access providers to gain access to the Net and have recently suffered heavy congestion.
+Six major network access points are in the United States: San Jose, Calif.; Washington; Chicago; Los Angeles; Palo Alto, Calif.; and the New York area.
+Until mid-1995, the National Science Foundation funded four of the biggest U.S. access points. But, with the NSF no longer funding the Internet, these gateways are operated by "Baby Bell" regional phone companies or long-distance phone companies.
+"That's why we believe tomorrow will be a new day for the Internet," Rodney Joffe, chief technology officer of Genuity, said in an interview.
+Joffe said that both the Baby Bells and the long-distance providers make money by charging the big Internet service providers $2,500 to $5,000 monthly for acess to the Net.
+However, he said the phone companies were not making the investments needed to support the growth of the Internet.
+Genuity said it will make its new network access point a not-for-profit operation in the hopes that it will gain many customers for its network hosting services. Genuity said it was not charging Internet service providers rent or connection fees at its Phoenix center.
+Genuity said it hoped to build more facilities like the one in Phoenix.
+"We will invest whatever it takes," Joffe said. "We are not making any friends among the telcos (phone companies), but we are making friends among corporations and government users."
+A spokesman for MCI Communications Corp., one of the three main providers of the core Internet backbone, said MCI always welcomes more companies adding to the Internet. MCI does not manage a network access point.
+Pacific Telesis Group, which manages a network access point, recently said its local telephone service was suffering due to massive Internet usage in California, which was experiencing heavy congestion at its network access point.
+PacTel officials were not immediately available to comment on Genuity's statement.
+"The story that Joffe tells is quite exciting and quite responsive to the problems on the Internet," said Bob Metcalfe, founder of computer network power 3Com Corp. and most recently an outspoken columnist on the subject of Internet congestion. "The things they are proposing to do for the Internet are badly needed."
+Genuity hopes to sell its network services, including its Hopscotch service -- a Web site hosting service with advanced features -- to businesses. It is aimed at companies selling over the Internet, news services and major corporate Internet sites. Already, Genuity said it has 35 customers, including C/Net Inc., the Internet-based news service that focuses on technology.
+Genuity said its Hopscotch service was available immediately, starting at $5,000 per month, for customers who want to design and start up large-scale Web sites.
+Bechtel, the engineering and construction giant also based in San Francisco, purchased a majority interest in Genuity in November for undisclosed terms.
+Home use of the Internet's World Wide Web has more than doubled in the last year, with about 11 percent of U.S. households claiming to have used the Web in the last month, according to a study by PC-Meter.
+The market research company said 11 percent of all 98.7 million U.S. households was equivalent to about 11 million homes and was up from 4.4 percent (or 4.3 million) a year ago.
+In addition, 13.9 percent of households claimed to have used some type of Internet access service in the last month.
+Twenty-five percent of these home Web users now visit shopping sites, PC-Meter's audience rating reports show.
+According to PC-Meter's audience rating report, of the cybershoppers, men represented the highest percentage of users. In September, for example, 62.8 percent of Web surfers were men and 37.2 percent were women.
+Four basic types of shopping are represented in the top 10 shopping sites; free software downloads, interactive auctions, clubs that sell to members and retail operations.
+"These cybershopping statistics suggest that home surfers are increasingly finding value in electronic commerce opportunities offered on the Web," Pamela Smith, a vice president of PC-Meter, said in a statement. "With the holiday season upon us, the greatest growth to date at these sites may well occur during the coming weeks."
+Shareware.com, a software service of online publisher C/NET Inc., was the top consumer shopping site on the Web, PC-Meter said, followed by Columbia House Co., which sells music CDs, computer CD-ROMs, videotapes and laser disks; and ZDNet's Software Library of shareware.
+Columbia House and ZD Net were tied for the second most popular consumer shopping site. CUC International Inc., which offers discounts on a wide range of consumer goods and services, is the third most popular site and has the highest percentage of women among the top shopping sites.
+Other top shopping sites included Amazon.com, at No. 5, which is a cyber-book store with more than 1 million titles to choose from. Surplus Direct was No. 6, with sales of computer hardware and software.
+Coming in as the 10th most popular shopping site was Onsale, an auction site for computer hardware, software and consumer electronics. Onsale also led the category in minutes of usage per month, averaging 41.99 minutes per person per month.
+PC-Meter said its results on home Internet use came from an October survey of 9,928 personal computer-owning and non-PC-owning homes. The survey is conducted on a quarterly basis. Its audience rating report is done monthly.
+PC-Meter LP is a subsidiary of the NPD Group Inc., a privately held company based in Port Washington, N.Y.
+Netscape Communications Corp. and five regional Bell phone companies said Tuesday that the five "Baby Bells" will use Netscape's Navigator software as the main browser for their Internet access businesses.
+Participating in the deal with Netscape were the Internet access units of Ameritech Corp., Bell Atlantic Corp., BellSouth Corp., Pacific Telesis Group and SBC Communications Inc..
+The move was seen as a much-needed boost for Mountain View, Calif.-based Netscape, which has seen its popular Navigator software become the secondary browser to Microsoft Corp.'s Internet Explorer as the software behemoth made big inroads with the biggest online services.
+"A few months ago, they (Netscape) announced a focus on the corporate marketplace," said Abhishek Gami, an analyst at Nesbitt Burns Securities. "This is a little reminder from them that they are still a big player in the consumer marketplace."
+This year, America Online Inc, and CompuServe Inc. have forged deals with Microsoft to make Internet Explorer their primary Internet browser, and in return the online services have gained a spot on the Windows 95 desktop.
+"It's a very good boost of confidence for Netscape, which has seen a very large defection from the online services," said Peter Krasilovsky, an analyst at Arlen Communications Inc. in Bethesda, Md.
+Netscape shares jumped $3 to $63 in heavy trading on Nasdaq.
+Together, the five Bell companies represent a potential market of 72 million consumers and businesses in 26 states, including Washington, D.C., and 15 of the nation's 20 largest markets.
+Bell Atlantic said it also has an agreement with Microsoft and that it will begin offering Internet Explorer as an option to its customers in the first quarter of 1997.
+Robert Beran, president of Bell Atlantic's Internet unit, told reporters in a conference call that the arrangement gives the phone companies a new way to market their Internet services via Netscape's Web site. He also said it gives new Net users a way to find another Internet service provider.
+But analysts also pointed out that the five Baby Bells combined represent under 100,000 Internet users. Ameritech of Chicago still has not yet introduced its Internet service, but said it will do so "reasonably soon."
+Pacific Bell, has the biggest Internet access business of the five, with 51,000 members at last count.
+The agreement includes a feature to simplify how computer users select an Internet service provider, or ISP.
+Users running Netscape Navigator would be able to contact their telephone company's Internet service provider through the new Netscape ISP Select feature on Netscape's Web site, the companies said. After users enter their area code and phone number, they will be presented with a list of service providers with coverage in their particular area.
+Netscape said the ISP Select service will allow people to set up a personal Internet account and establish an Internet connection easily and quickly. In addition, phone company customers would have free access to newspaper and magazine content from the Netscape In-Box Direct service, in which personalized publications arrive via e-mail.
+Netscape In-Box is a service recently introduced by Netscape to provide information from 40 selected content providers. The company said that since it was launched just a few months ago, its In-Box service has obtained more than 1.5 million subscriptions.
+The ISP Select feature will be available on Netscape's Web site, with its Personal Navigator edition that is sold in stores, and will be bundled with some PCs.
+They said future plans include offering the ability for ISP Select users who choose their local telephone company's Internet access service to have their Internet fees billed directly to their phone bills.
+Sun Microsystems Inc said it will announce on Wednesday an initiative with several industry leaders to standardize its popular Java programming language, which is widely used to develop Internet software.
+Sun said International Business Machines Corp, Apple Computer Inc, Netscape Communications Corp, Oracle Corp and others support its initiative, which will guarantee a program is "pure Java."
+The move comes amid recent industry talk that the Java language could become fragmented with multiple versions.  
+Recently, there have been a spate of reports in the computer industry trade press about fears that Java -- which enables software developers to write an application in the Java language and it will run on any computer system -- will become fragmented like the UNIX operating system.
+There are now at least twenty different versions of UNIX, which was developed by AT&amp;T Corp as a high-performance operating system for networked computers, and these multiple versions prevented its widespread industry adoption.
+"There has been a great deal of concern about Java splintering," said Jon Kannegaard, vice president of software.  
+The brouhaha started at Comdex, the industry's biggest trade show, when Microsoft Corp announced plans to develop several programming interfaces and tools for the Java language. The resulting programs developed with their software programming tools would run only on its Windows software.
+"There really will be a tug and we are making sure that you don't give anything up by going with the 100 percent pure solution," Kannegaard said.
+Wednesday, Sun will unveil what the "100 Percent Pure Java" initiative, which will provide education for the industry, developer assistance and program certification.  
+In the first quarter of 1997, Sun will introduce testing, certification and branding for applications that pass its criteria. Sun, IBM, and Netscape will launch a worldwide educational tour aimed at training software developers to write and test Pure Java applications.
+Sun said that it hopes its initiative will help contribute to the momentum that has been building all year around Java, a language it originally developed for interactive television.
+"If we think of 1996 as 'the year of Java, the platform,' then we should think of 1997 as 'the year of Java deployment,'" Kannegaard said.  
+Sun said that a recent survey by Morgan Stanley indicated that 75 percent of the corporations interviewed were developing, or had plans to develop applications using Java.
+Java - which is widely used to develop World Wide Web sites and content on the Internet - lets developers write a program once that will run on any system compatible with Java. Developers can also easily add animation and other features.
+Over 200,000 software developers are now writing applications in Java. Sun said it will spend millions of dollars on its 100 Percent Pure Java program. Sun's JavaSoft unit is leading the initiative to standardize Java.
+International Business Machines Corp. Chairman Louis Gerstner on Wednesday warned the computer industry of a backlash against the Internet as confusion and feuding reigns among corporate rivals.
+"A lot of what has gone on is just plain confusing," Gerstner said in a keynote speech at the Internet World trade show in New York. "I wouldn't be surprised to see an Internet backlash soon."
+He said industry wars over Internet browser software, programming languages, hardware and continuing hype may contribute to corporate and consumer disillusionment about the Internet.
+"As an industry, we are not shy about telling people how beautiful our babies are, long before they are born," Gerstner said, adding that customers have to sort out the hype and "food fights" by sparring companies.
+Gerstner said many were wondering where money is to be made on the Internet amid what he characterised as hype that seems to be leaving out customers and their needs.
+"People ask 'Is there real money to be made on the Internet?' and I say, 'Yes there is,'" Gerstner said, adding that money will be made by companies that can solve customers' problems and make it easy to do things like banking on the Internet.
+Gerstner said IBM's approach to the Internet was to work closely with customers and develop the products they need, such as its work with the discount brokerage Charles Schwab, which now offers stock trading over the Internet.
+"Schwab expects to capture as many customers with the Internet over the next year as they have over the past 13 years," Gerstner said.
+One of the industry "food fights" that Gerstner singled out was Microsoft Corp.s effort to develop software based on Sun Microsystems Inc.'s Java language to design programmes that only run on Microsoft's Windows operating system.
+The Java language has been much heralded in the computer industry because of its "write-once, run-anywhere" capability, which lets programmes written in Java run on any computer system. Because of this feature, Java has become a popular programming language for the Internet and networked computers.
+"Let's not blow this," Gerstner said. "Let's not do to Java what the industry did to Unix," the high-performance operating system which splintered off into more than 20 versions.
+At Internet World on Wednesday, Sun Microsystems unveiled an alliance with IBM and other major companies, which are all backing a move to standardise and certify one version of the Java language.
+"Gerstner is taking his guidance from customers and not from industry conflicts," said Sam Albert, an industry consultant based in Scarsdale, N.Y. "He did a lot to de-hype the industry."
+Gerstner also reiterated his plea that the industry make things easier for users. He showed a video of IBM's voice recognition technology, which enables computer users to give simple commands to surf the World Wide Web.
+He said IBM's voice recognition software for the Internet is now available in beta, or experimental form, and that users could download it for free, starting Wednesday, from IBM's Web site, http://www.ibm.com.
+One of the hottest topics this week at an Internet show is so-called "push technology," which directly broadcasts customized news to a networked PC, but it is also already seen as the next area ripe for a shakeout.
+Internet broadcasters are lead by companies like PointCast Inc., a privately-held firm in Santa Clara, Calif., which announced a major deal with Microsoft Corp on Tuesday.
+PointCast of Cupertino, Calif., and several other start-up companies deliver customized news, or specific Web sites, depending on the service, to consumer or corporate users, several times a day, so that a user doesn't have to go to the Internet and wait, the content is delivered.
+"Making the Internet a broadcast medium is a direction that a lot of companies are going in, but that's already really crowded," said Ted Julian, an analyst with IDC Corp.
+At Internet World, there are several privately-held push technology companies that are exhibiting and demonstrating their service, and trying to differentiate themselves amid all the hype about Internet broadcasting.
+PointCast was the first company to develop these systems, called personalized broadcast systems, and it now has 1.7 million subscribers. It delivers news from the New York Times, the Boston Globe, Reuters Holdings Plc, and now, MSNBC, the online venture of Microsoft and General Electric's NBC.
+PointCast and most of the other startup companies all operate on the same model, which is an advertising-based model. These companies sell advertising space on their service and offer the service for free to subscribers. By building up lots of subscribers, they can gain more advertising revenue.
+The deal PointCast signed Tuesday with Microsoft has the potential to significantly expand its subscriber base, because PointCast will become part of its next generation desktop software.
+The Boston-based Yankee Group said in a study to be soon released that the Internet broadcasting market will significantly affect the way companies collect advertising dollars on the World Wide Web.
+Yankee is predicting that by 2000, Internet broadcasting will be worth $5.7 billion in revenues.
+But with many more companies arriving on the scene and Microsoft and Netscape Communications Corp getting into this market, consolidation in on the horizon, because media companies will not want to develop a channel for each delivery system, most of which for now are proprietary.
+"There is no way I am going to download all four of these, and I am in the industry," said Jerry Yang, one of the founders of Yahoo! Corp. "This is a huge issue."
+Even the players themselves are also predicting a shakeout, but each company predicts it will be one of the winners.
+Some of the other players include Freeloader, which was recently purchased by Individual Inc. Freeloader lets subcribers customize whatever Web sites they want delivered to their desktop, plus the news that is available on Individual.
+"Clearly there will be a big shakeout," said Sunil Paul, president of Freeloader. "PointCast clearly stands out and we will be one of them (survivors)."
+Another talked about startup, called IFusion, is offering television-like content with video and audio in its service which will be introduced early next year, called Arrive. The company also offers development for media companies.
+"Ultimately there will be some sort of shakeout and we will be left standing," said Candice Meyers, director of content development at IFusion, based in New York.
+International Business Machines Corp. said Friday it was reorganizing its global sales and services businesses under a single brand, IBM Global Services.
+IBM's services business has operated under various names outside the United States and the move should help clarify the IBM brand as well as boost efficiency, the company said.
+The Armonk, N.Y.-based computer giant also named Lucio Stanca, general manager, global marketing operations.
+Stanca, who has headed IBM operations in Europe, the Middle East and Africa since the autumn of 1994, will continue as chairman of that operation, based in Paris. In his new role, he will head a new direct-marketing effort around the world using the new structure and single brand name.
+Previously, IBM's direct marketing efforts have been in various regions without a consistent focus, analysts said. The efforts include direct mail, telemarketing and electronic marketing via the Internet in 159 countries.
+Separately, IBM said it and its partners will discontinue development of Microsoft Corp.'s Windows NT software to run on systems using the PowerPC chip IBM developed with Motorola Inc. and Apple Computer Inc.
+IBM was working with Microsoft and Motorola to develop a version of Windows NT for the PowerPC chip, but an IBM spokesman said that they will no longer develop the product.
+Analysts said the Power-PC-based systems running Windows NT were not very successful for IBM.
+Succeeding Stanca as general manager of Europe, Middle East and Africa is William Etherington, who was general manager of IBM Industries, which manages 11 industry-specific business units.
+The industry units will now be managed by David Thomas, who was general manager, IBM North America. In his new role, Thomas will be responsible for IBM's industry-specific strategies and performance.
+He will be succeeded in North America by John Thompson, who had been general manager of IBM's personal software products including the beleaguered operating system OS/2. No successor was named.
+An IBM spokesman said a replacement will be named for Thompson.
+"Some people are saying, what does this mean for OS/2?" said the IBM spokesman. "It means no change whatsoever in strategy. We have not selected anyone yet."
+While the OS/2 software has made inroads with about 13 million users, according to IBM, it is still a small share of the world personal computer market, dominated by Microsoft Corp.'s Windows operating system.
+IBM stock rose $1.25 to $152.875 on the New York Stock Exchange in late trading after falling on profit-taking in recent sessions.
+Electronic commerce over the Internet - buying airplane tickets, music CDs, or clothes with a credit card - is not fiction anymore.
+But security and other concerns hampered the Internet from becoming an international shopping mall in 1996, and security remains an issue for 1997.
+Electronic commerce in 1996 was not quite as robust as some firms had anticipated, as delays in developing the software to secure credit card transactions on the Net kept merchants and consumers at bay. E-commerce is still in its infancy and likely to explode toward the end of the century.
+"This was kind of a building year," said Scott Smith, a Jupiter Communications analyst. "Many consumers are just starting to get online, merchants are trying to still figure out how to present themselves online."
+According to Jupiter, total revenues generated from all consumer shopping over the Internet and online services will reach about $1.2 billion in 1996. The revenues are expected to almost double next year, to $2.3 billion.
+Jupiter, a New York market research firm, forecasts 1999 revenues to jump to $5.5 billion and to $7.3 billion in 2000.
+Travel and the direct distribution of electronic products, such as PCs, software, etc., are the two biggest categories of electronic commerce right now, Smith said, with travel making up about half of the $1.2 billion in 1996 commerce revenues.
+Most of the giant retailers are sitting by the sidelines, watching and waiting for the security to be in place and to see what some of the catalog merchants and other more daring retailers are doing on the Internet, where there are many opportunities to save costs, keep inventories low and target customers with specific products aimed at their profiles.
+"It's inventing whole new ways of selling stuff," said Irving Wladawsky-Berger, the head of International Business Machines Corp.'s Internet division.
+IBM has developed a shopping mall called World Avenue, where mostly speciality retailers have storefronts.It also includes Express, the popular unit of Limited Inc.
+But still, Internet shopping is not viewed by consumers as completely safe. A recent study by O'Reilly &amp; Associates of Sebastopol, Calif., reported that fewer than 1 percent of all public World Wide Web sites are fully able to host secure transactions.
+"It's easy enough to know that if you get a warning from your browser that what you are about to do is dangerous...that this is a deterrant," said Richard Peck, a vice president at O'Reilly "Commerce readiness is an issue of consumer trust, confidence."
+Credit card companies MasterCard International and Visa International have been working together since last February on software to secure credit card transactions, using data encryption (scrambling) techniques and authentication software to ensure identities of the consumer, the merchant and the Web site.
+But the software development is behind, analysts and industry executives said, even though the protocols (the roadmap for software developers) called the SET (secure electronic transaction) specification have been published.
+The companies had said in February they expected banks to be able to offer secure bankcard services via the Internet to their cardholders in the fourth quarter 1996.
+"They have totally blown that deadline out of the water," Smith of Jupiter said. "There was a bit of hype about it originally that made people think it would be done really fast." Smith said the development has many diverse layers.
+"There are issues that have to be sorted out. It probably won't be until 1998 when it is fully implemented," Smith said.
+Visa did not return a call seeking comment. A spokesman for MasterCard in Purchase, N.Y. said that the companies remain "on track" with their original timeframes, but that MasterCard had no news since a recent announcement.
+Last month, MasterCard purchased 51 percent of Mondex International Inc., a leading electronic payment system using a payment card called a smart card, which are like electronic wallets. A group of banks and AT&amp;T endorsed the electronic cash card, with pilot testing already going on in some cities.
+Smart cards will likely become one of the many ways consumers pay for purchases online. PCs will have built-in smart card readers, specifically designed for online buys.
+So while the SET software is still in development, companies are finding other ways to do transactions.
+CyberCash, which is also a partner working on the SET transaction system, is providing encryption software for America Online Inc's Web hosting service, so that small or large companies selling goods can have a secure credit card payment system, based on data encryption software currently available.
+"SET isn't really all there yet," said Doug McKee, manager of Web server development at AOL. "Cybercash has a system that is like a proprietary version of SET...I don't think there is a reason to wait."
+Some companies are not waiting. While the big retail giants slowly enter cyberspace, a new breed of Internet retailers and brands are being born, like Amazon.com, the popular site bookseller and Onsale.com, an auction house for computers and consumer electronics goods.
+Digital Equipment Corp.'s top executives host computer industry analysts Tuesday, hoping to impart a view of a brighter future and re-ignite interest in the company's downtrodden stock on Wall Street.
+Analysts expect the Maynard, Mass.-based computer maker, which just last month reported a big fourth-quarter loss and restructuring charge, to focus on its long-term direction and goal of reaching operating margins of 6-7 percent of revenues.
+"They are going to talk about their vision of the future," said Gary Helmig, a SoundView Financial Group analyst.
+He said Digital will likely focus on its growth areas, such as servers designed on its fast Alpha chip that run Microsoft Corp.'s Windows NT software, prospects for its computer services business, growth in semiconductors and its plans to spin off part of its Alta Vista Internet unit.
+But after Digital's most recent loss, Wall Street will likely also be looking for any forecast for the first quarter, in which some analysts project a loss.
+In the fourth quarter ended June 30, Digital reported a loss of $433 million, or $2.87 a share, after taking a $492 million restructuring charge for job cuts and plant closings.
+Morgan Stanley analyst Steve Milunovich recently wrote in a report that the first fiscal quarter is off to a slow start.
+"Management indicated that first quarter is off to a slow start, likely due to short-term disruption from sales force changes," Milunovich said. "A loss appears increasingly likely."
+According to First Call, which monitors Wall Street earnings estimates, the consensus estimate for DEC's first quarter is a loss of 3 cents a share.
+Many analysts expect the tone of the meeting to be positive, as Digital executives highlight the company's strengths and growth opportunities. But they are also hoping for some hints at Digital's fix-it plans for its PC business.
+"The story for the Alpha server business, the networking business, the storage business and the semiconductor division is quite encouraging," John Jones of Salomon Brothers said in a report to clients. "But PCs are a big overhang currently."
+In the fourth quarter, Digital's PC business lost more money than it had previously expected, estimated around $90 million, and analysts said speculation is "rampant" that Digital is looking for a manufacturing partner to help shave costs in PCs.
+But Digital is not expected to make any announcements on the unit, other to confirm that it is seeking a manufacturing partner.
+"They will talk about how they are going to change the sourcing of their PCs," Helmig said. "They will talk about the fact that they are doing it, but they won't be able to announce what they are doing. They haven't dotted the I's and crossed the T's."
+Analysts said one of Digital's biggest opportunities for improving gross margins is in services, which had margins of 32 percent of revenues in 1996. Services is also a growth engine for International Business Machines Corp..
+They will also be eager for details on Digital's plans to spin off 20 percent of its Alta Vista Internet software unit.
+Alta Vista is Digital's popular and powerful search engine for finding entries on the Internet's vast World Wide Web.
+Digital plans to retain 80 percent of the unit, which will also develop other kinds of Internet software, aiming to capitalize on the Alta Vista brand name.
+Analysts said the motive behind spinning off part of Alta Vista is likely that its shares may do better if they trade separately from Digital, which has seen its stock drop from a high of 76-1/2 in February to 38-5/8 on Friday.
+One of the hottest topics at a recent Internet trade show was so-called "push technology," which directly broadcasts customised news to computer users hooked up to the Net -- but is also seen as the next area ripe for a shakeout     Internet broadcasters are led by companies
+like privately held PointCast Inc., which announced a major deal with software giant Microsoft Corp. early last month.
+Cupertino, Calif.-based PointCast and several other start-up companies deliver customised news -- or specific Web sites, depending on the service -- to consumer or corporate computer users, up to several times a day.
+In other words, instead of searching the Web for the information they want, computer users have it sent directly to them.
+The Yankee Group, a Boston research firm, predicts that by the year 2000 Internet broadcasting will be worth $5.7 billion in revenues. It now represents about $10 million in revenues a year.
+"Making the Internet a broadcast medium is a direction that a lot of companies are going in, but that's already really crowded," said Ted Julian, an analyst with IDC Corp.
+At the Internet World trade show, four of the best-known push technology companies exhibited and demonstrated their services, trying to differentiate themselves amid all the hype about direct Internet broadcasting.
+But analysts said there are anywhere from 20 to 30 start-ups in this burgeoning area, as many companies are betting the concept will further change the World Wide Web and gain new advertiser interest.
+"This is the new Web," said Steve Harmon, senior investment analyst at MecklerMedia Corp., host of the Internet World show.
+PointCast was the first company to develop what are called personalized broadcast systems, and it now has 1.7 million subscribers. It delivers news from The New York Times, Boston Globe, Reuters Holdings Plc., and now MSNBC, the cable television-online news venture of Microsoft and General Electric Co.'s NBC.
+PointCast and most of the other start-up companies operate on the same advertising-based model. They sell advertising space on their service and offer the service for free to subscribers.
+By building up lots of subscribers, they can gain more advertising revenue.
+The deal PointCast signed with Microsoft has the potential to significantly expand its subscriber base because PointCast will become part of Microsoft's next-generation computer desktop. Microsoft plans to incorporate its Internet Explorer Web browser in its next version of its Windows operating system, which dominates its market.
+In a study last month, the Yankee Group said the Internet broadcasting market will significantly affect the way companies collect advertising dollars on the Web.
+"The Web is hitting a wall" in terms of people signing up for paid subscriptions for information, said analyst Melissa Bain of the Yankee Group. "The Wall Street Journal (Interactive Edition) is successful, but not every content provider has had success. Users can get the information elsewhere for free."
+Bain said that, according to her report, 51 percent of all online users surveyed said that they typically access or use the same Web sites on a daily basis, making the "push" model attractive.
+But with many more companies arriving on the scene and Microsoft and Netscape Communications Corp. getting into the market, consolidation is on the horizon, because media companies will not want to develop a channel for each delivery system, most of which, for now, are proprietary.
+"There is no way I am going to download all four of these, and I am in the industry," said Jerry Yang, one of the founders of search engine power Yahoo! Corp. "This is a huge issue."
+But Yang said that Yahoo! and other Internet search engines are looking at push technology because it will enhance a user's experience with the Web.
+"Look for Yahoo to do a lot of development with one of these companies, or a Yahoo!-branded push channel," Yang said in a recent interview. "We will all experiment."
+At Internet World, StarWave Corp., one of Microsoft co-founder Paul Allen's many investments, demonstrated a service it plans to introduce sometime next year. Patrick Naughton, StarWave's chief technology officer, said the service will be free and demonstrated a television-like advertisement for Levi's on "StarWave TV."
+Even the players themselves are predicting a shakeout.
+Harmon of Meckler predicts that push technology will fuel a hot new wave of Internet initial public offerings. But unlike the search engine fever, when a bevvy of small, unprofitable companies went public -- only to see their stock prices sharply decline -- consolidation will come first, he said.
+Another player, Freeloader, was purchased last year by Individual Inc. of Burlington, Mass. Freeloader lets subcribers choose what Web sites they want delivered to their computers and obtain news via Individual.
+"Clearly, there will be a big shakeout," said Freeloader President Sunil Paul, adding that there is a lot of chaos right now. "PointCast clearly stands out, and we will be one of them (the survivors).
+Another much-talked-about start-up, IFusion, is offering television-like content with video and audio in its service, which will be introduced early this year and called Arrive.
+The company that created some of the recent frenzy about "push" technology is Marimba Inc., founded by several former Sun Microsystems Inc. employees.
+Marimba did not exhibit at Internet World, but the Palo Alto, Calif.-based company, which develops software tools to create these "channels" using Sun's Java programming language, was mentioned by everyone. Marimba, along with PointCast, were seen as the potential early IPO candidates of this sector.
+Personal computer makers next week will simultaneously roll out flashy multimedia PCs designed around a new chip by Intel Corp, a move that is expected to give the consumer sector of the industry a much-needed boost.
+On Wednesday Intel will officially launch its P55C microprocessor, with its so-called MMX (multimedia extension) technology. A slew of companies will roll out consumer PCs, notebooks and desktops using the new chip, which offers much faster performance than earlier designs.  
+"(The impact of MMX) will be significant in the second half," said David Wu, a Chicago Corp analyst. "I should hope it helps -- the corporate world is strong and the retail world is very weak."
+He said there was currently nothing new and sexy to drive sales in the consumer market other than better price performance.
+CompUSA Inc on Thursday became the latest retailer to report disappointing sales of PCs during the holiday shopping season, normally the industry's strongest.  
+To be sure, analysts said that PC makers with a strong presence in the corporate market would not be hurt very much by the disappointing consumer sales.  
+Consumer anticipation of the new PCs was one reason that retailers were showing weaker-than-expected sales, as savvy computer buyers waited for next "big thing" to hit the market, analysts said.
+In tandem with Intel's announcement, Compaq Computer Corp , Dell Computer Corp, Gateway 2000 Inc, Toshiba America Corp, Sony Corp, International Business Machines Corp and other companies are expected to unveil new high-end PCs, priced at more than $3,000.
+On Friday, Intel shares jumped eight to 138-3/8 after two analysts made bullish comments about the company.  
+"It's a tremendous kickoff to 1997," said Rod Schrock, a vice president of Compaq's Presario division. "We are so excited about the new MMX processor that we redesigned the entire line of Presarios from the ground up. Customers are going to get a pretty dazzling experience."
+Schrock declined to give any product specifics, but he said that Compaq will launch its Presario consumer PCs with MMX at about the same time as Intel's announcement.
+"It should provide an added boost to the demand for the new generation of PCs," Schrock added. "There was no major industry event in 1996. This year you have a new processor."
+Many personal computer makers this week will roll out flashy multimedia PCs designed around a new chip by Intel Corp. -- a development that is expected to give the consumer sector of the industry a much-needed boost.
+Intel will officially launch its much-anticipated P55C microprocessor using its so-called MMX (multimedia extension) technology Wednesday and a slew of companies will unveil new consumer PCs, notebooks and desktops using the new chip, which will offer much faster performance.
+The company said the new chip will offer more than just faster speeds on the new PCs, but a spokesman declined to give any further details.
+"Instead of just raw performance ... you get a richer experience," said an Intel spokesman in Santa Clara, Calif.
+International Business Machines Corp., Compaq Computer Corp., Dell Computer Corp., Gateway 2000 Inc., Toshiba America Corp., Sony Corp. and many other firms are expected to unveil new high-end PCs simultaneously with Intel's announcment.
+Most machines are expected to be priced over $3,000.
+Intel said that an MMX-based PC would be more like a television, with sharper images, three-dimensional graphics, faster audio and television-like video. Other benefits include faster video teleconferencing and Internet access.
+"As more and more people use PCs, the expectations are higher and higher, from what they see in movies and television," the Intel spokesman said.
+"This moves the PC platform a little further along to media-rich applications. Our goal is to surpass the TV in terms of audio and video."
+For example, he said, a user playing a video game on an MMX-based PC will feel as if he or she is in a video arcade.
+"It's a tremendous kickoff to 1997," said Rod Schrock, a vice president of Compaq's Presario division.
+"We are so excited about the new MMX processor that we redesigned the entire line of Presarios from the ground up. Customers are going to get a pretty dazzling experience."
+Schrock declined to give any product specifics, but he said that Compaq will launch its new Presario consumer PCs with MMX in the same timeframe as Intel's announcement.
+"It should provide an added boost to the demand for the new generation of PCs," Schrock added. "There was no major industry event in 1996, this year you have a new processor."
+After a turbulent first year on the Internet, Rupert Murdoch's News Corp. will launch a revamped Web site on Monday with a new strategy more tightly focused on its well-known TV Guide.
+The company's entertainment Web site will remain free on the Internet but will be renamed The TV Guide Entertainment Network with a new address (www.tvguide.com). The former name for the site was iGuide.
+The new site will feature four areas including movies, music and sports in addition to television. Fox Sports and other Murdoch properties will also provide content, News Corp. said.
+News Corp. expects money generated through advertising sales and eventual online transactions will allow it to turn a profit from the site in three to five years.
+"Three to five years is the time frame," James Murdoch, Rupert Murdoch's youngest son who is vice president of music and new media at News Corp., said when asked about the goals for the site.
+News Corp. is also embracing the WebTV Internet access device, which turns a standard television into an Internet access tool. Through an agreement with WebTV Networks Inc. in Palo Alto, Calif., it will develop customised TV-oriented content for WebTV.
+Murdoch dismissed any suggestion that News Corp.'s foray on the Internet so far has been less than successful, even after the its partner MCI Communications Corp. pulled out of their joint online venture, the Internet directory service known as iGuide, last February.
+"When something is at the very beginning in a new medium, it changes very quickly," Murdoch said. "Like everyone else in new media, we've been evolving. A year ago, we redirected it. It's been a well-kept secret on the Internet. Now it's a question of reaching users and telling them it's there."
+Peter Krasilovksy, an analyst with Arlen Communications Inc in Bethesda, Md., said he believed "iGuide is one of the overlooked sites on the Web," adding, "it got lost in the corporate brouhaha between MCI and News Corp."
+Murdoch pointed to data from market research firm PC Meter, which counts the current iGuide site, before the new format being announced this week, as number 96 out of 3,000 Web sites surveyed, up from about 500th or so a year ago.
+News Corp. hopes to gain repeat visitors who will check the site for TV listings. It can then build up demographic profiles to enhance the site for advertisers, including ways to target local TV audiences.
+A big Web "chat room" with celebrities, specialised bulletin boards, entertainment facts, trivia and games are a few of the features News Corp. hopes will draw Internet users to the site.
+U.S. computer makers are expected to report solid fourth quarter earnings in what is normally the strongest quarter of the year, but the stronger dollar will have a negative impact on some big systems makers.
+And despite all the negative reports from computer retailers about lackluster personal computer sales, analysts said most U.S. PC makers -- with the exception of Apple Computer Inc and AST Research Inc -- will show strong sales growth, fueled by hefty corporate PC buying.
+Apple is first to report, with Q1 late Wednesday.  
+Earlier this month, Cupertino, Calif.-based Apple Computer forecast it would report an operating loss for its first quarter, ending December, citing weak U.S. demand for its Performa consumer PC and continued shortages of notebooks.
+"Most of the indications are that business throughout the (PC) sector, other than Apple, was strong," said Eugene Glazer, a Dean Witter analyst. "With all the negative comments you are hearing from retailers, some of that market was going to the direct marketers (like Dell Computer Corp and Gateway 2000 Inc )."  
+Analysts said PC leader Compaq Computer Corp is likely to report strong earnings, especially after semiconductor giant Intel Corp reported a blow-out fourth quarter, surpassing Wall Street's highest estimates.
+Compaq gets about 20 percent or so of its revenues from the retail consumer channel and the rest of its revenues are from sales to corporate customers, which were booming.
+"The consumer business didn't hurt them," said Jim Poyner, an Oppenheimer &amp; Co analyst. "Dell and Compaq are benefitting from the same forces, the transition to the PentiumPro (chip), a hot notebook market and progress in the server business."  
+On the larger systems side, companies like International Business Machines Corp, Digital Equipment Corp, Unisys Corp, are expected to see some negative impact from a stronger dollar overseas, plus sluggish sales in Europe, while business in the U.S. remains strong.
+"Business is quite good in the U.S.," said Jay Stevens, a Dean Witter analyst. "Where it's slower, or where the concerns have been expressed is overseas, mostly in Europe."
+Digital is expected to report a slight profit, as it slowly recovers from sales force problems in Europe and a money-losing PC business. PCs are expected to break-even.  
+"I think it will be a good quarter," said Steve Milunovich, a Morgan Stanley analyst. "The dollar did strengthen at the end of the quarter. You will generally see numbers near consensus."
+Analysts said they expect IBM's earnings to be a bit better than expected, but that its expenses for headcount reductions will be greater than the previous quarters.
+"Europe remains a slower grower, which has led to a number of organizational and planned efficiency changes," said John Jones, a Salomon Brothers analyst. IBM reports after the stock market closes next Tuesday, changing an old tradition.  
+The following estimates for some major computer makers are compiled by First Call, a unit of Thomson Financial Networks.
+    COMPANY		   CONSENSUS	     DATE
+Amdahl Corp		   profit $0.13	  Jan. 29
+Apple Computer Q1	   loss $0.62	    Jan. 15
+Compaq Computer	     profit $1.53	  Jan. 22
+Digital Equipment Q2	profit $0.10	  Jan. 16
+Gateway 2000		  profit $1.01	  Jan. 23
+IBM Corp			profit $3.88	  Jan. 21
+Sun Microsystems Q2	 profit $0.42	  Jan. 16
+Unisys Corp		   profit $0.13	  week Jan. 20
+Computer makers are expected to report solid fourth-quarter earnings in what is normally the strongest quarter of the year, but the stronger dollar will hurt some big systems makers.
+Despite all the negative reports from computer retailers about lackluster personal computer sales, analysts said most U.S. PC makers -- with the exception of Apple Computer Inc. and AST Research Inc. -- will show strong sales growth, fuelled by hefty corporate buying.
+Apple is the first to report, with first-quarter results due late on Wednesday.
+Earlier this month, Cupertino, California-based Apple forecast it would report an operating loss for its first quarter ended last month, citing weak U.S. demand for its Performa consumer PC and continued shortages of notebook computers.
+Chip-maker Intel Corp, powered by surging demand for its Pentium and Pentium Pro microprocessors, reported on Tuesday its fourth quarter profits more than doubled to $1.9 billion, exceeding even Wall Street's most optimistic estimates.
+"Most of the indications are that business throughout the (PC) sector, other than Apple, was strong," said Dean Witter analyst Eugene Glazer. "With all the negative comments you are hearing from retailers, some of that market was going to the direct marketers" like Dell Computer Corp. and Gateway 2000 Inc.
+Analysts said the world's largest PC maker, Compaq Computer Corp, was likely to report strong earnings, especially after semiconductor giant Intel Corp. reported a blowout fourth quarter, surpassing Wall Street predictions.
+Compaq gets about 20 percent or so of its revenues via store sales to consumers and the rest of its revenues from sales to corporate customers, which were booming.
+"The consumer business didn't hurt them," said Jim Poyner, an Oppenheimer &amp; Co. analyst. "Dell and Compaq are benefiting from the same forces, the transition to the Pentium Pro (chip), a hot notebook (computer) market and progress in the server (network computer) business."
+On the larger systems side, companies like International Business Machines Corp., Digital Equipment Corp. and Unisys Corp. are expected to see some negative impact from a stronger dollar overseas and sluggish sales in Europe, while business in the United States remains strong.
+"Business is quite good in the U.S.," said Jay Stevens, another Dean Witter analyst. "Where it's slower, or where the concerns have been expressed, is overseas, mostly in Europe."
+Digital is expected to report a slight profit as it slowly recovers from sales force problems in Europe and a money-losing PC business. PCs are expected to break even.
+"I think it will be a good quarter," said Morgan Stanley analyst Steve Milunovich.
+Analysts said that they expected IBM's earnings to be a bit better than expected, but that its expenses for job cuts will be greater than previous quarters.
+"Europe remains a slower grower, which has led to a number of organisational and planned efficiency changes," said John Jones, a Salomon Brothers analyst. IBM reports its earnings next Tuesday.

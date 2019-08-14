@@ -1,0 +1,884 @@
+Calendar third quarter returns for hotly-competitive Internet stocks will reflect the sacrifice of near-term profits for longer-term growth, analysts said.
+Many Internet startups are still fighting to build market share and are expected to continue posting quarterly losses.
+"Everything's moving quickly, but people still have to digest the technology, and pay for it...sorting out the winners from the losers and the also rans," said Steve Harmon, senior investement analyst at Mecklermedia's iWORLD.  
+Typical of the scurry to capture market share by making targeted investments early is Yahoo! Inc.
+Yahoo!, started by two venture-backed Stanford University students two years ago to help people navigate the far-flung World Wide Web, has been building on its branded media model during its second full quarter after its initial offering.
+The search engine pioneer is due to report after the market close today on its results for the third quarter, and analysts expect a $0.07 a share loss, according to First Call.  
+Yahoo! has begun opening metropolitan services in U.S. cities and internationally in Japan and Britain; subject-area services such as quotes and map or individual lookup pages; and demographic offerings like Yahooligans for kids.
+Yahoo! has already supplied clues to its quarterly performance potential.  Last week it released traffic figures showing it had one billion full-page "hits" in the quarter.
+Also expanding internationally, in league with overseas media firms such as Bertelsmann AG, is navigator firm Lycos Inc, which last month reported a loss of $0.16 a share for its fourth fiscal quarter ended in July.  
+Infoseek Corp, which has tuned its speedy search technology to target business users in particular, is due to report a third quarter loss of $0.18 a share on October 21.
+And on the same day, Excite Inc, which bought out rival McKinley Group this summer and which like Yahoo! and Infoseek has been expanding personalized searching, is expected to post a $0.35 a share loss for the quarter.
+Like other subgroups of the Internet sector, financial analysts expect further consolidation in the sector over time.
+Netscape Communications Corp is prominent among the handful of Internet-linked shares seen reporting profits.  
+By shifting from browsers to tools, Spyglass has racked up steady profits.
+Among Internet service providers, First call consensus estimates for Netcom On-Line Communications Inc are for a loss of $1.25 in its third quarter, wider than $0.49 a year ago, while PSINet Inc is expected to narrow its loss to $0.29 from $0.40 in the year-earlier third quarter.
+Open Market Inc, which Tuesday unveiled a deal with AT&amp;T Corp, is seen posting a $0.23 a share third quarter loss.  
+"This convergence of capital, creativity and opportunity is unprecedented in at least 15 or 20 years and that makes for some hot growth, top and bottom line, but it still takes time to build that bottom line," said Harmon.
+    COMPANY    QTR    FIRST CALL CONSENSUS EPS  YEAR-AGO
+    Yahoo! Corp	   Q3 $0.07 loss    n/a
+Netscape Comms Corp Q3 $0.08 profit $0.02 profit
+    Spyglass Inc	  Q4 $0.08 profit $0.06 profit
+    NETCOM On-Line	Q3 $1.25 loss   $0.49 loss
+    PSINet Inc	    Q3 $0.29 loss   $0.40 loss
+    Open Market	   Q3 $0.23 loss    n/a
+Raptor Systems Inc  Q3 $0.03 profit $0.10 loss
+    Check Point	  Q3 $0.09 profit $0.05 profit
+    America Online Inc   Q1 $0.18 profit $0.08 profit
+*consensus estimates/comparables calculated by First Call
+NOTE: Check Point Software Technologies Ltd.
+Having completed its initial public offering in August 1995, six months before the search engine firms, Netscape had just emerged as a winner from the first round of battles for browser market dominance only to find software giant Microsoft Corp muscling into the market this year.
+Netscape, which is expected to unveil new alliances and technology at its developers' conference next week, is seen on October 22 reporting a third quarter profit of $0.08 a share.
+Also according to First Call, Spyglass Inc is on November 1 expected to report a per-share profit of $0.08 for its fourth fiscal quarter to the end of September. -sam.perry@reuters.com, Palo Alto Bureau, +1 415 846 5400
+The Silicon Valley entrepreneur who founded Atari Corp. and created Chuck E. Cheese restaurants wants to put high-tech jukeboxes and video games linked to the Internet in bars, hotels and other public places -- and eventually make billions of dollars.
+"Do you think 'Bubba' can surf the Net? I do," Nolan Bushnell told reporters at a news briefing Thursday in a wood-paneled room of his Woodside, Calif., mansion about 30 miles south of San Francisco.
+Reporters got a look at three devices that will enable people to play video games with opponents in another location, order music as well as hear it and access the Internet with the drop of a coin or the swipe of a credit card.
+Aristo International Corp. plans to roll the machines out worldwide early next month.
+Bushnell, who is director of strategic planning for Aristo and has a minority stake in the New York-based company, said he and Aristo have invested more than $10 million to develop the machines, dubbed TeamNet, MusicNet Plus and TouchNet.
+The company has gathered about 75 of the approximately 100 distributors of coin-operated games this week to unveil the machines and generate orders. Aristo wants to put the devices in sports bars, hotels, restaurants, airports and other public locations.
+The TeamNet machine, which is the size of a small billiard table, allows two teams of up to eight players each to compete against each other or against teams elsewhere through an Internet connection.
+Aristo said it is already seeking corporate sponsors for its tournament games.
+Another product, TouchNet, allows people to use a compact, coin-operated countertop touch-screen computer to play games and send messages via the Net.
+The U.S. market for coin-operated games alone has reached $6.8 billion a year, and studies for Aristo indicate this could grow to $20 billion, said Bushnell.
+Bushnell, 53, is no stranger to video games. He founded the Atari video game company in 1972 and sold it in 1976. A year later, he opened the first of a chain of Chuck E. Cheese restaurants, which combine pizza with video games.
+The MusicNet Plus product plays high-quality digital music and enables customers to buy recordings and merchandise from bands as well as tickets to events.
+Aristo Chief Executive Mouli Cohen declined to say how much the machines would cost, but said hotel and club proprieters should expect a price that is competitive with current coin-operated vending machines, which generally sell for a few thousand dollars.
+Company officials also declined to make sales projections.
+The products are based on computers using high-speed Intel Corp. Pentium processors and use Microsoft Corp.'s Windows NT operating system.
+The machines are being manufactured by vending machine maker Streak Technology Inc. and other California manufacturers. Cohen said Aristo was also in talks with Taiwanese computer maker Acer on manufacturing.
+Cohen said in an interview at Bushnell's estate that Aristo has a development lead of at least six to eight months over would-be rivals.
+He said the company has invested $15 million in cash and stock worth $10 million to build the company. The stock was unchanged at $7.50 Friday afternoon on Nasdaq.
+With 13.5 million shares outstanding, Aristo is gearing up for a secondary offering of up to 2 million shares around October.
+Cohen and Bushnell declined to discuss individual shareholder stakes, adding that Aristo has been working with investment bankers Allen &amp; Co. to evaluate potential strategic partners and investors.
+Sun Microsystems Inc. stock took a beating Wednesday despite reporting a sharp rise in earnings that topped Wall Street's average forecasts and set milestones for its typically weak first fiscal quarter.
+The Mountain View, Calif.-based computer maker said late Tuesday that its profits jumped 45 percent in its fiscal first quarter to $123.4 million, or 63 cents a share, from $84.7 million, or 42 cents a share, in the 1995 quarter. It cited continued strong sales of its computer workstations.
+The profits were a shade above Wall Street analysts' average forecast of 61 cents a share as compiled by First Call, which tracks earnings estimates, but investors started taking profits in after-hours trading Tuesday.
+Traders noted the stock had run up ahead of the report, and that while Sun's numbers were strong, they were not as strong as had some on Wall Street had been expecting.
+Furthermore, some analysts expressed concerns over whether Sun will be able to match the performance in the future in an increasingly competitive market for workstations as rivals introduce new models of their own.
+The stock of the Mountain View, Calif.-based computer maker touched its all-time high of $70.25 Tuesday before the earnings report and ended regular trading at $70. But it fell $4 in after-hours trading following the report.
+The freefall continued Wednesday, with the shares off as much as $7.625 at one point at a session low of $62.375 and closing the day at $63.125, down $6.875 on Nasdaq trading volume of nearly 18 million shares. It was the most actively traded stock on the exchange.
+"We've got to believe there's some profit-taking going on," Sun Chairman Scott McNealy told reporters in a conference call Tuesday when informed of the after-hours decline.
+A number of analysts trimmed their ratings on the 14-year-old computer maker, mostly saying the stock's price had already soared to near their 12-month trading targets and that the downgrades were based on valuation rather than fndamentals.
+Morgan Stanley analyst Steve Mulunovich, for example, cut his rating to "outperform" from a "strong buy", with a price target of $75 on the stock. However, he also raised his fiscal 1997 earnings estimate to $3.35 a share from $3.30.
+The company reported record earnings per share of $2.42 in its 1996 fiscal year, which ended in June.
+Alex. Brown analyst Phil Rueppel also cut his rating, to a "buy" from a "strong buy" and Ferman Selz removed the stock from its recommended list after it hit its $70 price target.
+A few analysts also expressed concern that although Sun has received a great deal of publicity over its Java technology, it also will face stiff competition from rivals Hewlett-Packard Co. and Silicon Graphics Inc., which have just introduced speedy new computer models.
+Other competitors, like personal computer maker Compaq Computer Corp., are also expected to jump into the market with workstations to compete in the high-end market for machines which has long been dominated by a handful of firms.
+"His new competitors are Compaq and Dell Computer. The enemy isn't the traditional competitor but a new class of people that can compete in this space," said David Wu, an analyst at Chicago Corp.
+Sun scored a small coup Wednesday by hiring Mark Canepa -- a Hewlett-Packard veteran who was just named by Compaq last month to head up its newly formed workstation division -- to instead be vice president of Sun's Workgroup Server Products Group.
+Stock in Compaq, whose third quarter earnings also surpassed Wall Street estimates, also fell, closing down $1.50 ato $73.625 in New York Stock Exchange trading.
+Some analysts said they saw the weakness in Sun's stock as a buying opportunity.
+Dean Witter analyst Jay Stevens said he raised his earnings estimates for Sun and reiterated a buy rating.
+"They delivered a very fine quarter," Stevens said.
+Five major high tech giants, including Compact Disk inventors Philips Electronics NV and Sony Corp. will on Wednesday unveil details of a new "CD-ReWriteable" (CD-RW) technology.
+The technology is due to bring re-recordable CD devices to the market in the early months of 1997 at prices below $1,000, and should begin being built into top-end computers next year.
+The new format will enable users to store 450 times as much data, including video and audio recordings, as a 3.5 inch floppy diskette and is designed to be compatible with new CD-ROM readers and upcoming DVD-ROM drives.
+"ReWritable removes the single biggest barrier to greater market acceptance of CD writing technology," said Dave Deane, Future CD Writer Product Manager at Hewlett-Packard Co.'s HWP. Colorado Memory Systems division in Loveland, Co.
+Hewlett-Packard, Mitsubishi Chemical Corp. and Ricoh Co. Ltd. are the other companies unveiling the new technology, which has been 18 months in the works.
+Analysts said the CD-ROM technology could eventually pressure other storage companies like Iomega Corp. whose revenues have soared on the popularity of its 100 megabyte Zip drives and other storage products, and struggling removeable hard drive maker SyQuest Technology Inc..
+"I think this would put some pressure on SyQuest type products," said Ray Freeman, president of Freeman Associates Inc. a Santa Barbara market research firm.
+"This is a higher-capacity product, so it's not going head-to-head," he said, noting that Compact Disks store up to 650 megabytes of data, a larger capacity than Iomega and SyQuest offer on their lower-end consumer-oriented models.
+Because the new technology standard is designed to work with common CD-ROM readers and the new DVD-ROM technology, Freeman said its introduction was "an important step in a continuum," following CD-Recordable, a technology on the market since 1991 that allows once-only recording.
+Freeman projects the CD-Recordable market will hit 1.3 million units this year, and the combined CD-Recordable and CD-ReWriteable market will more than double to 2.9 million units in 1997 and, combined with DVD systems, grow to 10.65 million in 2000.
+Rob van Eijk, director of strategic marketing at Philips' Philips Laser Optics North America, in San Jose, Calif., said the new CD technology is aimed more at the space occupied by 100 million CD-ROMs than the floppy disk space.
+The small office home office market and the high end home or small office markets are viewed as key markets for the technology as well, he added, saying the compatibility with other media made it a versatile technology.
+Both Philips and Hewlett-Packard expect to offer devices in the first quarter of 1997 which would be under the $1,000 price point, but at a sizeable premium to the CD-Recordable write-once equipment now selling for as low as $499.
+Hewlett-Packard's Deane said his company had reached the conclusion that without the new CD-ReWritable technology, "the potential market would top out at a fairly low number."
+Wired magazine remains one of the publishing world's hottest 1990s startups, but on the brink of its parent's initial stock offering some analysts are warning the chronicle of the digerati of the Internet age may prove a better read than investment.
+"It's a great read, off Wall Street, but the balance sheet is not quite as neo-designed as the magazine," said Steve Harmon, senior investment analyst at Mecklermedia's iWORLD.
+The initial public offering of Wired Ventures Inc., the publisher of the magazine, were due to be priced late on Thursday, according to lead underwriter Goldman Sachs.
+The offering had been initially due in July but was pulled at the last minute as the market for technology and Internet stocks was tumbling.
+Now Internet stocks, most of which have only gone public since the Netscape Communication Corp.'s milestone offering in August 1995, have rebounded nearly 10 percent from their July lows.
+Wired Ventures' revised offering has reduced the company's projected market capitalisation by some $200 million, or 42 percent, from its initial plan, according to Harmon, who calculated the company's new market capitalisation at some $300 million based on an IPO price of $13 a share.
+Wired intends to sell up to 4.75 million shares at a range of $12 to $14 a share to raise gross proceeds of $61.75 million. This compares with its earlier plan to raise $76 million from sale of 6.3 million shares.
+IPO analysts said the company was wise to hold off on its initial offering, enabling it to take advantage of the current pickup in new share offerings coming to market.
+Some Internet analysts also said the offering faces a market that is becoming more discerning than in the past, when investors snapped up shares of companies which had minimal operating history and little promise of near-term profits.
+"I think they're going to have a little bit of a challenge with this one. It's just fundamentals," said one analyst. "A couple of years ago, when the Internet was just starting, you could have taken your dog named 'Net' public."
+Many investors and analysts compare Wired with traditional print media, since some 90 percent of its revenues are still derived from its high-tech monthly, which since 1993 has been promoted as the magazine of the digital revolution.
+Early investors in Wired have included high tech guru Nicholas Negroponte, who heads the Massachusetts Institute of Technology's Media Labs, and publisher S.I. Newhouse.
+Wired continues to be among the fastest-growing publishing properties, growing in circulation from 90,000 at the end of 1993, its first year of publication, to an estimated 325,000 in August, according to the company's offering documents.
+The company also runs HotWired, a hip Web site geared for those who want to keep on the leading edge of digital developments, and the search engine HotBot.
+But IPO experts note the business plan for the Internet operations was still in early development and the company continues to post heavy losses, with a net loss for the first six months of 1996 of $34.7 million, including a $20.5 million writeoff, more than double its revenues of $15.63 million.
+At an expected price of some 7.3 times estimated 1996 revenues, the valuation would be cheaper than recent Internet content companies like CNET Inc., which has traded at 20 times 1996 revenues, or Yahoo! Inc., which has been trading at more than 40 times estimated 1996 revenues.
+But this is pricey compared to more conventional print media valuations, where two times revenues is often the norm, and four to five times for properties exhibiting strong growth in an otherwise maturing sector, analysts said.
+"Wired changed journalism, especially high-tech journalism, and made it cool," said Harmon, adding that investors may have difficulty valuing this in financial terms.
+"I think Wired expected everybody to just assume it was the emperor emeritus of the digital world and that everything they did turned to gold," he said.
+Netscape Communications Corp., said Tuesday its quarterly revenues hit a record $100 million in the third quarter, demonstrating the surging popularity of its Internet software among companies setting up internal networks known as intranets.
+Netscape, which pioneered the popular Netscape Navigator browser software for cruising the Internet's World Wide Web, said its third quarter net income was $7.7 million, or 9 cents a share. A year ago, the fledgling company earned $175,000 on sales of $23.3 million.
+"The third quarter of 1996 was another landmark quarter for Netscape, as Netscape server and client software solutions made significant inroads into the global enterprise market," said Netscape President and Chief Executive Jim Barksdale.
+Wall Street, which had been expecting Netscape to report revenues of roughly $85 million to $90 million, had not expected the company to hit the $100 million quarterly revenue milestone until the second quarter next year, analysts said.
+"I think the $100 million mark really shows significdant growth," said Hambrecht and Quist analyst Daniel Rimer, noting revenues grew 33 percent sequentially. "This is major league revenue for a quarter."
+The quarterly revenue was well above the $80.7 million it posted for the whole of 1995. For the first nine months, Netscape earned $12 million, or 14 cents a share, on sales of $231 million. A year earlier, the company lost $7 million, or 10 cents a share, on sales of $44 million.
+In after-hours dealing, shares of Netscape were firm, changing hands as high as $44.875, up from its closing level of $44.50 in Nasdaq market trading.
+Barksdale said in an interview after the results that the indirect sales through third parties such as computer makers and systems integrators had accounted for 60 percent of overall sales, and 100 percent in Europe and Asia.
+"We think it's a very efficient channel for us," he said. "More and more we're seeing our job as demand creation through our direct sales force. We just think it's a more efficient way for these kind of products (to be sold)."
+"I'm very proud we have gotten to that as quickly, because we're very dependent on these people," he said.
+Barksdale outlined a broad range of companies which had chosen Netscape software to build applications for their computer networks, or "intranet" applications, and said the company was moving towards sales of complete systems.
+Analysts said this focus and the rapid growth of the market will help it continue to grow in competition with rivals like Microsoft Corp and International Business Machines Corp's Lotus Development Corp.
+Barksdale said he remains concerned that competitors will be confused by the competitive frenzy, although he said key Netscape products remain lower in price those of Microsoft and Lotus, for example.
+Barksdale told analysts in a conference call that customers were using its Internet technology for a variety of functions, such as human resources administration, in addition to the order tracking feature for which it is known.
+"What becomes clear is that people are not only deploying intranets, but they're expanding the utility of their intranets," Rimer said.
+Netscape Communications Corp., said Tuesday its quarterly revenues hit a record $100 million in the third quarter, demonstrating the surging popularity of its Internet software among companies setting up internal networks known as intranets.
+Netscape, which pioneered the popular Netscape Navigator browser software for cruising the Internet's World Wide Web, said its third quarter net income was $7.7 million, or 9 cents a share. A year ago, the fledgling company earned $175,000 on sales of $23.3 million.
+"The third quarter of 1996 was another landmark quarter for Netscape, as Netscape server and client software solutions made significant inroads into the global enterprise market," said Netscape President and Chief Executive Jim Barksdale.
+Wall Street, which had been expecting Netscape to report revenues of roughly $85 million to $90 million, had not expected the company to hit the $100 million quarterly revenue milestone until the second quarter next year, analysts said.
+"I think the $100 million mark really shows significdant growth," said Hambrecht and Quist analyst Daniel Rimer, noting revenues grew 33 percent sequentially. "This is major league revenue for a quarter."
+The quarterly revenue was well above the $80.7 million it posted for the whole of 1995. For the first nine months, Netscape earned $12 million, or 14 cents a share, on sales of $231 million. A year earlier, the company lost $7 million, or 10 cents a share, on sales of $44 million.
+In after-hours dealing, shares of Netscape were firm, changing hands as high as $44.875, up from its closing level of $44.50 in Nasdaq market trading.
+Barksdale said in an interview after the results that the indirect sales through third parties such as computer makers and systems integrators had accounted for 60 percent of overall sales, and 100 percent in Europe and Asia.
+"We think it's a very efficient channel for us," he said. "More and more we're seeing our job as demand creation through our direct sales force. We just think it's a more efficient way for these kind of products (to be sold)."
+"I'm very proud we have gotten to that as quickly, because we're very dependent on these people," he said.
+Barksdale outlined a broad range of companies which had chosen Netscape software to build applications for their computer networks, or "intranet" applications.
+Analysts said the rapid growth of the market will help Netscape continue to grow in competition with rivals like Microsoft Corp. and International Business Machines Corp.'s Lotus Development Corp.
+Barksdale said he remained concerned that competitors will be confused by the competitive frenzy, although he said key Netscape products remain lower in price those of Microsoft and Lotus, for example.
+Silicon Valley executives and venture capitalists are turning into political sharks, spending millions of dollars to defeat a California ballot measure that they claim threatens American capitalism and could send stock prices reeling.
+Normally the region, which is the birthplace of such industry stalwarts as Hewlett-Packard Co. and Intel Corp., is more obsessed with Internet software tools and microchips than with politics.
+But so widespread is the fear that California's Proposition 211 could make the state a haven for shareholder lawsuits that once politically neutral executives have been jolted into action -- hanging anti-211 banners on buildings and encouraging employees to vote against the initiative.
+Proposition 211 is a far-reaching measure that would eliminate certain safeguards and immunity currently given corporate officers and staff members. For instance, it would hold them liable if they made projections about future results and they turned out to be wrong.
+Opponents of the measure fear that corporate officers would stop making any projections about how their business was doing, making it more difficult to make investment decisions and leading to a decline in share prices.
+Proponents argue it will help victims of fraud recover losses. Opponents charge it is an "insidious" bid by securities lawyers to line their own pockets.
+There were signs the campaign against 211 could affect the outcome. A Los Angeles Times poll published Friday found 52 percent of likely voters now oppose it, up 10 percentage points from a similar Times poll five weeks ago.
+Securities and Exchange Commission Chairman Arthur Levitt has urged California voters to reject the measure, warning it would use the state's legal system to roll back the federal Private Securities Litigation Reform Act passed last year.
+"California state courts could become a magnet for class action suits," he wrote in a letter of opposition.
+Both President Bill Clinton and Republican presidential rival Bob Dole have come out against the measure and a recent study said its passage could result in a loss of up to 1.8 million jobs and a $102 billion drop in U.S. domestic output.
+The study, by trade economist Clyde Prestowitz, also projected a subsequent rise in "frivolous lawsuits" could result in as much as a 24 percent drop in stock market prices.
+This, he concluded, "would far outweigh the 4 cents per dollar compensation, or less, that shareholders would receive from settlements and judgments" under the measure.
+High-tech companies are considered more vulnerable to shareholder suits because their stocks typically are owned by demanding investors seeking fastest-growing companies, which can make their stock prices more volatile.
+A recent survey by the American Electronics Association of its members found nearly half would consider leaving the state if 211 passes. Some economists estimated it would eliminate 150,000 jobs and cost $1.3 billion in California alone.
+Even companies outside California, like International Business Machines Corp. and software giant Microsoft Corp. have opposed the measure, concerned that a single California shareholder could bring suit against them.
+If it passes, high tech leaders like venture capitalist John Doerr, who is leading the $30 million-plus battle against 211, and Cypress Semiconductor Chief Executive T.J. Rodgers, have said they expect outside company directors to quit.
+"If it passes, my net worth, my house, will be on the line," Rodgers said at a recent public debate on the issue here. "It's a sleazy trick," he added.
+Proponents of 211, including lawyers who bring shareholder lawsuits and stand to benefit directly from it, said they drew up the measure after a business-led initiative in the spring was opposed by nearly 60 percent of California voters.
+"Americans are disgusted by corporate greed," said Richard Alexander, an attorney speaking in favor of the measure recently. "People are angry about massive layoffs."
+But in Northern California, where high tech businesses have thrived, executives said the proposition was more geared to forcing corporations to settle shareholder suits up front.
+Silicon Valley executives and venture capitalists are turning into political sharks, spending millions of dollars to defeat a California ballot measure that they claim threatens American capitalism and could send stock prices reeling.
+Normally the region, which is the birthplace of such industry stalwarts as Hewlett-Packard Co. and Intel Corp., is more obsessed with Internet software tools and microchips than with politics.
+But so widespread is the fear that California's Proposition 211 could make the state a haven for shareholder lawsuits that once politically neutral executives have been jolted into action -- hanging anti-211 banners on buildings and encouraging employees to vote against the initiative.
+Proposition 211 is a far-reaching measure that would eliminate certain safeguards and immunity currently given corporate officers and staff members. For instance, it would hold them liable if they made projections about future results and they turned out to be wrong.
+Opponents of the measure fear that corporate officers would stop making any projections about how their business was doing, making it more difficult to make investment decisions and leading to a decline in share prices.
+Proponents argue it will help victims of fraud recover losses. Opponents charge it is an "insidious" bid by securities lawyers to line their own pockets.
+There were signs the campaign against 211 could affect the outcome. A Los Angeles Times poll published Friday found 52 percent of likely voters now oppose it, up 10 percentage points from a similar Times poll five weeks ago.
+Securities and Exchange Commission Chairman Arthur Levitt has urged California voters to reject the measure, warning it would use the state's legal system to roll back the federal Private Securities Litigation Reform Act passed last year.
+"California state courts could become a magnet for class action suits," he wrote in a letter of opposition.
+Both President Bill Clinton and Republican presidential rival Bob Dole have come out against the measure and a recent study said its passage could result in a loss of up to 1.8 million jobs and a $102 billion drop in U.S. domestic output.
+The study, by trade economist Clyde Prestowitz, also projected a subsequent rise in "frivolous lawsuits" could result in as much as a 24 percent drop in stock market prices.
+This, he concluded, "would far outweigh the 4 cents per dollar compensation, or less, that shareholders would receive from settlements and judgments" under the measure.
+High-tech companies are considered more vulnerable to shareholder suits because their stocks typically are owned by demanding investors seeking fastest-growing companies, which can make their stock prices more volatile.
+A recent survey by the American Electronics Association of its members found nearly half would consider leaving the state if 211 passes. Some economists estimated it would eliminate 150,000 jobs and cost $1.3 billion in California alone.
+Even companies outside California, like International Business Machines Corp. and software giant Microsoft Corp. have opposed the measure, concerned that a single California shareholder could bring suit against them.
+If it passes, high tech leaders like venture capitalist John Doerr, who is leading the $30 million-plus battle against 211, and Cypress Semiconductor Chief Executive T.J. Rodgers, have said they expect outside company directors to quit.
+"If it passes, my net worth, my house, will be on the line," Rodgers said at a recent public debate on the issue here. "It's a sleazy trick," he added.
+Proponents of 211, including lawyers who bring shareholder lawsuits and stand to benefit directly from it, said they drew up the measure after a business-led initiative in the spring was opposed by nearly 60 percent of California voters.
+"Americans are disgusted by corporate greed," said Richard Alexander, an attorney speaking in favour of the measure recently. "People are angry about massive layoffs."
+But in Northern California, where high tech businesses have thrived, executives said the proposition was more geared to forcing corporations to settle shareholder suits up front.
+Sun Microsystems Inc's newly launched Javastation network computer is its first machine to compete directly with low-end personal computers, but analysts aren't expecting runaway sales just yet.
+"Maybe a couple of years from now it will begin competing with low-end PCs," said Evan Quinn, an analyst at International Data Corp, noting Sun's network computing strategy is tied to future expansion of its Java technology.
+An entry-level NC will be available in December.  
+Earlier Tuesday, the Mountain View, Calif.-based provider of network computing products and powerful workstations, introduced the JavaStation, a scaled-down PC designed to access corporate networks and the Internet, with an entry price of $742.
+The company said the entry-level model would contain eight megabytes of memory and will ship beginning in December. A fully configured system, which includes memory, a keyboard, a mouse and fourteen-inch monitor will ship for $995.  
+Sun officials are hoping the device will appeal to corporate clients looking to cut their costs for upgrading and maintaining office PC's.
+However, given the entry of long-time NC doubter Microsoft Corp into the market with plans for a light version of its Windows operating system, the market will be hotly contested.
+International Business Machines Corp launched its first NC model last month.  
+Redwood City, Calif.-based Oracle Corp, which has been beating the drum for creating a new NC standard for 18 months, is leading a further effort to build network computers for broader markets.
+"This is just beginning to heat up and could potentially start getting very interesting," one analyst said of the brewing slugfest between computer industry titans.
+Sun Microsystems's machines are more highly targeted than many of its adversaries', however, and it has linked them together with a Java-centric model of future computing.  
+Java, a hot new technology introduced by Sun in May 1995 as a programming language initially, has since been expanded into a whole computing architecture for both hardware and software as Sun moved aggressively to proliferate its use.
+Sun has licensed Java to the suppliers of nearly all major computer operating systems, including Microsoft and its popular Windows operating systems. One of Java's most compelling features is that it can be used across rival systems.  
+This feature should enable software developers in the future to write one version of their software that could work on nearly all systems, known as "write once, play anywhere."
+Initially, the market will be to replace very basic computer terminals, such as IBM's 3270 terminals or IBM AS/400 midrange character-based terminals, in very simple, dedicated functions such as entering data into a company's network.
+International Data Corp projects there are "a couple of million" such terminals in use currently, and perhaps as many as 10 million personal computers used for such activities.  
+The market for the NC is likely to build sales gradually, according to IDC, which expects a million to be sold around the world in 1997, still dwarfed by the tens of millions of personal computers sold annually.
+Some industry analysts have questioned whether the NC will ever really catch on, and many believe it will not do so for at least some 18 months or so, by which time Sun's partners should be producing microprocessors optimized for Java.
+Ed Zander, president of Sun Microsystems Computer Company, said in an interview that Sun realistically expects acceptance to be a gradual process, but to lead to a new computing epoch.
+"We worked long and hard about not just producing a cheap box, but (also addressing the question) 'How does that box work in a corporate environment?'," he said. "'How do you administer it? How do manage it? How do you develop it? How do you deploy it?'"
+He acknowledges Sun's approach produced a system that is "markedly different" from the NCs that Oracle and IBM are talking about, or even that of Microsoft's NetPC.
+Sun is targeting cost savings, claiming large organizations can reduce the three-year cost of ownership using its Java systems to around $7,500, or as much as one fifth of three-year networkedPC costs projected at up to $36,000.
+--sam.perry@reuters.com, Palo Alto Bureau, +1415 846 5400
+Sun Microsystems Inc. on Tuesday will unveil the long-awaiting stripped-down network computer it claims will cost companies up to 80 percent less to own and operate than a personal computer connected to a network.
+Sun's Java Computing initiative, including the JavaStation network computer that Sun plans to sell for as little as $750, is the company's challenge to the PC market dominance of Microsoft Corp. and Intel Corp.
+The formal unveiling at a New York City news conference is the culmination of months of preparation, and the fruition of a strategy that investors consider sufficiently risky to have prompted a sell-off in the company's stock earlier this month.
+Microsoft and Intel announced plans Monday to develop a competing product.
+Scott McNealy, chairman and chief executive of Sun, recently told analysts he believed Sun's recent strong financial results were related to its focus on network computing.
+Sun Microsystems' approach to the Network Computer -- in contrast to those of allies Oracle Corp. and International Business Machines Corp. -- is to target major corporate customers for fixed-function applications.
+Early applications will include such tasks as airline and hotel reservations, kiosks, health care systems and stock trading, and Sun expects to highlight a dozen corporate allies, including British Telecommunications Plc, CSX Corp., Federal Express Corp., and FTD Inc.
+Sun also is expected to announce support of top systems integrators, including Andersen Consulting and EDS, and nearly 450 independent software developers.
+The basic JavaStation itself, which had been code-named "Mr. Coffee," will have the dimensions of an 8.5 by 11 inch piece of paper, weigh four pounds and have no slots, no hard disk, no CD-ROM and no floppy disk drive.
+"A fully-configured system, with keyboard mouse and good resolution display will be under $1,000 dollars," said Ed Zander, president of Sun Microsystems Computer Co. He said an under-desk machine and a desktop model will be sold.
+Sun estimates the machines may cost as little as $2,500 per year to own and administer, or $7,500 over three years, compared with independent estimates of PC costs of up to $11,900, or $35,700 over three years.
+The JavaStation family will begins shipping in late December to developers and large customers, with volume shipments beginning in 1997.
+Sun is also shipping the Netra j server line, with prices ranging from a U.S. list of $7,695 to more than $200,000. Servers are computers that link personal computers in a network.
+Sun's JavaSoft unit, which is charged with expanding use of the company's Java technology, also will demonstrate HotJava Views, a method of viewing electronic mail, World Wide Web pages and scheduling software.
+Executives declined to say how much HotJava Views will cost, but added it will be priced similar to other software packages on the market, with volume discounts for large sales.
+Separately in Washington, D.C. on Tuesday, the company's SunSoft unit is due to provide details of its next-generation Java Workshop system.
+These include Project Studio, which enables users to create interactive content without writing code, Project Speedway, which speeds up Java applications, and Project ICE-T, which helps connect Java machines to other computer architectures.
+Microsoft Corp Wednesday launched electronic commerce software and a wide array of partners aimed at enabling consumers and businesses to buy and sell products over the World Wide Web.
+At the core of the announcement is Microsoft's Merchant Server, software which will enable businesses to set up electronic storefronts on the Internet, and a plan to build a new channel of service providers to help businesses do this.
+Analysts said the strategy was similar to that successfully used by Novell Inc to sell networking software.
+"We believe there will be explosive growth (in use of the Web for shopping)," Microsoft Chairman and Chief Executive Bill Gates said at a news conference unveiling the company's electronic commerce strategy.
+Microsoft also revealed 40 companies that are in the process of building Merchant Server sites and Henry Vigil, general manager of electronic commerce services at Microsoft, said he expects 300 sites using the software by year-end.
+The product competes with an array of prior offerings, including those of Netscape Communications Corp and Internet startup Open Market, as well as Oracle Corp and International Business Machines Corp.
+As part of the deal, Microsoft and VeriFone Inc brought together financial institutions and payment processors to provide a secure Internet retailing and payment system.
+The financial institutions involved include BankAmerica Corp, Wells Fargo &amp; Co, Citicorp's Citibank Card Acceptance Europe, First USA Paymenteck Inc, NOVUS Services and Royal Bank of Canada.
+Much of the technology was made available to partners for testing in August and was developed by eShop, which Microsoft acquired in June, company officials said.
+In addition to the infrastructure partners, Vigil said a key priority was "trying to get this new channel built where we see a range of hosting service providers who are really going to be the ones who lease the T1 lines and run the servers on behalf of merchants who are not technologists."
+One such company, Boca Raton, Fl.-based Internet Communication Network, Corp., has been in business less than a year and already has some 50 customer Web sites in operation, including one using the Merchant Server, according to David Finkelstein, president of ICA.
+James Dee, a specialist New York City photographer, said he had chosen to go through a networking service and support firm using the Merchant Server product to start up a new gallery to sell original contemporary artwork on the Web.
+The site was set up in less than a month, he said, and Sarala Dee said the cost of getting the cyberspace gallery under way would amount to some $30,000 to $40,000.
+But analysts said the market still may take a long time to develop into the multi-billion dollar market some Internet enthusiasts project.
+"As Gates said clearly this is a beginning market," said Kathey Hale, an analyst at Dataquest.
+Gates cited Microsoft and industry estimates that the number of consumers on the World Wide Web would more than triple between now and the year 2000, to 48 million.
+The number of businesses on the Web is projected to grow four-fold by the year 2000 to two million from 500,000 currently, Gates said.
+David Cuursey, who publishes the Coursey.com newsletter on the Internet, said estimates the minimum price for a decent store using the software is $100,000.
+"The point of it is that for a lot of people setting up a virtual store it will be also as expensive to create and maintain as a real store," he said. "You're not going to use this technology to take advantage of it for less than $100,000."
+Microsoft Corp Wednesday launched electronic commerce software and a wide array of partners aimed at enabling consumers and businesses to buy and sell products over the World Wide Web.
+At the core of the announcement is Microsoft's Merchant Server, software which will enable businesses to set up electronic storefronts on the Internet, and a plan to build a new channel of service providers to help businesses do this.
+Analysts said the strategy was similar to that successfully used by Novell Inc to sell networking software.
+"We believe there will be explosive growth (in use of the Web for shopping)," Microsoft Chairman and Chief Executive Bill Gates said at a news conference unveiling the company's electronic commerce strategy.
+Microsoft also revealed 40 companies that are in the process of building Merchant Server sites and Henry Vigil, general manager of electronic commerce services at Microsoft, said he expects 300 sites using the software by year-end.
+The product competes with an array of prior offerings, including those of Netscape Communications Corp and Internet startup Open Market, as well as Oracle Corp and International Business Machines Corp.
+As part of the deal, Microsoft and VeriFone Inc brought together financial institutions and payment processors to provide a secure Internet retailing and payment system.
+The financial institutions involved include BankAmerica Corp, Wells Fargo &amp; Co, Citicorp's Citibank Card Acceptance Europe, First USA Paymenteck Inc , NOVUS Services and Royal Bank of Canada.
+Much of the technology was made available to partners for testing in August and was developed by eShop, which Microsoft acquired in June, company officials said.
+In addition to the infrastructure partners, Vigil said a key priority was "trying to get this new channel built where we see a range of hosting service providers who are really going to be the ones who lease the T1 lines and run the servers on behalf of merchants who are not technologists."
+One such company, Boca Raton, Fl.-based Internet Communication Network, Corp., has been in business less than a year and already has some 50 customer Web sites in operation, including one using the Merchant Server, according to David Finkelstein, president of ICA.
+James Dee, a specialist New York City photographer, said he had chosen to go through a networking service and support firm using the Merchant Server product to start up a new gallery to sell original contemporary artwork on the Web.
+The site was set up in less than a month, he said, and Sarala Dee said the cost of getting the cyberspace gallery under way would amount to some $30,000 to $40,000.
+But analysts said the market still may take a long time to develop into the multi-billion dollar market some Internet enthusiasts project.
+"As Gates said clearly this is a beginning market," said Kathey Hale, an analyst at Dataquest.
+Gates cited Microsoft and industry estimates that the number of consumers on the World Wide Web would more than triple between now and the year 2000, to 48 million.
+The number of businesses on the Web is projected to grow four-fold by the year 2000 to two million from 500,000 currently, Gates said.
+David Cuursey, who publishes the Coursey.com newsletter on the Internet, said estimates the minimum price for a decent store using the software is $100,000.
+"The point of it is that for a lot of people setting up a virtual store it will be also as expensive to create and maintain as a real store," he said. "You're not going to use this technology to take advantage of it for less than $100,000."
+For managers at the trendy specialty juicer Odwalla Inc., the revelation that their apple juice products were associated with a potentially deadly outbreak of E. coli food poisoning has come as a shock.
+The company, headquartered in the easy-going coast community of Half Moon Bay, was founded 16 years ago on the premise that fresh, natural fruit juices nourish the spirit.
+Company executives were morose as they met reporters for the first time on Thursday in the parking lot of the company's modest building, across a creek from the town center.
+"It is very tough, to be honest, to be focused on health and nutrition all of your life and have this incident happen," Greg Steltenpohl said. He founded the business with a childhood friend in Santa Cruz in 1980, using a used juicing machine in a shed behind their house.
+Odwalla has grown by more than 40 percent a year, with annual sales in its fiscal year to Aug. 31, 1996, surging 65 percent to $59.2 million. It is now estimated to account for more than 70 percent of the fresh-juice market in the seven Western states it serves, together with Vancouver, British Columbia.
+The company prides itself on using cold processing, which it says leaves vegetable and other biological nutrients intact, and on a rapid store distribution system. Its marketing emphasizes freshness and the absence of pasteurization and artificial additives or preservatives.
+Even its name, from a song poem by the Art Ensemble of Chicago jazz group, displays a sense of mission. The Odwalla is a leader who guided the "lost people of the sun" out of the "gray haze" -- of "overprocessed foods" in this case.
+Steltenpohl and Chief Executive Officer Stephen Williamson said Odwalla had mobilized its 175 trucks and drivers, armed with hand-held computers, to recover recalled bottles from the shelves of more than 4,600 outlets in California, Washington, Oregon, Colorado, New Mexico, Nevada, Texas and Vancouver.
+Executives immediately offered to refund the purchase price of any of the company's drinks, even those not among the 16 out of 23 fruit varieties recalled. They also said the company would pay for medical treatment for anyone found to have become ill through drinking an Odwalla product.
+Although Williamson said the company had product liability insurance that he believed would cover the incident, the executives declined to answer questions about the financial impact of the recall and any subsequent actions.
+Odwalla shares were up $1.13 at $13.25 by Friday afternoon after shedding roughly a third of their value on Thursday.
+Jean-Michel Valette, an analyst at Hambrecht &amp; Quist, said publicity surrounding the recall would hurt sales but with insurance and $14 million in cash, "Odwalla has the resources to weather the storm."
+Odwalla, which takes the precaution of keeping samples of each batch of juice it produces, is working with the Food and Drug Administration and Washington state authorities to determine how contamination might have occurred and how widespread it was.
+But company officials said it was too soon to question their philosophy.
+Stocks of high-tech companies soared Wednesday after a potentially costly ballot proposal was voted down in California, and top executives found themselves relishing their roles as political activists.
+A group of top-level entrepreneurs and executives met behind closed doors Wednesday to work on a broader political alliance after the ballot measure, which would have made it easier for shareholders to file lawsuits, was defeated by a 3-1 margin.
+"A year ago, this (Silicon) valley politically was naive, not involved, not organized and not effective," said John Doerr, the partner at venture capital firm Kleiner Perkins Caufield &amp; Byers who led opposition to the ballot measure, known as Proposition 211.
+The measure was promoted by a group of securities lawyers including San Diego attorney William Lerach, whose lawsuits brought on behalf of shareholders after a company's stock plunges irritate corporate executives.
+But California's high-tech firms jumped into action, raising an estimated $38 million and mobilizing 5 million employees, shareholders and customers in a major grass-roots campaign in the months before election day.
+That amount, coupled with $13 million spent by proponents of 211, rivaled the money spent by labor groups nationwide as they sought to put friendly legislators, mostly Democrats, in Congress.
+It was also more than was needed to start up Sun Microsystems Inc., Cisco Systems Inc., and Intel Corp. combined.
+Final returns show the measure lost by a 3-1 margin, which brought relief to Wall Street investors who were nervous that passage would bring a raft of shareholder lawsuits to California.
+Shares of high-tech companies surged on the news, with Intel soaring $4.75 to an all-time high of $118.75 on Nasdaq. After the market closed, the company released bullish news on its fourth quarter business trends.
+Texas Instruments jumped $4.25 to $53 on the New York Stock Exchange and Microsoft added $3 to $144.50 on Nasdaq.
+"We defeated the jackals of Proposition 211, the carrion feeders who take away our profits," James Cramer, principal of money management firm Cramer Partners in New York, said of the stock rally.
+Silicon Valley executives, who had warned of wide-scale resignations of officers and directors in California if the measure had passed, applauded its defeat and said they would support continued political activism.
+John Young, acting chairman of Novell Inc., said the campaign was unprecedented among high tech firms, and could be the start of a multi-year corporate commitment.
+Cisco Systems Chief Executive John Chambers said his company and others had been so focused on fast-changing high-tech markets that they had neglected politics.
+"We were concerned with just doing our business and we were letting other people fight our fights for us, which is wrong," he said.
+While political activism could be a distraction, it was also important to address political issues before they got out of control, he said.
+"It's 'pay me now or pay me later,'" he said in an interview, predicting continued political engagement.
+Doerr told chief executives, corporate lawyers and venture capitalists gathered at a celebration late on Tuesday that he expected executives now to focus on issues of fostering growth, education, legal reform and economic opportunity.
+He said the anti-211 effort demonstrated Silicon Valley to be "a state of mind, not a place," which due to the spread of high-tech businesses, in effect, extends from Massachusetts to California and from Florida to Washington state.
+Executives here are already talking about the prospect of another battle with plaintiff's lawyers, who are rumored to be mulling new ballot initiatives in other states, or the possibility of targeting high tech firms more narrowly.
+Stocks of high-tech companies soared Wednesday after a potentially costly ballot proposal was voted down in California, and top executives found themselves relishing their roles as political activists.
+A group of top-level entrepreneurs and executives met behind closed doors Wednesday to work on a broader political alliance after the ballot measure, which would have made it easier for shareholders to file lawsuits, was defeated by a 3-1 margin.
+"A year ago, this (Silicon) valley politically was naive, not involved, not organised and not effective," said John Doerr, the partner at venture capital firm Kleiner Perkins Caufield &amp; Byers who led opposition to the ballot measure, known as Proposition 211.
+The measure was promoted by a group of securities lawyers including San Diego attorney William Lerach, whose lawsuits brought on behalf of shareholders after a company's stock plunges irritate corporate executives.
+But California's high-tech firms jumped into action, raising an estimated $38 million and mobilising 5 million employees, shareholders and customers in a major grass-roots campaign in the months before election day.
+That amount, coupled with $13 million spent by proponents of 211, rivaled the money spent by labour groups nationwide as they sought to put friendly legislators, mostly Democrats, in Congress.
+It was also more than was needed to start up Sun Microsystems Inc., Cisco Systems Inc., and Intel Corp. combined.
+Final returns show the measure lost by a 3-1 margin, which brought relief to Wall Street investors who were nervous that passage would bring a raft of shareholder lawsuits to California.
+Shares of high-tech companies surged on the news, with Intel soaring $4.75 to an all-time high of $118.75 on Nasdaq. After the market closed, the company released bullish news on its fourth quarter business trends.
+Texas Instruments jumped $4.25 to $53 on the New York Stock Exchange and Microsoft added $3 to $144.50 on Nasdaq.
+"We defeated the jackals of Proposition 211, the carrion feeders who take away our profits," James Cramer, principal of money management firm Cramer Partners in New York, said of the stock rally.
+Silicon Valley executives, who had warned of wide-scale resignations of officers and directors in California if the measure had passed, applauded its defeat and said they would support continued political activism.
+John Young, acting chairman of Novell Inc., said the campaign was unprecedented among high tech firms, and could be the start of a multi-year corporate commitment.
+Cisco Systems Chief Executive John Chambers said his company and others had been so focused on fast-changing high-tech markets that they had neglected politics.
+"We were concerned with just doing our business and we were letting other people fight our fights for us, which is wrong," he said.
+While political activism could be a distraction, it was also important to address political issues before they got out of control, he said.
+"It's 'pay me now or pay me later,'" he said in an interview, predicting continued political engagement.
+Doerr told chief executives, corporate lawyers and venture capitalists gathered at a celebration late on Tuesday that he expected executives now to focus on issues of fostering growth, education, legal reform and economic opportunity.
+He said the anti-211 effort demonstrated Silicon Valley to be "a state of mind, not a place," which due to the spread of high-tech businesses, in effect, extends from Massachusetts to California and from Florida to Washington state.
+Executives here are already talking about the prospect of another battle with plaintiff's lawyers, who are rumoured to be mulling new ballot initiatives in other states, or the possibility of targeting high tech firms more narrowly.
+Hewlett-Packard Co. is expected to extend its role as a leading supplier of computer printers next week by unveiling the first of a family of devices designed to allow people to bypass the copy machine.
+Industry sources familiar with details of the new models said they can be used instead of a copier to make multiple printouts of a document, posing a threaten to copy machine makers such as Xerox Corp. and Canon Inc.
+"This is the first direct attack at the copier market," said one of the sources, who declined to be identified. "This is the announcement that is going to make Xerox begin to sweat."
+Another of the sources said the initial adaption of the technology will likely be targeted for relatively modest printing jobs, three or four copies of a document, for example, rather than for dozens of hundred-page documents.
+A spokesman for Hewlett-Packard was not immediately available for comment on the new product, which one of the sources said could be unveiled as early as Monday.
+The new "Mopier" machine, as Hewlett-Packard has dubbed it internally, is expected to be based on the LaserJet 5Si family and to come with a stapler, a multiple-slot stacker and secure, password-protected "mailboxes" into which printouts of confidential documents can be placed.
+In a related announcement Wednesday, Hewlett-Packard said it planned to triple production of toner cartridges used in its LaserJet 5Si family of network printers "to alleviate a temporary shortage of the cartridges in the United States."
+Analysts said the move may have been partly motivated by the company's new multiple copy initiative, as cartridges for printers are an extremely profitable area of HP's printer strategy, and will be needed to supply the new machines.
+In fact, Hewlett-Packard said Wednesday its own research shows that pages formerly duplicated on copiers are increasingly being printed on HP printers already, resulting in a greater demand for the cartridges.
+The mopier can be expected to have similar performance to the LaserJet 5Si printers, which can print 24 pages a minute and cycle up to 100,000 pages a month, the sources said.
+"With these new methods of business printing, HP estimates that customers are printing about 24 percent more pages a month than with previous printers in the same class," said Doug Johnson, marketing manager of HP's LaserJet Supplies Operation, in a statement.
+Computer Reseller News in September reported that the new HP "mopier" would be priced somewhere above $5,000.
+Diamond Multimedia Systems Inc plans this week to unveil a series of advances in its marketing of enhanced video and audio technologies.
+On Monday, the company will launch a deal with Toshiba Corp's Toshiba America Information Systems unit to deliver what will be among the first DVD-ROM products to hit the retail market, Chief Executive Bill Schroeder said.
+Diamond will also announce new proprietary 3-D audio software and plans for moving into the market for machines running Microsoft Corp's Windows NT system.  
+On Tuesday, the San Jose, Calif. maker of multimedia accelerators, modems and adapters also plans to launch a new plug-and-play video conferencing product, including a color camera and a microphone, at an estimated retail price of $399.
+Amid the flurry of introductions ahead of the annual Comdex computer industry trade show beginning November 17, Schroeder told Reuters in an interview the company is on track to increase revenues and margins in its current fourth quarter.
+Moving to capitalize on enormous growth in the use of laser departmental printers, Hewlett-Packard Co. on Monday will launch a new genre of printers it calls the "mopier," to steal work from the copy machine.
+The new device, dubbed the HP LaserJet 5Si Mopier, reduces the need to use copiers by allowing workers to make multiple original prints -- or "mopies" -- from their own desktop.
+HP, which is already a market leader in printers, faxsimile machines and scanners, hopes the new model will help it capture a share of the $18.5 billion a year copier market.
+Analysts expect the printers will present a challenge to copy machine giant Xerox Corp. and other copier makers, as sales revenues of midrange, 20-30 pages per minute copiers is projected to drop by $300 million to $1 billion by 2000.
+"Xerox is a dominant copier and printer vendor. This is a challenge and an opportunity for Xerox," said Robert Fennell, industry analyst at the market research firm Dataquest.
+The market for midrange printers based on Canon Inc.'s 24-page per minute engine, until recently a relatively small segment of the market, is projected to surge by some 500 percent this year from 1995, he said.
+With a U.S. list price of $9,549, the machine is more expensive than other departmental laser printers, but it contains more features and it is priced less than midrange copiers costing between $13,000 and $20,000.
+Executives at Hewlett-Packard's LaserJet Solutions Group in Boise, Idaho, said the Mopier is part of its recently-unveiled Digital Workplace strategy aimed at addressing work flow and document management problems at work.
+"Our customer research found that people are already mopying today," one of the executives said in an interview.
+The new machine is based on HP's existing LaserJet 5Si models, but adds finishing tasks -- such as stapling and collating of documents.
+A user-friendly interface to help guide technologically-challenged workers through the printing options and tells them when their job is completed.
+The Mopier is designed to cut down on the time office workers spend running between printers and copy machines, waiting for others to copy, and fixing paper jams.
+It contains a 420 megabyte hard drive and reduces network traffic as well by storing each print task once and printing the number of copies specified, rather than requiring each print job to be sent down the network one at a time.
+Copies can be stored in mailbox bins until picked up.
+The initial Mopier model may pave the way for a whole family in the future, if it lives up to its expectations.
+The introduction is timed to take advantage of a major shift towards network printing -- International Data Corp. reported the number of pages printed on printers in 1995 for the first year exceeded those printed of photocopy machines.
+Moving to capitalise on enormous growth in the use of laser printers, Hewlett-Packard Co on Monday will launch a new genre of printers it calls the "mopier" to steal work from the copy machine.
+The new device, dubbed the HP LaserJet 5Si Mopier, reduces the need to use copiers by allowing workers to make multiple original prints -- or "mopies" -- from their own desktop.
+HP, which is already a market leader in printers, faxsimile machines and scanners, hopes the new model will help it capture a share of the $18.5 billion a year copier market.
+Analysts expect the printers will present a challenge to copy machine giant Xerox Corp and other copier makers, as sales revenues of mid-range 20-30 pages per minute copiers is projected to drop by $300 million to $1 billion by 2000.
+"Xerox is a dominant copier and printer vendor. This is a challenge and an opportunity for Xerox," said Robert Fennell, industry analyst at the market research firm Dataquest.
+The market for midrange printers based on Canon Inc's 24-page per minute engine, until recently a relatively small segment of the market, is projected to surge by some 500 percent this year from 1995, he said.
+With a U.S. list price of $9,549, the machine is more expensive than other departmental laser printers, but it contains more features and it is priced less than midrange copiers costing between $13,000 and $20,000.
+Executives at Hewlett-Packard's LaserJet Solutions Group in Boise, Idaho, said the Mopier is part of its recently-unveiled Digital Workplace strategy aimed at addressing work flow and document management problems at work.
+"Our customer research found that people are already mopying today," one of the executives said in an interview.
+The new machine is based on HP's existing LaserJet 5Si models, but adds finishing tasks -- such as stapling and collating of documents.
+A user-friendly interface to help guide workers through the printing options and tells them when their job is completed.
+The Mopier is designed to cut down on the time office workers spend running between printers and copy machines, waiting for others to copy, and fixing paper jams.
+It contains a 420 megabyte hard drive and reduces network traffic as well by storing each print task once and printing the number of copies specified, rather than requiring each print job to be sent down the network one at a time.
+The initial Mopier model may pave the way for a whole family in the future, if it lives up to its expectations.
+The introduction is timed to take advantage of a major shift towards network printing -- International Data Corp. reported the number of pages printed on printers in 1995 for the first year exceeded those printed of photocopy machines.
+The semiconductor industry said Monday its key indicator rose last month to the highest level in almost a year, reflecting a surge in new orders for computer chips.
+The so-called book-to-bill ratio, which measures the value of new orders compared with shipments over a trailing three-month period, jumped to 1.10 in October from a revised 0.98 in September, marking the first time it has been over 1 since December 1995.
+The index, widely regarded as a sign of the computer industry's health, means that manufacturers received $110 in new orders for every $100 in shipments.
+The Semiconductor Industry Association said new chip orders in October rose 17.9 percent to $3.84 billion while shipments increased by 5 percent from the previous month to $3.39 billion.
+Analysts said the surge was likely a one-time phenomenon as vendors sought to catch up with increasing demand after having pared back inventories sharply early in the year when prices of memory chips in particular were tumbling.
+"These strong numbers for new orders in the Americas market should reinforce our industry's cautious optimism for a solid fourth quarter," said Douglas Andrey, director of Information Systems and Finance at the Securities Industry Association.
+Analysts said they expect computer chip stocks, which had been firm ahead of the announcement on the expectation the ratio would rise modestly to somewhere between 0.99 and 1.03, to advance further following the upbeat data.
+Shares of Intel Corp, the world's largest maker of semiconductors, surged as high as $124.69 in after-hours trade, 6 cents below its all-time trading high last week. Earlier, it closed up $1.625 at $123.875 on the Nasdaq market.
+"I think it's an overall positive for stocks tomorrow," said Charles Boucher, semiconductor analyst at UBS Securities.
+"The Street got possibly a little better than they were looking for, so I think you've got a chance to add on to this rally tomorrow," he said. "The danger here is in investors getting too enthusiastic about the size of this number."
+Separately, the trade group said it was planning to phase out the North American semiconductor index and replace it with a global index that would help industry watchers keep better track of demand for computer chips.
+The industry group said it was making the change because the current figure only tracks sales and orders in the Americas, representing only a third of the total world market, and provided disproportionate data on certain chip sectors.
+While both industry and analysts have criticized the wide fluctuations and frequent revisions in the data -- even the September number was revised to 0.98 from 0.99 -- the move taken by industry consensus met with mixed reviews.
+"I think it's a good idea," said Intel spokesman Howard High. "The book-to-bill hasn't really reflected the true health of the industry, good or bad, for quite a while."
+"As the business turned very global in its nature, the book-to-bill flash report was a U.S.-based number," he said. "If you take it to the global market, it's really not done the job that people have been using it for."
+But some analysts said the decision to drop aggregate bookings data altogether would only increase the amount of market uncertainty, as investors would have to rely on far more speculative estimates of new orders.
+"I think it's going to blow up in their face," one top analyst said. "It's going to be a lot more speculative. We're all going to be trying to do the analysis but we're going to be doing it based on our own independent surveys."
+Key semiconductor makers had argued, however, that bookings data was imprecise and subject to varying inventory strategies of distributors without any uniform reporting methods.
+Some of the Internet startups due to make their debut at next week's Comdex computer industry show have little more to their name than a few ambitious entrepreneurs, business cards and a Web site.
+But the 60 or so companies scheduled to make presentations to prospective investors at the first Comdex Venture Outlook represent the cutting edge of high-technology investment in the mushrooming Internet market.
+"There are dozens, maybe a few hundred, new companies that are being created every day that have to do with the Internet," said Richard Shaffer, principal of New York-based Technologic Partners, who assembled the executives.
+"It's the biggest thing to hit computing in at least 20 years," he said, which is why Comdex organisers Softbank Corp. engaged Shaffer's group to bring young private companies at the centre of Web innovation to the largest U.S. trade show.
+Included in the presentations will be the heads of some of the hottest Internet companies, including Kim Polese, the chief executive of Palo Alto-based Marimba Inc., who by some accounts is credited with naming Sun Microsystems Inc.'s hot new Java computer programming platform.
+Formed in February by four members of Sun's original Java team, Marimba a month ago unveiled its Castanet package of software development tools for sending out applications and content over the Internet.
+Other speakers include NetAngels Chief Executive Mark Goldstein, whose company is backed by such high-profile investors as high-tech guru Esther Dyson and former Time Warner Inc. chief executive Nicholas Nicholas.
+Also speaking is David Arnold, head of InterMind, a Seattle-area startup backed by mobile phone pioneer Craig McCaw, which recently launched its InterMind Communicator linking people anonymously to Web sites of their choice.
+Shaffer said the list includes access, content and tools companies which are primarily looking at ways to apply Internet technologies to the internal corporate networks known as intranets.
+Some companies have no more than five or 10 people at the moment, and most have received some venture capital. Many, though, are at such an early stage of financing that the $50,000 fee for a booth at Comdex would have been too costly.
+Although there was an abrupt slowdown in Internet initial public offerings over the summer, analysts and investors expect the market to heat up again.
+The pace of venture investment may not continue at its red-hot rate of the second quarter, when Price Waterhouse LLP reported 556 firms received $2.8 billion in venture capital, up 32 percent from a year earlier. But new investment appears poised to top the 1995 record of $7.5 billion.
+"Judging by preliminary numbers, it is virtually assured that 1996 is going to be a record year," said Kirk Walden, who is compiling the firm's third-quarter venture capital survey.
+Walden said venture capital funds invested $5.2 billion in the first nine months of 1995.
+"The technology category continues to be what's driving overall investment," he added.
+Technologic Partners' Shaffer admits it remains a difficult task for investors to sort out which companies will be a success in markets that may take years to develop despite the intense interest and hype surrounding the Internet.
+Furthermore, many startup companies have been forced to reinvent themselves with frequently updated business plans as the fast-paced Internet market evolves.
+"It's initially going to be a very big market for a lot of players, and it will be quite some time before we know what the best business models are," Shaffer said. "Developing the Internet and electronic commerce ... is going to be a decades-long process. We're just at the beginning."
+Hewlett-Packard Co. said Friday that it will unveil technology Monday that will provide a breakthrough in the long-deadlocked debate over use of software encoding for secure data traffic.
+If the encryption technology has won the backing of industry and the U.S. and other governments -- which Hewlett-Packard officials say is the case -- the development could eliminate a key obstacle to the growth of electronic commerce via the Internet.
+Hewlett-Packard Chairman Lewis Platt will provide details on the technology, which includes technology patented by the Palo Alto computer giant as well as other technologies, a company spokesman said.
+Technology from RSA Data Corp. the de facto standard-setter for Internet security, will be involved Hewlett-Packard officials said.
+Hewlett-Packard stock closed up $1.375 at $50.875 on the New York Stock Exchange.
+Senior Microsoft Corp. and Intel Corp. executives were also scheduled to attend Monday's news briefing at the National Press Club in Washington, Hewlett-Packard officials said.
+The technology will make it possible to export products containing so-called "strong encryption," which cannot be exported under national security laws dating back to the Cold War.
+Under national security law, the U.S. government has allowed the export of software and other computer products containing only weaker data encryption technologies.
+Encryption has been classified as a munition because of its potential for use by terrorists, spies or other criminals to conceal messages.
+Encryption programmes use mathematical formulas to scramble information, such as electronic mail messages or credit card numbers, to render them unreadable to computer users without a password or "software key" that can unlock the coded material.
+For years the domestic computer industry has complained that such restrictions have hampered its competitiveness in world markets, and that its customers did not necessarily want the government to be able to decode internal data.
+The industry says the laws have prevented it from offering some of the most recent Internet technologies, even within the United States, because it is impossible to prevent computer users outside U.S. borders from gaining access to technologies publicly available on the Internet.
+Companies and their customers want to use encryption to protect confidential communications and electronic commerce.
+Silicon Valley executives recently noted that consumer devices, such as WebTV Network's Web browsing television device that hit store shelves this autumn, use the same levels of strong encryption as used in military systems.
+WebTV said it is using keys comprised of 128 bits, or characters, of data to encode and decode its communications to its set-top boxes to provide consumers with the best level of security available over the Internet.
+The government recently proposed that the roadblock be eliminated by providing a key recovery system, in which authorities could recover keys to crack messages if they received a court warrant to do so.
+Industry has rebuffed this as difficult to manage.
+The solution being offered by Hewlett-Packard would be flexible, allowing customers to use the levels of encryption required by different governments, the company said.
+"This is going to allow very strong encryption," said a spokeswoman.
+Hewlett-Packard said its technology would provide a means of "solving the data security and integrity issues that have impaired and frightened users and companies from exploiting the full power of the Internet."
+Data Security Inc., the computer security pioneer acquired this year by Security Dynamics Technologies Inc. is also expected to be involved in Monday's announcement.
+RSA Data has become a de facto standard-setter for security over the Internet by licensing rights and technology to use its encryption systems. Hewlett-Packard declined to identify other companies or technology that may be involved.
+A fast-selling product that allows grannies all across America to exchange electronic mail securely with their families may become a key weapon in challenging the U.S. government's tight encryption policies.
+Computer industry executives said the strong encryption which startup USWeb Networks is delivering on hundreds of thousands of television-based Internet browsing devices is still prohibited from export by U.S. Cold War munitions laws.
+Executives at Palo Alto, Calif.-based WebTV said they chose to use the strongest coding standard available to give consumers the assurance their communications would be kept confidential.
+"The only way we felt we could guarantee the level of security we felt was uncrackable by anyone...was if we were essentially using CIA-class security procedures," said Steve Perlman, co-founder and chief executive of WebTV Networks.
+WebTV uses 128-bit encryption, based on coded 'keys' with 128 characters of information, the same level of coding used in some of the most secretive U.S. government communications.
+"It's very similar to what they use when they're communicating with cruise missiles," Perlman said.
+This is a useful fact to point out in reassuring potential customers they can both communicate and pay for goods and services securely over the Internet, he added.
+"They love it. They really love it, beause now they can just relax and forget about it," he said. Using a credit card number over WebTV's encrypted communications is safer than reading it over a telephone, which can be tapped, he argues.
+"While the FBI can get your credit card that way (over the telephone), they can't get it through WebTV," he said.
+Perhaps equally excited about the decision by WebTV to use such strong encryption is the Silicon Valley high tech business community, which has been deadlocked in a battle with the Clinton administration over encryption restrictions.
+Laws against the export of encryption date back to the start of the Cold War, when earlier versions of coding were considered vital to national security and were classified as munitions explicitly barred from export.
+Top computer executives now say the use of encryption in relatively normal, consumer-oriented applications such as WebTV is a perfect example why they feel the government's efforts to restrict the technology should ultimately fail.
+"Without commenting specifically on WebTV, I can tell you that the government is fighting essentially a losing battle here," said Eric Schmidt, chief technology officer at Sun Microsystems Inc.
+"What's happened is that the technology is now so ubiquitous and there are so many people using it that the current law...really needs to be scrapped."
+In addition to the need for U.S. businesses to have strong encryption to secure their own systems when operating overseas, the computer industry argues that competitors in other countries are being given an open market to sell higher levels of encryption U.S. companies are barred from selling.
+But Washington insists that law enforcement authorities must have a means of breaking into encoded messages to investigate criminal activity.
+The Administration recently offered a compromise where companies could export modestly strong 'keys,' less powerful than those used by WebTV, as long as they could be recovered by authorities to crack codes after obtaining a court warrant.
+Industry is not pleased with the idea.
+It would be difficult, and unduly expensive, to administer and is unlikely to be acceptable to foreign customers who might not consider the U.S. government to have a right to break into their confidential communications, many argue.
+"Our personal view is that the notion of key recovery is something that's not going to be very acceptable, particularly to other countries -- the notion that the U.S. government would be able to recover the keys," said Deborah Triant, chief executive of Check Point Software Technologies, Inc.
+In the meantime, however, WebTV will be prohibited except by special license from exporting its devices, which are being sold by consumer electronics manufacturers Sony Corp. and Philips Electronics NV through retail stores.
+In fact, the issue came to light publicly following a letter from one of the manufacturers to its distributors, warning not to export the machines due to the munitions laws.
+"It would definitely be unfortunate if sombedy was to carry one over the border," said Perlman, adding the WebTV boxes have more computing power than the world's most powerful supercomputer -- Cray Reasearch's XMP-48 -- did in 1987.
+"That was a $50 million computer in 1987. This is a $300 computer and it outperforms the Cray," he said.
+WebTV has attracted investments from Microsoft Corp. and a unit of US West Inc..
+"This WebTV is the first of many we're going to see where legitimate customers really do need very strong encryption for things involving really normal day-to-day use," said Schmidt.
+Even before the personal computer era's foremost figures donned togas and circus suits for the traditional extravaganzas of the industry's annual gala summit, industry titans were jockeying for the limelight.
+Although the 25th anniversary of the microprocessor is among the high points of this year's show, the next 25 years of the industry are likely to prove even more fast-paced, and bitterly competitive, according to senior executives.
+The week promises a flurry of new products -- and whole new categories of products ranging from hand-held Windows PCs to new species of the controversial new Network Computer to fast new computer modems and the launch of DVD, digital video disk.
+The latter technology holds many times the amount of data available on the conventional CD-ROM devices which now come as standard on many desktops, and is likely to appear next year on machines ranging from laptops to home theatre televisions.
+Not only will people be able to play full-length movies on their laptop devices, but the new medium is expected to unleash a whole new genre of computer games using sophisticated three dimensional animation and hot new 3-D computer chips.
+Although the annual event is prone to hyperbole -- and it is expected to draw nearly a quarter of a million executives, analysts, customers and media people this year -- some high- profile executives believe the time has finally arrived for the long-heralded convergence of television, computers and telecommunications into one vast, interconnected business.
+"I think this convergence is starting to redefine itself as collision," Carl Wankowski, president and chief operating officer of Sony Electronics Inc., the U.S. operating unit of Sony Corp. told Reuters on the eve of the show.
+Sony expects to showcase a variety of products, including DVD technologies and its WebTV set-top box, which turns a television into a simplified Internet browsing device.
+The opening keynote of the week-long event will be Intel Corp. Chief Executive Andy Grove, who under the theme "A Revolution in Progress," will trace the history of the microprocessor which turned Intel from a fledgling chip company into the world's largest semiconductor company.
+Grove will also provide live demonstrations of how personal computers can already be used for sophisticated applications today for complex graphics displays. He will outline goals and challenges facing the PC industry over the next 15 years, with projections for the next quarter century.
+On Tuesday, Microsoft Chairman and Chief Executive Bill Gates promises to issue a challenge to the industry in a keynote speech whose title harkens back to Gates' "Information at Your Fingertips" address here six years ago.
+Gates, who recently republished his book, "The Road Ahead," in paperback, has said the industry is too optimistic about what it can produce within a short, two-year time frame, but far too pessimistic about what can be achieved in a decade.
+Netscape Communications Corp. Chief Executive Officer Jim Barkesdale on Wednesday will make the third of a trio of keynotes that day, providing insight on how the pioneer of Web browsers sees competition moving to internal corporate networks based on Internet technology, known as intranets.
+But the celebrations begin already on Sunday night, as International Business Machines Corp.'s Lotus Development Corp. officially launches its SmartSuite 97 for Windows 95 and Windows NT at a lavish gathering to be followed by IBM's famous Toga Party.
+Microsoft Corp. is due to unveil the Handheld PC (HPC) devices running its Windows CE consumer electronics version of its system at a Treasure Island Hotel bash complete with a Cirque du Soleil performance.
+A handful of major computer companies, including Compaq Computer Corp., NEC Corp. and Hitachi Ltd., are due to unveil mobile Windows CE-based handheld devices.
+On Monday, Microsoft is due to show off the master version of its lastest productivity suite Office 97, enabling a direct comparison between its offering and Smartsuite 97.
+Apple Computer Inc., still seeking to recover from huge losses over the last year, is expected to counter the Windows CE launch with more industry-focused adaptations of its three-year-old Newton handheld technology.
+The company may also seize the opportunity to provide more details of its future technology plans, as rumours continue to swirl over discussions it has had with startup Be Inc., which has been working on a speedy new operating system.
+Intel Corp President and Chief Executive Andy Grove said on Monday that by the year 2011, microprocessors may be capable of holding one billion transistors and delivering 100,000 million instructions per second (MIPS).
+Grove, delivering the opening keynote address at the personal computer industry's Comdex trade show celebrating the 25th anniversary of the first microprocessor, said such advances were possible withing current technological know-how.
+Microprocessors are the semiconductors, invented by Intel engineers in 1971, that serve as the brains of PCs.  
+Grove said that by 2011, the microprocessors the industry could be producting, given current understanding of the laws of physics, could run at 10 gigahertz, or four times the frequency of a microwave oven.
+This is roughly 50 times the frequency of the current top-of-the-line microprocessors.
+Speeds of 100,000 MIPS, a standard measure of computing power, would be 100,000 times the speed of Digital Equipment Corp's VAX 1180s, a line of refrigerator-size midrange computers popular in the 1980s.  
+In a summary text of his speech issued in advance, Grove said the microprocessor of 1996 delivers 400 MIPS, running at a frequency of 200 megahertz (Mhz) with 5.5 million transistors. This, he noted, meets or exceeds a 1989 projection by Intel engineers of 100-MIPS machines at 150 Mhz.
+The microprocessor of the year 2011 might fit on a die the size of a half dollar, or 1.8 inches, three times the current 0.6-inch die size, the Intel executive added.  
+The line width resolution of computer microprocessors, which is critical to the ability to add transistors and power, may -- through projected improvements in photolithographic and process technology -- reach 0.07 micron, compared to 0.35 today.
+But Grove also said the industry must be prepared to meet consumer expectations, including those formed over a half century by the medium of television.
+"We are in competition for these consumers, for their dollars and their leisure time," he said in the summary text. "That competition is the TV."
+He said TVs outnumber PCs worldwide by about three to one.  
+"In this war, he who captures the most eyeballs wins," he said. "In our battle for eyeballs, user experience on the PC must not only meet the expectation levels set by TV viewing, it must exceed them."
+Grove provided demonstrations of the concept of visual computing, one comparing 1992 technology with state-of-the-art technology today, and another showing the high-end Pentium Pro Processor at current performance levels and simulating what will be available in the year 2000.
+In his address, Grove demonstrated how Starbucks Inc uses connected personal computers to enable its chief executive, Howard Shultz, to communicate directly with the company's remote store locations.
+"We need to be relentless in our concern and efforts to grow the number of users and uses of our technology as we are in our efforts to develop and build the technology," he said.
+"Just as we are investing in technology for the long term, we need to target the new users of the future today."
+Intel Corp. President Andrew Grove said the $400 billion personal computer industry must serve up more than just television-like features to impress its most demanding customers: 10-year-old kids.
+In an opening speech at the Comdex trade show in which he hailed the 25th anniversary of the microprocessor which Intel invented, Grove demonstrated how PCs with his company's next-generation microchips will be able to deliver full-screen video with theater-like, surround-sound stereo.
+But, he said, this would only bring the PC to parity with the television as an entertainment device.
+The industry must focus on satisfying "our most demanding users: 10-year-old kids," he said.
+Using Intel chips and graphics technology from Salt Lake City-based Evans &amp; Southerland Computer Co., Grove demonstrated how graphics could improve by the year 2000 to provide a more lifelike "flythrough" down a quiet English village street.
+Demonstrating Intel's renewed emphasis on increasing consumer use of products based on its chips and technologies, Grove said the entire industry needs to focus on satisfying customers with aggressive output of new products.
+"My fear is that some day that (product) cycle might sputter," he told reporters after his address. The industry should aim to grow by 15 percent to 17 percent a year, as it has for the last decade or more, he said.
+"Just as we are investing in technology for the long term, we need to target the new users of the future today."
+This is particularly important as the cost of building a semiconductor plant has risen dramatically from $3 million in 1973 to $2.5 billion for its latest plant and will reach as much as $10 billion entering the next millennium.
+Grove said the industry must be prepared to meet consumers' expectations, including those formed over a half century during which the television defined visual experience.
+"We are in competition for these consumers, for their dollars and their leisure time," he said, arguing that time especially was a "finite" commodity and computers needed to compete with TV for consumer share.
+Grove said there are only about one-third as many personal computers as TVs installed worldwide, even though the numbers of PCs sold annually is starting to outpace the number of new televisions sold on a worldwide basis.
+"In this war, he who captures the most eyeballs wins," he said. "In our battle for eyeballs, user experience on the PC must not only meet the expectation levels set by TV viewing, it must exceed them."
+Grove projected that microprocessors could by the year 2011 be capable of holding 1 billion transistors and deliver 100,000 million instructions per second, or MIPS.
+Grove said these advances are possible with current technology. Microprocessors are the semiconductors, invented by Intel engineers in 1971, which serve as the brains of personal computers.
+International Business Machines Corp's Lotus Development Corp unveiled the company's next productivity suite, SmartSuite 97, and said the product will begin shipping in January.
+Lotus President Jeff Papows said on Sunday night the company will continue to add Internet functionality, with a further upgrade planned in the first quarter of 1998.
+He took a shot across the bow of Netscape Communications Corp's aspirations in challenging Lotus's share of the corporate marketplace.
+"If they thought the browser war was bloody, just wait," he said of Netscape's ambition to expand its role in supplying corporate internal networks, or intranets.
+"This will be a whole new level of bloodiness," he told reporters after the launch of the new SmartSuite package on the eve of the Comdex annual computer show here, the largest industry trade gathering in the United States.
+Lotus executives made clear Lotus plans to continue building new features into its applications suite, while undercutting the prices charged by market leader Microsoft Corp, which dominates the market with nearly 70 percent share.
+Although the new Lotus SmartSuite carries an estimated retail price of $399, current Lotus applications users, or those using competing products, may upgrade for just $149.
+Those buying the current SmartSuite edition through year-end 1996 will receive a free upgrade and a $50 rebate, bringing the effective price to $99.
+Users of certain recent Corel applications packages will be allowed to trade these in for a free CD upgrade to the current SmartSuite for Windows 95 or Windows 3.1 by year-end.
+Papows cited a 1996 International Data Corp survey showing the size of the suite application market growing from around $4.4 billion in 1997 to around $6 billion by the year 2000.
+Lotus achieved a 26.3 percent share of unit volume in the third quarter, according to IDC data, and has benefited from nine million units sold through computer makers worldwide in the first year of its preloading program.
+Online registrations in this program have been rising 600 percent quarter over quarter this year, and retail sales have soared 65 percent, the Lotus executive said.
+Lotus aims to differentiate its productivity suite by providing the ability to easily find, share and collaborate, as well as publish, using Internet technology.
+SmartSuite 97 works on Microsoft's 32-bit Windows 95 and Windows NT 4.0 operating systems, and permits users to drag and drop Internet information for use on the desktop, dynamically update spreadsheets and conduct searches over the Web.
+Lotus product managers also gave previews of Lotus Components for the Internet "applet," due to be released in 1997, to create spreadsheets, charts and diagrams within applications. An applet is a small program, written in the Java environment developed by Sun Microsystems Inc.
+Lotus said it currently has some 300 to 400 programmers working in Java -- roughly equivalent to the numbers that Sun's JavaSoft unit itself has had, although Sun now plans to accelerate its number of Java programmers to around 700.
+-- Silicon Valley Bureau "1 415 846 5400
+Microsoft Corp. Chairman Bill Gates on Tuesday swept aside doubts about the future of the personal computer, saying this type of computer system was going to be in the forefront for many years to come.
+The Microsoft co-founder used his keynote address at the annual Comdex industry trade show in Las Vegas to illustrate how the PC had survived criticisms over its shortcomings and will continue to be used in a wide range of devices, from home computers to cellular phones.
+Microsoft earlier this week unveiled the first line of handheld PC devices running on its new Windows CE operating system. Gates said Microsoft is working on advances that in 1997 should give its new high-end Windows NT programme the same sort of scalability -- the ability to add vast numbers of computing configurations -- as Windows CE.
+These technologies, designed for high-end computers, are able to store terabytes, or 1 trillion bytes, of data to eventually process billions of transactions a day.
+Gates said only around 15 companies now store terabytes of data and the billion-transaction level is more than phone companies, credit card firms or airlines currently process on such systems.
+But, with transactions and communications using World Wide Web technology, the tetrabyte level is not far off, he said.
+Touting the virtues of the PC, Gates said, "The strength of the PC is what you take for granted," he said. In recent years, for example, Microsoft and the industry have introduced features that allow PC users to easily plug in new devices and multimedia features such as video and audio.
+The personal computer industry has grown dramatically, he said, with more than 200 million PC users worldwide. Although sales volume is approaching 70 million units a year, it will be hard to keep unit sales growth worldwide above the 10 percent figure in future years, Gates said.
+"It's hard to grow at greater than 10 percent. There will probably be some years where you won't see any growth at all," he said, adding that, nonetheless, "people are doing more and more with the PC."
+Gates outlined an array of pending technologies, including three-dimensional graphics, and sophisticated methods of transmitting information to computers such as speech recognition and visual clues such as gestures or expressions.
+At some point, he said, recipients of intelligent "junk mail" may actually be able to transmit their facial expressions upon reading it back to the organisation that sent the mail.
+In future operating systems, Gates predicted that "90 percent of the code will relate to these new input systems."
+Gates, using videos to illustrate his point, poked fun at the Silicon Valley adversaries who are increasingly touting a new, low-price network computer, or NC, as the solution to escalating computing costs.
+One of the videos depicted a variety of individuals being interviewed in New York City streets on their thoughts on a series of complex computer terms in a mock survey illustrating how little the public knows about computer technology.
+One features Scott McNealy, the chief executive of Sun Microsystems Inc., who has been thumbing his nose at Microsoft and touting his Java technology and NCs as a means to eliminate Microsoft's lock on the industry.
+Without being aware of what may have been asked, McNealy stares into the camera, and says, "I'm not sure. I'm not a computer scientist. I majored in golf."
+In a briefing following the speech, Gates and other Microsoft executives repeated that Microsoft was spending over $2 billion on research and development in fiscal 1997, and has budgeted $600 million in product support and $400 million toward partnerships.
+Microsoft on Monday introduced the new Office 97 applications, which include word processing and spreadsheets, and said Tuesday that 1 million desktops users have signed up to receive it.
+Office 97 software will cost around $199 for the standard edition and $299 for the professional product, similar to the prices of Microsoft's Office 95 versions.
+A few years ago, one company led the market for an exciting new technology called groupware, which enabled workers at different locations to use computers to collaborate on business projects.
+But the rise of the Internet has changed all that, creating new opportunities for using such software more widely and setting the battleground for a clash for a share of one of the fastest-growing markets in the personal computer industry.
+The market is driven by corporations' desire to use cheaper, easier-to-use Internet technologies to tie together far-flung and incompatible computing systems, a market some now estimate may reach $10 billion by the year 2000.
+The trend has helped fuel the explosive growth of Netscape Communications Corp., which burst onto the public market in August 1995 and has been turning its focus to using Internet technologies in the lucrative corporate market for building the internal networks known as intranets.
+Intranets use relatively inexpensive software to link together people across an organisation and allow access to information via a common interface, or browser.
+Netscape's abrupt rise jolted software giant Microsoft Corp., which has been rushing to incorporate Internet technology throughout its products, and International Business Machines Corp.'s Lotus Development Corp., which pioneered the groupware market with its Lotus Notes products.
+At Comdex, the computer industry's largest trade show, all three companies have unveiled strategies aimed at attracting major corporate customers to their products.
+Lotus, which is trying to revive its early lead with its Domino computer network software and a package of collaborative programmes like spreadsheets and word processors, promises to use IBM's deep pockets to fund its campaign.
+The battle next year is expected to be even more intense than the skirmish last summer between Microsoft and Netscape over Microsoft's entry into the Web browser market, in which Netscape retains a nearly 80 percent stake.
+"If they thought the browser war was bloody, just wait," Lotus President Jeff Papows said earlier this week. "This will be a whole new level of bloodiness."
+Although Lotus has moved to add Internet features while slashing prices on its software for the Notes market, the roughly $700 million in research and development spending it touts is only a fraction of Microsoft's $2 billion-plus total research and development budget in fiscal 1997 alone.
+And while Lotus officials privately say they would rather have the problem of reducing prices dramatically than having to build sophisticated corporate networke systems from scratch, new Internet technology offers compelling savings.
+Netscape Chief Executive Jim Barksdale, in his keynote address at Comdex on Wednesday, identified some corporate customers who he said had reported up to 2063 percent return on investment by deploying intranets using Netscape products.
+Microsoft Chief Executive Bill Gates said his company will focus its resources on lowering the cost of corporate computing this year with the same intensity it applied last year in adapting Internet technologies.
+Analysts said that by bundling many of its Internet-based technologies with its latest operating systems, Microsoft may have an upper hand in releasing new products and with customers who are committed to remaining on the leading edge.
+But even in the personal computing market where Microsoft's operating systems dominate, fewer than one-third of company machines run the latest versions of Microsoft Windows software needed to fully utilize its groupware features, they add.
+"It's less a competition for (software) suite sales than it is for corporate dollars," said Morgan Stanley &amp; Co. analyst Mary Meeker, who sees two paths for corporate customers.
+One set may chose to upgrade all its software to the latest Microsoft products, including Microsoft's newly launched Office 97 suite.
+Meeker said this option is costly.
+Another set of customers, Meeker said, could chose to keep their investment in existing computers and, using Netscape's products on the 17 different systems it supports, build a system combining these machines relatively quickly.
+Netscape Communications Corp. President Jim Barksdale Wednesday unveiled new software that will allow users to receive personalized information anywhere on a computer network.
+The new software, code-named Constellation, will also allow users to merge and customize information on computer desktops and networks, posing a fresh challenge to archrival Microsoft Corp..
+In a keynote speech at the annual Comdex computer trade show in Las Vegas, Barksdale described Constellation -- due for release in mid-1997 -- as part of an Internet "third wave" of information that can be displayed according to individual preferences.
+"While the first waves of the Internet focused on users being able to easily find information, the mark of this third wave is that information finds the user," he said. "Our new products will have the intelligence to help you focus on the information you care about."
+Constellation, which will be part of Netscape's next-generation Netscape Communicator corporate software, will allow users to log on or off computers throughout a network -- or even across the Internet -- and see a computer desktop with the user's personal setup.
+This "roaming" capability, like using mobile telephones in cities outside one's home base, can free people to work in different locations using the same basic tools and calling up application software such as spreadsheets and word processors.
+That provides a different approach than the one used currently by Microsoft, which requires computer makers using its Windows operating systems, for example, to show the Windows logo first.
+Although Microsoft has moved aggressively over the last 11 months into the Internet market, and produces a rival browser called Internet Explorer, Netscape has so far retained the leading role in the browser market.
+Microsoft, however, holds 90 percent of the market for the operating systems that run computers.
+Barksdale said that with 48 million copies of Netscape's browser software sold, it is the most popular application ever, and he said recent data shows Netscape with 78 percent of all browsers.
+Contrary to speculation since Netscape's red-hot stock offering in August 1995 that it would one day compete with Microsoft in operating systems, company executives said Netscape was deliberately focusing on the ability to work across some 17 different operating systems instead.
+"Constellation is not an operating systems, but is a new user interface," Netscape Senior Vice President Mike Homer told reporters.
+Although Netscape executives acknowledged there was some difficulty in making its software run on some environments, such as Windows 3.1, the company was succeeding and committed to continuing to support a variety of operating systems.
+Analysts have said this is a major distinction from Microsoft, which earlier used the Comdex show to unveil a new operating system for hand-held computers, Windows CE, and its new Office 97 software package.
+Although Microsoft demonstrated powerful features and Web capabilities for its new Office package, analysts said companies would only get the full benefit of it if they chose to deploy it throughout departments or the company.
+The problem of distributing information to individuals in the fast-growing Internet, with its tens of millions of sites, has increasingly captured the attention of Silicon Valley's sharpest engineers.
+Two start-up companies widely regarded in this area -- Marimba Inc. and PointCast Inc.'s PointCast Network -- will have their products integrated into Constellation, Netscape said.
+Softbank Chief Executive Officer Masahoshi Son said the company will focus over the next year or two on growing its businesses organically and on preparing for the launch of JSkyB.  
+"For the next couple of years -- a year or two -- we will focus more on growing what we have already acquired and also prepare for JSkyB launch. That's my focus," he told Reuters in an interview at the Comdex industry trade show here.
+Son also said the company has completed commitments to 51 Internet startup companies from its venture capital fund which totalled $350 million, including some $170 million from investment partners and the remainder from Softbank itself.
+Softbank in the summer launched a 50-50 joint venture with Rupert Murdoch's News Corp in a digital satellite system known as Japan Sky Broadcasting, or JSkyB. The two in June acquired 21.4 percent of Asahi National Broadcasting of Japan.  
+Through a string of bold investments, Softbank has become the world's largest computer-related magazine and book publisher and the largest producer of high tech exhibitions and trade shows. It is also Japan's largest computer software, peripherals and systems distributor.
+Son's comments mark at least a temporary halt to a buying spree which culminated in the purchase in September of an 80 percent stake in Kingston Technology Corp, a leading supplier of memory modules, for cash and stock worth some $1.5 billion.
+Within the past year, Softbank closed on the $2.1 billion acquisition of Ziff-Davis Publishing, and last year it spent some $800 million for the Interface Group, whose trade show portfolio includes Comdex, the largest U.S. trade show.
+"After the launch of JSkyB, and after we have good enough management infrastructure for the synergy that we create in the U.S., then we would do a lot more things," he said of the prospects for further major acquisitions.
+On the venture funding front, Son said the 51 venture investments his company has led over the past nine months put it at the top ranks of recent Internet venture investment.  
+"We became very quickly an important player in the venture capital market," he told Reuters, adding that Softbank was able to rely on assistance from its various operating firms.
+"They helped in identifying the startup companies on the Internet, and identifying which one is the good one and the winning horses," he said.
+Furthermore he said startup companies, such as the branded Internet media company Yahoo! Inc, have been able to benefit operationally from Softbank as well as financially.
+Softbank took a 35 percent stake in Yahoo! and established Yahoo! Japan, in which Softbank retained a 65 percent stake. This is just one of a series of rapid moves by Yahoo! which has extended its brand from its original role as a search engine to find information on the Internet.
+"Yahoo Japan was established in February this year and started service April 1," Son said. "Only two months, from scratch, and it has been profitable from the first month of operations and every month it is profitable."
+In the Internet area, where many startups produce steady streams of red ink as they attempt to grow their business as rapidly as possible, Son said he considers the joint venture's profits to be somewhat of a record-breaking achievement.  
+Yahoo Inc went public on the Nasdaq market in April.
+A little more than a dozen of the investments by the $350 million venture fund have yet to be completed, he said, and Softbank is likely to form an additional investment fund as early as next year. Son, however, declined to elaborate.
+Internet service companies, such as Yahoo!, and Internet content companies are likely to be the smallest but fastest growing opportunities for investment, he added.
+Softbank recently reported first half pre-tax profit for the six months to the end of September rose 77 percent to $78.1 million as revenue grew 46.1 percent to $804.3 million, against a pre-tax profit of $43.9 million on $550.4 million of revenues for the year-earlier period.
+Son spoke after he and other senior Softbank executives made a presentation to media and industry analysts at a briefing at the annual Comdex show.
+-- sam.perry@reuters.com, Palo Alto Bureau +1415 846 5400
+U.S. high-tech venture fund investment soared 50 percent in the third quarter as overall U.S. venture investment rose 25 percent in the seasonally-slow period from year-ago levels, according to a survey released on Friday.
+"It is so hot it's scary," Kirk Walden, who compiles the quarterly Price Waterhouse LLP National Venture Capital Survey, said in an interview.
+High-technology industries, from computer software and semiconductors to medical instruments, rose to $1.32 billion in the third quarter, accounting for two-thirds of the $2 billion invested during the period, the survey found.
+Software investments alone more than doubled from year-ago levels to $596 million, and in the first nine months of 1996 alone reached $1.74 billion, more than the $1.34 billion recorded for the sector in all of 1995.
+For the first nine months of 1996, total venture-backed investments in the country reached $7 billion, nearly the $7.5 billion reported for the full year last year.
+"Based on the current rate of venture capital investments, 1996 will certainly be another record year," Donald McGovern, chairman of the Price Waterhouse Technology Industry Group, said in a statement accompanying the results.
+The third quarter total figure of $2 billion was a sequential drop from the blistering $2.8 billion pace the industry recorded in the second quarter.
+"Third-quarter numbers are traditionally lower than second- quarter numbers because deal flow slows considerably in the summer months," said Carl Thoma, president of the National Venture Capital Association. "But the venture capital industry still remains strong. Good deals are being made across the country in all industries.
+Companies in the startup and early stages attracted the greatest level of venture capital investment, the study found, with these comprising 46 percent of the 444 companies receiving funds and accounting for $600 million invested.
+On average startup companies received more than $3.1 million in funding and, communications firms accounted for nearly 56 percent of the total invested in this category.
+Funding for Internet-related companie continued at the high level set in the second quarter of 1996, with 62 Internet- related companies receiving funding in the quarter exeeding the year-ago period by six times.
+In a new trend, third quarter venture investment activity appeared to expand beyond the traditionally dominant Silicon Valley and New England areas, whose combined share of investment fell to 33 percent of value invested.
+Typically the two regions account for some 40 to 45 percent of the total amount invested by venture funds, and experts said it confirms atriend towards more even distribution.
+"Nobody in Silicon Valley is going to panic," because of the increase in funding outside the key areas, Walden said.
+High technology venture fund investment soared 50 percent in the third quarter as overall U.S. venture investment rose 25 percent in the seasonally slow period from year-ago levels, according to a recent survey.
+"It is so hot it's scary," Kirk Walden, who compiles the quarterly Price Waterhouse LLP National Venture Capital Survey, said in an interview. The survey was released Friday.
+High technology industries, from computer software and semiconductors to medical instruments, rose to $1.32 billion in the third quarter, accounting for two-thirds of the $2 billion invested during the period, the survey found.
+Software investments alone more than doubled from year-ago levels to $596 million, and in the first nine months of 1996 reached $1.74 billion, more than the $1.34 billion recorded for the sector in all of 1995.
+For the first nine months of 1996, total venture-backed investments in the country reached $7 billion, nearly the $7.5 billion reported for the full year last year.
+"Based on the current rate of venture capital investments, 1996 will certainly be another record year," Donald McGovern, chairman of the Price Waterhouse Technology Industry Group, said in a statement accompanying the results.
+The third-quarter total figure of $2 billion was a sequential drop from the blistering $2.8 billion pace the industry recorded in the second quarter.
+"Third-quarter numbers are traditionally lower than second-quarter numbers because deal flow slows considerably in the summer months," said Carl Thoma, president of the National Venture Capital Association.
+"But the venture capital industry still remains strong. Good deals are being made across the country in all industries."
+Companies in the startup and early stages attracted the greatest level of venture capital investment, the study found, with these comprising 46 percent of the 444 companies receiving funds and accounting for $600 million invested.
+On average, startup companies received more than $3.1 million in funding and communications firms accounted for nearly 56 percent of the total invested in this category.
+Funding for Internet-related companies continued at the high level set in the second quarter, with 62 Internet-related companies receiving funding in the quarter, exeeding the year-ago period by six times.
+In a new trend, third-quarter venture investment activity appeared to expand beyond the traditionally dominant Silicon Valley and New England areas, whose combined share of investment fell to 33 percent of value invested.
+Typically, the two regions account for some 40 to 45 percent of the total amount invested by venture funds, and experts said it confirms a trend towards more even distribution.
+U.S. high tech venture fund investment soared 50 percent in the seasonally-slow third quarter vs. overall U.S. venture investment growth of 25 percent from year-ago levels, according to a survey released by Price Waterhouse Monday.
+"It is so hot it's scary," Kirk Walden, who compiles the quarterly Price Waterhouse LLP National Venture Capital Survey, said in an interview.
+Venture investment in high technology industries, from computer software and semiconductors to medical instruments, rose to $1.32 billion in the third quarter, accounting for two-thirds of the $2 billion invested during the period, the survey found.
+Software investments alone more than doubled from year-ago levels to $596 million, and in the first nine months of 1996 alone reached $1.74 billion, more than the $1.34 billion recorded for the sector in all of 1995.
+For the first nine months of 1996, total venture-backed investments in the country reached $7 billion, nearly the $7.5 billion reported for the full year last year.
+"Based on the current rate of venture capital investments, 1996 will certainly be another record year," Donald McGovern, chairman of the Price Waterhouse Technology Industry Group, said in a statement accompanying the results.
+The third quarter total figure of $2 billion was a sequential drop from the blistering $2.8 billion pace the industry recorded in the second quarter.
+"Third-quarter numbers are traditionally lower than second-quarter numbers because deal flow slows considerably in the summer months," said Carl Thoma, president of the National Venture Capital Association.
+"But the venture capital industry still remains strong. Good deals are being made across the country in all industries."
+Companies in the start-up and early stages attracted the greatest level of venture capital investment, the study found, with these comprising 46 percent of the 444 companies receiving funds and accounting for $600 million invested.
+On average start-up companies received more than $3.1 million in funding and, communications firms accounted for nearly 56 percent of the total invested in this category.
+Funding for Internet-related companie continued at the high level set in the second quarter of 1996, with 62 Internet-related companies receiving funding in the quarter exceeding the year-ago period by six times.
+In a new trend, third quarter venture investment activity appeared to expand beyond the traditionally dominant Silicon Valley and New England areas, whose combined share of investment fell to 33 percent of value invested.
+Typically the two regions account for some 40 percent to 45 percent of the total amount invested by venture funds, and experts said it confirms atriend towards more even distribution.
+"Nobody in Silicon Valley is going to panic," because of the increase in funding outside the key areas, Walden said.
+- sam.perry@reuters.com +1415 846 5400
+In the true spirit of the lightning-fast world of the Internet, the browser wars which peaked in late summer have now been replaced by the battle for delivering content efficiently over the Web.
+The coming months will see an intensifying battle between products that deliver information directly to a computer, rather than stumbling around looking for it with often lengthy and cumbersome Web addresses.
+The competition centers on transforming the Internet from a "pull" model, in which people actively search the Web for information or use software agents to do that for them, to a "push" model, in which people can choose once what they want to be sent and it is published to them continuously.
+"Everybody knows who they want to get information from. The real problem is: When is it that they have information that I care about?" said Eli Barkat, chief executive of BackWeb Technologies, a San Jose, Calif.-based start-up.
+"What people want is to build relationships," he said.
+Vivek Ranadive, president of Reuters Holdings Plc's Tibco Inc. unit, likens the initial enthusiasm for surfing the Net to Sunday drives in the early days of the automobile, a pleasant but passing phenomenon.
+Electronic commerce over the Internet, which is expected to gather steam in 1997, requires a more efficient way of navigating the information superhighway, executives say.
+More than a dozen companies, mostly small high-tech start-ups, have been busily seeking to define the space, much as search engines like Yahoo Inc., Infoseek Corp., Excite Inc. and Lycos Inc. have done in helping people search out what they want.
+"As it was for search engines six months or a year ago, this is an area that has been more or less discovered by venture capitalists and others as something that has to be dealt with," said Jack Wilson, managing editor of Technologic Partners' ComputerLetter.
+In addition to the impracticality of aiming to find real-time information in the more than 50 million Web pages that search engines catalog, many companies would like to be able to update customers and suppliers directly.
+"There are some obvious problems with today's browse-and-pull technique for getting at information when you need it," Wilson said. "So there is a proliferation of new companies and new products from old companies aimed at solving this."
+More than a dozen companies are now vying for attention, including Ex Machina, which is providing a wireless news alerting system made by Global Village Communication Inc., and New York City-based Ifusion Com.
+So far, the category has been dominated by one pioneering entry, Cupertino, Calif.-based PointCast Network, which burst onto the scene in the spring with a screen saver display which offers customized and updated news, data and advertising.
+"The biggest application that's got the visibility with this type of technology is PointCast," said Phil White, chief executive of Informix Software Inc.. "PointCast has got everybody now aware of how I can subscribe to things."
+Another hot Silicon Valley start-up in the sector is Marimba Inc., founded by Kim Polese and three colleagues from the Sun Microsystems Inc. team which created the popular new Java programming language.
+Industry executives say competition is vital to expanding the marketplace, but it also creates confusion as companies vie for a share of the action.
+"I think there's a lot of confusion in the market," said Barkat. "You hear a lot of names when people talk about this space, and the reason is the space is huge."
+Technologies that transform the way information is delivered on the Web, such as those which Tibco Inc. will announce Monday, may help expand the market, according to industry analysts and executives.
+"We are essentially a plumbing company, so we do plumbing software, and people like Marimba and BackWeb and PointCast can actually make use of our software," said Ranadive.
+"Now the technology they presently use to do this is a pull technology and so you can emulate a push by going out and asking a lot of questions," he added. "But you're tying up the network, you're tying up the server by doing that."
+In the true spirit of the lightning-fast world of the Internet, the browser wars which peaked in late summer have now been replaced by the battle for delivering content efficiently over the Web.
+The coming months will see an intensifying battle between products that deliver information directly to a computer, rather than stumbling around looking for it with often lengthy and cumbersome Web addresses.
+The competition centers on tranforming the Internet from a "pull" model, in which people actively search the Web for information or use software agents to do that for them, to a "push" model, in which people can choose once what they want to be sent and it is published to them continuously.
+"Everybody knows who they want to get information from. The real problem is: When is it that they have information that I care about?" said Eli Barkat, chief executive of BackWeb Technologies, a San Jose, Calif.-based start-up.
+"What people want is to build relationships," he said.
+Vivek Ranadive, president of Reuters Holdings Plc's Tibco Inc. unit, likens the initial enthusiasm for surfing the Net to Sunday drives in the early days of the automobile, a pleasant but passing phenomenon.
+Electronic commerce over the Internet, which is expected to gather steam in 1997, requires a more efficient way of navigating the information superhighway, executives say.
+More than a dozen companies, mostly small high-tech start-ups, have been busily seeking to define the space, much as search engines like Yahoo Inc., Infoseek Corp., Excite Inc. and Lycos Inc. have done in helping people search out what they want.
+"As it was for search engines six months or a year ago, this is an area that has been more or less discovered by venture capitalists and others as something that has to be dealt with," said Jack Wilson, managing editor of Technologic Partners' ComputerLetter.
+In addition to the impracticality of aiming to find real-time information in the more than 50 million Web pages that search engines catalog, many companies would like to be able to update customers and suppliers directly.
+"There are some obvious problems with today's browse-and-pull technique for getting at information when you need it," Wilson said. "So there is a proliferation of new companies and new products from old companies aimed at solving this."
+More than a dozen companies are now vying for attention, including Ex Machina, which is providing a wireless news alerting system made by Global Village Communication Inc., and New York City-based Ifusion Com.
+So far, the category has been dominated by one pioneering entry, Cupertino, Calif.-based PointCast Network, which burst onto the scene in the spring with a screen saver display which offers customized and updated news, data and advertising.
+"The biggest application that's got the visibility with this type of technology is PointCast," said Phil White, chief executive of Informix Software Inc.. "PointCast has got everybody now aware of how I can subscribe to things."
+Another hot Silicon Valley start-up in the sector is Marimba Inc., founded by Kim Polese and three colleagues from the Sun Microsystems Inc. team which created the popular new Java programming language.
+Industry executives say competition is vital to expanding the marketplace, but it also creates confusion as companies vie for a share of the action.
+"I think there's a lot of confusion in the market," said Barkat. "You hear a lot of names when people talk about this space, and the reason is the space is huge."
+Technologies that transform the way information is delivered on the Web, such as those which Tibco Inc. will announce Monday, may help expand the market, according to industry analysts and executives.
+"We are essentially a plumbing company, so we do plumbing software, and people like Marimba and BackWeb and PointCast can actually make use of our software," said Ranadive.
+"Now the technology they presently use to do this is a pull technology and so you can emulate a push by going out and asking a lot of questions," he added. "But you're tying up the network, you're tying up the server by doing that."
+For many computer owners, 1997 will be the year when Internet users will begin to see more features aimed at making the Net more lifelike. But it is also likely to be marked by frequent communications breakdowns caused, in part, by increased demand.
+"I wrote a year ago about a collapse, but it's really collapses, getting more frequent, deeper and longer," said Robert Metcalfe, the inventor of the Ethernet computer networking technology and founder of 3Com Corp. who is now vice president of technology at International Data Group, of Boston, Massachusetts.
+Metcalfe said the congestion that causes many people to call the World Wide Web the "World Wide Wait" is only one of many problems that can prompt it to crash.
+Major outages have been caused by such seemingly minor events as a rodent chewing a power cable or an ampersand typed in the wrong place in software on central Internet devices.
+Over the summer, more than six million customers of America Online Inc., the world's largest online computer service, were without service for 19 hours because of a software problem.
+In October, a failure at Internet service provider BBN Corp.'s Stanford University Internet facility cut off access for 400 top high tech firms for nearly a day.
+MORE OUTAGES AS PROVIDERS TRY TO KEEP UP WITH DEMAND
+Experts such as Metcalfe predict similar types of outages next year as telecommunications companies and Internet providers struggle to keep up with demand.
+Still, Web surfers are also likely to see many new features in 1997, from advanced graphics to slick ways to communicate with each other using animated characters in virtual chat rooms and high-tech games.
+Dozens of companies, including the Germany-based Black Sun Interactive which recently opened an operation in San Francisco, have been developing new virtual worlds based on a technology called Virtual Reality Modelling Language (VRML).
+The technology, pronounced "ver-mul", enables creators of multi-player computer games, for example, to design lifelike characters and three-dimensional settings that will exploit new 3-D computer chip designs and speeded-up microprocessors with added multimedia features due next year.
+New capabilities include interactive, three-dimensional fly-over cities created by the startup Bigbook, which allows users to swoop down on a building and click on it with a mouse to see who the occupants are.
+SHOWDOWN OVER ONLINE PORN LIKELY
+But as the Net becomes more lifelike, the prospects for a showdown between regulators and free-speech advocates over the issue of online pornography is likely to increase.
+In October, the U.S. Federal Bureau of Investigation said it was investigating an electronic mail message sent to thousands of Internet users offering child pornography for sale.
+The question of whether to regulate the content of the Internet, both within a country's borders and internationally, comes as officials in Washington are pressing for reductions in sexual and violent content in film and television.
+One solution offered by some software firms is a device like television's V-chip, which allows parents to restrict access to certain programmes.
+Next year will also see new electronic communities in which people can participate as consumer, customer, contributor or even investor in enterprises over the Web.
+Although 1997 will not be the year people rush out to do all their shopping on line, it will be a critical year for deploying the technologies that will make electronic commerce widely available in 1998 and 1999, according to analysts.
+Michael Parekh, Internet analyst at Goldman Sachs, expects companies to continue using Internet technology both in internal networks, known as Intranets, and to create what are known as Extranets, to reach customers and suppliers.
+"The big thing for 1997 is going to be the way users think of the Web goes from a pull paradigm to a push paradigm," he said, referring to the goal of being able to send data to individuals rather than waiting for them to seek it.
+In the United States, only about one third of the country's 97 million households have a personal computer, and just 11 percent of U.S. households are estimated to have the modem devices necessary to link them to the Internet.
+Faster, 56-kilobit modems are due next year, but analysts expect a battle over standards will slow their spread.
+For many computer owners, 1997 will be the year when Internet users will begin to see more features aimed at making the Net more lifelike. But it is also likely to be marked by frequent communications breakdowns caused, in part, by increased demand.
+"I wrote a year ago about a collapse, but it's really collapses, getting more frequent, deeper and longer," said Robert Metcalfe, inventor of Ethernet computer networking technology and founder of 3Com Corp who is now vice president of technology at International Data Group of Boston.
+Metcalfe said the congestion that causes many people to call the World Wide Web the "World Wide Wait" is only one of many problems that can prompt it to crash. Major outages have been caused by such seemingly minor events as a rodent chewing a power cable or an ampersand typed in the wrong place in software on central Internet devices.
+This summer, more than 6 million customers of America Online Inc., the world's largest online computer service, were without service for 19 hours because of a software problem. In October, a failure at Internet service provider BBN Corp's Stanford University Internet facility cut off access for 400 top high tech firms for nearly a day.
+Experts such as Metcalfe predict similar types of outages next year as telecommunications companies and Internet providers struggle to keep up with demand. Still, Web surfers are likely to see many new features in 1997, from advanced graphics to slick ways to communicate with each other using animated characters in virtual chat rooms and high-tech games.
+Dozens of companies, including Germany-based Black Sun Interactive, which recently opened an operation in San Francisco, have been developing new virtual worlds based on a technology called Virtual Reality Modelling Language (VRML).
+The technology, pronounced "ver-mul," enables creators of multi-player computer games, for example, to design lifelike characters and three-dimensional settings that will exploit new 3-D computer chip designs and speeded-up microprocessors with added multimedia features due next year. New capabilities include interactive three-dimensional fly-over cities created by the startup Bigbook, which allows users to swoop down on a building and click on it with a mouse to see who is inside.
+But as the Net becomes more lifelike, the prospects for a showdown between regulators and free-speech advocates over the issue of online pornography is likely to increase. In October, the FBI said it was investigating an electronic mail message sent to thousands of Internet users offering child pornography for sale.
+The question of whether to regulate the content of the Internet, both within a country's borders and internationally, comes as officials in Washington are pressing for reductions in sexual and violent content in film and television. One solution offered by some software firms is a device like television's V-chip, which allows parents to restrict access to certain programmes.
+Next year will also see new electronic communities in which people can participate as consumer, customer, contributor or even investor in enterprises over the Web.
+Although 1997 will not be the year people rush out to do all their shopping on line, it will be a critical year for deploying the technologies that will make electronic commerce widely available in 1998 and 1999, according to analysts.
+Michael Parekh, Internet analyst at Goldman Sachs, expects companies to continue using Internet technology both in internal networks, known as Intranets, and to create what are known as Extranets, to reach customers and suppliers.
+"The big thing for 1997 is going to be the way users think of the Web goes from a pull paradigm to a push paradigm," he said, referring to the goal of being able to send data to individuals rather than waiting for them to seek it.
+In the United States, only about one third of the country's 97 million households have a personal computer and just 11 percent of U.S. households are estimated to have the modem devices necessary to link them to the Internet.
+Faster, 56-kilobit modems are due next year, but analysts expect a battle over standards will slow their spread.
+Seasoned computer industry executive John Young on Friday begins the search for a strong manager to take the helm of Novell Inc who can drive the company back to growth at the speed of the Internet.
+Young, 64, was selected by Novell's board of directors on Tuesday to recruit fresh leadership for the struggling maker of computer network software after the board decided it should set a different course than that taken by Robert Frankenberg, its well-liked chairman and CEO of two years.  
+"The board has asked me to be chairman, and to work with the management team and recruit a new CEO," said Young, who had himself served as chief executive of Palo Alto-based Hewlett- Packard Co for 15 years through 1992.
+No quick fixes are expected, and Young made clear in an interview with Reuters at Novell's offices here late Thursday that he has no intention of serving in the role of chairman once he has completed the search for a chief executive.
+"My experience with an executive search of this type is that four to six months is (a realistic time frame) when everything goes right, longer when it doesn't," he said.  
+"That's as close to a time frame as I can give you and I do not expect to be involved other than as a director at the end of that period."
+Nevertheless, the company already has an ambitious plan to revamp its corporate image, with a $20 million worldwide brand and product advertising campaign due to start next week, and to unveil a string of updated products.
+Young and other top Novell executives believe the company now needs a hard-driving top executive who can operate on "Internet time" -- pushing the company to develop products more swiftly and better pinpoint customers' needs.  
+Although the company aims to build the near-mania zeal around Internet technologies into its own business plans, it is looking more for a "street savvy" executive who can speed the pace of business than a self-annoited Web hound, he said.
+In fact, he said, while the executive must be able to act extremely quickly and turn technologies into products, he said he was "not fond of the idea of regularly turning around product after product after product" with the rapidity that Microsoft Corp and Netscape Communications Corp are launching new browsers, every few months.  
+Ironically, Young is charged with replacing the man who had come to him 18 months ago, based on their two decades as business associates at Hewlett-Packard, and recruited him to joint Novell's board of directors.
+"He asked me to join the board," Young said. "He thought I would add some management expertise and perspective to the directors. So, yes, he recruited me."
+Young and other executives said the departure was agreed on amicable terms, and had been subject of board-level discussion prior to Tuesday, so it had not been a hasty act.  
+"These discussions had been under way. They were mutually agreed," one board member said. Young said the board had decided it needed to take "a different way."
+"It was quite amicable," he added. "This wasn't some screaming match ... Bob is an enormously talented guy."
+In fact, Frankenberg was credited with others in the industry for having taken difficult decisions in disposing of many assets his predecessor, patriarch Ray Noorda, had acquired in a virtually singular fixation that he was going to use Novell as a vehicle to outdo Microsoft chief Bill Gates.  
+Noorda had bought a string of operating systems and PC applications businesses, and was rumored in the industry to have funded additional secret development projects, as part of what was broadly viewed as an anti-Microsoft agenda.
+Assets were sold at fire sale prices. For example, WordPerfect Corp., purchased in 1994 for $1.4 billion in stock, was sold to Corel Corp  .TO early this year for stock worth about $130 million.  
+As one example of new Internet prospects, Novell executive vice president Steve Markman said the company may work with Corel on technologies related to Corel's efforts to break its massive suite of products, many obtained from Novell, to create smaller Java language applications, or "applets".
+"It's a tremendous opportunity to move the installed base to the Intranet space," he said, noting that Novell still enjoys a 63 percent share of the worldwide Network market, despite recent inroads by fiercely competitive Microsoft.
+Novell also will begin shipping three major product upgrades -- IntraNetWare, which includes the next version of its flagship NetWare product, Managewise 2.1 network management software, and its Groupwise 5 groupware applications -- within about a month.
+Nevertheless, analysts said a real test for Novell would be whether it will be able to motivate its own employees, after years of transitions, and generate the excitement in the marketplace over its products which many rivals have created.
+A Silicon Valley company has developed a new technology designed to turn the World Wide Web from a random, hit-or-miss quest into a highly targeted personal service that it says can change to suit your mood.
+The new service, known as The Angle, is available immediately as a showcase for Los Altos, Calif.-based BroadVision Inc.'s One-to-One technology for personalizing the World Wide Web.
+The technology enables a person to set up an individual profile, or "angle," combining personal interests and preferred style to customise the "look and feel" of the Web service.
+Users can also chose from several "personalities" to try out different ways of viewing information on the Internet, or choose different profiles for different moods -- such as one for the business day and another for use at home.
+"We give the user the remote control," Broadvision said in materials prepared for the formal unveiling Tuesday of The Angle site, at the URL  http://www.theangle.com.
+"We put you in the driver's seat. As you change, so do your information needs," the company said.
+Use of the site is free of charge and requires no registration. Profiling information is stored only for the benefit of users, the company said, to ensure privacy and enable them to change their profile at any time.
+Pehong Chen, the founder, president and chief executive of BroadVision, said the technology would serve not only as a showcase, but would enable large organisations to develop co-branded sites based on the BroadVision product.
+"Seeing is believing," he told Reuters in an interview. "People can choose a personality, somebody they can relate to, or disguise themselves as sombody else ... This makes it fun and easy to understand."
+Chen said the company is targeting a Global 1000 list of large companies for developing both co-branded services and for using the technology internally in private networks known as Intranets to communicate with individual employees.
+It has already begun collaborating with Web partners and formed a new division, the Content Services Group, to provide software products, consulting services and original content for both consumers and consumer-oriented businesses.
+The Angle is the first application developed by the group, which is also releasing a Web-based distributed multi-user Intranet application called WebPoint, which handles calendar, workflow and communications among publishers and editorial staff involved in creating and maintaining Web sites.
+Editors in the group also provide a Web Site rating system which can point users to sites with a "Look Before You Link" feature providing data on how easy a site is to use, its graphics intensity, level of innovation and interactivity and update frequency before even entering the site.
+BroadVision has signed a charter co-branding partnership agreement with Virgin Communications of London. Branded as "The Virgin Angle", the service will include additional UK perspectives and is due to be available in the fourth quarter.
+The new division is also advising Minneapolis-based Netradio Networks on "The Netradio Angle," which is designed to be a music Web site recomendation service.
+BroadVision completed an initial public offering of stock in June and Chen said the company is currently ahead of its business plan.
+Netcom On-Line Communication Services Inc has decided to shift its focus to higher-value business services in search of profits, leaving the consumer sector to others.
+"We've been growing at dizzying rates, what we're saying is we're going to focus more on quality here -- quality of earnings, quality of service to subscribers," Netcom Chairman and Chief Executive David Garrison said in an interview.
+Despite the San Jose, Calif. company's blistering pace -- it has grown some sixfold in three years -- the sharper focus will allow it to target annualized growth in the 40-50 perent range and seek to attract customers to higher-value services.
+Netcom executives said they will release further details of their new pricing plans in February, but levels will be above its current $19.95 access fee, which it is scrapping.
+"We are discontinuing a line we don't think is a good deal for our customer or a good deal for our shareholders and we will replace it with other products we will announce in February. They will be at higher price points," Garrison said.  
+The new services may be aimed at providing higher quality access, which Garrison noted was a source of customer concern throughout the industry, and may also include offerings which bundle software tools or online Web-hosting services.
+Most consumer-oriented Internet access providers offer unlimited access to the global network for $19.95 a month -- a price that analysts say leaves little room to generate profits -- or to help offer differentiated products.
+"There's so much attention around a service (at $19.95) that's getting more and more marginalized," Garrison said, adding he will leave Microsoft Corp America Online Inc and AT&amp;T Corp to wage battle over consumers.
+"Seventy-five percent of our business is from people who say I want to use this as a productivity tool to help my business learn more, be faster, be more competitive," he said. "I'm going to focus on that segment instead of the consumer."
+Netcom also said it expects to gain 20,000 to 30,000 new paying customers in the fourth quarter, bringing its total to about 580,000, a slower pace of growth than in the past.  
+Netcom On-Line Communication Services Inc earlier said it expects to report an unspecified profit in its current, fourth quarter domestic earnings before deducting interest expense, taxes and depreciation (EBITDA).
+The figure tops what Wall Street analysts had projected. Netcom Chief Financial Officer Thomas Weatherford said the year-ago fourth quarter results for the company as a whole, including overseas operations, was an EBITDA loss of $2.4 million, the majority of which was domestic.
+Netcom has focussed on bringing its domestic business to profitability, while timing and extent of overseas investments make profitability of those regions hard to predict.
+Wall Street consensus fourth quarter estimates had been for EBITDA for the whole company of negative $6.4 million, or an EBITDA loss of 55 cents a share, the company said.
+"We have been told by analysts that they would expect that we would beat that, based on today's announcement," Garrison said. Analysts had previously expected EBITDA to turn positive in the first or second quarter of 1997.
+According to First Call, analysts' mean estimate for per share final results for the fourth quarter was $1.18 prior to Wednesdays announcement, which came after the market close.  
+Netcom had said after reporting third quarter results two months ago that it saw "a great opportunity" to sell to its customer base by enticing them by higher levels of service.
+An outspoken computer security expert, citing his just-completed study, says up to two-thirds of certain Web sites, including reputable institutions like banks and the media, are vulnerable to hacker attacks.
+Dan Farmer -- who stirred controversy in 1995 as co-author of software dubbed SATAN that enables people with basic skills to infiltrate computer systems -- surveyed more than 2,200 Web sites.
+The survey released last week covered a relatively small portion of the sprawling Web but focused on sites where security is more of a concern.
+Farmer probed 660 bank sites around the globe, 312 North American online newspaper sites, 274 credit union sites, 47 U.S. federal government sites and 451 Internet sex clubs.
+In a summary, Farmer said that, out of his sample of about 1,700 Web sites he selected, "over 60 percent could be broken into or destroyed." As a control, he probed a random sample of 469 sites.
+Farmer said he used relatively crude, non-intrusive methods and did not actually break into the sites. He also said he would not publish the names of the sites he surveyed.
+"I barely electronically breathed on these (computer) hosts," he said in his report, adding that, considering more intrusive tests, some 70 percent to 80 percent of sites may have security flaws.
+Other computer security experts found Farmer's results credible and authoritative, David Kennedy, director of research, education and consulting at the National Computer Security Association, said in a telephone interview Monday.
+Experts and computer industry executives said the study shed more light on a problem well known within the industry but insufficiently understood by the public at large.
+The threat of hacker attacks was highlighted earlier this year when intruders broke into the Justice Department and Central Intelligence Agency Web sites and altered them, prompting the CIA to close its site temporarily.
+Farmer stressed that Web sites are being used primarily for marketing and advertising purposes and that, although some bank sites may allow visitors to look up balances, the sites do not provide access to internal financial systems.
+Deborah Triant, president of CheckPoint Software Technologies Ltd.'s U.S. operating unit in Redwood City, Calif., said banks routinely keep Web sites on separate computer systems.
+"Our experience is the banks are so paranoid that they won't even allow the access that they should be able to allow and would be quite safe if you had a modern firewall" protecting their networks from intruders, said Triant, whose company is the market leader in firewall technology.
+"So, if their Web site is vulnerable, that doesn't mean that anything else at the bank is vulnerable, or that their customers' accounts or the transactions their customers are doing are vulnerable," she said.
+Nevertheless, with the advent of electronic commerce over the Internet expected to gain momentum in 1997, lax security remains a critical issue, experts said.
+Farmer separated security flaws into two categories -- a red category where he said a site was "essentially wide open to any potential attacker" and a yellow category deemed less serious but with potential for disastrous consequences.
+Of the 660 bank sites, 68 percent were deemed vulnerable and nearly 36 percent were in the red category.
+Some 51 percent of credit unions were vulnerable, 62 percent of the federal sites, nearly 70 percent of newpapers and 66 percent of sex clubs. Sites in the red category ranged from 20 percent for credit unions to 38 percent for federal sites and 39 percent for online newspapers.
+Of the random sample of 469 Web sites used as the control, a far smaller percentage -- 33 percent -- were found to be vulnerable, and 17 percent of the group was in the red category.
+Farmer said part of the problem is that Web sites are trying to do too much at once, increasing their complexity and making security far more difficult to achieve.
+But, even with security concerns, credit card transactions over the Net are much safer than those carried out in shopping malls, said the security association's Kennedy.
+Farmer also said he plans to incorporate some newer testing tools into a new version of SATAN, which stands for Security Administrator Tool for Analysing Networks, early next year.
+The programme enables people who manage corporate networks to locate weaknesses and fix them. But it has been controversial because it can also easily be used by malevolent intruders trying to cause damage.
+Triant said there have been no reported security breaches at any of the more than 15,000 institutions with CheckPoint network security installed and said such precautions should provide adequate protection.
+WebTV Networks Inc. on Wednesday unveiled a new technology it said enables full-screen, television quality video to be delivered from the Internet through conventional telephone lines.
+Steve Perlman, co-founder and chief executive of WebTV, said in an interview the new technology will be deployed in upcoming versions of its Internet service, which lets people access the global computer network using their television sets.
+The privately held company numbers among its equity investors Microsoft Corp., Citicorp, VeriFone Inc., Times Mirror Co. Inc. and Lauder Partners.
+Perlman said the advance, which was being demonstrated publicly for the first time at the Consumer Electronics Show in Las Vegas, speeds download times significantly and greatly increases the quality of video compared with existing systems.
+WebTV said the new technology, which it has dubbed VideoFlash, has impressed officials from companies that might use it to show television and movie previews, news clips and advertising and animation through the WebTV Internet service.
+Publisher National Geographic, known for producing quality videos and photographs, said the technology was the first to provide acceptable quality video over an Internet link.
+"VideoFlash is the first Internet video technology that will allow National Geographic to deliver a visual experience on the Internet comparable to the imagery, drama and depth we offer with our television programming," said Larry Lux, vice president of National Geographic Interactive.
+VideoFlash can achieve three to 10 times the video compression rates of existing compression technologies, such as MPEG, which itself can compress video data by a factor of around 100, Perlman said.
+Even with the fastest modem connections now available, previous technology could take up to half an hour to download a 30-second video clip which could be played on a small window on a computer with generally grainy, shaky quality.
+VideoFlash provides much faster downloading and higher-quality display with little perceptible distortion, according to WebTV.
+Perlman said the software would be licensed at no charge to content providers to make videos available to WebTV subscribers. He said he expected major suppliers of video content over the Internet to adapt VideoFlash this year.
+The technology is software-based and relies on the WebTV reference design, which takes advantage of WebTV server capabilities as well as its proprietary TV set-top box, and will not be available on other systems, at least initially.
+But Perlman said he would expect at least one on-line Internet service provider may license the capabilities by the end of 1997.
+WebTV terminal units, introduced in September, are currently manufactured and distributed by Philips Electronics NV and Sony Corp.
+A senior executive of Netscape Communications Corp said the company sees no sign of any reduction in the dramatic growth in the market for Internet and intranet, and expects to hold onto a good share of the market.
+Mike Homer, vice president of marketing, also said in an interview the company currently has around 50 million users of its Netscape Navigator software for browsing the Internet, comprising roughly 75 percent of the total browser market.
+Critical approval for its new Communicator software now being publicly previewed has topped expectations, he added.  
+"We're holding market share. The market's growing very dramatically, we see no signs of that abating," Homer said in a telephone interview. "We have a great new product coming, so it gives us every reason to believe that we're going to continue to do really well."
+Homer declined to comment on the company's expected results for the fourth quarter, ending December 31, or on the current quarter, citing the quiet period ahead of the earnings report that is expected to be released on January 28.
+Shares of Netscape tumbled 10-7/8 earlier to close at 47-7/8 following an analyst's downgrade of the stock.  
+The analyst, Deutsche Morgan Grenfell's William Gurley, said in a research report he trimmed his rating to accumulate from a buy due partly to the stock's proximity to his target of $60 and partly to concern over its major product transition, and its shift to a new pricing model and a longer sales cycle.
+Homer declined to talk about revenue expectations, but said that of the reviews to date for the Communicator product first shown on December 23, "95 percent are incredibly positive."  
+"It's a better reception than any product we've ever done so far. It's going to be a smash hit product," he predicted.
+Homer also projected the electronic mail component of the product will overtake rival e-mail products this year.
+He said around 90 percent of Netscape's enterprise customers are on a yearly subscription basis.
+"There's really no delaying (of revenue) based on these product cycles," he said. "It may be the case that a new product will bring in new users because customers get excited about it, so there's definitely upside."  
+The Communicator is expected to undergo substantial preview testing, before being finalized in the second quarter.
+"The most important indicator of our success is our new product acceptance, and Communicator has exceeded all of our best expectations, so I think that's all a good picture for the next couple of quarters," he added.
+Homer said he expects SweetSpot server products to continue growing rapidly and repeated he sees no price pressure on the browser product despite Microsoft Corp's free distribution of its Internet Explorer browser software.
+Goldman Sachs analyst Michael Parekh said the consensus revenue estimate for the fourth 1996 quarter is around $115 million, with his own estimate slightly below that at $114.5 million, rising slightly to $115.8 million in the March quarter.
+"The fundamentals continue to be intact," he said.
+Gurley warned he did not see the upside surprise in the December quarter that Netscape has shown in recent quarters.
+((-- Palo Alto Bureau +1 415 846 5400))
+KLA Instruments Corp. and Tencor Instruments said Tuesday they will merge in a stock deal that would create a semiconductor capital equipment powerhouse with combined revenue exceeding $1 billion.
+Analysts said the deal creates a powerhouse in the critical market for semiconductor capital equipment that can be used to closely monitor production and improve yields. This capability has become ever more important as the cost of computer chip-making plants soars into billions of dollars.
+"This company in their particular segment of the equipment market is just invincible," said Gus Richard, Hambrecht and Quist semiconductor capital equipment analyst. "KLA's been the dominant player and Tencor's been a very, very strong second."
+The new company will be able to provide essentially one-stop shopping for chip process and diagnostics equipment.
+Richard said the combined product offerings will enable semiconductor manufacturers to augment incremental capacity by identifying and eliminating scrap earlier in the process.
+At current prices, with a total of 85.6 million shares outstanding after the stock swap transaction, the deal is worth roughly $3.4 billion, or nearly 3.5 times revenues, which analysts said was a reasonable valuation.
+The companies said the deal, subject to regulatory and shareholder approval, will be accounted for as a pooling of interests and set up to qualify as a tax-free reorganization.
+Under terms of the merger agreement, the companies said shares and options for KLA Instruments common stock will be exchanged for outstanding shares and options of Tencor on the basis of one KLA share for each Tencor share.
+The combined company, which aims to provide the most comprehensive measurement and analysis systems for yield management available to the semiconductor industry, will employ more than 3,900 people worldwide.
+The companies said the deal was expected to close during the quarter ending June 30, 1997.
+The new company, to be called KLA-Tencor,  aims to combine complementary product lines to create a full-line supplier of yield management products and services. KLA is based in San Jose and Tencor in nearby Milpitas, Calif.
+The merger comes as semiconductor equipment stocks have been rebounding from a cyclical downturn in mid-1996, when tumbling prices for memory chips due to sharply increased capacity and insufficient demand chilled the sector.
+KLA's stock hit a 52-week intraday high of $41.625 before closing at $40.875, up 87.5 cents on the day. Tencor also hit a year intraday high of $31.25 before before closing at $30.50, up 43.75 cents.
+The merger was announced after the close of trading in the Nasdaq market.
+After hours, shares of Tencor were reported soaring as high as $37, while KLA fell as low as $39 on the news.
+"It's one of the most rapidly-growing segments of the equipment market," Richard said. "These two players are the dominant players in the market and what's amazing is their product offerings are almost completely complementary."
+Analysts said executives of the companies told them in a conference call that their lawyers anticipate no regulatory obstacles, although the analysts said in some areas the companies control some 60 percent to 70 percent of certain markets.
+KLA Chairman Kenneth Levy will become chairman of KLA-Tencor, while Tencor Instruments Chairman, President and Chief Executive Jon Tompkins will be Chief Executive of the new combination, the companies said.
+Netscape Communications Corp. stock was battered for the second time in less than a week on Tuesday following cautionary comments by a Wall Street analyst regarding the Internet software company.
+Merrill Lynch analyst Bruce Smith said in a research note that Netscape had scrambled to make its fourth-quarter goals in a way that could hurt its current first quarter and the outlook for all of 1997.
+Netscape stock tumbled more than 10 percent, dropping $4.50 to $42.25 on the Nasdaq market on volume of more than 6.5 million shares. The stock was one of the most actively traded on the exchange.
+The stock of the Mountain View, Calif.-based company has lost more than a quarter of its value since the end of 1996, including a drop of around 19 percent after another analysts' warning last Wednesday.
+Smith said he remained neutral on the stock but cited industry sources as saying Netscape had scrambled to meet its fourth-quarter numbers at the end of 1996, which he said did not bode well for its current quarter and all of 1997.
+"They closed a significant amount of business on Dec. 31 just to make the quarter, which they've never had to do before," he said. In his research note, Smith wrote, "We have heard of two major deals that were closed on Dec. 31, one of which apparently closed late in the evening."
+But a spokeswoman for Netscape rebutted this.
+Speaking after the market closed, she said the company did complete some of its deals toward the end of the quarter, but she denied it was pushing down to the wire to lock up deals that would make a major impact on its financial results.
+"We did no deals that were of materially significance on Dec. 31," she said.
+"Sure, we did deals towards the end of the quarter, like everyone does," the spokeswoman added.
+Last Wednesday, the stock tumbled after Deutsche Morgan Grenfell analyst William Gurley cut his rating on the stock to "accumulate" from "buy" and cited risks from its transition to a new business plan and new pricing.
+Several other analysts, including Goldman Sachs's Michael Parekh and Morgan Stanley &amp; Co.'s Mary Meeker, have put "buy" or "strong buy" ratings on the stock, recognising near-term risks but remaining upbeat on the stock in the longer term.
+Sun Microsystems Inc. said Wednesday its profits rose 41 percent in the latest quarter and its revenues jumped to record levels, driven by sales of the company's server computer and power desktop systems.
+Sun said its net income for the fiscal second quarter ended Dec. 29 rose to $178.3 million from $126 million in second quarter a year ago. Earnings per share rose to 46 cents from 32 cents.
+Revenues rose nearly 19 percent to $2.08 billion.
+The per share earnings beat Wall Street expectations of 42 cents, according to First Call, which tracks analysts' earnings estimates.
+"The current fiscal year continues to yield strong financial results," Sun Microsystems Chief Financial Officer Michael Lehman said in a statement. "Sun is winning big in corporate intranets, the Internet, and the extranet."
+So-called intranets are in-house networks modeled on the Internet, while extranets, which are secure networks outside a company, such as a private network.
+Lehman said the company's investments in research and development and sales and support infrastructure were paying off as it moved to broaden its global presence.
+The company said gross profit margins rose to 50.4 percent, up more than 5 percentage points from the comparable period the previous year.
+Sun Microsystems Chief Executive Scott McNealy told analysts in a conference call that it was difficult to say whether the strong gross margins were sustainable.
+Sun's order backlog rose to $470 million from $407 million in its first quarter, but it was still much less than the $522 million backlog at the end of its 1996 fiscal year last June.
+McNealy said the company planned to announce new high-end computers, codenamed Starfire, next week as it seeks to offer computers that can be used for the most intensive corporate computing tasks, like databases and network management.
+Lehman said initial market data showed Sun appeared to be taking market share from its traditional rivals, and he said Sun will continue to make further significant price cuts.
+The executives said Sun was deriving increasing amounts of revenues from storage products, professional services and licensing of products based on the Java programming language, which is used to develop Internet applications.
+Lotus Development Corp. Chief Executive Officer Michael Zisman said Wednesday the company will focus its attention on what could become a $1 billion market for collaborative Internet software by 1999.
+Lotus, acquired by International Business Machines Corp. last year in a deal valued at more than $3 billion, should not try to be all things to all people, he said, but to concentrate its core business of software for groups, or so-called groupware.
+"Collaboration is clearly our sweet spot," he said in a keynote address at a three-day Internet &amp; Electronic Commerce conference here organised by the Gartner Group.
+A new version of the company's popular Lotus Notes software due out in the fourth quarter, version 4.5, will offer Notes server software to host collaboration over the Internet. Servers are computers that manage the flow of data in a network.
+This latter feature is provided by new Lotus technology dubbed Domino, which is currently being tested.
+Zisman said too much attention was now devoted to browsers, software that lets users help navigate the Internet.
+"The browser market is being eclipsed by the server market today as we speak," he said, noting browsers will most likely be offered as part of the operating system, as with Windows.
+"The action, I believe, is going to be in the server market," he said, adding that server software for collaboration through Internet sites alone is projected to be a $1 billion market by the end of the decade.
+The market for servers at the hub of Web sites will likely segment into at least three distinct classes -- content, collaboration and commerce -- and larger organisations will likely mix "best of breed" applications from different suppliers, he said.
+Lotus Development is concentrating helping people work together electronically, he said, because "content without collaboration is useless ... the value is not in the content."
+He noted as an example Web sites which not only carried information, but enabled people to communicate interactively with the Web site or other individuals using the Internet.
+"The borders are blurry. I don't believe that we will see pure content sites and I don't believe that we will see pure commerce sites," he said. "We will obtain and retain customers if we engage them."
+Sun Microsystems Inc said on Wednesday its profits rose 41 percent in the latest quarter and its revenues jumped to record levels, driven by sales of the company's server computer and power desktop systems.
+Sun said its net income for the fiscal second quarter ended Dec. 29 rose to $178.3 million from $126 million in second quarter a year ago. Earnings per share rose to 46 cents from 32 cents.
+Revenues rose nearly 19 percent to $2.08 billion.
+The per share earnings beat Wall Street expectations of 42 cents, according to First Call, which tracks analysts' earnings estimates.
+"The current fiscal year continues to yield strong financial results," Sun Microsystems Chief Financial Officer Michael Lehman said in a statement. "Sun is winning big in corporate intranets, the Internet, and the extranet."
+So-called intranets are in-house networks modelled on the Internet, while extranets, which are secure networks outside a company, such as a private network.
+Lehman said the company's investments in research and development and sales and support infrastructure were paying off as it moved to broaden its global presence.
+The company said gross profit margins rose to 50.4 percent, up more than 5 percentage points from the comparable period the previous year.
+Sun Microsystems Chief Executive Scott McNealy told analysts in a conference call that it was difficult to say whether the strong gross margins were sustainable.
+Sun's order backlog rose to $470 million from $407 million in its first quarter, but it was still much less than the $522 million backlog at the end of its 1996 fiscal year last June.
+McNealy said the company planned to announce new high-end computers, codenamed Starfire, next week as it seeks to offer computers that can be used for the most intensive corporate computing tasks, like databases and network management.
+Lehman said initial market data showed Sun appeared to be taking market share from its traditional rivals, and he said Sun will continue to make further significant price cuts.
+The executives said Sun was deriving increasing amounts of revenues from storage products, professional services and licensing of products based on the Java programming language, which is used to develop Internet applications.

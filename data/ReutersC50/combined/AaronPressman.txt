@@ -1,0 +1,764 @@
+The Internet may be overflowing with new technology but crime in cyberspace is still of the old-fashioned variety.
+The National Consumers League said Wednesday that the most popular scam on the Internet was the pyramid scheme, in which early investors in a bogus fund are paid off with deposits of later investors.
+The league, a non-profit consumer advocacy group, tracks web scams through a site it set up on the world wide web in February called Internet Fraud Watch at http://www.fraud.org.
+The site, which collects reports directly from consumers, has been widely praised by law enforcement agencies.
+"Consumers who suspect a scam on the Internet have critical information," said Jodie Bernstein, director of the Federal Trade Commission's Bureau of Consumer Protection. Internet Fraud Watch "has been a major help to the FTC in identifying particular scams in their infancy."
+In May, for example, the commission used Internet reports to shut down a site run by Fortuna Alliance that had taken in over $6 million, promising investors they could earn $5,000 a month from an initial deposit of $250. Instead, Fortuna kept most of the money, the commission charged.
+Fraud reports from the league's site, which has been visited over 370,000 times, are forwarded to local, state and federal authorities.
+The second-most-popular Internet scam, the league said, was the sale of bogus Internet services, such as custom designed web sites or Internet access accounts.
+In third place were crooks who sell computer equipment, such as memory chips or sound boards, over the net and then deliver significantly lower quality goods or nothing at all, the league said.
+Other top scams involve business opportunities. Con artists may offer shares in a business or franchise using unreasonable predictions or misrepresentations. One popular scheme promised to let consumers get rich while working at home.
+The League also announced Tuesday that NationsBank had donated $100,000 to become a sponsor of the Fraud Watch site.
+The U.S. Postal Service announced Wednesday a plan to boost online commerce by enhancing the security and reliability of electronic mail traveling on the Internet.
+Under the plan, businesses and consumers can verify that e-mail has not been tampered with and use services now available for ordinary mail like sending a certified letter.
+"The leap from trading messages to buying and selling goods has been blocked by the fear of security threats," Robert Reisner, vice president of stategic planning, said.  
+"To expand from local area networks and bilateral secure communications to wide use of electronic commerce will require a new generation of security services," Reisner said.
+Cylink Corp is developing a system for the Post Office to use to verify the identity of e-mail senders. The system will enable people to register a digital "signature" with the Post Office that can be compared against electronic mail they send.
+If any tampering is discovered, the Postal Service would investigate, just like it investigates tampering with regular mail, Reisner said.  
+The Post Office is also using the Internet to enhance non-electronic mail delivery.
+In conjunction with Sun Microsystems, the Postal Service has also developed a new online system for bulk mailers that relies on Sun's Java computer language, Reisner said.
+Instead of manually calculating postage rates for bulk mailings, possibly using outdated forms, a bulk mailer will be able to add up the charges using a software application written with Java and posted on the Internet.  
+Eventually, the Post Office plans to offer hybrid services involving both kinds of mail, Reisner said.
+Electronic mail could be converted to paper and delivered within one business day, for example. Or someone who moves could register a change of address with the Post Office over the Internet.
+Critics of the Post Office's Internet plans have said the service is usurping functions that could be better performed by the private sector. But Reisner rejected those arguments, maintaining that the Post Office has often facilitated the spread of new technologies, such as railroads and aircraft.  
+"Remember the pilots who returned from World War I and then risked their lives in an even more dangerous duty," Resiner said refering to early airmail delivery efforts.
+"To keep these daring pilots alive, the Postal Service had to create parts of what we know as the weather service today. Navigation aids had to be developed. We are watching many of these same dynamics today. Earlier experience tells us that this is a public and private job."
+--202-898-8312
+Elementary school students with access to the Internet learned more than kids who lacked access, an indepedent research group concluded after conducting a comparative study in seven urban school districts.
+"This study dramatically illustrates the positive effects of online use on learning," said Michael Casserly, executive director of the Council of Great City Schools, an association of 49 large inner city public school districts which co-sponsored the study along with Scholastic Corp.
+An influential Internet organisation has backed away from a proposal to dramatically expand the number of addresses available on the global computer network.
+The Internet Society, which helps develop and coordinate Internet standards, announced this week that instead of moving ahead with the proposal it would form a nine-member committee to study the issue.
+Unveiled in August, the proposal was an attempt to quell the growing number of disputes over desirable address names.
+"There just seems to be no consensus at all," said Don Heath, president of the society. A variety of objections and questions have been raised about the August proposal, from technical networking issues to concerns about protection for trademarks and intellectual property.
+"We thought we should try to pull it all together and have a good cross-section of people to discuss it and see if we can't reach a consensus," he said.
+The new committee ought to finish its work by early next year and new names could be doled out four to six months later, Heath said. The committee could decide not to go forward with any address expansion, but Heath said that was an unlikely outcome.
+"The facts of life are that people want descriptive names and vanity plates," Heath said.
+Disputes over Internet names are occuring with increasing frequency as more companies seek to publicise and market their products over the Net.
+For example, Viacom Inc.'s MTV cable music channel fought with one of its employees who had registered "mtv.com," eventually regaining control of the name in an out-of-court settlement.
+Every site on the World Wide Web must have a unique address name. Most addresses end with one of a few three letter designations, known as top-level domains, including "com" for private sites, "gov for government sites and "edu" for sites run by schools.
+In August, Internet Assigned Numbers Authority said it would oversee the creation of up to 150 new top level domains, easing the squeeze, especially for names in the private sector category.
+The authority, operating under charter from the society and the Federal Network Council, is the central coordinator of Internet addresses and other standards.
+The society's board of trustees voted in June to accept a preliminary version of the numbers authority proposal, with the proviso that the business aspects of proposal be fleshed out.
+But with the ensuing controversy, the society decided a committee was needed to reexamine the proposal, Heath said. The committee will meet confer mostly by telephone and online, though an open forum is planned for mid-December in California.
+The committee will include two members appointed by the society, two by the numbers authority and two by the Internet Architecure Board.
+The International Telecommunication Union, the World Intellectual Property Organisation and the International Trademark Association will each appoint one member.
+An influential Internet organisation has backed away from a proposal to dramatically expand the number of addresses available on the global computer network.
+The Internet Society, which helps develop and coordinate Internet standards, announced this week that instead of moving ahead with the proposal it would form a nine-member committee to study the issue.
+Unveiled in August, the proposal was an attempt to quell the growing number of disputes over desirable address names.
+"There has been considerable international debate on various aspects of the proposal with no consensus," Don Heath, president of the society, said in a statement. "It is in the best interest of the continued beneficial evolution of the Internet that these issues be aired and resolved."
+Disputes over Internet names are occuring with increasing frequency as more companies seek to publicise and market their products over the Net.
+For example, Viacom Inc.'s MTV cable music channel fought with one of its employees who had registered "mtv.com," eventually regaining control of the name in an out-of-court settlement.
+Every site on the World Wide Web must have a unique address name. Most addresses end with one of a few three letter designations, known as top-level domains, including "com" for private sites, "gov for government sites and "edu" for sites run by schools.
+In August, Internet Assigned Numbers Authority said it would oversee the creation of up to 150 new top level domains, easing the squeeze, especially for names in the private sector category.
+The authority, operating under charter from the society and the Federal Network Council, is the central coordinator of Internet addresses and other standards.
+The society's board of trustees voted in June to accept a preliminary version of the numbers authority proposal, with the proviso that the business aspects of proposal be fleshed out.
+But with the ensuing controversy, the society decided a committee was needed to reexamine the proposal, Heath said.
+The committee will include two members appointed by the society, two by the numbers authority and two by the Internet Architecure Board.
+The International Telecommunication Union, the World Intellectual Property Organisation and the International Trademark Association will each appoint one member.
+A group of leading trademark specialists plans to release recommendations aimed at minimizing disputes over Internet address names.
+The International Trademark Association is working on a white paper that will be completed in the next few months, David Maher, co-chair of the association's Internet issues committee, said in a telephone interview.
+When a company in California sells a book to a consumer in Canada from a Web site hosted on a computer in England, what laws govern the transaction?
+As sales of all kinds of goods over the Internet continue to grow, questions are multiplying about basic regulations covering consumer protection, taxation and other issues.
+"Most commercial law has built in a hidden assumption of geographical boundaries within which certain kinds of actions will occur," said Jerry Kaplan, who runs an Internet site called OnSale that auctions electronic merchandise. "Now the legal system is facing a medium which is inherently boundary-less."
+For example, some states tax transactions that originate within their borders while others hope to collect so-called use taxes when their residents buy from out-of-state merchants. "Sin" laws on obscenity, gambling and sales of alcohol also differ from state to state and apply to some Web merchants.
+With the potential for so much confusion, some online mavens argue the federal government should step in and set clear policies.
+"The role of the federal government is to set national standards or national policy," said Gary Arlen, president of Arlen Communications and a leading analyst of online companies. "A lot of what we're talking about online transcends state borders and even national borders."
+A top priority is protecting consumers' private information.
+"More regulation is really needed on the privacy issues compared to other areas," said Jonathan Rosenoer, an attorney and author of the online "Cyberlaw" column. Existing laws protect some kinds of records, like medical data, but not other information, Rosenoer said.
+Both real and imagined privacy violations are feeding public sentiment in favour of reform. Lexis-Nexis was deluged with protests last month after word spread that the database company was selling personal information such as social security numbers and maiden names over the Internet.
+The company responded that its P-TRAK product no longer provided social security numbers and never contained maiden names. But it withdrew the names of thousands of individuals that asked to be deleted.
+Following the controversey, the Federal Trade Commission asked Congress to amend the Fair Credit Reporting Act, a law governing personal financial information held by credit agencies. The commission suggested the law be extended to cover nonfinancial information like social security numbers.
+In many cases, however, the federal government is still deciding what steps to take.
+The Treasury Department, which has a hand in tax policy, banking regulation and international trade, has several groups studying online commerce issues but has not reached any conclusions yet.
+Top Treasury officials and banking regulators have expressed a desire not to intrude on the nascent market for electronic money. Some banks would like federal rules barring non-banks from issuing electronic money.
+"Heavyhanded, pre-emptive attempts to regulate these products before any social risks have been demonstrated would handicap innovation," Federal Reserve Gov. Edward Kelley said earlier this month.
+There is little confusion about criminal scheming online, however. The Federal Trade Commission, Commodity Futures Trading Commission and the Securities and Exchange Commission are all prosecuting online crooks and collecting complaints at their Web sites.
+"It's not an area where we need new laws or new authority," John Stark, special counsel of Internet projects at the SEC said. "It's the same swindles, just in a different medium."
+U.S. laws governing the trillion dollar futures markets could be rocked by the Supreme Court's interpretation of the word "in" in a case to be argued Wednesday. But a legislative solution is in the offing.
+At issue is a 1974 amendment to the Commodity Exchange Act, the primary law regulating trading of futures contracts on everything from wheat and corn to interest rates and electricity.  
+Futures exchanges say a broad reading of the amendment would put them out of business, while major banks argue a narrow reading would force them to move vast operations out of the United States.
+Whatever the outcome, Congressional action is expected next year. "It's certainly significant, but I suspect that at the end of the day, legislation will overtake this," said Howard Schneider, former Commodity Futures Trading Commission general counsel.  
+When Congress expanded the commodity act in 1974 to cover futures on non-agricultural commodities and created the Commodity Futures Trading Commission to police the markets, some big banks objected.
+They argued the law should not apply to trading of foreign currency, government securities and similiar items already flourishing among banks and securities firms.
+The Treasury Department agreed and in a letter to Congress suggested an amendment to the law that became known as the Treasury Amendment.  
+The amendment says "transactions in" foreign currency, security warrants, repurchase options, government securities and a few other items are exempt from the Commodity Exchange Act unless they involve sale for future delivery conducted "on a board of trade."
+The banks continued to trade foreign currencies unimpeded but the CFTC began to encounter a new problem. Unscrupulous "bucket shops" that peddled off-exchange commodity contracts to rip off unsuspecting investors were expanding into foreign currency schemes.  
+The CFTC shut down the forex shops but lawyers for the shops argued forex investment contracts should be considered transactions "in" foreign currency and exempt from CFTC rules.
+Lower federal courts took up the issue but reached conflicting conclusions. Some said "transactions in foreign currency" exempted dealings only with actual currencies, not derivatives on the currencies like futures and options. Others decided that "in" exempted all trading involving currencies.
+The Supreme Court will likely resolve that conflict in Wednesday's case concerning William Dunn, the manager of a $180 million hedge fund investing in foreign currencies.  
+In November, 1993, Dunn told his investors he had lost $95 million. The CFTC soon charged Dunn with fraud under the Commodity Exchange Act. A lower court agreed.
+Asking the Supreme Court to uphold that decision, CFTC lawyers argue that Congress would have used the word "involving" rather than "in" if it had wanted to exempt forex derivatives.
+But Dunn's lawyers and four banks that dealt with his fund maintain that the CFTC has no jurisdiction to prosecute under the commodity act.  
+Affirming the earlier decision would undermine the $40 billion a day global currency market by subjecting it to unworkable regulation, the banks said. And Dunn, if guilty of any misconduct, could be prosecuted under wire fraud or securities laws, the banks said.
+At the other extreme, the Chicago futures exchanges appear terrified the court will strike down the lower court ruling.  
+Chicago Board of Trade, in an amicus brief written in part by Kenneth Starr, the independent counsel in the Whitewater investigation, warned that a broad reading of the exemption would create havoc, allowing unregulated dealings in all kinds of futures contracts now traded on exchanges.
+"The idea that someone could clone the Board of Trade's principal products, trade them off-exchange and not be subject to any regulation is pretty darn troublesome," Mark Young, another exchange attorney, said.
+A ruling is not expected for months, but the banks and exchanges will have to continue their struggle in the legislative venue almost immediately.
+Congress could resolve the dispute through legislation, which would render the decision moot. One bill was introduced in the last Congress to amend the Treasury Amendment and Senator Richard Lugar (R-IN) has said he will likely offer a new bill early next year.
+-- 202-898-8312
+Supreme Court justices Wednesday sharply questioned rules governing so-called derivative investments and foreign currency trading in a case that could have wide repercussions for both markets.
+The Commodity Futures Trading Commission has traditionally prosecuted crooks who ripped off the public with fraudulent investments. But sophisticated investors such as big banks have been allowed to trade similiar financial instruments with little direct regulation, market participants said.
+That distinction has been blurred in recent years, as defendants accused of fraud by the CFTC have sought to rely on an exemption from regulation, relied on by the bigger players, in a 1974 amendment to the Commodity Exchange Act.
+The amendment was added at the request of the Treasury Department to ensure that sophisticated investors trading in foreign currency and a few other markets would not be subject to uneccessary regulation by the CFTC.
+Lower courts have made conflicting rulings about the 1974 amendment and the Supreme Court decided last year to hear the case of William Dunn, a foreign currency investment advisor charged with fraud by the CFTC after losing $95 million of his clients' money.
+Jeffrey Minear, assistant to the Solicitor General -- the federal government's representative before the Supreme Court -- defended the CFTC's prosecution of Dunn before the court Wednesday. Minear argued that the 1974 exemption for "transactions in foreign currency" did not cover Dunn's trading in foreign currency options, one type of derivative. A derivative is an investment whose value is derived from a stock, bond, currency, commodity or other instrument.
+But justices questioned Minear's distinction, which relied heavily on the particular meaning of the word "in."
+Congress was "not using consistent language" in the commodity laws passed in 1974 and since then, Justice Antonin Scalia said. "They use in, they use on, they use involving."
+Minear drew a sharp rebuke from Chief Justice William Rehnquist when he later argued that Congress expressed greater concern about fraudulent use of options than other types of investments under a 1922 commodity trading law.
+"Perhaps it was true in 1922 but that doesn't prove it's true now," the chief justice interjected.
+Gary Stumpp, Dunn's lawyer, argued that other federal agencies such as the Securities and Exchange Commission might have jurisdiction over fraudulent foreign exchange trading but not the CFTC.
+Several Wall Street trade groups and big banks filed friend-of-the-court briefs in support of Dunn's position. They warned that if the court upheld the CFTC's position, the burden of additional regulation might drive the gigantic $40 billion a day foreign exchange market in the United States might overseas.
+On the other side, Chicago futures exchanges said they could be put out of business by unregulated competitors if the court throws out the CFTC's case against Dunn.
+Brooksley Born, chairwoman of the CFTC, attended the argument but declined to comment afterwards.
+A decision is not expected for at least a few months. Several members of Congress have said they may introduce legislation early next year to change the 1974 amendment, possibly rendering the verdict in the Dunn case moot.
+The Internet continued to grow in leaps and bounds this year while online services found it much harder to add new customers, a survey said Friday.
+An estimated 35 million adults in the United States had used the Internet, according to the poll by Louis Harris and Associates conducted in late September, up from 27 million at the beginning of the year.
+"Although the number of people who use computers has fluctuated around just over half of the adult population, the number of adult Americans using computers for cyber-activities is growing," said Humphrey Taylor, chairman of the polling organisation.
+While online services like America Online Inc. and Compuserve Corp. could lay claim to almost 41 million subscribers, that was the same level Harris found back in January.
+Online services, which provide private online content in addition to Internet access, have faced greater competition this year from companies like AT&amp;T Corp., which provide cheaper Internet-only access.
+Businesses, which are looking to the Internet as a potential source of new revenue, are intensely interested in figures on its usage. Differing surveys have come up with widely varying numbers.
+The Harris poll found that, although more people are getting wired, they are on average spending less time in cyberspace.
+Home users said they were online 2.8 hours a week, down from three hours a week in an April survey. Business and other users said they were online for 1.8 hours, down from two hours in April.
+The poll also reinforced findings of earlier studies showing that more educated people were more likely to use computers and access the Internet.
+People with college and graduate degrees were twice as likely to use computers and four times more likely to access the Internet as people who only graduated from high school, the poll found.
+The poll's results were based on a telephone survey of 1,032 adults at the end of September and have a margin of error of plus or minus 3 percentage points, according to Harris.
+Hewlett-Packard Co. unveiled a new plan Monday to boost sales of computer encoding technology, considered a key component of global communications and the development of commerce over the Internet.
+The plan is intended to foster the growth of online commerce worldwide while still abiding by strict U.S. export laws limiting the sale of encryption products abroad.
+Sales of goods and services over the Internet are booming but still lag well behind traditional sales by telephone or in person. Some businesses say that consumers are nervous about sending credit card numbers or other sensitive information over the Internet, where it could be intercepted by criminals.
+Encryption scrambles information, such as a credit card number, while in transit so that it can be read only by the intended recipient using a password or a software "key."
+"The bad news is that, unless you encrypt your information, it's very easy for electronic eavesdroppers to have a look at what you're transmitting," said Brad Silverberg, senior vice president at Microsoft Corp., a Hewlett-Packard partner in the new encryption framework.
+The Hewlett-Packard plan is "the first government-approved encryption framework removing a significant barrier to making the Internet secure for business transactions and electronic communications," company Chief Executive Officer Lewis Platt told a news conference in Washington.
+Intel Corp., another partner in the effort, said it plans to incorporate encryption into its market-leading computer hardware products.
+Federal export laws prohibit the sale of strong encryption technology outside the United States. Last week, President Clinton signed an executive order liberalising but not eliminating the export rules.
+Companies will be allowed to sell products with strong, built-in encryption features but only if the products also contain a feature that allows the government to break the codes when acting under a court order or similiar authority.
+The administration said law enforcement authorities need the ability to decode messages by having access to the software keys, a system called key recovery or key escrow, in order to keep tabs on criminals and terrorists.
+Under the Hewlett-Packard framework, powerful encryption features in a new computer or software could be automatically disabled if the product is sold abroad and does not permit government decoding.
+That may not be enough to satisfy those opposed to the administration's policy, including some businesses and civil libertarians.
+"It's not a solution for us," said Shari Steele, staff attorney at the Electronic Frontier Foundation, a civil liberties group that focuses on cyberspace issues. She said people should have the right to use encryption free of government-mandated escrow.
+"The government is just strong-arming some companies by saying if you want to use strong encryption at all, you have to have key escrow," Steele said.
+The Internet continued to grow in leaps and bounds this year while online services found it much harder to add new customers, a new survey says.
+An estimated 35 million adults in the United States had used the Internet, according to the poll by Louis Harris and Associates conducted in late September, up from 27 million at the beginning of the year.
+"Although the number of people who use computers has fluctuated around just over half of the adult population, the number of adult Americans using computers for cyber-activities is growing," said Humphrey Taylor, chairman of the polling organisation.
+While online services like America Online Inc. and Compuserve Corp. could lay claim to almost 41 million subscribers, that was the same level Harris found back in January.
+Online services, which provide private online content in addition to Internet access, have faced greater competition this year from companies like AT&amp;T Corp., which provide cheaper Internet-only access.
+Businesses, which are looking to the Internet as a potential source of new revenue, are intensely interested in figures on its usage. Differing surveys have come up with widely varying numbers.
+The Harris poll found that, although more people are getting wired, they are on average spending less time in cyberspace.
+Home users said they were online 2.8 hours a week, down from three hours a week in an April survey. Business and other users said they were online for 1.8 hours, down from two hours in April.
+The poll also reinforced findings of earlier studies showing that more educated people were more likely to use computers and access the Internet.
+People with college and graduate degrees were twice as likely to use computers and four times more likely to access the Internet as people who only graduated from high school, the poll found.
+The poll's results were based on a telephone survey of 1,032 adults at the end of September and have a margin of error of plus or minus 3 percentage points, according to Harris.
+The growing business of doing business on the Internet poses a major challenge to tax collectors, but no special taxes should be imposed in cyberspace, the government said in report released Thursday.
+"Treasury believes that these new technologies should not be used to justify new taxes," the Treasury Department draft report said. "Accordingly, Treasury is not considering any type of value added tax, 'bit tax,' or other new excise tax on electronic commerce."
+Instead, the current system should evolve to tax income from all sources in a consistent manner, the department said.
+"Our overall tax policy goal in this area should emulate policy in other areas -- maintain neutrality, fairness and simplicity -- a policy which serves to encourage all desirable economic activity new and old," the report said.
+Businesses are already struggling with tax proposals from state and local governments, according to Kent Johnson, head of sales and transaction tax practice at KPMG Peat Marwick.
+"State governments don't feel the same way as the federal government, but this report may be a good starting point for discussing all the issues," Johnson said.
+This year, about $1 billion of goods and services will be sold online, growing to over $7 billion by the year 2000, according to market researchers at Jupiter Communications.
+But the myriad tax laws and regulations affecting businesses may not keep pace with the fast-paced, often chaotic growth of the worldwide computer network.
+Buyers and sellers on the Internet can be in different states or even different countries, complicating the task of collecting tax at the "source" of a transaction.
+The department also said it was worried that tax evaders could use the anonymity provided by the Internet as a mask to avoid reporting income or to transfer money to offshore bank accounts.
+But the report made no recommendations about how the government should deal with tax evasion issues. "Treasury intends to study, and requests comments on these issues," the report said.
+The report is available on the Treasury's web site, http://www.ustreas.gov.
+The report on taxation is likely to be followed by reports on other aspects of online commerce that the department is studying, including consumer protection, electronic money, bank regulation and law enforcement, officials said.
+A leading software industry group is backing away from its early support of the Clinton Administration's new policy to ease export rules on computer encoding technology.
+In a letter to vice president Al Gore, the Business Software Alliance, which includes Microsoft Corp and International Business Machine Corp's Lotus Development, warned that rules implementing the new encryption export policy appeared to be flawed.  
+"It appears that significant backtracking has occurred since the October 1 announcement," the alliance wrote.
+"Therefore, we seriously doubt that the regulations will work, meet consumer demands or be accepted by the private sector unless the administration radically changes its approach immediately," the alliance added.
+A spokeswoman for Gore said Greg Simon, the vice president's chief domestic policy adviser, and other administration officials working on the rules have met with the software group to discuss the criticism.  
+"There is still an internal decision making process going on," spokeswoman Heidi Kukis said. Final rules are expected by January 1, she said.
+The administration is attempting to craft a compromise on export sales of products containing encryption, computer programs that use mathematical formulas to scramble information and render it unreadable without a password or software "key."
+Under current laws dating from the Cold War, products for export can only include very weak coding features.  
+But with the growth of the Internet and online commerce, encryption is spreading as a means to ensure secure communication between businesses and to safeguard consumers' credit card numbers.
+U.S. software companies argue they are losing substantial overseas sales to foreign companies not bound by the export laws.
+U.S. law enforcement and intelligence officials counter that the spread of sophisticated encryption will make their jobs far more difficult.  
+Under the compromise policy announced in October and enacted in an executive order last month, companies would be able to export strong encryption but only if the products also contained a feature known as "key recovery" that would permit the government to decode scrambled data.
+The software alliance said in October that the new policy was a "step in the right direction." In its letter this week, however, the alliance said it was not happy with the rules being drafted to implement the policy. "Everything we have seen and heard to date reveals that the government is headed in the absolute wrong direction," it said.  
+Part of the debate revolves around the definition of key recovery. The alliance said key recovery should consist of products which allow the government to decode stored communications, such as an E-mail message saved on a computer hard drive. But products should not be required to allow government decoding of real-time communications.
+"There is little if any commercial demand for key recovery function in real-time communications," the alliance wrote. "Our members have seen nothing to suggest that any product developed to date can work on a mass market scale or that there is significant commercial demand for such products."
+A number of companies, including Microsoft and IBM, have announced products designed to meet the new export policy. But not all of them easily allow real-time key recovery.
+Although Microsoft is trying to create products to meet the export policy, "we still feel government should liberalize the policy more," John Browne, head of the company's Internet commerce group, said.
+-- 202 898-8312
+A U.S. District Court judge Wednesday barred new federal regulations that allow credit unions to expand their membership beyond workers at one company, saying this would exceed the legal limits of the institutions.
+The rules have raised the ire of banks who, fearing the loss of customers, have been battling in court since 1990 to keep credit unions to their traditional role of serving members of just "one" community or occupation.
+The new rules, which the National Credit Union Administration adopted last month after an unfavorable court ruling, redefined "a single common bond" that is the basis of credit union membership.
+On Wednesday, Judge Thomas Jackson issued an injunction blocking the new rules, saying they were merely an attempt to circumvent earlier court rulings.
+Earlier court rulings limited members of a credit union to a single company or organization. The court actions struck down a 1982 NCUA decision allowing credit unions to draw members from multiple companies.
+Under the latest NCUA rules, credit unions could include members of a single trade, industry or profession even if the members worked for different companies.
+Jackson chastised the NCUA and said the federal credit union regulator was acting more like a trade association.
+Jackson also said the agency must rescind 31 applications that it had already approved for credit union charters under the new rules.
+The judge said he might refer the matter to the attorney general for further investigation of what he termed collusive behavior among the agency and credit unions.
+"Why did you go about it in such a surreptitious, collusive, underhanded way?" Jackson asked lawyers for the agency at a hearing Wednesday.
+Eric Goulian, a lawyer for the Justice Department, denied the agency had acted improperly and said the new rules were a response to emergency conditions.
+The fireworks were the latest development in a six-year-old case before Jackson pitting the American Bankers Association against the agency and the credit union industry.
+In 1990, the ABA and five North Carolina banks filed suit againt AT&amp;T Family Federal Credit Union, which had grown to encompass members from more than 150 different occupational groups.
+In July, a U.S. Court of Appeals handed the banks a major victory in the case, ruling that the NCUA had exceeded its statutory authority in allowing single credit unions each to serve members of more than one employer.
+Jackson issued injunctions in October implementing the ruling. The injunctions limited more than 3,500 non-profit credit unions nationwide to members who share a "single common bond."
+The credit union industry has said the injunctions will result in millions of people being expelled from credit unions, with some unable to afford similiar but more expensive services from banks.
+Two weeks after Jackson issued the injunctions, the credit union agency adopted new rules, now set aside, to dramatically expand the definition of a single common bond.
+The new rules also allowed credit unions to have as many as 1 million members, up from 25,000 under the old rules.
+After the hearing, Brenda Furlow, general counsel for the Credit Union National Association, said the industry was considering an appeal.
+"Clearly, we're disappointed with the ruling," she said. "Basically, banks are trying to aggressively protect their competitive interests and the American consumer loses."
+Paul Schosberg, president of the trade association America's Community Bankers, praised Jackson's ruling. "The NCUA has clearly stretched the law's common bond requirement beyond all recognition," he said.
+The Internet could provide a huge boost to the U.S. economy if the federal government pursues "free market" policies in cyberspace, a group of President Clinton's top advisers says in a draft report obtained by Reuters.
+The group, an interagency task force headed by senior presidential adviser Ira Magaziner, recommended that the administration work globally to protect the Internet from new taxes, censorship and other onerous forms of regulation.
+After seven months of deliberations, the task force is preparing to issue for public comment a report of principles and policies the Unites States should pursue, Magaziner said in an interview.
+"One of the things we're trying to do with this paper is as much say what government should not do as say what they should do," Magaziner said. "A lot of what industry is concerned about is that governments are already beginning to take actions around the world that would inhibit commerce."
+The growth of Internet commerce could help boost U.S. exports of everything from movies and news to software and consulting services. Exports of such products totalled $40 billion in 1995, the draft report noted.
+The idea is to hitch U.S. exports to the speeding Internet commerce train. Sales of goods and services online are projected to grow to $7 billion in the year 2000, from about $1 billion this year, according to market researchers at Jupiter Communications.
+"Companies have told us there would be a tremendous potential to increase world trade across the Internet if we could provide the right kind of environment," Magaziner said.
+The draft report, called "A Framework for Global Electronic Commerce," covers nine issues, from taxation and customs to privacy and security.
+On taxation, the draft report echoes a report issued by the Treasury Department last month by stating no new taxes should be imposed. Acting through the World Trade Organisation, the United States should push for the Internet to be designated a duty-free zone, the draft said.
+Some consumers worry that their privacy will be violated when they shop online. The report said governments should push vendors to disclose what will be done with information about consumers rather than dictate to merchants what they can or cannot do with the data.
+On some issues, such as encryption -- encoding information in a scrambled format to provide a measure of security or privacy -- existing administration policies may be seen as conflicting with the free market approach of the draft report.
+Magaziner said policies will evolve over time, "but the paper will reflect where we are now."
+Magaziner headed Clinton's failed effort to reform the U.S. health care system, an initiative critics said favoured government over the private sector.
+While disagreeing with his critics' characterisation of the health care plan, Magaziner said the Internet "is a wholly different animal.
+"I'm a problem solver, not an ideologue," he said.
+The Clinton administration will modestly revise controversial export rules for computer encoding technology after a private meeting Wednesday with computer and telecommunications companies, a top Commerce Department official said.
+"This is a work in progress," Under Secretary of Commerce William Reinsch said in a telephone interview after the hour and a half long meeting. "There will be some changes that will be more than technical."  
+The administration circulated a draft this week of new rules that would overhaul Cold War era export limits on products containing encryption, computer programs that scramble information and render it unreadable without a password or software "key."
+With the growth of the Internet and online commerce, demand for encryption-capable products is growing worldwide. Coded messages can keep a business' e-mail confidential or protect a consumer's credit card number sent on the Internet.
+Reinsch and others who attended Wednesday's meeting said the tone was civil.  
+"We had a long meeting but it was actually quite a constructive one and actually also a polite one," Reinsch said.
+Industry officials argued at the meeting that the draft rules were unclear or unworkable on a number of points.
+"In some cases we could tell them what we meant which made them feel better and now we'll go off and try to fix it," Reinsch acknowledged. "In other cases we're going to have to think a little more about what they said and in some cases I'm not sure there is a way to fix it."  
+"We are not optimistic that these (rules) will be turned around and we feel going to Congress is our only option," Smiroldo said. The alliance includes a dozen large software firms including Microsoft Corp and International Business Machine Corp's Lotus Development.
+Several bills that would dramatically ease encryption export limits were introduced in the last Congress and are expected to be revived next year.
+Ambassador David Aaron, appointed by President Clinton as special envoy for cryptography last month, also attended the meeting, Reinsch said.
+The draft rules implement an executive order signed by President Bill Clinton last month. Under the order, limits on export of products containing strong encryption would be eased if the products allowed the government to decode encrypted messages by recovering the keys.
+The draft rules detail for the first time the government's definition of acceptable key recovery features and other aspects of the revised export approval process.
+For example, until 1999, companies will be allowed to export some products that do not include key recovery if the companies promise to include key recovery in future products. -- 202-898-8312
+A break-in at the U.S. Justice Department's World Wide Web site last week highlighted the Internet's continued vulnerability to hackers.
+Unidentified hackers gained access to the department's web page on August 16 and replaced it with a hate-filled diatribe labelled the "Department of Injustice" that included a swastika and a picture of Adolf Hitler.
+Justice officials quickly pulled the plug on the vandalised page, but the security flaws that allowed hackers to gain entry likely exist in thousands of other corporate and government web sites, security experts said.
+"The vast majority of sites are vulnerable," said Richard Power, senior analyst at the Computer Security Institute. "The Justice Department shouldn't be singled out."
+Justice Department officials said the compromised web site was not connected to any computers containing sensitive files. The web site (http://www.usdoj.gov) included copies of press releases, speeches and other publicly available information.
+The security breach "is just like graffiti on the outside of the building," spokesman Bert Brandenburg said.
+Other organisations have been targeted in the past. Last year, the Nation of Islam's Million Man March web site was vandalised. And hackers make 250,000 attempts annually to break into U.S. military computers, according to a General Accounting Office report.
+Windows Magazine recently found security flaws at web sites of a dozen major corporations. "The web is spectacularly insecure," editor Mike Elgan said. Relying on security holes that had been documented by software manufacturers months earlier, the magazine's specialists were able to gain various degrees of unauthorised access at the different sites.
+Elgan said hackers who are exploiting some of the same flaws are motivated by anger over the growth and commercialization of the Internet. "A common theme is that hackers are fed up with non-hackers on the Internet," he said.
+The battle is not completely hopeless. "You can secure a web site," Richard Power said. "There's all kinds of measures you can take. Most corporations and institutions don't take them simply because nothing bad has happened to them yet."
+Some sites are using multiple layers of security, well beyond simple password protection, to keep hackers out.
+One site mentioned by Windows Magazine was Fidelity Investments. Fidelity's site advertises its mutual funds and disseminates information about personal finance but does not contain confidential customer information.
+Fidelity officials immediately closed the loophole identified by the magazine, a spokeswoman said. But multiple security measures previously in place would have prevented a security breach despite the hole, the spokeswoman added.
+If the Board of Governors of the U.S. Federal Reserve System does as expected early Friday and votes to expand banks' non-banking activities, it will only heighten the drive in Congress to overhaul U.S. banking regulations completely, analysts and industry officials said.
+The Fed is expected to vote to allow banks' section 20 subsidiaries to derive 25 percent of their revenue from non-banking activities such as securities underwriting, up from the current 10 percent ceiling.  
+The section 20 proposal was released for comment in July, but since then another bank regulator has stolen some of the Fed's thunder. Comptroller of the Currency Eugene Ludwig said his office will begin approving bank affiliates moving into an assortment of non-banking businesses.
+Both the Fed's proposal and the Comptroller's actions will raise the pressure on Congress to scrap the Glass-Steagall Act, according to Robert Litan, director of economic studies at the Brookings Institute.  
+In the past, banks led the charge to change the law because they wanted to get into other businesses, like selling insurance or underwriting stock deals. Insurance companies and securities firms generally opposed the banks creating legislative gridlock.
+"Now the tables have been turned," Litan said. "But it's not a two-way street. Other industries will want to level the playing field."  
+Both moves also reflect current market realities. The financial services industry, from banks to insurance companies to mutual funds, is converging. Mutual funds already offer checking account-like money market funds and some of the leading stock and bond underwriters are commercial banks.
+In the words of one top regulator, the Fed's move from 10 to 25 percent, "is not material." The Fed has required banks to take certain steps to prevent problems in the subsidiaries from affecting the bank itself, and its government-insured deposits.
+Competitors in other fields fret that the banks insured deposits are a form of government subsidy giving the banks an unfair advantage when they venture into other fields.
+Comptroller Ludwig disagreed. Speaking to reporters after delivering a speech here Thursday, Ludwig said that walling off the subsidiary "basically eliminates any subsidization."
+He opposes efforts by some in Congress to keep banks out of certain fields, such as real estate or merchant banking, entirely. "It's a mistake to set product limits, particularly in this day and age when we have such a dynamic marketplace," he said.
+((--Aaron Pressman, 202-898-8312))
+The Federal Reserve took another step Friday toward eliminating the barriers between banking and other financial service industries, voting to allow banks to further invade the turf of Wall Street securities firms.
+The Fed Board of Governors voted unanimously to increase the percentage of revenue bank subsidiaries may earn from underwriting and dealing in securities to 25 percent from 10 percent.
+Bank subsidiaries have been bumping against the 10 percent limit and earlier this year the Fed cited Swiss Bank Corp. for exceeding the cap.
+Banks were elated by the new rule.
+"This is a tremendous boost for banks that already underwrite securities and an incentive for banks considering this business," American Bankers Association managing director Larry LaRocca said.
+Securities firms, however, were not pleased.
+"It's as if Santa Clause delivered all the gifts to only one house in the neighbourhood," said Steve Judge, senior vice president for the Securities Industry Association.
+Bruce Thompson, director of government relations at the nation's largest brokerage firm, Merrill Lynch and Co., said he hoped the greater latitude given to banks would not reduce the banks' previous support for Congressional action.
+"We hope this does not reduce their incentive," he said. "The time really is coming for having everyone put aside their own particular interests and support comprehensive reform."
+Officials at leading banks said they still wanted Congress to take more dramatic action.
+"We need complete financial reform," Rachel Robbins, general counsel of J.P. Morgan &amp; Co, said. "This addresses one piece of it and doesn't address it completely but until Congress can act this is a welcome action."
+For decades, securities underwriting was the exclusive purview of firms like Merrill Lynch and Salomon Brothers.
+But since 1987, when the Fed first allowed bank subsidiaries to earn 5 percent of their revenues from underwriting, big banks like J.P. Morgan &amp; Co. and Bankers Trust have made dramatic inroads.
+While the 1933 Glass-Steagall Act generally prohibits banks from engaging in non-bank activity, under section 20 of the Act banks may affiliate with firms not "engaged principally" in such areas. Currently, 41 bank "Section 20" subsidiaries have permission to engage in underwriting.
+The Fed's action will add to pressure on Congress, which was already planning to review the entire scope of financial sector regulation next year.
+Securities firms, insurance companies and others who opposed lifting restriction on banks in the past will likely favour reform this time around, according to Robert Litan, director of economic studies at the Brookings Institute.
+Raising the revenue cap, and an announcement last month by the Comptroller of the Currency allowing banks another avenue for entering unrelated fields, only go halfway, Litan said.
+"It's not a two-way street. Other industries will want to level the playing field," he said.
+At Friday's meeting, Fed governors called for Congress to follow their lead and and revise the laws.
+"We hope that the next move will be up to the Congress in this whole area," Fed Vice Chairwoman Alice Rivlin said.
+The Federal Reserve Friday rebuffed a request by the Justice Department to allow U.S. banks to collect data about borrowers as part of an effort to discourage racial discrimination in lending.
+The unanimous decision put the central bank's board in the unusual position of being at the center of a national debate about how best to discourage discrimination.
+On the one side: those who see the collection of data on race, gender, age, religion and other charecteristics as a way to ferret out discrimination. On the other: opponents who view such collection as discriminatory on its face.
+Backed by banking regulators at the Office of the Comptroller of the Currency, the Justice Department urged the Fed to change a regulation that prohibits banks from collecting such data except in the case of mortgage lending.
+The department argued that the lack of data was hindering its ability to evaluate charges of racial discrimination in lending to small businesses.
+In an unanimous decision, the central bank's board voted against changing Fed Regulation B, saying it might lack the authority to act without new legislation from Congress.
+"The issue ... is not some technical matter of law or economics," Fed Governor Lawrence Lindsey said.
+"Rather, it is at the center of a heartfelt and ongoing debate in America about the direction of public policy with respect to individual characteristics," he added.
+The regulation, which was established in 1977, was designed to discourage discrimination by race, gender and age by prohibiting banks from collecting such data from borrowers.
+Fed Governor Edward Kelley described the proposed change in the regulation as "social policy of the most profound sort" and said it "provides no answer to the social conundrum that's before us."
+That is not the way the Justice Department sees it. In a letter to Fed Chairman Alan Greenspan Friday, Associate Attorney General John Schmidt said changes in the regulation would help combat discrimination.
+"Allowing credit providers to collect certain basic data seems to us to be a useful step toward getting a better handle on the extent of this problem," he said.
+Existing studies, though limited, "do appear to provide some support for the widespread view ... that minority-owned businesses face unusually difficult barriers in obtaining this type of credit," Schmidt added.
+Creditors and their trade associations had opposed the regulation change, which was first released for comment by the Fed in April, 1995.
+An international task force working to resolve the simmering controversy over desirable addresses on the Internet released a draft plan Friday for a substantial expansion of the total number of destinations.
+The International Ad Hoc Committee on domain names, formed by the Internet Society in October, recommended that seven new so-called top-level domains be added to the Internet.
+Top-level domains are the three-letter designations most Internet sites end with, such as "com" in http://www.gm.com and other commercial sites, "gov" in government sites and "edu" for sites run by schools.
+The committee recommended that an unlimited number of firms be authorised to register the new addresses, although the panel said it hoped to initially approve 20 to 30 new registration services.
+Addresses for most sites are currently handed out by Network Solutions Inc. of Herndon, Va., which charges $100 for each registration.
+At first, Network Solutions would continue to have a monopoly on the domain names it already controls but the committee said its "ultimate goal" is to have all names handled by all qualifed firms.
+"The IAHC members were faced with a formidable challenge," said Donald Heath, president of the Internet Society and chairman of the committee. "We accomplished our goal, in no small part, because we were able to bring people together from around the world, via the Internet."
+The full text of the recommendations was posted on the Internet at http://www.iahc.org, Heath said. The proposal will be open for public comment until Jan. 17 and a final report is expected by Feb. 3.
+New names and competing registration services should help quell disputes over popular or trademarked names.
+Disputes are arising more frequently, usually when the holder of a trademark discovers that someone else is using their trademark as the name of an Internet site.
+For example, Viacom Inc.'s MTV music channel fought with one of its employees, who had registered "mtv.com," eventually regaining control of the name in an out-of-court settlement.
+In another case, a journalist tweaked McDonald's Corp. by registering "mcdonalds.com" before the fast-food giant did and before the Web had attained its current prominence. The address now belongs to McDonald's.
+Once new top-level domain names are available, 10 people or organisations could register similar names. The new top-level domains will contain three to five letters but have not yet been selected.
+The committee included members from the Internet Society, which helps coordinate and develop Net standards; the Internet Assigned Number Authority, which oversees certain of the standards, and the Internet Architecture Board, which helps draft and promulgate new technical standards.
+The committee also included representatives from the International Telecommunications Union, the World Intellectual Property Organisation and the International Trademark Association.
+An international task force charged with resolving the simmering controversey over desirable Internet address names released a draft plan Friday to expand the total number of addresses substantially.
+International Ad Hoc Committee on domain names, formed by the Internet Society in October, said seven new "top level domains" should be added to the Internet.
+Most Internet addresses end with one of a few three letter designations, including "com" for private sites, "gov" for government sites and "edu" for sites run by schools.  
+Addresses for most designations, or top level domains, are given out by Network Solutions Inc of Herndon, Va., which charges $100 for each registration.
+The committee also recommended that an unlimited number of firms be able to register the new addresses, although the committee said it hoped initially to authorize 20 to 30 new registration services.
+At first, Network Solutions would continue to have a monopoly on the domain names it already controls but the committee said its "ultimate goal" is to have all names handled by all qualifed firms.  
+"The IAHC members were faced with a formidable challenge," Donald Heath, president the Internet Society and chair of the committee, said. "We accomplished our goal, in no small part, because we were able to bring people together from around the world, via the Internet."
+The full text of the recommendations was posted on the Internet at http://www.iahc.org, Heath said. The proposal will be open for public comment until Jan. 17, 1997 and a final report is expected by Feb. 3, 1997.
+New names and competing registration services should help quell disputes over popular or trademarked names.  
+Disputes are arising more frequently, usually when the holder of a trademark discovers that someone else is using their trademark as the name of an Internet site.
+For example, Viacom Inc's MTV music channel fought with one of its employees, who had registered "mtv.com," eventually regaining control of the name in an out-of-court settlement.
+Once new top-level domain names are available, 10 people could register similiar names.  The new top level domains will contain three to five letters but have not yet been selected.  
+The committee included members from the Internet Society, the Internet Assigned Number Authority, which oversees certain Internet standards, and the Internet Architecture Board, which helps draft and promulgate new standards.
+The committee also included representatives from the International Telecommunications Union, the World Intellectual Property Organization and the International Trademark Association.
+((--202-898-8312))
+U.S. banks will be able to significantly increase their securities underwriting activities under a rule adopted Friday by the Federal Reserve, but that will only add pressure on Congress to overhaul the entire regulatory system, market participants said.
+The Fed voted unanimously to allow so-called section 20 subsidiaries of banks to derive as much as 25 percent of their revenues from underwriting and dealing in securities such as stocks, corporate bonds and commercial paper.
+The new rule takes effect in 60 days, the Fed said.  
+At the meeting, Fed governors called for Congressional action to reform the 1933 Glass-Steagall Act and other laws separating banks from non-bank financial services industries.
+"We hope that the next move will be up to the Congress in this whole area," Fed vice chair Alice Rivlin said.
+"Legislation is needed but I think this is a constructive step and it is appropriate for us to interpret the existing legislation," Governor Susan Phillips said.
+While the Glass-Steagall Act prohibits banks from engaging in non-bank activity, under section 20 of the Act banks may affiliate with firms not "engaged principally" in such areas.  
+The Fed said it currently authorizes 41 bank subsidiaries to deal and underwrite securities, ranging from stocks and bonds to commercial paper and mortgage-backed securities.
+Banks were already allowed to handle other sorts of financial instruments, including Treasury securities and over-the-counter derivatives.
+Both the Fed's action and an even broader move last month by the Comptroller of the Currency will raise the pressure on Congress to scrap the Glass-Steagall Act, according to Robert Litan, director of economic studies at the Brookings Institute.  
+In the past, banks led the charge to change the law because they wanted to get into other businesses, like selling insurance and underwriting. Insurance companies and securities firms generally opposed the banks, creating legislative gridlock.
+Now, all industries will press for change, Litan said. "The tables have been turned," he said. "But it's not a two-way street. Other industries will want to level the playing field."
+Banking industry representatives said they were elated by the Fed vote.  
+"This is a tremendous boost for banks that already underwrite securities and an incentive for banks considering this business," American Bankers Association managing director Larry LaRocca said.
+"By lifting the 10 percent revenue cap to 25 percent for Section 20 ineligible securities, the Fed has begun chipping away at the antiquated barriers handicapping banks for years," LaRocca added.
+Securities industry groups had written to the Fed strongly opposing the proposal and restated their position after the vote.  
+"It's as if Santa Clause delivered all the gifts to only one house in the neighborhood," Steve Judge, senior vice president for the Securities Industry Association, said.
+Judge also called for Congress to act. "Nothing could benefit consumers and our economy more than a modernization of federal laws governing the financial services industry," he said.
+((202-898-8312))
+The Federal Reserve took another step Friday toward eliminating the barriers between banking and other financial service industries, voting to allow banks to further invade the turf of Wall Street securities firms.
+The Fed Board of Governors voted unanimously to increase the percentage of revenue bank subsidiaries may earn from underwriting and dealing in securities to 25 percent from 10 percent.
+Bank subsidiaries have been bumping against the 10 percent limit and earlier this year the Fed cited Swiss Bank Corp. for exceeding the cap.
+Banks were elated by the new rule.
+"This is a tremendous boost for banks that already underwrite securities and an incentive for banks considering this business," American Bankers Association managing director Larry LaRocca said.
+Securities firms, however, were not pleased.
+"It's as if Santa Clause delivered all the gifts to only one house in the neighbourhood," said Steve Judge, senior vice president for the Securities Industry Association.
+For decades, securities underwriting was the exclusive purview of firms like Merrill Lynch &amp; Co. and Salomon Brothers. But since 1987, when the Fed first allowed bank subsidiaries to earn 5 percent of their revenues from underwriting, big banks like J.P. Morgan &amp; Co. and Bankers Trust have made dramatic inroads.
+While the 1933 Glass-Steagall Act generally prohibits banks from engaging in non-bank activity, under section 20 of the Act banks may affiliate with firms not "engaged principally" in such areas. Currently, 41 bank "Section 20" subsidiaries have permission to engage in underwriting.
+The Fed's action will add to pressure on Congress, which was already planning to review the entire scope of financial sector regulation next year.
+Securities firms, insurance companies and others who opposed lifting restriction on banks in the past will likely favour reform this time around, according to Robert Litan, director of economic studies at the Brookings Institute.
+Raising the revenue cap, and an announcement last month by the Comptroller of the Currency allowing banks another avenue for entering unrelated fields, only go halfway, Litan said.
+"It's not a two-way street. Other industries will want to level the playing field," he said.
+At Friday's meeting, Fed governors called for Congress to follow their lead and and revise the laws.
+"We hope that the next move will be up to the Congress in this whole area," Fed Vice Chairwoman Alice Rivlin said.
+The Federal Communications Commission proposed Tuesday to trim the $23 billion a year that long-distance telephone companies pay to local service providers in access fees.
+But the commission ducked the contentious issue of whether such charges should be imposed on Internet service providers, asking for comment on the issue without offering any proposals.
+In a notice of proposed rule-making, the commission said it could cut the access fees in either of two ways: it could impose a schedule of long-distance access charge reductions or wait to allow market forces to drive fees lower.
+The access charges, which make up a substantial portion of local phone company revenues, were adopted after the break-up of AT&amp;T Corp. in 1984 that led to the creation of the regional "Baby Bell" local service companies.
+New telecommunications rules signed into law in February are supposted to foster more competition for local and long-distance service and drive prices lower.
+Long-distance companies, which say the access fees are excessive, favour deep, government-mandated cuts.
+"We recommend the FCC to move as quickly as possible to squeeze the $10 billion in excess access fees out of the local exchange industry and put it back in the pockets of consumers," AT&amp;T said in a statement.
+Local phone companies concede that the fees exceed their actual costs for carrying long-distance calls but would prefer a gradual reduction based on competition and market forces.
+The FCC "must not allow the long-distance companies to continue to benefit at the expense of consumers," said Roy Neel, president of the U.S. Telephone Association, which represents local service providers.
+While local providers have already cut access fees by $9 billion, "the long-distance oligopoly has raised rates in lockstep more than six times," he said.
+Under the FCC's market-based approach, new entrants in the local market would compete with the Baby Bells to connect long-distance calls. The FCC would gradually relax and ultimately remove price caps and access fee schedules while relying on competition to drive the fees down.
+The alternate approach would specify the nature and timing of changes in existing rate levels. Ultimately, the FCC said it could adopt parts of both approaches.
+Local phone companies also connect Internet users to Internet service providers over local phone lines, but they receive no access charges for those calls.
+Recently, several Baby Bells complained that Internet users were getting a free ride, tying up local lines with often lengthy calls.
+The FCC did not take a position on whether Internet service providers should be required to pay access fees. In a less formal "notice of inquiry," the agency asked for comment on possible reform "relating to interstate information services and the Internet."
+Comments are due by Jan. 27 on the long-distance access fee proposals and by Feb. 21 on the Internet issue.
+The Federal Communications Commission has tentatively decided not impose fees on Internet service providers for use of local telephone lines, an official said Thursday.
+On Tuesday, the commission issued a notice of proposed rulemaking setting out two possible plans for reducing the $23 billion a year that long-distance telephone companies pay to local service providers in access fees.
+"The commission raised the specific question of whether ISPs (Internet service providers) should pay access charges as we currently understand them," Kevin Werbach, counsel for new technology at the commission said. The FCC "tentatively concluded that the answer is no."
+Local phone companies had pressed to have the access fee applied to Internet service companies. The phone companies argued that consumers using the Internet were getting a free ride and tying up local lines with lengthy calls.
+Internet companies countered that such fees would smother the growth of the booming online industry.
+"We think they did exactly the right thing," said Jill Lesser, deputy director of law and public policy at America Online, the largest online service in the world. "It means the FCC is thinking in the right way about this. They're thinking for the growth of the Internet."
+The commission did issue a "notice of inquiry" asking for comments on the issues involved, Werbach said.
+The arguments of both sides raise "legitimate issues, so the commission initiated the notice of inquiry to develop a record on that," he said.
+A notice of inquiry seeks comment but does not give the commission authority to then adopt a rule. The commission would have to first issue a notice of proposed rulemaking before applying access fees to Internet service providers, Werbach said.
+The Internet notice is "more foward looking" than the proposed rules for long distance access fees, Werbach said. "Once we have an idea what replaces the access charge system then we can take a look at that," he said.
+The Commerce Department will issue final rules on Dec. 30 to implement its new policy on export of computer encoding products, but the proposal is unlikely to mollify the software industry and privacy advocates who objected to a draft version.
+Some changes were made in the final rules, available Friday at a government printing office, from the earlier draft. But the bulk of the proposal remains the same, including portions strongly criticized by the software industry that applied to real-time communications.
+Commerce undersecretary William Reinsch had said two weeks ago that the draft rules would be modestly revised, but warned that some objections could not be addressed.
+Under the previous rules dating from the Cold war, the administration severely limited the export of products containing encryption, programs that use mathematical formulas to scramble information and render it unreadable without a password or software "key."
+In the past, products could be exported using "keys" as long as 40 digital bits, a string of forty ones and zeros. But as the speed of computers has grown, 40-bit keys have become easy to crack and longer keys have come into general use.
+At the same time, with the growth of the Internet and online commerce, demand for encryption-capable products is growing worldwide. Coded messages can keep a business' e-mail confidential or protect a consumer's credit card number sent on the Internet.
+The Commerce Department rules were intended as a compromise, allowing U.S. companies to compete in the encryption market while protecting the interests of law enforcement officials.
+The policy relies on so-called key recovery features which allow government officials to decode encrypted messages when acting under proper legal authority.
+Under the policy to be issued Monday, products containing key recovery features will be eligible for export after a one-time review.
+Software firms had hoped the key recovery exception would only apply to stored data, like a document on a hard drive. But the final rules, like the draft rules, also require key recovery for real-time data transamission such as coded phone calls.
+Non-key recovery software with keys of up to 56 bits will be exportable under six-month, renewable licenses until the end of 1998, but only if the manufacturer commits to producing software with key recovery by then.
+Some companies had complained that the government was asking for too much information about their future plans, but the final rules still require submission of detailed plans and committments.
+All other encryption products, such as state-of-the art 128-bit software without key recovery features, would continue to be treated as munitions. Such products include ordinary e-mail programs and even the recently introduced set-top box for surfing the Internet with a television.
+The rules deleted a draft provision allowing keys to be stored with a recovery agent located outside of the United States.
+The final rules also made clear that an applicant's public support of the administration's policy would not be a factor in export license decisions. Rather, helping build the necessary infrastructure would be a factor, the final rules said.
+A criteria listed as "public support for a key management infrastructure," was changed to "or other support for the key management infrastructure."
+House Banking Committee chairman Jim Leach introduced a bill on Tuesday aimed at remaking the regulatory landscape for banking and other financial services in the United States.
+A similiar bill Leach introduced in the previous Congress foundered last June amid opposition from the insurance industry and House Democrats.  
+Analysts have said this year's bill might have a better chance of passage, but that was before Leach decided to oppose Newt Gingrich's reelection as Speaker of the House, a move that could turn the leadership against his bill.
+"This bill provides expanded powers for the banking, securities and insurance industries," Leach said in a statement. "The ultimate beneficiaries of this legislation, however, are consumers."  
+"Not only will there be more products available to banking customers who are looking to maximize their savings, but efficiencies should lower industry costs and therefore costs to consumers," Leach said.
+If passed, the bill would break down the legal barriers enacted after the Great Depression between banks, securities firms and insurance companies.
+Bank regulators have already begun eroding the barriers for banks, putting pressure on Congress to level the playing field, analysts said.  
+The Federal Reserve voted Dec 20 to allow bank subsidiaries to garner a greater share of revenue from underwriting activity. And a month earlier, the Comptroller of the Currency's office said it would allow banks to enter an array of non-bank markets.
+Leach said his bill would repeal Section 20 of the Glass-Steagall Act and amend Section 32 to allow for the merger of commercial and investment banks.  
+Bank subsidiaries would be allowed to engage directly in securities dealing and other activities considered "part of and incidental to" banking. Affiliates of bank holding companies, would be allowed to engage in insurance activities as principal, agent or broker.
+The bill would also abolish the federal charter for thrifts while grandfathering existing thrift holding companies. National thrifts would have the option of transferring to a national or state bank charter or a state savings and loan charter.
+The Iowa Republican's bill would continue to prohibit commercial companies outside the finance sector from owning banks.
+The bill was also sponsored by three other Republican members of the Banking Committee: Rep Marge Roukema of New Jersey, Mike Castle of Delaware and Rick Lazio of New York.
+The full committee will hold hearings on the bill and any related legislation in early March, Leach said.
+The text of Leach's bill is available under the "daily update" section of the Banking Committee's World Wide Web site, http://www.house.gov/banking/.
+((202-898-8312))
+A computer scientist barred from exporting a floppy disk containing computer encryption programming asked a federal court Friday to strike down the export limits as a violation of his right to free speech.
+Philip Karn challenged the rules after the State Department in 1994 denied his request to export the programming on disk but allowed him to export the identical material contained in a book.
+U.S. law treats many kinds of encryption, computer coding and decoding programs, under the same category as munitions.  
+The Clinton administration recently issued new rules relaxing the export limits, but most existing encryption programs remain classified as munitions and are subject to strict export limits.
+The limits infringed on Karn's constitutional rights to free speech and due process, his attorney, Kenneth Bass, told a three judge panel of the U.S. Court of Appeals for the District of Columbia on Friday.
+The First Amendment of the Constitution ought to apply equally to computer code written in a book or saved in text form on a floppy disk, Bass argued.  
+"It just cannot be that the Constitution doesn't recognize progress," Bass said.
+Karn did not attempt to export "object" computer code, a working program that could be run on a computer to encrypt and decrypt data. Karn's disk contained "source" code, or directions that could be used to write such software.
+In another case, Federal district court Judge Marilyn Patel held last month that source code should be considered a protected form of speech. But the ruling, in the Northern District of California, is not binding on the D.C. Appeals court.
+Fast running out of options, federal credit unions are hoping the Supreme Court will decide Friday to wade into the midst of their six-year legal battle with the banking industry.
+The Supreme Court's nine justices are expected to decide whether or not to hear the credit union case, lawyers involved in the case said.
+The banks, who filed suit to challenge a 1982 policy adopted by the National Credit Union Administration (NCUA) relaxing previous membership limits, have urged the court not to take the case.
+Lower courts have agreed with banks that membership should be sharply limited at thousands of credit unions, cooperative non-profits that offer bank-like services.
+If the court decides not to hear the case, membership limits could force many credit unions to be dissolved or broken up into smaller, less-efficient institutions, according to Tim Pryor, federal regulatory counsel to the National Association of Federal Credit Unions.
+"It would be kind of like a court-ordered savings and loan crisis," Pryor said. "This case is extremely important to the safety and soundness of the industry."
+If at least four justices favour taking the case, the credit unions would have a final chance to erase the limits.
+Oral arguments could be scheduled for later this term, with a decision likely by the summer.
+"This is about settled law," said Michael Crotty, counsel for the American Bankers Association. If credit unions want to change the membership limits, they should go to Congress and ask for legislation, he said.
+"The policy of who gets to be a member of a credit union is not a judicial issue but a legislative one," added Crotty.
+Until 1982, credit unions were limited to having members with a single common bond, people who worked for the same employer or lived in the same neighbourhood. But that year, the NCUA began allowing credit unions to include members from multiple, distinct groups.
+That angered banks, which contended that some of the larger tax-exempt credit unions posed unfair competition. In 1990, the banks sued a North Carolina credit union that had grown to encompass more than a hundred groups.
+The case wound its way through the system, reaching the federal appeals court for the District of Columbia last year. The court ruled the NCUA had exceeded its authority and that members of each credit union must share a single common bond.
+A lower court then ordered credit unions to stop accepting members from more than one group, although the order was partially suspended until the Supreme Court makes a decision or declines to hear the case.
+The case, First National Bank and Trust Co. v NCUA et al, is on a list of cases the Supreme Court justices are scheduled to discuss Friday.
+It is possible that the justices might not get to the case Friday, and then it would likely be discussed at a conference next month, lawyers said.
+The growing mass of Internet users have paid their fair share to local telephone companies and pose little threat to the phone system, according to a study released on Wednesday by a coalition of Internet and computer companies.
+The coalition presented the report to counter studies by local phone companies released last year seeking to justify new access fees on Internet usage. The phone company studies found that Internet usage threatened to overwhelm the system.  
+"The Internet is not crashing the telephone network," Information Technology Association of America President Harris Miller said at a news conference here.
+"We are bringing the real facts to bear on a 'problem' that the phone companies have anecdotally created to protect their own interests," said Miller, whose group is a member of the Internet Access Coalition.
+On December 24, the Federal Communications Commission said it had tentatively decided not to impose access fees on Internet providers similiar to those paid by long distance companies to local phone companies.  
+But the commission also asked for comments about the effect of the Internet on the phone system.
+"Our findings clearly show that claims of phone network 'congestion' resulting from Internet traffic and predictions of a 'meltdown' are greatly exaggerated," said Lee Selwyn, one of the study's authors.
+Further, ordinary consumers using the Internet already pay the phone companies more than enough to cover the cost of increased use, said Selwyn, who is an expert on telecommunications regulation.  
+The study found, for example, that in 1995 consumers paid more than $1.4 billion for installation and use of six million second phone lines devoted to accessing the Internet or other online services. The study said another eight million second lines were not primarily used for Internet access.
+Local phone companies, some of which had not yet seen the new study, disputed Selwyn's conclusions."To suggest that there is no real problem here is mind-boggling," Bell Atlantic spokesman Harry Mitchell said. As Internet companies add huge numbers of phone lines to meet growing demand, "it does impact the capacity of the public telephone network."  
+America Online, for example, said recently it would double the number of modems it has to connect with subscribers from 200,000 to 400,000 by June.
+But phone company studies considered only a few pieces of the phone system, focusing on switches between Internet service providers and the rest of the network, Selwyn said. While those few switches might be congested, capacity could be added inexpensively, he said.
+The study also cited speeches by some phone company executives who have bragged about the additional revenues generated by increased Internet usage.  
+"Sales of secondary lines at Bell Atlantic increased more than 50 percent, fueled by surging demand for Internet and telecommuting applications," company CEO Raymond Smith told Wall Street analysts last March. The revenue generated substantial profit because "we were able to provision new lines and services from idle capacity in an existing plant."
+Company spokesman Mitchell said charges from second lines "were not designed to subsidize Internet service providers."
+However, all sides agree that a technological solution could eliminate most congestion problems by separating calls carrying voice and data.
+SBC Communications, parent of Southwestern Bell, announced last week it would introduce such splitting technology at a cost of less than $100 million.
+"Technological solutions are readily available," Paul Misener, chairman of the Internet coalition's steering committee said.
+((--202-898-8312))
+The growing mass of Internet users have paid their fair share to local telephone companies and pose little threat to the phone system, a study by a group of Internet and computer companies said Wednesday.
+The coalition presented the report to counter studies by local phone companies released last year seeking to justify new access fees on Internet usage. The phone company studies found that Internet usage threatened to overwhelm the system.
+"The Internet is not crashing the telephone network," said Harris Miller, president of the Information Technology Association of America, at a news conference here.
+"We are bringing the real facts to bear on a 'problem' that the phone companies have anecdotally created to protect their own interests," Miller, whose group is one member of the Internet Access Coalition, said.
+The Federal Communications Commission said on Dec. 24 that it had tentatively decided not to impose access fees on Internet providers similiar to those paid by long-distance companies to local phone companies.
+But the commission also asked for comments about the effect of the Internet on the phone system.
+"Our findings clearly show that claims of phone network 'congestion' resulting from Internet traffic and predictions of a 'meltdown' are greatly exaggerated," Lee Selwyn, one of the study's authors, said.
+Further, ordinary consumers using the Internet already pay the phone companies more than enough to cover the cost of increased use, said Selwyn, an expert on telecommunications regulation.
+The study found, for example, that in 1995 consumers paid more than $1.4 billion for installation and use of 6 million second phone lines devoted to accessing the Internet or other online services. The study said another 8 million second lines were not primarily used for Internet access.
+Local phone companies, some of which had not seen the new study, disputed Selwyn's conclusions.
+"To suggest that there is no real problem here is mind boggling," Bell Atlantic Corp. spokesman Harry Mitchell said. As Internet companies add huge numbers of phone lines to meet growing demand, "it does impact the capacity of the public telephone network."
+America Online Inc., for example, said recently it would double the number of modems it has to connect with subscribers from 200,000 to 400,000 by June.
+But phone company studies considered only a few pieces of the phone system, focusing on switchs between Internet service providers and the rest of the network, Selwyn said. While those few switchs might be congested, capacity could be added inexpensively, he said.
+The study also cited speeches by some phone company executives who have bragged about the additional revenues generated by increased Internet usage.
+"Sales of secondary lines at Bell Atlantic increased more than 50 percent, fuelled by surging demand for Internet and telecommuting applications," company Chief Executive Raymond Smith told Wall Street analysts last March.
+The revenue generated substantial profit because "we were able to provision new lines and services from idle capacity in an existing plant," he said.
+Company spokesman Mitchell said charges from second lines "were not designed to subsidise Internet service providers."
+In the end, all sides agree that a technological solution could eliminate most congestion problems by separating calls carrying voice and data.
+SBC Communications Inc., parent of Southwestern Bell, announced last week it would introduce such splitting technology at a cost of less than $100 million.
+"Technological solutions are readily available," Paul Misener, chairman of the Internet coalition's steering committee said.
+Prospects for comprehensive reform of U.S. banking and financial services laws remain bright despite a far-reaching proposal being considered by the Clinton Administration that has upset some banks.
+Most in government and the industry now agree that the 60-year-old Glass-Steagall Act separating banking from other financial activities like insurance and securities dealing should be scrapped.
+But there is little consensus about removing the barriers between financial firms and other commercial companies, a position the administration is actively considering for its reform proposal expected in the next two months.
+"The feeling is still very, very good that everyone wants Glass-Steagall reformed," former Congressman and bank lobbyist Larry LaRocco said.
+With almost two years left for the 105th Congress, legislators should have sufficient time to come to agreement, added LaRocco, managing director of the American Bankers Association's securities section.
+"There's tremendous momentum building. Maybe it won't be in 1997 but certainly within the 105th," he said.
+Federal courts and regulators spurred the momentum last year by lifting many restrictions on banks' non-banking activities, LaRocco noted.
+As previously reported, Treasury Secretary Robert Rubin is weighing the recommendations of a task force headed by Under Secretary John Hawke to remove all barriers between financial and non-financial companies. Under the plan, a company like General Electric Co. or Microsoft Corp. could own or be owned by a financial services company like Citicorp or Aetna.
+"There has been an enormous amount of movement on the whole issue in the last two months," a person familiar with the administration's deliberations said.
+Among various bills in Congress and the administration, the commerce issue "is the last issue that's left, which is an indication of how far we've come. For the first time, the omens are good and this is the only hang-up," the person said.
+The remaining "hang-up" has raised strong opposition from House Banking Committee Chairman Jim Leach along with smaller banks and consumer groups.
+"There is no public support and no economic need for the conglomeration of financial institutions and other businesses," the Iowa Republican said. "The nation needs to be concerned about creating jobs, not simply consolidating ownership."
+If the administration pushes ahead with the Hawke plan, it would create a "much longer debate and prolong the process," one Leach staffer added. "This is an issue which (Leach) feels has not been fully debated," the staffer said.
+Small bankers agree. "It's a proposal that would essentially change and concentrate not only the financial structure of the United States but the whole economic and financial structure," said Ken Guenther, executive vice president of the Independent Bankers Association of America.
+Such concentration would be bad for the economy, Guenther added. "It is based on very debatable assumptions."
+One bill in Congress includes a possible compromise approach, lobbyists noted. Representative Marge Roukema's bill would allow banking, insurance and securities firms to merge and would allow such companies to derive up to 25 percent of their revenues from non-financial activities.
+The New Jersey Republican, chairwoman of the House Banking Committee's Financial Institutions subcommittee, has lined up some big guns behind her bill. The Alliance for Financial Modernisation, a coalition representing most the large trade groups involved in financial services, broadly endorsed the bill.
+With the Clinton administration busily reworking its 1995 proposal overhauling the U.S. financial services sector, one faction in the Treasury Department is recommending a more far reaching plan this time around, people familiar with the matter said.
+Under Secretary of the Treasury John Hawke, who oversees an administration working group on bank reform, is pressing for a plan allowing commercial companies to own financial companies, they said.  
+The Hawke plan is said to be in front of Treasury Secretary Robert Rubin, who carries great weight with the President on financial policy issues.
+Most in the administration and on Capital Hill agree that the 60-year-old laws separating banking from other financial activities like insurance and securities dealing should be scrapped.
+But there is still widespread disagreement about letting outside companies into financial businesses. "There's a major war brewing," one lobbyist familiar with the plan said. "People are choosing up sides and getting to the White House."  
+A spokesman for the Treasury did not have an immediate comment.
+Two years ago, the Clinton plan took a middle path on the issue between House Banking chairman Jim Leach's bill and a proposal put forward by Senate Banking Committee chairman Sen. Alfonse D'Amato.
+Leach remains strongly opposed to allowing non-financial firms into the financial services sector. The Iowa Republican introduced a bill last month that would allow banks, insurance companies and securities firms to affiliate only amongst themselves.  
+A second House bill, backed by Rep. Marge Roukema, would allow a financial services company to derive up to 25 percent of its revenue from non-financial activities.
+Sen. D'Amato, by contrast, favors lifting all limits, allowing a company like General Electric or Ford to own and operate a bank. D'Amato is expected to reintroduce his bank reform measure in the next few weeks, a spokesman said.
+The notion of allowing commercial companies into banking alarms consumer advocates and small banks.
+Veteran consumer advocate Ralph Nader wrote a letter to Secretary Rubin last week opposing the Hawke recommendations.
+Common ownership "would create powerful conglomerates that would dominate the nation's economy," Nader warned in the letter obtained by Reuters.
+"The distortion of the allocation of bank credit ultimately would have a substantial adverse effect on competition and the overall productivity of the economy," Nader wrote.
+Small bankers also oppose the plan, which could lead to further consolidation and concentration in the banking industry, lobbyists said.
+((--202-898-8312))
+Just days after a U.S. graduate student cracked the most powerful computer encryption system allowed out of the country, the Commerce Department announced it would allow three companies to export an even stronger system.
+Until this year, computer encryption programmes, which scramble information and render it unreadable without a password or software "key," were classified as munitions and stronger programmes could not be exported.
+But under a controversial new Clinton administration policy that took effect Jan. 1, companies may recieve permission to export stronger programmes.
+"I'm happy that we've been able to do this within the first month without rancour or difficulty," Under Secretary of Commerce for Export Administration William Reinsch said in a telephone interview.
+To export stronger programmes immediately, companies must agree to incorporate features within two years allowing the government to decode encrypted messages by recovering the software keys.
+The adminstration's policy has been widely criticised as not relaxing the export limits enough and some companies feared the requirement for a two-year plan would substantially delay export approvals.
+The quick approvals should quell some of the criticism and encourage more applicants, Reinsch said.
+"As a result of this, you will have more companies taking it seriously and we will expect more plans over the next couple of months," he said.
+Encryption was once the realm of spies and generals. But with the explosion of online commerce on the Internet, encryption has become a vital tool for protecting everything from a business' e-mail message to a consumer's credit card number sent over the Net.
+The amount of protection afforded by encryption is largely a function of the length of the software key measured in bits, the smallest unit of computer data.
+Companies said products with just 40-bit long keys, the old limit, were too easy to crack. The approvals came just days after Ian Goldberg, a graduate student at the University of California, cracked a message encoded with a sofware key 40-bits long.
+The government did not name the companies on Friday given permission to export stronger, 56-bit programmes, but Glenwood, Maryland-based Trusted Information Systems acknowledged that it was one of the three.
+"Recent attacks on 40-bit encryption have shown that a global move to at least 56-bit (U.S. government standard) security must come soon," Trusted Information Executive Vice President Steven Lipner said.
+An influential economic research group is preparing guidelines on computer encryption for its member countries but will duck some of the most contentious issues involved, according to a draft obtained by Reuters.
+The Clinton administration, seeking to rally support for its controversial policy on exporting encryption products -- which encode and decode e-mail and other computerized messages -- failed to win an endorsement from the Organisation for Economic Cooperation and Development (OECD), although the group did discuss the administration's approach.
+On perhaps the most difficult issue, the draft guidelines do not favour or oppose a requirement in the U.S. policy that data-scrambling encryption programmes provide a way for law enforcement officials to obtain keys to crack the codes when necessary.
+After indicating that governments should carefully weigh the costs and benefits of imposing so-called key recovery, the draft report said, "this principle should not be interpreted as implying that governments should, or should not, initiate legislation that would allow lawful access."
+On all the controversial areas in the draft, "the member countries of the OECD have strongly held views but they don't always coincide," John Dryden, head of the group's Information, Computer and Communications Policy division, said in a telephone interview from Paris.
+Some countries see widespread use of encryption as a way to protect the privacy of computer users and businesses, thereby encouraging global commerce, Dryden said. But others see encryption as possibly thwarting law enforcement's efforts to catch criminals and global terrorists, he said.
+The guidelines suggest encryption users should have access to products that meet their needs. Government controls should be "no more than are essential to the discharge of government responsibilities."
+Instead of reconciling the different views, the draft guidelines lay out competing interests and approaches.
+"It's not in itself a cryptography policy and it's not an attempt to draft a model national law that we're encouraging people to adopt," Dryden said. Cryptography refers to products and systems used in encryption.
+The guidelines also suggest encryption standards and usage should be "determined by the market in an open and competitive environment."
+"There's a strong view that the private sector should have the possibility to use information networks to the best of their potential in order to create growth and jobs," Dryden said.
+U.S. officials who have seen the preliminary draft praised the guidelines. "They're an important and helpful step forward," Undersecretary of Commerce William Reinsch said.
+"They're helpful because they put down on paper the proper foundation for getting into this," he added.
+Reinsch said most countries will follow the U.S. lead and require so-called key recovery features for law enforcement. Under the Clinton policy, domestic use of encryption is not regulated but the strongest coding products cannot be exported unless they include key recovery.
+U.S. companies that have opposed the Clinton policy, contending it stifles their ability to compete with unfettered foreign firms, drew little solace from the draft guidelines.
+"This is not helpful," said Netscape Communications Corp.'s public policy counsel, Peter Harter. Netscape and other companies preferred stronger language endorsing free-market policies, he said.
+The draft guidelines, approved by a group of government and private-sector experts at a meeting at the end of January, still must be approved by a top-level OECD officials from the group's 29 member countries, including the United States, Japan and Germany.
+An influential global research group is preparing guidelines on encryption policy for its member countries but will duck some of the most contentious issues involved, according to a draft of the report obtained by Reuters.
+The Clinton administration, seeking to rally support at home and abroad for its controversial encryption export policy, got some discussion of its approach in the Organization for Economic Cooperation and Development guidelines but not an endorsement.  
+On perhaps the most difficult issue, the draft guidelines do not favor or oppose a requirement in the U.S. policy that data-scrambling encryption programs provide a means for law enforcement officials to obtain keys to crack the codes when necessary.
+After indicating that governments should carefully weigh the costs and benefits of imposing so-called key recovery, the draft states "this principle should not be interpreted as implying that governments should, or should not, initiate legislation that would allow lawful access."  
+On all the controversial areas in the draft, "the member countries of the OECD have strongly held views but they don't always coincide," said John Dryden, head of the group's Information, Computer and Communications Policy division, in a telephone interview from Paris.
+Some countries see widespread use of encryption as a means to protect the privacy of computer users and businesses, thereby encouraging global commerce, Dryden observed.
+But others see encryption as possibly thwarting law enforcement's efforts to catch criminals and global terrorists, he said.  
+The guidelines suggest that encryption users should have "access to cryptography that meets their needs."  Government controls should be "no more than are essential to the discharge of government responsibilities."
+Instead of reconciling the different views, the draft guidelines lay out competing interests and possible approaches.
+"It's not in itself a cryptography policy and it's not a attempt to draft a model national law that we're encouraging people to adopt," Dryden said.  
+The guidelines also suggest encryption standards and usage should be "determined by the market in an open and competitive environment."
+"There's a strong view that the private sector should have the possibility to use information networks to the best of their potential in order to create growth and jobs," Dryden said.
+U.S. officials who have seen the preliminary draft praised its approach.  "They're an important and helpful step forward," Under Secretary of Commerce William Reinsch said.  
+"They're helpful because they put down on paper the proper foundation for getting into this," he added
+Reinsch maintained that most countries will follow the U.S. lead and require so-called key recovery features for law enforcement.  Under the Clinton policy, domestic use of encryption is not regulated but the strongest coding products cannot be exported unless they include key recovery.
+The draft guidelines, approved by a group of government and private sector experts at a meeting at the end of January, still must be approved by the top-level OECD council.  
+The council is composed of ambassadors from the 29 member countries.
+U.S. companies that have opposed the Clinton policy, contending it stifles their ability to compete with unfettered foreign firms, drew little solace from the OECD draft.
+"This is not helpful," Netscape Communications Corp's public policy counsel Peter Harter said.  Netscape and other companies preferred stronger language endorsing free market policies, he said.
+((--202-898-8312))
+An international Internet group released its plan Wednesday to dramatically increase the number of available addresses in cyberspace while quelling disputes over the use of trademarks in those address names.
+The International Ad Hoc Committee, which includes members of Internet standards-setting bodies and legal and communications experts, proposed seven new "top-level domains," the last block of letters at the end of every Internet address.
+If the plan is adopted, Net surfers will see addresses ending in "web", "store", "info", "firm", "arts", "rec" and "nom", joining "com", "edu", "gov" and other existing top-level domains.
+Each new domain reflects a particular type or category of Internet site. For example, "rec" would be for sites emphasising recreation and entertainment, while "nom" would be for those desiring individual or personal nomenclature.
+In drafting the plan, the group received more than 4,000 comments from around the world. The consensus-building approach followed an outcry that arose when a few Internet bodies unveiled a similiar plan last August.
+"We are very pleased with the acceptance and broad consensus that we have achieved in this process," said Donald Heath, president of the Internet Society and chair of the ad hoc committee. "To attain its fullest potential, the Internet requires true self-governance."
+Heath said the plan should be approved by Internet standard setters within a few weeks, allowing new domains to come online about three months later.
+The plan includes provisions to resolve disputes arising over the use of trademarked names as Internet addresses.
+Last year, for example, toymaker Hasbro Inc. won a lawsuit to regain control of the Internet address "candyland.com," which was being used for an adult Web site with nude photographs.
+But more complex disputes are arising where both parties may have a legitimate claim to an Internet address.
+Under the committee plan, anyone applying for an Internet address will have to agree to resolve disputes through online mediation under the rules of the World Intellectual Property Organisation. Mediation will be provided by panels composed of international experts on intellectual property, trademarks and the Net. Challenges initiated within 60 days of an address registration would be resolved within 30 days.
+All challenges and proposed decisions would be made public and time allowed for comment before a final decision was rendered.
+The plan will not completely eliminate court battles, attorneys said. "It's much better than the policies we've seen in the past, but, just by the nature of how valuable these domains have become, litigation will continue," said Paul Terry, Internet law specialist at Winthrop, Stimson, Putnam &amp; Roberts.
+The plan also calls for establishing up to 28 competing registration firms to dole out the new addresses. The firms will operate under the auspices of a Council of Registrars, to be established as a non-profit association in Switzerland.
+Currently, one firm, Herndon, Va.-based Network Solutions Inc., hands out addresses in the most popular domains, charging $100 for a two-year registration.
+Network Solutions, which registers over 80,000 new Internet addresses a month, had no comment on the plan, but a spokesman raised doubts about its viability. "We're concerned with the stability and integrity of the registration process," spokesman Christopher Clough said.
+The complete proposal is posted on the World Wide Web at http://www.iahc.org/draft-iahc-recommend-00.html.
+The various sectors of the U.S. financial services industry will spar over bank reform proposals at a hearing on Tuesday before the House Banking Committee's subcommittee on financial institutions.
+With most in Congress and industry ready to scrap the Depression-era laws separating banking from other financial services, one of the hottest topics is likely to be whether even broader reform is required.
+Treasury Secretary Robert Rubin is considering a proposal to allow combinations between commercial and financial firms.  
+While savings institutions and insurance companies can already own or be owned by non-financial companies, banks operate under much tighter restrictions.
+A Treasury Department task force recommended that the administration's bank reform proposal, expected in about a month, allow mixing of commerce and banking, permitting Ford Motor Co or Microsoft to own Citicorp or BankAmerica.
+Rubin told a group of bankers at a private meeting last week that the administration has not yet made a decision on the contentious issue, people familiar with the meeting said.  
+The high-level private-sector group, known as the Federal Reserve's Federal Advisory Council, also met with House Banking Committee chairman Jim Leach last week.
+Leach, who strongly opposes mixing commerce and banking, told the group of CEOs that their banks could be taken over by larger capitalized companies.
+"They'll be at the working end of the food chain," Leach reportedly told the bankers according to one person familiar with the meeting. Spokesman for Leach and Rubin declined to comment on the meetings.  
+At Tuesday's hearing, insurance and savings groups will oppose restrictions on commercial and financial combinations. The mutual fund industry also opposes restrictions.
+Small banks, represented by the Independent Bankers Association of America, will take the opposite position, in favor of imposing legal barriers.
+Federal Reserve officials, along with some consumer, agricultural and union groups favor restrictions but will not be heard from on Tuesday. The Fed will testify on Thursday along with other government agencies, while consumer gropups will testify at a Feb 25 hearing.  
+The AFL-CIO recently sent a letter to the Clinton administration charging that allowing unlimited mergers would drag the U.S. economy back into the 19th century with a "reinstatement of trusts and monopolies," a person who read the letter said.
+Leading Democrats, including ranking minority members of House and Senate banking panels Rep Henry Gonzalez and Sen Paul Sarbanes, also favor restrictions.
+Not all Republicans agree with Leach and the Democrats. Rep. Marge Roukema, chairwoman of the financial institutions subcommittee, has introduced a bill that would allow financial companies to do 25 percent of their business in non-financial markets.
+And in the Senate, Banking Committee chairman Alfonse D'Amato has opposed restrictions and plans to introduce his own bank reform measure soon.
+Rep Gonzalez is likely to raise questions about the possible risks to federal deposit insurance funds, some lobbyists said. Gonzalez has said conglomerate combinations should have limited access to deposit insurance.
+((--202-898-8312))
+The debate over reforming America's financial services sector, a top priority for Congress and the Clinton administration, began in earnest Tuesday.
+As major industry representatives sat down at a House Banking subcommitee hearing on two pending reform bills, word came that Senate Banking Committee Chairman Alfonse D'Amato, R.-N.Y., had introduced his own version of comprehensive reform.
+The bills introduced so far, as well as an administration proposal expected late next month, begin with the same premise: the time is right to scrap the Glass-Steagall Act enacted during the Depression to separate banking from other financial activities like securities underwriting and insurance.
+Most in Congress agree. And, for the first time, most financial service company seem to agree as well.
+At the hearing of the Subcommittee on Financial Institutions, representatives of banking, insurance, securities and mutual funds all agreed Congress should allow a single entity to span all financial services businesses.
+But, as subcommittee Chairwoman Marge Roukema, a New Jersey Republican, observed, "The devil is in the details."
+Those who had opposed tearing down Glass-Steagall, mainly insurance and securities companies, have seen federal courts and regulators slowly roll back the law -- but only for banks.
+Last March, the Supreme Court freed banks from many state insurance restrictions.
+The Federal Reserve also decided to allow banks to derive up to 25 percent of a subsidiary's revenue from securities activity, an increase from the previous limit of 10 percent. In November, the comptroller of the currency said he would start allowing national banks to enter a host of non-banking businesses.
+Banks got substantial new authority, but others got nothing.
+"For too long, important policy issues have been addressed by regulatory agencies or the courts rather than by Congress," Metropolitan Life Insurance Co. Vice President Roy Albertalli testified at the hearing. Albertalli spoke on behalf of the American Council of Life Insurance, which had opposed mixing banks and insurance.
+All the proposals before Congress would level the playing field to some degree and recognise the changes that have shaken modern finance.
+"This banking reform legislation will reform the current patchwork of laws and allow the market to operate freely within the financial services industry," D'Amato said as he introduced his bill.
+While a broad consensus has been achieved, several important issues remain to be addressed. Perhaps the most controversial is the extent to which non-financial companies should be allowed to own or be owned by financial companies.
+Under existing law, mutual funds, insurance companies and savings and loans can combine with so-called commercial firms while banks cannot.
+Smaller banks and consumer groups staunchly oppose mixing the two, which would be permitted under the D'Amato bill, limited under the Roukema bill and forbidden under a bill introduced by House Banking Chairman Jim Leach, R.-Iowa.
+Joseph Bracewell of the Indepedent Bankers Association of America laid out the opposition. Citing former Federal Reserve Chairman Paul Volcker, Bracewell said such mergers could "distort lending decisions, be anticompetitive and threaten the safety and soundness of the banking system.
+Banks said they could live with Roukema's compromise approach, but were undecided about the D'Amato plan. Others heartily endorsed the unlimited approach.
+Mutual funds have been "knee-deep in affiliations" and "they've never proved a problem in 57 years," said Matt Fink, president of the Investment Company Institute.
+Differences also remain regarding regulation of new, diversified financial services companies, although most favoured an approach having various, specialised agencies regulate the relevent portion of each firm's activities.
+Internet access providers and others who met with Net-savvy lawmakers said they fear Congress will wreak havoc on cyberspace but are also heartened by the growing number of legislators who understand the global computer network.
+Company representatives met Tuesday night at the Capitol with members of the Congressional Internet Caucus, about 85 legislators with a common interest in the Net, to express their hopes and fears about efforts to make laws governing cyberspace.
+"I think it's inevitable that there will be bills introduced that attempt to legislate the content of everything on the Internet," Tom Evslin, vice president of AT&amp;T Corp.'s WorldNet Internet service, said after the meeting.
+Evslin said it would be as difficult to keep Congress from making wrong moves as it would be to get the legislature to act to head off problems.
+Bill Schrader, president of Internet provider PSINet Inc., was more blunt. "Be very careful or you will destroy this industry," he warned.
+The members of Congress who attended the meeting pledged to try to protect the Internet.
+"We have a lot of pretty tough work ahead of us," Rep. Rick White, R-Pa., and a co-chairman of the caucus conceded. "We have many, many issues coming down the pike from encryption to privacy, to copyright and taxation."
+Encyrption is the use of software to encode and decode information.
+Sen. Conrad Burns, also a co-chairman, warned that, despite the caucus, legislation will always trail developments in the private sector.
+"The government making policy is never ahead of the curve," the Montana Republican said. "If we do the right thing now, I guarantee you that by the time it's passed and the president signs it, we'll be behind the curve."
+Last year was a mixed bag for the Internet in Congress.
+Legislators passed the Communications Decency Act, opposed by online companies and civil libertarians as an infringement on free speech rights, but also defeated measures that would have imposed liability on Internet providers for copyright infringement.
+Sun Microsystems Inc.'s chief scientist, John Gage, fretted that, with only 85 pro-Internet legislators out of 435 in the House and 100 in the Senate, most in Congress remained ignorant of the Net. "We've got a long way to go," he said.
+Companies interested in the Internet offered some conflicting goals for Congress. Jack Valenti, president of the Motion Picture Association of America, urged the legislators to impose new laws protecting Hollywood products.
+"Congress cannot avoid that all intellectual property has to be protected -- this can't be Dodge City without a sheriff," Valenti said. But he also praised the Internet as "the most valuable and spacious information greenhouse that's ever been built."
+PSINet's Schrader countered that existing laws already protected movies, books and other works. "Everything is not new," he said. "It's the same-old, same-old."
+Several U.S. legislators are planning to introduce measures soon to relax export restrictions on encryption technology, an increasingly essential part of global communications and online commerce.
+Last year, the Clinton administration relaxed some of the Cold War era export limits on the technology, specialized computer programs that scramble data and render it unreadable without a password or software "key."
+But computer companies said the administration did not go far enough, locking them out of the growing global market.  
+Rep. Bob Goodlatte, Republican of Virginia, plans to reintroduce a bill on Wednesday that would go well beyond the Clinton administration's approach, staff people in his office said.
+Goodlatte's bill would allow computer companies like Netscape Communications Corp or Microsoft Corp to export products with powerful encryption features if foreign competitors were selling similiar technology.
+In the Senate, Montana Republican Sen Conrad Burns is also planning to reintroduce his encryption bill from last year.  
+At an informal gathering of the Congressional Internet Caucus Tuesday night, Burns said he expected to put forth the bill, known by the acronym PRO-CODE, in late February.
+At one time, the Senator had said the 1997 bill would be identical to last year's bill which did not get a vote in the Commerce Committee.  But staffers said the Senator is still tweaking the bill to draw more supporters.
+"It's about ready to go," Burns said Tuesday night.
+Goodlatte's bill, under the jurisdiction of the House Judiciary Committee, had already garnered 54 co-sponsors by Tuesday night.  
+Staff said the bill almost had the backing of a majority of the members of the Judiciary Committee.
+Others are also considering introducing bills, some seeking a middle approach between the administration and the Burns and Goodlatte bills, which would remove nearly all export restrictions.
+Sen. Patrick Leahy, the Vermont Democrat and co-chair of the Internet Caucus, may have a bill and Rep Rick White, Pennsylvania Republican and also co-chair, is considering weighing in, staff people said.
+Some lobbyists involved in the debate said that the administration was considering introducing its own legislation.  But they were unsure about the contents of the legislation, since the administration implemented its new policy by a Presidential executive order in November.
+Administration officials were not immediately available for comment.
+((--202-898-8312))
+Internet access providers and others who met with Net-savvy lawmakers said they fear Congress will wreak havoc on cyberspace but are also heartened by the growing number of legislators who understand the global computer network.
+Company representatives met Tuesday night at the Capitol with members of the Congressional Internet Caucus, about 85 legislators with a common interest in the Net, to express their hopes and fears about efforts to make laws governing cyberspace.
+"I think it's inevitable that there will be bills introduced that attempt to legislate the content of everything on the Internet," Tom Evslin, vice president of AT&amp;T Corp.'s WorldNet Internet service, said after the meeting.
+Evslin said it would be as difficult to keep Congress from making wrong moves as it would be to get the legislature to act to head off problems.
+Bill Schrader, president of Internet provider PSINet Inc., was more blunt. "Be very careful or you will destroy this industry," he warned.
+The members of Congress who attended the meeting pledged to try to protect the Internet.
+"We have a lot of pretty tough work ahead of us," Representative Rick White, R-Pa., and a co-chairman of the caucus conceded. "We have many, many issues coming down the pike from encryption to privacy, to copyright and taxation."
+Encryption is the use of software to encode and decode information.
+On Wednesday, White co-sponsored one of the first Internet-related bills in the 105th Congress. The bill, authored by Virginia Republican Rep Bob Goodlatte, would relax export restrictions on computer hardware and software containing encryption features.
+Sen. Conrad Burns, also a co-chairman, warned that, despite the caucus, legislation will always trail developments in the private sector.
+"The government making policy is never ahead of the curve," the Montana Republican said. "If we do the right thing now, I guarantee you that by the time it's passed and the president signs it, we'll be behind the curve."
+Last year was a mixed bag for the Internet in Congress.
+Legislators passed the Communications Decency Act, opposed by online companies and civil libertarians as an infringement on free speech rights, but also defeated measures that would have imposed liability on Internet providers for copyright infringement.
+Sun Microsystems Inc.'s chief scientist, John Gage, fretted that, with only 85 pro-Internet legislators out of 435 in the House and 100 in the Senate, most in Congress remained ignorant of the Net. "We've got a long way to go," he said.
+Companies interested in the Internet offered some conflicting goals for Congress. Jack Valenti, president of the Motion Picture Association of America, urged the legislators to impose new laws protecting Hollywood products.
+"Congress cannot avoid that all intellectual property has to be protected -- this can't be Dodge City without a sheriff," Valenti said. But he also praised the Internet as "the most valuable and spacious information greenhouse that's ever been built."
+PSINet's Schrader countered that existing laws already protected movies, books and other works. "Everything is not new," he said. "It's the same-old, same-old."
+Internet access providers and others who met with Net-savvy lawmakers said they fear Congress will wreak havoc on cyberspace but are also heartened by the growing number of legislators who understand the global computer network.
+Company representatives met Tuesday night at the Capitol with members of the Congressional Internet Caucus, about 85 legislators with a common interest in the Net, to express their hopes and fears about efforts to make laws governing cyberspace.
+"I think it's inevitable that there will be bills introduced that attempt to legislate the content of everything on the Internet," Tom Evslin, vice president of AT&amp;T Corp.'s WorldNet Internet service, said after the meeting.
+Evslin said it would be as difficult to keep Congress from making wrong moves as it would be to get the legislature to act to head off problems.
+Bill Schrader, president of Internet provider PSINet Inc., was more blunt. "Be very careful or you will destroy this industry," he warned.
+The members of Congress who attended the meeting pledged to try to protect the Internet.
+"We have a lot of pretty tough work ahead of us," Representative Rick White, R-Pa., and a co-chairman of the caucus conceded. "We have many, many issues coming down the pike from encryption to privacy, to copyright and taxation."
+Encyrption is the use of software to encode and decode information.
+Sen. Conrad Burns, also a co-chairman, warned that, despite the caucus, legislation will always trail developments in the private sector.
+"The government making policy is never ahead of the curve," the Montana Republican said. "If we do the right thing now, I guarantee you that by the time it's passed and the president signs it, we'll be behind the curve."
+Last year was a mixed bag for the Internet in Congress.
+Legislators passed the Communications Decency Act, opposed by online companies and civil libertarians as an infringement on free speech rights, but also defeated measures that would have imposed liability on Internet providers for copyright infringement.
+Sun Microsystems Inc.'s chief scientist, John Gage, fretted that, with only 85 pro-Internet legislators out of 435 in the House and 100 in the Senate, most in Congress remained ignorant of the Net. "We've got a long way to go," he said.
+Companies interested in the Internet offered some conflicting goals for Congress. Jack Valenti, president of the Motion Picture Association of America, urged the legislators to impose new laws protecting Hollywood products.
+"Congress cannot avoid that all intellectual property has to be protected -- this can't be Dodge City without a sheriff," Valenti said. But he also praised the Internet as "the most valuable and spacious information greenhouse that's ever been built."
+PSINet's Schrader countered that existing laws already protected movies, books and other works. "Everything is not new," he said. "It's the same-old, same-old."
+A scuffle breaking out between a top U.S. bank regulator and the state of Rhode Island could foreshadow an increasing number of disputes as more national banks begin selling insurance products, market participants said.
+The Office of the Comptroller of the Currency said last month it is considering overriding a new Rhode Island insurance law that imposes different requirements on banks selling insurance than those imposed on on insurance agents.  
+While national banks have long had the legal right to sell insurance in small towns, state insurance regulators often imposed onerous rules on the banks.
+But last year, the Supreme Court rejected discriminatory state insurance laws and ruled that states cannot "significantly interfere" with national banks conducting permissible activities.
+Banks said that states are now trying to evade the court's ruling. They charged that an insurance agents trade group is pushing states to adopt laws like the Rhode Island measure.  
+"The Rhode Island statute is their first successful effort to pass such restrictive legislation," James McIntyre, counsel to Association of Banks-in-Insurance, said in a letter this week to the OCC.
+"Many other states are considering similiar legislation or regulations at this time. Guidance from the OCC is urgently needed if we are to avoid wasteful legislation and avoid pointless litigation," McIntyre added.
+Major states such as Texas, Pennsylvania and Illinois are expected to consider similiar legislation, bankers said.  
+The Independent Insurance Agents of America fired back in their own letter to the Comptroller's office. Preempting the Rhode Island law would be "wholly inappropriate" because the law does not significantly interfere with a national bank's ability to sell insurance, the group said.
+The agents added that an override would be premature. Although the law was enacted in August, the state has not finished writing the implementing regulations.
+Banks said the law on its face is more burdensome to banks than to others selling insurance.  
+For example, bank personnel involved in teller activities or making loans would be restricted from selling insurance, forcing banks to have two different sales forces, McIntyre said.
+The Comptroller's Office is reviewing the comments it received and will issue an opinion, but has not set a deadline for making a decision, a spokesman said.
+Federal Reserve Chairman Alan Greenspan on Friday urged Congress to modernise U.S. financial laws but warned that some government oversight must be maintained to avert financial catastrophes.
+A top priority of regulators, Greenspan said after a speech at a Federal Reserve Bank of Atlanta conference here, is to prevent "systemic risk," where a problem in one firm or market spreads through the financial system and ultimately undermines the entire economy.
+If a bankruptcy or market crash cannot be contained, it could behave like a chain reaction spreading through all markets, he warned.
+The failure of Drexel Burnham Lambert in the 1980s, for example, raised fears that its collapse would cause a cascade of failures among large Wall Street firms and commercial banks that had lent funds to Drexel. But the firm was liquidated in an orderly fashion and losses did not spread.
+Using its existing authority to oversee banks and provide loans, the Federal Reserve has been able to contain previous crises, Greenspan said. "There have been occasions when we have been on the edge of a significant breakout," he said, but declined to name the institutions involved.
+The Fed's actions and other rules governing financial firms "turned out to be adequate to stem the atomic erosion," he said, returning to the nuclear analogy.
+"Regulation, by its very nature, becomes increasingly obsolete," Greenspan said. "Regulation imposed in an earlier period would be wholly or partly inappropriate for something that evolves at a later date."
+Congress is currently considering several bills to reform laws governing banks, which would affect the Fed, which is one of the nation's primary bank regulators. Legislators have also introduced a measure to modernise rules on derivatives, financial instruments whose value is based on the value of something else such as a commodity, stock or currency price.
+"It is important for Congress to periodically review" such laws, Greenspan said. "Regulators are required to do that."
+For example, in a recent review of Regulation Y, governing non-bank interests of bank holding companies, the Fed found that "some of that stuff is just unbelievable because the markets have changed so much," the Fed chairman said, without elaborating.
+If Congress alters the Fed's responsibilities, it should not strip the central bank of its ability to contain systemic risk, Greenspan argued. "Having seen the inner workings of these things, a lot of the things we do actually are quite effective," he said.
+"I would be very chagrined to see some of these powers disappear ... I say that from someone who believes the less you interfere in the market, the better."
+Under one proposal before Congress, the Federal Reserve would remain a primary regulator of financial institutions such as banks. But under other proposals, that authority could be divided among many regulators or entrusted to a new committee of federal regulators.
+The Fed offered to provide loans following the stock market crash of 1987, for example, preventing a liquidity crisis that could have caused wider problems for the economy.
+Greenspan also appeared to side with the Treasury Department in its long-running dispute with the Commodity Futures Trading Commission over the appropriate scope of U.S. laws governing futures trading.
+Under a 1974 amendment to the Commodity Exchange Act, trading of foreign currency and certain other instruments is exempt from CFTC oversight. But federal courts have made contradictory rulings about the scope of the amendment, especially as it relates to derivatives, and the Supreme Court is expected to deliver a ruling on the issue soon.
+Greenspan said Congress did not need to impose new regulations on trading of derivatives over-the-counter by sophisticated institutional investors. "There appears to be no need," he said. Regulation under the commodity act "seems an inappropriate framework," he added.
+Even trading by less-sophisticated retail investors "is more appropriately regulated" by bank regulators and the Securities and Exchange Commission, not the CFTC, he said.
+Greenspan's comments were significant and could affect lawmakers' decisions when they consider related legislation, an Association executive said.
+"If you're going to vote on these issues and you've been kind of on the fence with respect to pro-market or expansion of CFTC (Commodity Futures Trading Commission) power, etcetera, I have to believe that his comments influence that person who's on the fence," said John Frawley, chairman of the Managed Futures Association.
+"So if you're looking for a Good Housekeeping seal of approval, he just sort of stamped it on those who are looking for such a thing," Frawley told reporters at a briefing.
+The Supreme Court said Monday it would decide whether a federal regulator had properly allowed credit unions to expand their membership over the past 15 years, settling a long-running legal dispute between the cooperative non-profits and banks.
+Credit unions praised the court's action to reconsider an Appellate court decision last July in favour of the banks. But bank representatives said the court was only delaying the inevitable.
+The 1934 Federal Credit Union Act creating credit unions "was not meant to delineate and protect bank markets at the expense of the consumer," said Marc Schaefer, president of AT&amp;T Family Federal Credit Union, the credit union being sued by banks in the case.
+"Consumers everywhere will be the winners when banks compete in the marketplace instead of the courts and on Capitol Hill," Schaeffer added.
+American Bankers Association executive vice president Donald Ogilvie countered that "the facts and law weigh overwhelmingly in our favour."
+"We are disappointed at the prospect of delay in the enfocement of a law we believe is quite clear," he said.
+The Supreme Court will hear arguments in the case in its upcoming term, which begins in October. A decision is likely early next year.
+The case affects about 3,600 federal credit unions serving 32 million customers, Justice Department lawyer Walter Dellinger said.
+The appeals court ruling in favour of the banks "threatens nationwide instability and losses in the credit union industry affecting millions of persons," Dellinger said.
+Until 1982, credit unions were limited to having members with a single common bond, such as people who worked for the same employer or lived in the same neighbourhood. Owned by their members, non-profit credit unions paid no federal taxes and were able to offer bank-like services often at lower prices than banks.
+But in 1982, concerned about a lack of diversification, the National Credit Union Administration decided to allow credit unions to accept members from multiple distinct groups.
+As many previously tiny credit unions diversified and grew substantially larger, banks complained of unfair competition. In 1990, they sued AT&amp;T Family Federal, a North Carolina union that had grown to encompass over 150 different groups.
+After the Court of Appeals for the District of Columbia struck down the 1982 policy change last July, a lower court imposed strict membership limits on multi-group credit unions.
+Those limits have since been put on hold until the Supreme Court makes a decision. But if the banks win, their next move could be to ask the courts to force multi-group credit unions to throw out members from all but one group.
+Credit unions said they will ask Congress to amend the law if they lose in the Supreme Court.
+"Congress never intended the 1934 Federal Credit Union Act to limit credit union growth or to protect banks from competition," said Daniel Mica, president of Credit Union National Association, a leading trade group. "If the court does not see it this way, we think Congress will recognise consumers' need for credit unions."
+((202-898-8312))
+The Commodity Futures Trading Commission, one of the nation's primary regulators of derivatives, has no authority over most foreign currency transactions, the Supreme Court said Tuesday.
+In a unanimous decision, the court ruled that a 1974 law exempting some transactions in foreign currency from CFTC oversight also exempted some foreign exchange derivatives, financial instruments whose value is based on the value of currencies like the dollar or Japanese yen.
+The CFTC regulates trading of derivatives such as futures and options on everything from wheat and corn to interest rates and electricity. By law, such trading must occur on a recogized exchange, such as the Chicago Board of Trade or the New York Mercantile Exchange.
+But when Congress created the commission in 1974, it added an amendment permitting off-exchange trading in foreign currency and a few other items without CFTC regulation. The amendment was requested by the Treasury Department, which believed that the developing market in foreign currency among large banks and securities firms would be overregulated by CFTC oversight.
+The CFTC stayed away from the inter-bank foreign exchange market, which has grown to $40 billion a day in total trading. The commission did, however, prosecute small-scale fraudulent foreign exchange investment peddlers, often called "bucket shops."
+But when the CFTC pursued William Dunn, whose $180 million foreign currency fund lost $95 million in 1993, Dunn argued that the 1974 Treasury amendment should also apply to his trading of foreign exchange options.
+On Tuesday, the Supreme Court agreed with the bulk of Dunn's argument.
+"We think it plain that foreign currency options are 'transactions in foreign currency' within the plain meaning of the statute," Justice John Paul Stevens wrote. "We are not persuaded by any of the arguments advanced by the CFTC in support of a narrower reading."
+That pleased banks and Wall Street trade groups, which had sided with Dunn. They argued that subjecting their off-exchange foreign exchange trading to CFTC oversight would be too costly, forcing them to shut down U.S. operations and move overseas.
+"We're obviously delighted at the result," said Ken Raisler, an attorney for several of the trade groups.
+"It supports our view that the amendment should be read broadly," Raisler, a former general counsel of the CFTC added.
+Dunn's lawyer and the banks suggested that any wrongdoing in the foreign exchange area could be dealt with under existing law by other federal agencies, but the Supreme Court did not address the issue. Most off-exchange derivatives trading is not directly regulated, although most participants in such markets are overseen by bank, securities and insurance regulators.
+The CFTC still has jurisdiction over foreign currency derivatives traded on an exchange, which include futures contracts. But that market is dwarfed by the over-the-counter market among banks and similiar institutions.
+In a lower court case last year, the CFTC argued unsuccessfully that a fraudulent "bucket shop" constituted an exchange.
+On Tuesday, the commission maintained that the Supreme Court had decided only the narrow issue of whether the Treasury amendment covered options trading.
+"While we are disappointed in the outcome of the case, we note that the Supreme Court's opinion was limited to the narrow issue of whether the Treasury amendment treats futures and options the same," CFTC general counsel Dan Waldman said. "The court's decision does not affect the commission's ongoing efforts to police fraud against the public in foreign currency trading."
+Congress is already discussing amending the 1974 Treasury amendment. The Supreme Court's decision "underlines the need for Congress to make decisions about what financial products should or should not be subject to the CFTC's jurisdiction," said Andy Fisher, spokesman for the Senate Agriculture Committee.
+Sens. Dick Lugar, R-Ind., Pat Leahy, D-Vt., and Tom Harkin, D-Iowa, introduced a Senate bill to overhaul futures regulation. "It makes the case to proceed with that bill as quickly as we can," Fisher said.
+The court invited congressional action. Recognising an "important public policy dispute" underlying the case, the court suggested "these arguments are addressed to the Congress, not the courts."
+Legislators introduced two bills Thursday to overturn the Clinton administration's export limits on computer encryption technology, a key component of online commerce and global communications.
+Encryption products, which scramble information and render it unreadable without a password or software "key," were once the realm of spies and generals.
+But with the booming growth of the Internet, secret coding is now used for everything from keeping a business's e-mail confidential to protecting a consumer's credit card number if it is transmitted online.
+Senators said export restrictions on encryption products were hindering the development of the Internet and making it impossible for U.S. companies to compete with foreign firms.
+The bills "roll back current restrictions on the export of strong cryptography so that high-tech U.S. firms are free to compete in the global marketplace and meet the demand of customers," Sen. Pat Leahy, a Vermont Democrat and co-sponsor of both bills, said at a Capitol Hill news conference.
+"Online commerce will never reach its full potential under the policies of this and past administrations," said Sen. Conrad Burns, a Montana Republican , also a co-sponsor.
+The bills would generally allow a U.S. company to export a product with strong encryption features if similiar products were being offered for sale by a foreign supplier. Leahy and Burns introduced similiar measures in the last Congress.
+Under the current Clinton administration policy, a company may export strong encryption only if the product also includes a feature to allow the U.S. government to crack the code by recovering the software "key" when acting under a court order or similiar authority. The administration says it must be able to crack the codes to catch international criminals and terrorists.
+If the bills became law, mandatory key recovery would be banned but the government would still be permitted to restrict the export of encryption for military use or to countries posing terrorist threats.
+The legislation would also write into law the current policy permitting unrestricted domestic use of encryption -- but one bill would criminalize the use of codes to obstruct justice.
+The Clinton administration signalled its displeasure with the new bills.
+"We continue to be disappointed with Senator Burns' approach because it does not balance the needs of individual privacy and economic growth with national security and public safety," Undersecretary of Commerce William Reinsch said. "We believe there is a market for key recovery products from businesses who recognise the need for a back door to their own corporate data."
+Computer companies and privacy advocates hailed the bills.
+"Both bills promote the freedom of this nation's fastest-growing industry to provide customers here and abroad with products they demand," said Robert Holleyman, president of the Business Software Alliance. The group includes Microsoft Corp., International Business Machines Corp.'s Lotus Development and Apple Computer Inc., among others.
+"This is the most important privacy legislation before the Congress today," said Jerry Berman, executive director of the Centre for Democracy and Technology.
+Berman, who strongly opposes mandatory key recovery, said the policy ought to be "my lock, my key."
