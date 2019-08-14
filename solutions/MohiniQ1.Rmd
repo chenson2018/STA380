@@ -1,0 +1,75 @@
+---
+title: "MohiniQ1"
+author: "Mohini Agarwal"
+date: "8/10/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r cars}
+library(mosaic)
+library(tidyverse)
+green = read.csv('../data/greenbuildings.csv')
+attach(green)
+cols = c("renovated", "class_a", "class_b", "LEED", "Energystar", "green_rating", "net", "amenities")
+green[, cols] = data.frame(apply(green[, cols], 2, as.factor))
+green$cluster = as.factor(green$cluster)
+```
+
+## Median rent of green buildings is higher and overall rent is less spread than other buildings
+
+```{r}
+ggplot(data = green) + 
+  geom_boxplot(mapping = aes(x = green_rating, y = Rent, fill = green_rating))
+```
+
+## Increase in rent with size is more or less the same for both
+
+```{r}
+ggplot(data = green) +
+  geom_point(mapping = aes(x = size, y = Rent, col = green_rating)) +
+  facet_wrap(~ green_rating, nrow = 1)
+```
+
+## Confirming the median rent values
+
+```{r}
+green %>%
+  group_by(green_rating) %>%
+  summarize(medianRent = median(Rent, na.rm = TRUE))
+```
+
+## Looking at spread of employment growth for both types of buildings
+
+```{r}
+ggplot(data = green) + 
+  geom_boxplot(mapping = aes(x = green_rating, y = empl_gr, fill = green_rating))
+```
+
+## Increase in rent with leasing rate is same for both types of buildings
+
+```{r}
+ggplot(data = green) +
+  geom_point(mapping = aes(x = leasing_rate, y = Rent, col = green_rating)) +
+  facet_wrap(~ green_rating, nrow = 1)
+```
+
+## What are the spread of # of stories for both kinds of buildings?
+
+```{r}
+ggplot(data = green) + 
+  geom_histogram(mapping = aes(x = stories, fill = green_rating), bins = 15) +
+  facet_wrap(~green_rating, nrow = 1)
+```
+
+## What are the spread of # of stories for both kinds of buildings?
+
+```{r}
+ggplot(data = green) + 
+  geom_boxplot(mapping = aes(x = green_rating, y = stories, fill = green_rating))
+```
+
