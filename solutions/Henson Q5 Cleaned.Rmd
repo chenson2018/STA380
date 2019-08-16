@@ -17,6 +17,12 @@ test.bigrams = read.csv("../data/ReutersC50/test_bigrams.csv", header = TRUE, ro
 
 train.documents = read.csv("../data/ReutersC50/train_documents.csv", header = TRUE, row.names = 1)
 train.bigrams = read.csv("../data/ReutersC50/train_bigrams.csv", header = TRUE, row.names = 1)
+
+#remove 0 row sums
+train.bigrams = train.bigrams[rowSums(train.bigrams) != 0,]
+train.documents = train.documents[row.names(train.bigrams),]
+#remove 0 col sums
+train.bigrams = train.bigrams[,colSums(train.bigrams) != 0]
 ```
 
 ```{r}
@@ -41,12 +47,6 @@ Start here:
 ```{r}
 N = nrow(train.bigrams)
 D = ncol(train.bigrams)
-
-#remove 0 row sums
-train.bigrams = train.bigrams[rowSums(train.bigrams) != 0,]
-train.documents = train.documents[row.names(train.bigrams),]
-#remove 0 col sums
-train.bigrams = train.bigrams[,colSums(train.bigrams) != 0]
 
 # TF weights
 TF_mat = train.bigrams/rowSums(train.bigrams)
@@ -91,18 +91,6 @@ lambda_hat
 
 
 
-
-
-Past here doesn't work!
-
-
-```{r}
-#this should havea lambda arguement
-glm1 = glmnet(X, y, family='multinomial')
-```
-
-
-
 Now do the PCA for test set and predict:
 
 ```{r}
@@ -134,29 +122,31 @@ ytest = {test.documents$author}
 
 ```
 
-```{r}
-pred_author <- predict(glm1, newx = Xtest,type = 'response')
-```
 
-
+This makes a prediction but I don't understand how to compare:
 
 ```{r}
-summary(glm1$lambda)
-
+pred_author = predict(out1, newx = Xtest, s = "lambda.min")
+pred_author = data.frame((pred_author))
 ```
 
+I think this is definitely wrong:
 
+```{r}
+library(stringr)
+pred_max = colnames(pred_author)[apply(pred_author,1,which.min)]
+pred_max = str_sub(pred_max, end=-3)
+```
 
+```{r}
+compare = cbind.data.frame(ytest, pred_max)
+compare[] <- lapply(compare, as.character)
+compare$comp = compare$ytest == compare$pred_max
+```
 
-
-
-
-
-
-
-
-
-
+```{r}
+length(which(compare$comp))
+```
 
 
 
