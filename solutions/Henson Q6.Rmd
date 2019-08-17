@@ -1,0 +1,84 @@
+---
+title: "Henson Q6"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyverse)
+library(arules)
+library(arulesViz)
+```
+
+```{r}
+groceries_long = read.csv("../data/groceries_long_form.csv", header = TRUE)
+names(groceries_long) = c('Transaction', 'Item')
+groceries_long$Transaction = factor(groceries_long$Transaction)
+```
+
+```{r}
+str(groceries_long)
+```
+
+```{r}
+lists = split(x=groceries_long$Item, f=groceries_long$Transaction)
+
+## Remove duplicates ("de-dupe")
+lists = lapply(lists, unique)
+
+## Cast this variable as a special arules "transactions" class.
+trans = as(lists, "transactions")
+```
+```{r}
+grocery_rules = apriori(trans, parameter=list(support=.005, confidence=.1, maxlen=5))
+```
+
+```{r}
+levels(as.factor(groceries_long$Item))
+```
+
+```{r}
+inspect(grocery_rules)
+```
+
+```{r}
+inspect(subset(grocery_rules, subset=lift > 4))
+```
+
+```{r}
+inspect(subset(grocery_rules, subset=confidence > 0.6))
+```
+
+```{r}
+inspect(subset(grocery_rules, subset=lift > 2.5 & confidence > 0.6))
+```
+
+```{r}
+plot(grocery_rules, measure = c("support", "lift"), shading = "confidence", jitter = 0)
+```
+
+```{r}
+saveAsGraph(head(grocery_rules, n = 750, by = "lift"), file = "grocery_rules.graphml")
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
