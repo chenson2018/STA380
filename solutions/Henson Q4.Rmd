@@ -7,40 +7,16 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+With Added Noise to counts:
 
 ```{r}
 social_marketing = read.csv("../data/social_marketing.csv", header = TRUE, row.names = 1)
 ```
 
 ```{r}
-social_marketing = social_marketing + .001
+social_marketing = social_marketing + .0025
 social_marketing = social_marketing / rowSums(social_marketing)
-```
-
-```{r}
-N = nrow(social_marketing)
-D = ncol(social_marketing)
-
-# TF weights
-TF_mat = social_marketing/rowSums(social_marketing)
-# IDF weights
-IDF_vec = log(1 + N/colSums(social_marketing > 0))
-# TF-IDF weights:
-# use sweep to multiply the columns (margin = 2) by the IDF weights
-TFIDF_mat = sweep(TF_mat, MARGIN=2, STATS=IDF_vec, FUN="*")
-```
-
-```{r}
-# PCA on the TF-IDF weights
-pca = prcomp(social_marketing, scale=TRUE)
-pve = summary(pca)$importance[3,]
-plot(pve)  # not much of an elbow
-```
-
-```{r}
-library(ggplot2)
-scores = pca$x
-qplot(scores[,2], scores[,5], xlab='Component 1', ylab='Component 2')
+social_marketing = social_marketing * 100
 ```
 
 ```{r}
@@ -48,13 +24,12 @@ library(proxy)
 ```
 
 ```{r}
-cosine_dist_mat = proxy::dist(as.matrix(scores), method='cosine')
+cosine_dist_mat = proxy::dist(as.matrix(social_marketing), method='cosine')
 tree = hclust(cosine_dist_mat)
-#plot(tree_simon)
 ```
 
 ```{r}
-clust_num = 20
+clust_num = 15
 clust = cutree(tree, k = clust_num)
 ```
 
@@ -66,24 +41,26 @@ for (i in 1:clust_num){
 
 ```{r}
 means = data.frame(do.call(rbind, mget(ls(pattern="^cluster\\_\\d+"))))
-means = means * 100
+#means = means * 100
 ```
 
 ```{r}
 means[ apply(means, 1, max) > 20, ]
 ```
 
+
 ```{r}
-means[ apply(means, 1, max) > 10 & apply(means, 1, max) < 20, ]
+means[ apply(means, 1, max) < 15, ]
 ```
 
 ```{r}
-means[ apply(means, 1, max) < 10, ]
+means[means$health_nutrition < 1.5,]
 ```
 
 ```{r}
-means[means$health_nutrition < 2.5,]
+means[means$personal_fitness < 1.25,]
 ```
+
 ```{r}
 for (i in 1:clust_num){
   len = length(which(data.frame(clust)$clust == i))
@@ -91,3 +68,69 @@ for (i in 1:clust_num){
 }
 
 ```
+
+
+############################################################################
+
+
+Without added noise to counts:
+
+```{r}
+social_marketing = read.csv("../data/social_marketing.csv", header = TRUE, row.names = 1)
+```
+
+```{r}
+social_marketing = social_marketing / rowSums(social_marketing)
+social_marketing = social_marketing * 100
+```
+
+```{r}
+library(proxy)
+```
+
+```{r}
+cosine_dist_mat = proxy::dist(as.matrix(social_marketing), method='cosine')
+tree = hclust(cosine_dist_mat)
+```
+
+```{r}
+clust_num = 15
+clust = cutree(tree, k = clust_num)
+```
+
+```{r}
+for (i in 1:clust_num){
+  assign(paste('cluster', i, sep = '_'), colMeans(social_marketing[which(clust == i),]))
+}
+```
+
+```{r}
+means = data.frame(do.call(rbind, mget(ls(pattern="^cluster\\_\\d+"))))
+#means = means * 100
+```
+
+```{r}
+means[ apply(means, 1, max) > 20, ]
+```
+
+
+```{r}
+means[ apply(means, 1, max) < 15, ]
+```
+
+```{r}
+means[means$health_nutrition < 1.5,]
+```
+
+```{r}
+means[means$personal_fitness < 1.25,]
+```
+
+```{r}
+for (i in 1:clust_num){
+  len = length(which(data.frame(clust)$clust == i))
+  cat("Cluster", i, "has" , len, "members\n")
+}
+
+```
+
