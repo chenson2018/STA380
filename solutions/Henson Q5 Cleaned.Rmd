@@ -12,34 +12,17 @@ library(glmnet)
 ```
 
 ```{r}
-test.documents = read.csv("../data/ReutersC50/test_documents.csv", header = TRUE, row.names = 1)
-test.bigrams = read.csv("../data/ReutersC50/test_bigrams.csv", header = TRUE, row.names = 1)
+test.documents = read.csv("../data/ReutersC50/test_documents3.csv", header = TRUE, row.names = 1)
+test.bigrams = read.csv("../data/ReutersC50/test_bigrams3.csv", header = TRUE, row.names = 1)
 
-train.documents = read.csv("../data/ReutersC50/train_documents.csv", header = TRUE, row.names = 1)
-train.bigrams = read.csv("../data/ReutersC50/train_bigrams.csv", header = TRUE, row.names = 1)
+train.documents = read.csv("../data/ReutersC50/train_documents3.csv", header = TRUE, row.names = 1)
+train.bigrams = read.csv("../data/ReutersC50/train_bigrams3.csv", header = TRUE, row.names = 1)
 
-#remove 0 row sums
-train.bigrams = train.bigrams[rowSums(train.bigrams) != 0,]
-train.documents = train.documents[row.names(train.bigrams),]
-#remove 0 col sums
-train.bigrams = train.bigrams[,colSums(train.bigrams) != 0]
+
+train.bigrams = train.bigrams + .001
+test.bigrams = test.bigrams + .001
 ```
 
-```{r}
-Z = train.bigrams/rowSums(train.bigrams)
-Z = na.omit(Z)
-```
-
-```{r}
-pc2 = prcomp(Z, scale=TRUE, rank=5)
-loadings = pc2$rotation
-scores = pc2$x
-```
-
-```{r}
-library(ggplot2)
-qplot(scores[,1], scores[,2], xlab='Component 1', ylab='Component 2')
-```
 
 
 Start here:
@@ -54,7 +37,7 @@ TF_mat = train.bigrams/rowSums(train.bigrams)
 IDF_vec = log(1 + N/colSums(train.bigrams > 0))
 # TF-IDF weights:
 # use sweep to multiply the columns (margin = 2) by the IDF weights
-TFIDF_mat = sweep(TF_mat, MARGIN=2, STATS=IDF_vec, FUN="*")  
+TFIDF_mat = sweep(TF_mat, MARGIN=2, STATS=IDF_vec, FUN="*")
 ```
 
 ```{r}
@@ -65,29 +48,11 @@ plot(pve)  # not much of an elbow
 ```
 
 ```{r}
-X = pca$x[,1:100]
+X = pca$x[,1:1000]
 y = {train.documents$author}
 ```
 
 
-
-
-```{r}
-out1 = cv.glmnet(X, y, family='multinomial', type.measure="class")
-```
-
-```{r}
-cat('Training Accuracy = ', 1- min(out1$cvm))
-```
-
-```{r}
-# Choose lambda to minimize CV error
-lambda_hat = out1$lambda.min
-```
-
-```{r}
-lambda_hat
-```
 
 
 
@@ -116,39 +81,29 @@ pca = prcomp(TFIDF_mat, scale=TRUE)
 pve = summary(pca)$importance[3,]
 plot(pve)  # not much of an elbow
 
-Xtest = pca$x[,1:100]
+Xtest = pca$x[,1:1000]
 ytest = {test.documents$author}
 
 
 ```
 
 
-This makes a prediction but I don't understand how to compare:
+
 
 ```{r}
-pred_author = predict(out1, newx = Xtest, s = "lambda.min")
-pred_author = data.frame((pred_author))
-```
-
-I think this is definitely wrong:
-
-```{r}
-library(stringr)
-pred_max = colnames(pred_author)[apply(pred_author,1,which.min)]
-pred_max = str_sub(pred_max, end=-3)
+library(randomForest)
+finrf = randomForest(x = X, y = y, ntree=500)
 ```
 
 ```{r}
-compare = cbind.data.frame(ytest, pred_max)
-compare[] <- lapply(compare, as.character)
-compare$comp = compare$ytest == compare$pred_max
+pred = predict(finrf, newx = Xtest, newy = ytest)
 ```
 
 ```{r}
-length(which(compare$comp))
+comp = data.frame(cbind(pred, ytest))
+comp$correct = comp$pred == comp$ytest
 ```
 
-
-
-
-
+```{r}
+length(which(comp$correct))/2500
+```
