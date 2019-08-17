@@ -12,7 +12,7 @@ library(Amelia)
 ```
 
 ```{r}
-buildings = read.csv("C:/Users/rawin/OneDrive/UT AUSTIN MSBA/Predictive Modeling/Part 2 Exercises/Data/greenbuildings.csv")
+buildings = read.csv("../data/greenbuildings.csv")
 ```
 
 CLEANING THE DATA
