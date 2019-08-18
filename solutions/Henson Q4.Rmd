@@ -21,6 +21,8 @@ social_marketing = social_marketing * 100
 
 ```{r}
 library(proxy)
+library(proxy)
+library(LICORS)
 ```
 
 ```{r}
@@ -73,7 +75,7 @@ for (i in 1:clust_num){
 ############################################################################
 
 
-Without added noise to counts:
+K means:
 
 ```{r}
 social_marketing = read.csv("../data/social_marketing.csv", header = TRUE, row.names = 1)
@@ -84,23 +86,16 @@ social_marketing = social_marketing / rowSums(social_marketing)
 social_marketing = social_marketing * 100
 ```
 
-```{r}
-library(proxy)
-```
 
 ```{r}
-cosine_dist_mat = proxy::dist(as.matrix(social_marketing), method='cosine')
-tree = hclust(cosine_dist_mat)
-```
-
-```{r}
-clust_num = 15
-clust = cutree(tree, k = clust_num)
+scaled = scale(social_marketing, center=TRUE, scale=TRUE)
+clust_num = 10
+clust = kmeanspp(scaled, k=clust_num, nstart=25)
 ```
 
 ```{r}
 for (i in 1:clust_num){
-  assign(paste('cluster', i, sep = '_'), colMeans(social_marketing[which(clust == i),]))
+  assign(paste('cluster', i, sep = '_'), colMeans(social_marketing[which(clust$cluster == i),]))
 }
 ```
 
@@ -119,18 +114,19 @@ means[ apply(means, 1, max) < 15, ]
 ```
 
 ```{r}
-means[means$health_nutrition < 1.5,]
+means[means$health_nutrition < 2.5,]
 ```
 
 ```{r}
-means[means$personal_fitness < 1.25,]
+means[means$personal_fitness < 1.5,]
 ```
 
 ```{r}
 for (i in 1:clust_num){
-  len = length(which(data.frame(clust)$clust == i))
+  len = length(which(clust$cluster == i))
   cat("Cluster", i, "has" , len, "members\n")
 }
 
 ```
+
 
