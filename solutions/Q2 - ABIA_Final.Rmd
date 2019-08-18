@@ -38,15 +38,31 @@ g + geom_violin(fill="plum", outlier.shape = NA) +
 ```
 The violin plot shows that some carriers are stingy when it comes to when the flight departs. Carriers OH and YV like their flights to depart right on time instead of early.
 ```{r}
-
+ABIA_summ = ABIA %>%
+  group_by(UniqueCarrier)  %>%  # group the data points by model name
+  summarize(Del.mean = mean(DepDelay))  # calculate a mean for each model
 ```
 ```{r}
-
+# reorder the x labels
+ggplot(ABIA_summ, aes(x=reorder(UniqueCarrier, Del.mean), y=Del.mean)) + 
+  geom_bar(stat='identity') + 
+  coord_flip()
 ```
 ```{r}
+# first add a new column using the mutate function
+ABIA_summ = mutate(ABIA_summ, Del.z = (Del.mean - mean(Del.mean))/sd(Del.mean))
 
+# now plot the newly defined variable
+ggplot(ABIA_summ, aes(x=reorder(UniqueCarrier, Del.z), y=Del.z)) + 
+  geom_bar(stat='identity') + 
+  labs(title="Dep Delay by Carrier", 
+       caption="Source: ABIA",
+       y="Dep Delay (z-score)",
+       x = "Carrier") + 
+  coord_flip()
 ```
-```
+This shows that Carrier EV has the highest average departure delay of any carrier and US has the lowest average departure delay of any carrier. 
+
 
 
 
