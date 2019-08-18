@@ -231,22 +231,22 @@ lattice.options(default.theme = def.theme)
 ```{r}
 calendarHeat(ABIA$date, ABIA$DepDelay, ncolors = 10, color = "g2r", varname="Average Departure Delay in Minutes")
 ```
-The Heat map shows that there seems to be a higher average delay during october and november which makes sense since that is holiday season and there is a lot of people flying. The weekends seem to be the worst times to fly on average. But what about July 17th? There are not holidays around then. 
+The Heat map shows that there seems to be a higher average delay during october and november which makes sense since that is holiday season and there is a lot of people flying. The weekends seem to be the worst times to fly on average. But what about July 17th? There are no holidays around then. 
 
 ## what happened on july 16-18th?
 ```{r}
-July16_18 = ABIA[ABIA$date >= "2008-07-16" & ABIA$date <= "2008-07-18",]
-July16_18$weather_delay = ifelse(July16_18$WeatherDelay > 0, 1, 0)
+July17 = ABIA[ABIA$date == "2008-07-17",]
+July17$weather_delay = ifelse(July17$WeatherDelay > 0, 1, 0)
 ```
 ```{r}
-G4 = July16_18 %>%
+G4 = July17 %>%
   group_by(Cancelled, UniqueCarrier, weather_delay) %>%
   summarize(mean_dep_del = mean(DepDelay), n=n())
 G4
 ```
 ```{r}
 ggplot(data = G4) + 
-  geom_bar(mapping = aes(x=factor(weather_delay), y=mean_dep_del, fill=Cancelled),
+  geom_bar(mapping = aes(x= weather_delay, y=mean_dep_del, fill=Cancelled),
            stat='identity', position ='dodge') + 
   facet_wrap(~UniqueCarrier) + 
   labs(title="Departure Delay by carrier", 
@@ -256,9 +256,4 @@ ggplot(data = G4) +
 ```
 It seems like weather delay had no effect on if the flight was cancelled or on the average departure delay. There does seem to be a correlation between mean departure delay and if the flight was cancelled with the mean departure delay increasing substantially if the flight was cancelled. 
 
-```{r}
-ggplot(data = July16_18) + 
-  geom_point(mapping = aes(x = DepDelay, y = ArrDelay)) + 
-  facet_wrap(~ UniqueCarrier, nrow = 2)
-```
 
