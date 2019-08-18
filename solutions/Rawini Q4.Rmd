@@ -15,30 +15,26 @@ library(factoextra)
 ```{r}
 market = read.csv("C:/Users/rawin/OneDrive/UT AUSTIN MSBA/Predictive Modeling/Part 2 Exercises/Data/social_marketing.csv",row.names = 1, header = TRUE)
 
-#Randomly sampling 500 users from the dataset
-#n=dim(market)[1]
-#s=sample(1:n,500)
-#market = market[s,]
 ```
 
 Pre-process data to by grouping similar variables to reduce number of variables:
 ```{r}
 X = market %>% select(-c(chatter,uncategorized,spam,adult))
 
-X$media = X$current_events + X$politics + X$news + X$tv_film + X$sports_fandom
-X = X %>% select(-c(current_events,politics,news,tv_film,sports_fandom))
+#X$media = X$current_events + X$politics + X$news + X$tv_film + X$sports_fandom
+#X = X %>% select(-c(current_events,politics,news,tv_film,sports_fandom))
 
-X$fitness = X$sports_playing + X$personal_fitness
-X = X %>% select(-c(sports_playing,personal_fitness))
+#X$fitness = X$sports_playing + X$personal_fitness
+#X = X %>% select(-c(sports_playing,personal_fitness))
 
-X$education = X$college_uni + X$school
-X = X %>% select(-c(college_uni,school))
+#X$education = X$college_uni + X$school
+#X = X %>% select(-c(college_uni,school))
 
-X$artsAndcrafts = X$art + X$crafts
-X = X %>% select(-c(art,crafts))
+#X$artsAndcrafts = X$art + X$crafts
+#X = X %>% select(-c(art,crafts))
 
-X$Business = X$business + X$small_business
-X = X %>% select(-c(business,small_business))
+#X$Business = X$business + X$small_business
+#X = X %>% select(-c(business,small_business))
 
 ```
 
@@ -67,11 +63,6 @@ clust_k6 = kmeanspp(X_scaled, k=6, nstart=25)
 #Using k=10
 clust_k10 = kmeanspp(X_scaled, k=10, nstart=25)
 
-## get cluster means 
-#cluster_means = aggregate(X_scaled,by=list(clust_k10$cluster),FUN=mean)
-# append cluster assignment
-#X_scaled = data.frame(X_scaled, clust_k10$cluster)
-
 ##within cluster sum of squares
 sprintf("Within cluster average distance for k=6 is %f", sum(clust_k6$withinss))
 sprintf("Within cluster average distance for k=10 is %f", sum(clust_k10$withinss))
@@ -91,8 +82,18 @@ for (i in 1:10){
 ```
 
 ```{r}
-# Which people are in cluster 7?
-#which(clust_k10$cluster == 7)
+## get cluster means 
+cluster_means = aggregate(X_scaled,by=list(clust_k10$cluster),FUN=mean)
+# append cluster assignment
+X_k10 = data.frame(X_scaled, clust_k10$cluster)
+```
+
+```{r}
+cluster_means[ apply(cluster_means, 1, max) > 5, ]
+```
+
+```{r}
+cluster_means[cluster_means$personal_fitness > 1.25, ]
 ```
 
 Visualizations:
@@ -102,11 +103,7 @@ kmeans_pl = fviz_cluster(clust_k10, data = X_scaled)
 ggplotly(kmeans_pl)
 ```
 
-# A few plots with cluster membership shown
-```{r}
-#qplot(travel, food, data=X, color=factor(clust_k10$cluster))
-#qplot(food, fitness, data=X, color=factor(clust_k10$cluster))
-```
+
 
 Hierachical clustering using pre-processed data:
 ```{r}
@@ -116,7 +113,7 @@ X_scaled = scale(X, center=TRUE, scale=TRUE)
 # Form a pairwise distance matrix using the dist function
 market_distance_matrix = dist(X_scaled, method='euclidean')
 
-# Now run hierarchical clustering
+# Run hierarchical clustering
 hier_market = hclust(market_distance_matrix, method='complete')
 
 # Plot the dendrogram
@@ -124,17 +121,8 @@ hier_market = hclust(market_distance_matrix, method='complete')
 
 # Cut the tree into 10 clusters
 hcluster1 = cutree(hier_market, k=10)
-#summary(factor(cluster1))
 
-#plot(cluster1, cex=0.8)
 ```
-
-```{r}
-hclust_pl = fviz_cluster(list(data = X, cluster = hcluster1))
-
-ggplotly(hclust_pl)
-```
-
 
 ```{r}
 for (i in 1:10){
@@ -143,19 +131,40 @@ for (i in 1:10){
 }
 ```
 
+```{r}
+## get cluster means 
+#hclust_means = aggregate(X_scaled,by=list(hcluster1$cluster),FUN=mean)
+
+for (i in 1:10){
+  assign(paste('cluster', i, sep = ' '), colMeans(X_scaled[which(hcluster1 == i),]))
+}
+```
+
+```{r}
+#hclust_means = data.frame(X_scaled,hclust_assign)
+
+##need to make df of means
+```
+
+
+```{r}
+hclust_pl = fviz_cluster(list(data = X, cluster = hcluster1))
+
+ggplotly(hclust_pl)
+```
+
+
 
 Run PCA and repeat kmeans:
 ```{r}
 pc_market = prcomp(X, scale.=TRUE)
 
-# Look at the basic plotting and summary methods
-summary(pc_market)
-plot(pc_market)
+#summary(pc_market)
+#plot(pc_market)
 
 # Where do the individual points end up in PC space?
-biplot(pc_market)
+#biplot(pc_market)
 
-# A better biplot
 loadings = pc_market$rotation
 scores = pc_market$x
 
@@ -168,6 +177,16 @@ for (i in 1:10){
   len = length(which(data.frame(X_scaled, pc_clust_k10$cluster) == i))
   cat("Cluster", i, "has" , len, "members\n")
 }
+```
+
+```{r}
+## get cluster means 
+pc_cluster_means = aggregate(X_scaled,by=list(pc_clust_k10$cluster),FUN=mean)
+
+```
+
+```{r}
+pc_cluster_means[pc_cluster_means$personal_fitness > 1.25, ]
 ```
 
 ```{r}
