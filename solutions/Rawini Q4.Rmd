@@ -1,0 +1,179 @@
+---
+title: "Market Segmentation"
+output: html_document
+---
+```{r}
+library(ggplot2)
+library(LICORS)  # for kmeans++
+library(foreach)
+library(mosaic)
+library(dplyr)
+library(plotly)
+library(factoextra)
+```
+
+```{r}
+market = read.csv("C:/Users/rawin/OneDrive/UT AUSTIN MSBA/Predictive Modeling/Part 2 Exercises/Data/social_marketing.csv",row.names = 1, header = TRUE)
+
+#Randomly sampling 500 users from the dataset
+#n=dim(market)[1]
+#s=sample(1:n,500)
+#market = market[s,]
+```
+
+Pre-process data to by grouping similar variables to reduce number of variables:
+```{r}
+X = market %>% select(-c(chatter,uncategorized,spam,adult))
+
+X$media = X$current_events + X$politics + X$news + X$tv_film + X$sports_fandom
+X = X %>% select(-c(current_events,politics,news,tv_film,sports_fandom))
+
+X$fitness = X$sports_playing + X$personal_fitness
+X = X %>% select(-c(sports_playing,personal_fitness))
+
+X$education = X$college_uni + X$school
+X = X %>% select(-c(college_uni,school))
+
+X$artsAndcrafts = X$art + X$crafts
+X = X %>% select(-c(art,crafts))
+
+X$Business = X$business + X$small_business
+X = X %>% select(-c(business,small_business))
+
+```
+
+Choosing K using Gap Statistic: did not converge
+Choosing K using the Elbow Method:
+```{r}
+X_scaled = scale(X, center=TRUE, scale=TRUE)
+k_grid = seq(2,20,by = 1)
+SSE_grid = foreach(k = k_grid, .combine = 'c') %do% { 
+  cluster_k = kmeans(X_scaled, k, nstart = 50)
+  cluster_k$tot.withinss
+}
+plot(k_grid, SSE_grid)
+```
+
+No defiitive elbow - will make an educated guess on k
+
+Clustering using kmeans++ initialization:
+```{r}
+X_scaled = scale(X, center=TRUE, scale=TRUE)
+
+# Using kmeans++ initialization
+#Using k=6
+clust_k6 = kmeanspp(X_scaled, k=6, nstart=25)
+
+#Using k=10
+clust_k10 = kmeanspp(X_scaled, k=10, nstart=25)
+
+## get cluster means 
+#cluster_means = aggregate(X_scaled,by=list(clust_k10$cluster),FUN=mean)
+# append cluster assignment
+#X_scaled = data.frame(X_scaled, clust_k10$cluster)
+
+##within cluster sum of squares
+sprintf("Within cluster average distance for k=6 is %f", sum(clust_k6$withinss))
+sprintf("Within cluster average distance for k=10 is %f", sum(clust_k10$withinss))
+
+##Between cluster distances?
+sprintf("Between cluster average distance for k=6 is %f", clust_k6$betweenss)
+sprintf("Between cluster average distance for k=10 is %f", clust_k10$betweenss)
+
+```
+k=10 has smaller average distance within clusters and larger average distance between clusters. Therefore k=10 is the better k value.
+
+```{r}
+for (i in 1:10){
+  len = length(which(data.frame(X_scaled, clust_k10$cluster) == i))
+  cat("Cluster", i, "has" , len, "members\n")
+}
+```
+
+```{r}
+# Which people are in cluster 7?
+#which(clust_k10$cluster == 7)
+```
+
+Visualizations:
+```{r}
+kmeans_pl = fviz_cluster(clust_k10, data = X_scaled)
+
+ggplotly(kmeans_pl)
+```
+
+# A few plots with cluster membership shown
+```{r}
+#qplot(travel, food, data=X, color=factor(clust_k10$cluster))
+#qplot(food, fitness, data=X, color=factor(clust_k10$cluster))
+```
+
+Hierachical clustering using pre-processed data:
+```{r}
+# Center/scale the data
+X_scaled = scale(X, center=TRUE, scale=TRUE) 
+
+# Form a pairwise distance matrix using the dist function
+market_distance_matrix = dist(X_scaled, method='euclidean')
+
+# Now run hierarchical clustering
+hier_market = hclust(market_distance_matrix, method='complete')
+
+# Plot the dendrogram
+#plot(hier_market, cex=0.8)
+
+# Cut the tree into 10 clusters
+hcluster1 = cutree(hier_market, k=10)
+#summary(factor(cluster1))
+
+#plot(cluster1, cex=0.8)
+```
+
+```{r}
+hclust_pl = fviz_cluster(list(data = X, cluster = hcluster1))
+
+ggplotly(hclust_pl)
+```
+
+
+```{r}
+for (i in 1:10){
+  len = length(which(data.frame(hcluster1)$hcluster1 == i))
+  cat("Cluster", i, "has" , len, "members\n")
+}
+```
+
+
+Run PCA and repeat kmeans:
+```{r}
+pc_market = prcomp(X, scale.=TRUE)
+
+# Look at the basic plotting and summary methods
+summary(pc_market)
+plot(pc_market)
+
+# Where do the individual points end up in PC space?
+biplot(pc_market)
+
+# A better biplot
+loadings = pc_market$rotation
+scores = pc_market$x
+
+```
+
+```{r}
+pc_clust_k10 = kmeanspp(scores, k=10, nstart=25)
+
+for (i in 1:10){
+  len = length(which(data.frame(X_scaled, pc_clust_k10$cluster) == i))
+  cat("Cluster", i, "has" , len, "members\n")
+}
+```
+
+```{r}
+pc_pl = fviz_cluster(pc_clust_k10, data = X_scaled)
+
+ggplotly(pc_pl)
+```
+
+
