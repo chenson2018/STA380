@@ -1,0 +1,174 @@
+---
+title: "Q2 - Portfolio modeling"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r, warning=FALSE, message = FALSE}
+library(mosaic)
+library(quantmod)
+library(foreach)
+```
+```{r}
+#### Now use a bootstrap approach
+#### With more stocks
+
+mystocks = c("IWR", "LQD", "VWO", "USO", "VNQI")
+myprices = getSymbols(mystocks, from = "2014-01-01")
+
+```
+IWR = Largest All Cap Equities ETF = All cap equities ETFs are funds that invest in equities of all market capitalizations. These funds may include micro cap, small cap, mid cap or large cap stocks. This ETF is one of several ETFs available that offers exposure to mid cap U.S. stocks, an asset class that can make up a significant portion of long-term, buy-and-hold portfolios. As such, this ETF may be more appealing to those in the portfolio construction process as opposed to short term traders. Mid cap stocks are appealing to many because they still have significant growth potential but they are less risky than their small and micro cap brethren = mid risk
+
+LQD = Largest Corporate Bonds ETF = Corporate bonds ETFs invest in debt issued by corporations with investment-grade credit ratings. Bonds included in these funds can feature varying maturities and are issued by companies from multiple industries. This ETF is the most popular option for investors looking to gain exposure to investment grade corporate bonds, making it a useful tool for those looking to access a corner of the bond market that should be a core component of any long-term, buy-and-hold portfolio = Safe
+
+VWO = Largest Emerging Markets Equities ETF = Leveraged ETFs allow investors to boost returns on an index by using financial derivatives and debt. These ETFs are available for most indices such as the S&P 500 and the NASDAQ composite, and deliver returns in multiples of the underlying index. this fund can be used as a short-term trading vehicle or as a core holding in a long-term, buy-and-hold portfolio. It should be noted, however, that VWO tends to attract longer-term investors = Safe
+
+USO = Largest Oil & Gas ETF = Oil & Gas ETFs invest directly in oil or gas and/or their subsidiary commodities. Note that these funds almost always utilize futures exposure to invest in their respective commodities. This fund offers exposure to one of the the world's most important commodities, oil, and potentially has appeal as an inflation hedge. While oil may be appealing, USO often suffers from severe contango making the product more appropriate for short-term traders = risky
+
+VNQI = Largest Global Real Estate ETF = Global Real Estate ETFs invest in real estate companies from all over the world. These ETFs can offer broad exposure to the industry, or can target specific subsectors such as residential property. In addition, some of these funds focus on the global ex-U.S. market, while others target a specific region or country. As such, VNQI has the potential to deliver broad-based access to an asset class that can deliver attractive current returns and significant appreciation for long term capital appreciation (along with meaningful volatility and risk) = mid risk
+
+```{r, warning=FALSE, message = FALSE}
+# A chunk of code for adjusting all stocks
+# creates a new object adding 'a' to the end
+# For example, WMT becomes WMTa, etc
+for(ticker in mystocks) {
+	expr = paste0(ticker, "a = adjustOHLC(", ticker, ")")
+	eval(parse(text=expr))
+}
+
+#head(IWRa)
+
+```
+```{r}
+# Combine all the returns in a matrix
+all_returns = cbind(	ClCl(IWRa),
+								ClCl(LQDa),
+								ClCl(VWOa),
+								ClCl(USOa),
+								ClCl(VNQIa))
+#head(all_returns)
+all_returns = as.matrix(na.omit(all_returns))
+
+```
+## Portflio 1
+```{r}
+set.seed(1)
+# Now simulate many different possible scenarios  
+initial_wealth = 100000
+sim1 = foreach(i=1:5000, .combine='rbind') %do% {
+	total_wealth = initial_wealth
+	weights = c(0.2, 0.2, 0.2, 0.2, 0.2)
+	holdings = weights * total_wealth
+	n_days = 20
+	wealthtracker = rep(0, n_days)
+	for(today in 1:n_days) {
+		return.today = resample(all_returns, 1, orig.ids=FALSE)
+		holdings = holdings + holdings*return.today
+		total_wealth = sum(holdings)
+		holdings = weights * total_wealth
+		wealthtracker[today] = total_wealth
+	}
+	wealthtracker
+}
+
+#head(sim1)
+#hist(sim1[,n_days], 30)
+
+# Profit/loss
+cat("mean profit/loss =", mean(sim1[,n_days]),"\n")
+hist(sim1[,n_days]- initial_wealth, breaks=30)
+
+# bootstrapped standard errors
+cat("standard error =",sd(sim1), "\n")
+
+#VaR
+quantile(sim1[,n_days]- initial_wealth, 0.05)
+```
+## Portfolio 2
+```{r}
+set.seed(1)
+# Now simulate many different possible scenarios  
+initial_wealth = 100000
+sim1 = foreach(i=1:5000, .combine='rbind') %do% {
+	total_wealth = initial_wealth
+	weights = c(0.2, 0.05, 0.05, 0.5, 0.2)
+	holdings = weights * total_wealth
+	n_days = 20
+	wealthtracker = rep(0, n_days)
+	for(today in 1:n_days) {
+		return.today = resample(all_returns, 1, orig.ids=FALSE)
+		holdings = holdings + holdings*return.today
+		total_wealth = sum(holdings)
+		holdings = weights * total_wealth
+		wealthtracker[today] = total_wealth
+	}
+	wealthtracker
+}
+
+#head(sim1)
+#hist(sim1[,n_days], 25)
+
+# Profit/loss
+mean(sim1[,n_days])
+#hist(sim1[,n_days]- initial_wealth, breaks=30)
+
+# Profit/loss
+cat("mean profit/loss =", mean(sim1[,n_days]),"\n")
+hist(sim1[,n_days]- initial_wealth, breaks=30)
+
+# bootstrapped standard errors
+cat("standard error =",sd(sim1), "\n")
+
+#VaR
+quantile(sim1[,n_days]- initial_wealth, 0.05)
+```
+## Portfilio 3
+```{r}
+set.seed(1)
+# Now simulate many different possible scenarios  
+initial_wealth = 100000
+sim1 = foreach(i=1:5000, .combine='rbind') %do% {
+	total_wealth = initial_wealth
+	weights = c(0.1, 0.5, 0.25, 0.05, 0.1)
+	holdings = weights * total_wealth
+	n_days = 20
+	wealthtracker = rep(0, n_days)
+	for(today in 1:n_days) {
+		return.today = resample(all_returns, 1, orig.ids=FALSE)
+		holdings = holdings + holdings*return.today
+		total_wealth = sum(holdings)
+		holdings = weights * total_wealth
+		wealthtracker[today] = total_wealth
+	}
+	wealthtracker
+}
+
+#head(sim1)
+#hist(sim1[,n_days], 25)
+
+# Profit/loss
+mean(sim1[,n_days])
+#hist(sim1[,n_days]- initial_wealth, breaks=30)
+
+# Profit/loss
+cat("mean profit/loss =", mean(sim1[,n_days]),"\n")
+hist(sim1[,n_days]- initial_wealth, breaks=30)
+
+# bootstrapped standard errors
+cat("standard error =",sd(sim1), "\n")
+
+#VaR
+quantile(sim1[,n_days]- initial_wealth, 0.05)
+```
+Portflio 1 was intended to be a mid risk, diverse portfolio both in terms of weight for each stock and the stocks themselves. We choose 1 high risk stock (USO), two mid risk (IWR, VNQI), and two safe stocks (LQD, VWO). These stocks also range from emerging markets ETFs (very diverse) to Oil and Gas ETFs (very specialized). The weights for Portfilio 1 where all equal to eachother. 
+
+Portfolio 2 was intended to be a risky, semi-deverse portfolio. More weight was given to the risky ETF (USO) and some to the mid risk ETFs and little weight to safe ETFs. 
+
+Portfolio 3 was intended to be a safe, diverse portfolio with most of the weight given to the safe ETFs and less given to the risky or mid-risk ETFs.
+
+The results show that Porfolio 3 had the lowest VaR at -3,187, with Portfolio 1 coming in second at -5,567, and Portfolio 2 was the riskiest with a VaR of -9,025. So our weights and chosen ETFs worked as intended in terms of risk. Another thing to note is that Portfolio 1 on average gained the most value over the other Portfolios. 
+
+The distributions of earnings are all normal but have a significant outlier in the positive direction. This seemed odd, but under further inspection, it seems that the IWR ETF had some incredibly good earnings on Oct. 21st 2016 with a jump from $41 to $170 in one day! But on the very next day, IWR went back down to $41. So based on the weights, the boostrap sampled that day muiltiple times and since Portfolio 1 had the highest weight for IWR, the outlier was more pronounced than the other portfolios. This could be viewed as a flaw of the boostrap method for choosing assest allocations. 
+
+
