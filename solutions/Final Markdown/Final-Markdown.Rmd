@@ -584,13 +584,8 @@ Cluster 5:
 This cluster of 1008 users had an average of 21% of tweets categorized as health_nutrition. Furthermore, looking at the below plot shows that this cluster also has a correlated interest in personal fitness. We reccomend marketing that caters to these interests and consider this our most general target audience.
 
 ```{r}
-kmeans_pl = fviz_cluster(object = clust, data = social_marketing, geom = "point",
-choose.vars = c("health_nutrition", "personal_fitness"), stand = FALSE, 
-ellipse.type = "norm")
-
-ggplotly(kmeans_pl)
+knitr::include_graphics("plotly1.png")
 ```
-
 
 
 Clusters 3 and 7:
@@ -598,12 +593,7 @@ Clusters 3 and 7:
 These clusters of 635 and 831 users respectively have a moderate focus on cooking and food. Furthermore, looking at a plot of these two categories reveals that our target audience with a focus on health_nutrition and personal fitness lies at the intersection of interest in cooking and food, another potential marketing method that would span several market segmentations.
 
 ```{r}
-kmeans_pl = fviz_cluster(object = clust, data = social_marketing, geom = "point",
-choose.vars = c("food", "cooking"), stand = FALSE, 
-ellipse.type = "norm")
-
-ggplotly(kmeans_pl)
-
+knitr::include_graphics("plotly2.png")
 ```
 
 
