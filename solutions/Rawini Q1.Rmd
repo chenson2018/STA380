@@ -216,6 +216,6 @@ ggplot(buildings,aes(x=factor(class),y=Gas_Costs)) +
 It looks like there is not a lot of variation in median gas costs amongst the buildings.
 
 Conclusion:
-Assuming that the goal of the Austin real estate developer is to build a class A green-rated building, the data does not support the 'Excel guru's' conclusion that they can charge an extra 2.60 of rent per square foot on their new building compared to the market rate. The data only shows a $0.24 median increase in rent among the current green rated class A buildings compared to non-green class A buildings.
-Additionally, we can see that several other factors explored above, such as ameneties, leasing rate, building renovation, factor into the rent that can be charged.
+The data does not support the 'Excel guru's' conclusion that they can charge an extra 2.60 of rent per square foot on their green-rated building compared to the market rate. The data only shows a $0.24 median increase in rent among the current green rated class A buildings compared to non-green class A buildings. The data only shows a 1.10 median increase in rent among the current green rated class B buildings compared to non-green class B buildings.
+Additionally, we can see that several other factors explored above, such as ameneties, leasing rate, building renovation, all play a role in determining the rent that can be charged.
 
