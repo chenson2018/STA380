@@ -1,6 +1,6 @@
 ---
 title: "Henson Q6"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
@@ -62,6 +62,10 @@ plot(grocery_rules, measure = c("support", "lift"), shading = "confidence", jitt
 
 ```{r}
 saveAsGraph(head(grocery_rules, n = 750, by = "lift"), file = "grocery_rules.graphml")
+```
+
+```{r}
+knitr::include_graphics("grocery_list.svg")
 ```
 
 
