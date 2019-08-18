@@ -100,10 +100,35 @@ pred = predict(finrf, newx = Xtest, newy = ytest)
 ```
 
 ```{r}
-comp = data.frame(cbind(pred, ytest))
-comp$correct = comp$pred == comp$ytest
+comp = data.frame(cbind(as.character(pred), as.character(ytest)))
+names(comp) = c('predicted', 'actual')
+comp$correct = comp$predicted == comp$actual
 ```
 
 ```{r}
-length(which(comp$correct))/2500
+cat('Test set accuracy:', length(which(comp$correct))/2500)
 ```
+
+```{r}
+source("http://pcwww.liv.ac.uk/~william/R/crosstab.r")
+tab = crosstab(comp, row.vars = "predicted", col.vars = "actual", type = "f")
+write.csv(tab$crosstab, 'tab.csv')
+tab = read.csv('tab.csv', header = TRUE, row.names = 1)
+```
+
+```{r}
+for (i in 1:50){
+  cat(as.character(tab[i,i]/.5),'%', ' accuracy predicting ', names(tab)[i], '\n', sep = '')
+}
+```
+
+Report:
+
+Data Pipeline: The Reuters C50 corpus consists of text documents from 50 authors, for our purposes split into a training and test set of 2500 documents each (50 per author per training/test set). I first read these text files into python and performed several preprocessing steps. 
+
+First, I removed all non-alphanumeric characters and converted all text to lowercase, then used the package "nltk" to tokenize each document. I then removed all English stopwords and and performed stemming. Using pandas, I collect all of these preprocessed texts into a training and test dataframe, with each row containing three columns: the text, the author, and a category for if the document was part of the training or test set.
+
+During this process, I also pulled information on the most common bigrams for each author. For every author, I pulled their documents from the training set and recorded their 100 most frequent bigrams. Considering duplicate bigrams between authors, this produced a list of 3165 bigrams to use an indicator of authorship. With these bigrams, I created two data frames, which counted the number of times that each of these bigrams appeared in each of our 5000 documents. For clarity: in these data frames each row represented a document, each of the 3165 columns represented the number of times a particuliar bigram appeared in the document.
+
+Moving over to R, I read in each of these dataframes. For each of the test and training bigram dataframes of counts, I then added a small amount of noise (.001) to each observation. I then created a TF-IDF matrix for these bigrams, and ran a principal components analysis. Using the first 1000 principal components, I created a random forest model for the set of training documents. I then used this model to predict authorship for the test set with an accuracy of over 80%
+
