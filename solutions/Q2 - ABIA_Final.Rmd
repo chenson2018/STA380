@@ -1,12 +1,13 @@
 ---
-title: "Q2 - ABIA_final"
+title: "Visual story telling part 2: flights at ABIA"
 output: html_document
 ---
 
 ```{r, warning=FALSE, message = FALSE}
 library("tidyverse")
-ABIA <- read.csv("C:/Users/tsblo/Predictive modeling/Scott_take_home/ABIA.csv")
+ABIA <- read.csv("C:/Users/rawin/Documents/GitHub/STA380/data/ABIA.csv")
 View(ABIA)
+ABIA[is.na(ABIA)] = 0
 ```
 
 ```{r}
@@ -63,7 +64,34 @@ ggplot(ABIA_summ, aes(x=reorder(UniqueCarrier, Del.z), y=Del.z)) +
 ```
 This shows that Carrier EV has the highest average departure delay of any carrier and US has the lowest average departure delay of any carrier. 
 
+```{r}
+ABIA$delay = names(ABIA[c('CarrierDelay','WeatherDelay','NASDelay','SecurityDelay','LateAircraftDelay')])[max.col(ABIA[c('CarrierDelay','WeatherDelay','NASDelay','SecurityDelay','LateAircraftDelay')])]
+ABIA$delay = factor(ABIA$delay)
+```
 
+```{r}
+ABIA$Month = factor(ABIA$Month)
+ABIA$DayOfWeek = factor(ABIA$DayOfWeek)
+```
+
+```{r}
+ggplot(ABIA,aes(factor(Month))) +
+  geom_bar(aes(fill=factor(delay)), position = 'dodge') +
+  labs(title="Flight Delays in Austin", 
+       y="Number of Delayed Flights",
+       x = "Month") + scale_fill_brewer(palette="Dark2")
+  
+```
+There seems to be less overall flight delays during September, October, and November. Most flight delays are caused by late aircraft.
+
+```{r}
+ggplot(ABIA,aes(factor(DayOfWeek))) +
+  geom_bar(aes(fill=factor(delay)), position = 'dodge') +
+  labs(title="Flight Delays in Austin", 
+       y="Number of Delayed Flights",
+       x = "Day of the Week (1: Monday)") + scale_fill_brewer(palette="Dark2")
+```
+There seems to be significantly less aircraft delays on Saturdays. Once again, most aircraft delays are due to late aircraft.
 
 
 
