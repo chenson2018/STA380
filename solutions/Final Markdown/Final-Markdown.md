@@ -1,5 +1,6 @@
-Final Markdown
+STA380 Part 2 Exercises
 ================
+Rawini Dias, Truett Bloxsom, Mohini Agarwal, Christopher Henson
 
 Question 1
 ==========
@@ -882,20 +883,20 @@ Cluster 5:
 This cluster of 1008 users had an average of 21% of tweets categorized as health\_nutrition. Furthermore, looking at the below plot shows that this cluster also has a correlated interest in personal fitness. We reccomend marketing that caters to these interests and consider this our most general target audience.
 
 ``` r
-knitr::include_graphics("plotly1.png")
+knitr::include_graphics("charts/plotly1.png")
 ```
 
-<img src="plotly1.png" width="700" />
+<img src="charts/plotly1.png" width="700" />
 
 Clusters 3 and 7:
 
 These clusters of 635 and 831 users respectively have a moderate focus on cooking and food. Furthermore, looking at a plot of these two categories reveals that our target audience with a focus on health\_nutrition and personal fitness lies at the intersection of interest in cooking and food, another potential marketing method that would span several market segmentations.
 
 ``` r
-knitr::include_graphics("plotly2.png")
+knitr::include_graphics("charts/plotly2.png")
 ```
 
-<img src="plotly2.png" width="700" />
+<img src="charts/plotly2.png" width="700" />
 
 Clusters 6, 9, and 10:
 
@@ -1255,7 +1256,7 @@ saveAsGraph(head(grocery_rules, n = 750, by = "lift"), file = "../grocery_rules.
 Below is a graph of the 750 association rules with the highest lift. Labels are shown for the association rules (single items) with at least degree ten. Degree has also been used to color code the edges in shades of white, green, blue, and red in order of increasing degree, and the size of each node is proportional to its measure of betweeness centrality. This graph clearly represents a few key items that tend to strongly indicate the purchase of multiple other items.
 
 ``` r
-knitr::include_graphics("grocery_list.svg")
+knitr::include_graphics("charts/grocery_list.svg")
 ```
 
-![](grocery_list.svg)
+![](charts/grocery_list.svg)
