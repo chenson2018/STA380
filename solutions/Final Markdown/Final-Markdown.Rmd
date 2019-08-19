@@ -373,7 +373,7 @@ all_returns = as.matrix(na.omit(all_returns))
 
 ```
 
-## Portflio 1
+## Portfolio 1
 ```{r}
 set.seed(1)
 # Now simulate many different possible scenarios  
@@ -447,7 +447,7 @@ cat("standard error =",sd(sim1), "\n")
 quantile(sim1[,n_days]- initial_wealth, 0.05)
 ```
 
-## Portfilio 3
+## Portfolio 3
 ```{r}
 set.seed(1)
 # Now simulate many different possible scenarios  

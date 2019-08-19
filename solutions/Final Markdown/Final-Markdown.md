@@ -450,8 +450,8 @@ all_returns = cbind(    ClCl(IWRa),
 all_returns = as.matrix(na.omit(all_returns))
 ```
 
-Portflio 1
-----------
+Portfolio 1
+-----------
 
 ``` r
 set.seed(1)
@@ -565,7 +565,7 @@ quantile(sim1[,n_days]- initial_wealth, 0.05)
     ##        5% 
     ## -9025.216
 
-Portfilio 3
+Portfolio 3
 -----------
 
 ``` r
