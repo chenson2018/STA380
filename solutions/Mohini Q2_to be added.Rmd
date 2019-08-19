@@ -1,0 +1,70 @@
+
+```{r, warning=FALSE, message = FALSE}
+theme_set(theme_classic())
+g1 <- ggplot(ABIA, aes(x=(UniqueCarrier), ArrDelay))
+g1 + geom_boxplot(fill="plum", outlier.shape = NA) + 
+  scale_y_continuous(limits = quantile(ABIA$ArrDelay, c(0.1, 0.9))) +
+  labs(title="Box plot", 
+       subtitle="Arr Delay grouped by Carrier",
+       caption="Source: ABIA",
+       x="Carrier",
+       y="Arrival Delay")
+```
+Similar to their departure status, most of the carriers's flights arrive on average on or before the scheduled arrival time.
+
+```{r}
+ABIA_summ_arr = ABIA %>%
+  group_by(UniqueCarrier)  %>%  # group the data points by model name
+  summarize(Arr.mean = mean(ArrDelay))  # calculate a mean for each model
+```
+```{r}
+# reorder the x labels
+ggplot(ABIA_summ_arr, aes(x=reorder(UniqueCarrier, Arr.mean), y=Arr.mean)) + 
+  geom_bar(stat='identity') + 
+  coord_flip()
+```
+```{r}
+# first add a new column using the mutate function
+ABIA_summ_arr = mutate(ABIA_summ_arr, Arr.z = (Arr.mean - mean(Arr.mean))/sd(Arr.mean))
+
+# now plot the newly defined variable
+ggplot(ABIA_summ_arr, aes(x=reorder(UniqueCarrier, Arr.z), y=Arr.z)) + 
+  geom_bar(stat='identity') + 
+  labs(title="Arr Delay by Carrier", 
+       caption="Source: ABIA",
+       y="Arr Delay (z-score)",
+       x = "Carrier") + 
+  coord_flip()
+```
+This shows that Carrier OH has the highest average arrival delay of any carrier and US has the lowest average arrival delay of any carrier. 
+
+```{r}
+#
+ABIA$Cancelled = factor(ABIA$Cancelled)
+canc_flights = ABIA %>%
+  group_by(Cancelled, CancellationCode) %>%
+  summarize(CancelledCount = count(FlightNum))
+
+# 
+ggplot(data = canc_flights) +
+  geom_bar(mapping = aes(x=Cancelled, y = CancelledCount), stat = 'identity', fill = 'plum')+
+  facet_wrap(~CancellationCode)
+```
+
+This shows that hardly any flights get cancelled that depart from Austin. Out of the ones that get cancelled, most of them are due to weather related reasons.
+
+
+```{r}
+#
+ABIA$Diverted = factor(ABIA$Diverted)
+div_flights = ABIA %>%
+  group_by(Diverted) %>%
+  summarize(DivertedCount = count(FlightNum))
+
+# 
+ggplot(data = div_flights) +
+  geom_bar(mapping = aes(x=Diverted, y = DivertedCount), stat = 'identity', fill = 'plum')
+```
+
+This shows that hardly any flights get diverted that depart from Austin.
+
